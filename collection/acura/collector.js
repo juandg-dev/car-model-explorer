@@ -70,7 +70,10 @@ window.collectAcura = async (id, name, year, series, body) => {
         price = num(it.priceBundle);
         if (hrs != null || parts.some((c) => hours[c] != null)) hrs = Math.round(((hrs || 0) + parts.reduce((s, c) => s + (hours[c] || 0), 0)) * 100) / 100;
         sold['Sold together as ' + nm + ': ' + [it].concat(parts.map((c) => byCode[c])).map((p) => clean(p.name) + ' $' + num(p.price)).join(' + ')] = 1;
-      } else if (it.priceBundle != null && num(it.priceBundle) !== num(it.price)) warn.push(nm + ': set price ' + it.priceBundle + ' but no hidden parts');
+      } else if (it.priceBundle != null && num(it.priceBundle) !== num(it.price)) {
+        // The menu shows the set price even when Acura's data names no parts (MDX Welcome Light). Use what shoppers see and say so.
+        price = num(it.priceBundle); left[nm + ': menu price $' + price + ', item price $' + num(it.price) + ' [set price with no parts listed]'] = 1;
+      }
       if (!letter) { left[nm + ' $' + price + ' [no menu section]'] = 1; return; }
       if (!opts[it.opCode]) { opts[it.opCode] = { letter, name: nm, price, hrs, mask: 0, x: new Set(), req: new Set(), inc: new Set() }; order.push(it.opCode); }
       const r = opts[it.opCode]; r.mask |= 1 << i;
