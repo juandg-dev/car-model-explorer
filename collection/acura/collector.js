@@ -10,8 +10,8 @@
 //      /platform/api/v1/vehicles/<year>/<series>/configurator?modelId=<trim>   the Build & Price menu for one trim:
 //        the names and prices shoppers see, the menu section, the rules, and the paint and interior combinations
 //  - The menu marks some entries "hidden": parts that are never offered on their own (a hitch harness, tire sensors).
-//    When a menu item requires hidden parts, Acura shows one price for the set. That set price is used here and the
-//    parts are listed on the R line as "Sold together as ...". All other hidden entries go on the R line too.
+//    When a menu item requires hidden parts and Acura gives one price for the set, that set price is used here and
+//    the parts are listed on the R line as "Sold together as ...". All other hidden entries go on the R line too.
 //
 // Usage in the page:   await collectAcura('rdx', 'RDX', 2026, 'rdx', 'suv')
 //                      checksum(text)   // compare with the checksum of the saved file (collection/checksum.js)
@@ -41,7 +41,7 @@ window.collectAcura = async (id, name, year, series, body) => {
   });
   // Seat material, in Acura's own words, from the trim's standard-feature list (empty when the list doesn't say).
   const seat = (c) => {
-    const f = c.features.flatMap((x) => x.items.map((y) => clean(y.name))).filter((n) => /(trim|leather|suede).*(interior|seats|inserts)/i.test(n) && !/steering|shift/i.test(n)).join(' ').toLowerCase();
+    const f = c.features.flatMap((x) => x.items.map((y) => clean(y.name))).filter((n) => /leather|suede/i.test(n) && /seat|interior|insert/i.test(n) && !/steering|shift/i.test(n)).join(' ').toLowerCase();
     const parts = []; if (/leatherette/.test(f)) parts.push('leatherette'); else if (/leather/.test(f)) parts.push('leather');
     if (/microsuede/.test(f)) parts.push('microsuede'); if (/ultrasuede/.test(f)) parts.push('ultrasuede');
     return parts.join('/');
@@ -55,19 +55,20 @@ window.collectAcura = async (id, name, year, series, body) => {
     const hours = {}; m.ModelOptionList.forEach((o) => { hours[o.OpCode] = o.OptionLaborTime === '' || o.OptionLaborTime == null ? null : +o.OptionLaborTime; });
     const cat = {}; (a.categories || []).forEach((c) => c.subcategories.forEach((s) => { cat[c.id + '|' + s.id] = c.name === 'Packages' ? (s.name === 'Manufacturer' ? 'F' : 'P') : c.name === 'Exterior' ? 'E' : c.name === 'Interior' ? 'I' : null; }));
     const charging = new Set(((cfgs[i].charging || {}).items || []).map((x) => x.opCode));
-    const usedAsPart = new Set();
     items.filter((it) => !it.hidden).forEach((it) => {
       let letter = charging.has(it.opCode) ? 'F' : cat[it.category + '|' + it.subcategory];
       const nm = clean(it.name); if (letter === 'E' && /alloy wheels/i.test(nm)) letter = 'W';
-      // Hidden parts this item requires are part of its price ("sold together").
-      const parts = (it.rules.requires || []).filter((c) => byCode[c] && byCode[c].hidden);
+      // When Acura gives a set price, the hidden parts this item requires are part of that price ("sold together").
+      // Without a set price the item keeps its own price and the hidden requirement is noted on the R line.
+      const hiddenReq = (it.rules.requires || []).filter((c) => byCode[c] && byCode[c].hidden);
+      const parts = it.priceBundle == null ? [] : hiddenReq;
       let price = num(it.price), hrs = hours[it.opCode] == null ? null : hours[it.opCode];
+      if (!parts.length && hiddenReq.length) left[nm + ' $' + price + ' requires ' + hiddenReq.map((c) => clean(byCode[c].name) + ' $' + num(byCode[c].price)).join(' + ') + ' [required part not in menu]'] = 1;
       if (parts.length) {
         const sum = Math.round((num(it.price) + parts.reduce((s, c) => s + num(byCode[c].price), 0)) * 100) / 100;
-        if (it.priceBundle == null || num(it.priceBundle) !== sum) warn.push(nm + ': set price ' + it.priceBundle + ' vs parts ' + sum);
-        price = it.priceBundle == null ? sum : num(it.priceBundle);
+        if (num(it.priceBundle) !== sum) warn.push(nm + ': set price ' + it.priceBundle + ' vs parts ' + sum);
+        price = num(it.priceBundle);
         if (hrs != null || parts.some((c) => hours[c] != null)) hrs = Math.round(((hrs || 0) + parts.reduce((s, c) => s + (hours[c] || 0), 0)) * 100) / 100;
-        parts.forEach((c) => usedAsPart.add(c));
         sold['Sold together as ' + nm + ': ' + [it].concat(parts.map((c) => byCode[c])).map((p) => clean(p.name) + ' $' + num(p.price)).join(' + ')] = 1;
       } else if (it.priceBundle != null && num(it.priceBundle) !== num(it.price)) warn.push(nm + ': set price ' + it.priceBundle + ' but no hidden parts');
       if (!letter) { left[nm + ' $' + price + ' [no menu section]'] = 1; return; }
