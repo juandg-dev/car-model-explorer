@@ -52,3 +52,10 @@ Run with `python3 review.py acura` from the `collection` folder.
 **Passed:** all 8 checksums; every line of every options file is well formed; every trim on Acura's spec pages matches a trim in Build & Price with the same price (both the FWD and the AWD price rows) and model year; no one-way conflicts; no rule points at an item the trim doesn't offer; EPA figures match the spec pages.
 
 **For Juan to look at:** the list under "Odd values" above, the Type S question, the IIHS year question, and the two 0-60 choices.
+
+## Decisions, Nov 14, 2026 (Juan)
+
+- **Type S stays a trim** of Integra and MDX: four Acura models, as in Acura's data.
+- **IIHS is left empty** for all four models: only the 2026 list counts, the same rule as Honda.
+- **0-60 uses Car and Driver for both open cases:** Integra Type S 5.1 sec, RDX 6.2 sec (2022 model). Both were read secondhand; Juan confirms them on caranddriver.com.
+- **The 2026 RDX stays on the site** with a "final model year of this generation" note.
