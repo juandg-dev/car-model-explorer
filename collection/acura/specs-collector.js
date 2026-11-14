@@ -31,12 +31,14 @@ const parseSpecs = (doc) => {
     table.querySelectorAll('tr').forEach((tr) => {
       const cells = [...tr.children]; const first = cells[0];
       // A label cell can hold two parts (drive + "Starting Price:"); join them with a space.
-      const label = [...first.children].map(tx).filter(Boolean).join(' ') || tx(first);
+      // Footnote marks leave stray colons behind ("Recommended Fuel :"); tidy them.
+      const label = ([...first.children].map(tx).filter(Boolean).join(' ') || tx(first)).replace(/\s+:/g, ':').replace(/:+/g, ':').replace(/:$/, '').trim();
       const vals = cells.slice(1).map((c) => { const t = tx(c); return t === 'Yes' ? 'Std' : t || '-'; });
       const filler = cells.slice(1).every((c) => c.classList.contains('filler_cell'));
       if (filler) { group = label; return; }
       if (!tr.classList.contains('in_subgroup') && !tr.classList.contains('subgroup_last')) group = '';
-      const name = group ? (label ? group + ': ' + label : group) : label;
+      const name = (group ? (label ? group + ': ' + label : group) : label).replace(/:+/g, ':');
+      if (name.length > 120 && vals.every((v) => v === '-')) return; // a legal note, not a spec row
       lines.push(name + '|' + vals.join('|'));
       if (tr.classList.contains('subgroup_last')) group = '';
     });
