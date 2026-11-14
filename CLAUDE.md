@@ -38,7 +38,8 @@ Read this at the start of every session and follow it.
 - Mobile-friendly.
 - **Info icons:** every spec label and technical term gets a small, subtle info icon. Hover (desktop) or tap (phone) shows 1–3 plain-English sentences: what it means, what it's good for, the trade-off. A site-wide toggle hides or shows all icons, remembered per device. Tip text lives in the database (glossary table), not in code; drafts go to Juan for approval first.
 
-## Planning documents (Google Drive)
+## Planning documents (Google Drive: claude_projects / car-model-explorer)
+- **To-Do sheet** ("Car Model Explorer - To-Do"): whenever a new task, idea or follow-up comes up in a session, add it here (Task, Who, Priority, Status, Added date). Mark items Done when finished.
 - **Spec Planning sheet** ("Car Model Explorer - Spec Planning"): the master list of specs (tab "Specs"), the info-tip drafts ("Info tips") and planned features ("Features"). Juan's "Your call" column decides which specs go in the database.
 
 ## Security rules (non-negotiable)
