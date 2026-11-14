@@ -67,3 +67,10 @@ Honda's menu lists seven entries that are really two or three parts sold togethe
 
 - The database has nine tables, all empty. The five for paints and options (`paints`, `trim_paints`, `options`, `trim_options`, `option_rules`) were added Nov 14, 2026 by `supabase/migrations/20261114092009_add_paints_and_options.sql`. Supabase's security check reports no problems.
 - Order once Juan's review is done: 1) done, 2) load brand, models and trims from the options files, 3) load paints, options and rules, 4) load the spec values Juan marked "Yes" in the Spec Planning sheet into `trim_specs`, 5) run `review.py` and Supabase's security check.
+
+## Loaded into Supabase, Nov 14, 2026 (Juan gave the go-ahead)
+
+- Loaded from the 13 options files: 1 brand, 13 models, 65 trims, 89 paints (400 paint-trim links), 620 options (3,047 option-trim links), 743 rules. Every file was checked against its fingerprint inside the database before loading, and the counts match the files.
+- Each trim's `build_url` is the model's Honda page with `build_url_level = 'model'` and `link_status = 'unchecked'`. `body_style` is left empty.
+- **Not loaded yet:** `trim_specs` (dimensions, power, MPG and the rest) and the model details (assembly plant, generation, warranty). They wait for Juan's review and his "Your call" column.
+- Loading a model again replaces it, so corrections after the review are safe.
