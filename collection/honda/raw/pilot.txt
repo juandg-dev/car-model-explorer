@@ -44,7 +44,7 @@ E;Crossbars;261;0.2;511;44;;;26086
 E;Door Edge Film;60;0.4;511;11;;;26087
 E;Surf/Paddleboard Attachment;173;0.4;511;;24;;26088
 E;Valve Stem Caps – Chrome;25;0.1;511;18;;;26090
-W;20-Inch Machined-Finish Gloss Black Alloy Wheels;2160;1.6;495;43,55;;;26091
+W;20-Inch Machined-Finish Gloss Black Alloy Wheels;2240;1.6;495;43,55;;;26091
 E;Bike Attachment - Frame Mount;216;0.4;511;;24;;26092
 E;Door Handle Film;60;0.4;511;;;;26094
 E;Fender Flares;665;1;511;35;;;26095
@@ -59,7 +59,7 @@ P;All-Season Protection Package I;525;0.6;495;40,54;;16,35,37;26200
 P;All-Season Protection Package II;490;0.4;387;39;;41,16,37;26201
 E;Wheel Locks – Black;100;0.2;511;;;;26203
 E;Trailer Hitch;400;1.2;495;47;;;26204
-W;20-Inch Machined-Finish Matte Black Alloy Wheels;1920;1.6;495;28,55;;;26207
+W;20-Inch Machined-Finish Matte Black Alloy Wheels;2000;1.6;495;28,55;;;26207
 E;Roof Platform;900;0.6;511;24,6,45;;;26208
 F;Adventure Package;1645;;511;33,44;;;26214
 F;Pet Protection Package;750;;511;21,16,1,62;;;26219
@@ -71,7 +71,7 @@ E;Wheel Locks – Chrome;100;0.2;172;;;;26064
 E;Wheel Lug Nut Set - Black;216;0.4;172;;;;26106
 F;Automatic-Dimming Rearview Mirror with HomeLink;488.28;0.2;12;;;;26113
 P;Protection Package;370;0.7;108;39;;51,16,35;26202
-W;18-Inch Black Alloy Wheels;1720;1.6;28;43,28;;;26211
+W;18-Inch Black Alloy Wheels;1800;1.6;28;43,28;;;26211
 F;Black Emblem Package;175;;4;17,57;;;26215
 E;Emblem – Pilot, Gloss Black;120;0.3;172;56,59,66;;;26477
 E;Emblem – AWD, Gloss Black;36;0.2;168;59,66;;;26075
@@ -85,4 +85,4 @@ E;Grille Trim;220;0.2;224;;;;26108
 F;Black Emblem Package;255;;160;58,17,64,57,68;;;26217
 F;Towing Package;1140;;480;38;;;26223
 E;Emblem – Elite, Gloss Black;55;0.2;128;66;;;26082
-R;ALL SEASON MAT $255 ppo // KIT, BALLMOUNT $76 ppo // KIT, CARGO COVER $306 ppo // KIT, DR SILL FILM $102 ppo // KIT, RR BPR APPLIQUE $82 ppo // KIT, TRAILER HITCH $339 ppo // All Season Mats $0 ppo // Cargo Cover $0 ppo // Premium Cabin Air Filter (L) $62 // Trailer Hitch Locking Pin $80 // Trailer Hitch $400 // Trailer Hitch Ball-2-in $29 // Trailer Hitch Ball Mount $90 // Trailer Hitch Ball-1 7/8-in $27 // Trailer Hitch Panel, Black $140 // Trailer Hitch Harness $261 // Wheels:H-Mark Center Caps, Silver [menu: 20-Inch Machined-Finish Matte Black Alloy Wheels] $80 // Cargo Tray $135 ppo // Hitch Harness $261 ppo // Hitch Panel $140 ppo // Roof Platform $900 ppo // Running Board $745 ppo // Seatback Protector $115 ppo // Separation Barrier $345 ppo // Cargo Protection Pkg $505 // Protection Pkg I - Blk Locks $370 // Ashtray-Cupholder Type $29 // Trailer Hitch Panel, Silver $140 // Black Badges $50 ppo // Black Badges $120 ppo // All Season Protection II $490 // Black Badges (AWD) $36 ppo // Seatback Protector $115 ppo // Trailer Hitch, HFA Adaptor $245 // Black Badges (PILOT) $120 ppo // Black Badges (Tourin $55 ppo // H/F Tailgate Adapter $245 ppo // Black Badges (ELITE) $45 ppo
+R;ALL SEASON MAT $255 ppo // KIT, BALLMOUNT $76 ppo // KIT, CARGO COVER $306 ppo // KIT, DR SILL FILM $102 ppo // KIT, RR BPR APPLIQUE $82 ppo // KIT, TRAILER HITCH $339 ppo // All Season Mats $0 ppo // Cargo Cover $0 ppo // Premium Cabin Air Filter (L) $62 // Trailer Hitch Locking Pin $80 // Trailer Hitch $400 // Trailer Hitch Ball-2-in $29 // Trailer Hitch Ball Mount $90 // Trailer Hitch Ball-1 7/8-in $27 // Trailer Hitch Panel, Black $140 // Trailer Hitch Harness $261 // Cargo Tray $135 ppo // Hitch Harness $261 ppo // Hitch Panel $140 ppo // Roof Platform $900 ppo // Running Board $745 ppo // Seatback Protector $115 ppo // Separation Barrier $345 ppo // Cargo Protection Pkg $505 // Protection Pkg I - Blk Locks $370 // Ashtray-Cupholder Type $29 // Trailer Hitch Panel, Silver $140 // Black Badges $50 ppo // Black Badges $120 ppo // All Season Protection II $490 // Black Badges (AWD) $36 ppo // Seatback Protector $115 ppo // Trailer Hitch, HFA Adaptor $245 // Black Badges (PILOT) $120 ppo // Black Badges (Tourin $55 ppo // H/F Tailgate Adapter $245 ppo // Black Badges (ELITE) $45 ppo // Sold together as 18-Inch Black Alloy Wheels: 18-in Matte Black Alloy Wheels $1720 + H-Mark Center Caps, Silver $80 // Sold together as 20-Inch Machined-Finish Gloss Black Alloy Wheels: 20-in Machine Cut Gloss Black Alloy Wheels $2160 + H-Mark Center Caps, Silver $80 // Sold together as 20-Inch Machined-Finish Matte Black Alloy Wheels: 20-in Machine Cut Matte Black Alloy Wheels $1920 + H-Mark Center Caps, Silver $80

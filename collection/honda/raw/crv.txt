@@ -31,7 +31,7 @@ E;Fender Emblems;120;0.2;4095;;;;0027010
 E;Roof Rails;435;0.5;63;;;;0027011
 E;Crossbars;290;0.3;4095;;9;;0027012
 E;Running Boards;600;1.5;4095;;;;0027013
-E;Trailer Hitch;412;1.2;4095;;;;0027014
+E;Trailer Hitch;412;1.2;2047;;;;0027014
 E;Splash Guard Set;135;0.4;4095;17;;;0027015
 I;Door Sill Protection Film;105;0.4;4095;1;;;0027016
 I;All-Season Floor Mats;205;0.1;3839;;;;0027024
@@ -78,6 +78,6 @@ E;Emblem, Rear H-Mark - Gloss Black;50;0.9;4032;;;;0027053
 L;Engine Block Heater;120;1.5;4032;;;;0027062
 P;HPD Package;1247;1.9;4032;;;5,3,7,17;0027120
 P;Utility Package;1417;2;1728;;;18,10,12,11;0027123
-E;Trailer Hitch;205;0.1;2048;;;;0027043
-P;Utility Package;1622;2;2048;;;18,59,10,12,11;0027122
-R;Parking Sensor Attachment $300 // Trailer Hitch Harness $170 // Trailer Hitch Ball - 1 7/8-in $22 // Trailer Hitch Ball - 2-in $24 // Premium Cabin Air Filter (L) $62 // Engine Block Heater $120 // Parking Sensor Attachment (Hybrid) $300
+E;Trailer Hitch;617;1.3;2048;;;;0027112
+P;Utility Package;1622;2;2048;;;18,10,59,11;0027122
+R;Parking Sensor Attachment $300 // Trailer Hitch Harness $170 // Trailer Hitch Ball - 1 7/8-in $22 // Trailer Hitch Ball - 2-in $24 // Premium Cabin Air Filter (L) $62 // Engine Block Heater $120 // Parking Sensor Attachment (Hybrid) $300 // Sold together as Trailer Hitch: Trailer Hitch (Touring/Class 1) $412 + Trailer Hitch HFA Adaptor $205

@@ -44,3 +44,21 @@ Run with `python3 review.py honda` from the `collection` folder.
 - **Hybrid battery warranty** (8 years / 100,000 miles) is stated on the Accord and Prelude pages but not on the Civic or CR-V pages.
 - **Passport** spec data is the 2027 model; its 0-60 tests and IIHS award are for the 2026.
 - **Civic Sedan reviewed sheet:** gas 0-60 uses Consumer Reports (9.7 sec); Car and Driver measured 8.9 sec on a 2025 Sport sedan.
+
+## Fix, Nov 14, 2026: menu entries made of several parts
+
+Honda's menu lists seven entries that are really two or three parts sold together. The collector used to treat each part as its own item, so prices were too low or a name showed up three times. Now each is one item whose price is the sum of the parts; the parts are on the `R` line as "Sold together as ...".
+
+| Model | Item | Was | Now |
+|---|---|---|---|
+| HR-V | 17-Inch HPD Bronze-Finish Alloy Wheels with All-Terrain Tires | $1,428 | $2,077.44 (wheel + tires $649.44) |
+| HR-V | 17-Inch Glint Black Alloy Wheels with All-Terrain Tires | $1,428 | $2,077.44 |
+| Pilot | 18-Inch Black Alloy Wheels | $1,720 | $1,800 (wheels + center caps $80) |
+| Pilot | 20-Inch Machined-Finish Gloss Black Alloy Wheels | $2,160 | $2,240 |
+| Pilot | 20-Inch Machined-Finish Matte Black Alloy Wheels | $1,920 | $2,000 |
+| Passport | Trailer Hitch with Harness (RTL) | three lines: $345, $255, $135 | one line: $735 |
+| CR-V | Trailer Hitch (last trim) | $412 plus a separate $205 line | $617 (hitch + adaptor) |
+
+- The other nine models came out identical when collected again with the new script (same checksums).
+- **For Juan:** the summed prices are Honda's part prices added together. Please confirm one of them (for example the HR-V bronze wheels) on Honda's Build & Price page.
+- Still open from the review: Passport "Protection Package" appears twice at $370 on four trims, and "HPD Adventure Package" is $2,950 and $2,850 on the TrailSport Elite. Both are two separate entries in Honda's own menu.

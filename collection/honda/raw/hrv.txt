@@ -14,8 +14,8 @@ C;Milano Red;R-81;0;0,0,Black,Black,0,0
 C;Boost Blue Pearl;B-637P;455;0,0,Black,Black,0,0
 C;Urban Gray Pearl;NH-912P;455;0,0,Black,Black,Black,Black
 L;Engine Block Heater;92;1.4;63;;;;0027001
-W;17-Inch HPD Bronze-Finish Alloy Wheels with All-Terrain Tires;1428;1.6;3;2;;;0027002
-W;17-Inch Glint Black Alloy Wheels with All-Terrain Tires;1428;1.6;3;1;;;0027003
+W;17-Inch HPD Bronze-Finish Alloy Wheels with All-Terrain Tires;2077.44;1.6;3;2;;;0027002
+W;17-Inch Glint Black Alloy Wheels with All-Terrain Tires;2077.44;1.6;3;1;;;0027003
 E;Bike Attachment – Frame Mount;216;0.6;63;;16;;0027005
 E;Body Side Molding;255;0.4;63;11;;;0027006
 E;Door Edge Guards;130;0.4;63;11,8;;;0027007
@@ -59,4 +59,4 @@ E;Emblem, Sport – Gloss Black;45;0.2;12;;;;0027011
 P;Protection Package;365;0.9;12;44,37;;24,18,30;0027048
 P;All-Season Protection Package II;430;0.4;12;43,37;;24,30,27;0027055
 E;Moonroof Visor;180;0.3;48;16;;;0027019
-R;Wheels:A/T Tire (215/60R17 96H) [menu: 17-Inch Glint Black Alloy Wheels with All-Terrain Tires] $649.44 // Roof Basket (Bolt Kit) $10 // Ashtray-Cupholder Type $29 // Premium Cabin Air Filter (L) $62
+R;Roof Basket (Bolt Kit) $10 // Ashtray-Cupholder Type $29 // Premium Cabin Air Filter (L) $62 // Sold together as 17-Inch HPD Bronze-Finish Alloy Wheels with All-Terrain Tires: 17-in Bronze HPD Wheel $1428 + A/T Tire (215/60R17 96H) $649.44 // Sold together as 17-Inch Glint Black Alloy Wheels with All-Terrain Tires: 17-in Glint Black Wheel $1428 + A/T Tire (215/60R17 96H) $649.44
