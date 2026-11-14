@@ -74,3 +74,31 @@ Honda's menu lists seven entries that are really two or three parts sold togethe
 - Each trim's `build_url` is the model's Honda page with `build_url_level = 'model'` and `link_status = 'unchecked'`. `body_style` is left empty.
 - **Not loaded yet:** `trim_specs` (dimensions, power, MPG and the rest) and the model details (assembly plant, generation, warranty). They wait for Juan's review and his "Your call" column.
 - Loading a model again replaces it, so corrections after the review are safe.
+
+## Spec values loaded into Supabase, Nov 14, 2026 (after Juan's review)
+
+Run with `python3 honda/specs-load.py` from the `collection` folder. It writes `honda/specs-load.sql` (one `trim_specs` row per trim) and `honda/specs-models.sql` (model details).
+
+- Loaded: 65 `trim_specs` rows, 67 fields with data, and assembly plant, generation and warranty for all 13 models. The statement was tested on a throwaway local database first, and a fingerprint of the 65 rows in Supabase matched the rows the script built. Supabase's security check reports no problems.
+- Juan gave no flags from his review, so the values are as collected. Running the load again replaces the rows.
+
+**How values were chosen**
+- **2WD and AWD:** Honda's spec page groups them under one trim. Each database trim takes the value for its own drive (height, ground clearance, curb weight, MPG, towing). Trims sold one way only (for example CR-V Sport Touring Hybrid, Pilot Touring) take the AWD value.
+- **Horsepower:** hybrids use Honda's "Total System Horsepower"; torque is the engine's figure, as on the reviewed Civic sheet. The Prologue uses the figure for its drive (220 / 300 hp).
+- **Engine:** Honda's engine type with the displacement in litres (1,993 cc is written 2.0L). Aspiration is "turbocharged" where Honda says "with Turbocharger", otherwise "naturally aspirated".
+- **Cargo:** `cargo_cu_ft` is behind the last row of seats; `cargo_folded_cu_ft` is behind the first row ("Standard" where Honda gives Standard / Max). On the CR-V, Honda's "Behind First Row, Standard/Max" cell is seats up / seats folded, so the second number is used. The Ridgeline uses the truck bed volume.
+- **Features:** "standard" when Honda's row says Std for that trim, "not available" when it says "-" or the page has no such row. The "Key Features" block at the top of each page is ignored because it disagrees with the detailed rows (Civic Sedan moonroof).
+- **Seats:** from the spec page's seat row; where a trim has none, from the Build & Price trim line. Leather mixed with cloth, and suede-effect fabric, are stored as "other".
+- **Numbers written with a dot:** the Ridgeline page writes 4.420 lbs and 6.019 lbs; they are loaded as 4,420 and 6,019. Two values are rounded by the column's one decimal: Odyssey turning circle 39.64 ft and Ridgeline ground clearance 7.64 in.
+- **Fuel:** Civic Si and Type R are stored as "premium" (Honda: "Regular Unleaded (Premium Recommended)").
+- **EPA fuel cost:** matched to the EPA entry with the same city / highway / combined figures. The Civic Sedan Sport has no 2027 entry and is empty.
+- **0-60:** one road test per engine, applied to every trim with that engine (the rule used on the reviewed Civic sheet). Empty where no test exists: gas Civic Hatchback and the single-motor Prologue. The Civic Sedan gas trims use 9.7 sec (Consumer Reports) until Juan decides between that and Car and Driver's 8.9. Several figures are still secondhand; see the Specs section above.
+- **NHTSA and IIHS:** stars only where NHTSA gives an overall rating (not Type R, Prelude or Passport TrailSport). IIHS awards only where the 2026 list names the model year on sale: Civic Hatchback, Accord, HR-V.
+
+**Left empty because Honda's pages don't list it**
+- Drivetrain for the Civic Si and Civic Type R (their pages have no drive row).
+- Prologue: seating, transmission, and charging details in the form the database asks for (Honda gives 20-80% in 35 minutes and miles per hour of charging, not 10-80% minutes, Level 2 hours, peak kW or the port type). Its powertrain warranty is empty too.
+- Tire size for the two Ridgeline TrailSport trims (Honda says "All-Terrain Tires: Std" with no size). Spare tire for the Prologue Elite (self-sealing tires, no kit listed).
+- Top speed for 12 models; ground clearance for the Civics, Prelude and Odyssey; GVWR and payload except on the Ridgeline.
+- Not loaded: `body_style` and the color lists on `models` (colors are in the `paints` table), `epa_url`, `nhtsa_url`.
+

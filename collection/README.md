@@ -19,6 +19,7 @@ This folder holds the raw options data for each brand (trims, prices, paints, pa
 | `<brand>/raw/<model>.txt` | One file per model, in the raw format below. |
 | `<brand>/checksums.json` | Checksum of every raw file as collected. |
 | `<brand>/NOTES.md` | Anything odd about the brand: model years, entries left out, open questions for Juan. |
+| `<brand>/specs-load.py` | Builds one spec row per trim from the spec tables and outside sources, as SQL for Supabase (`specs-load.sql`, `specs-models.sql`). Run after Juan's review. |
 
 ## Raw format (one file per model)
 
