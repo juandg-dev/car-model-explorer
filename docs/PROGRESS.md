@@ -18,7 +18,7 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 
 ---
 
-## November 14, 2026: Session 3 (Honda: outside specs, review, first data in the database)
+## Late night November 13 into November 14, 2026: Session 3 (Honda: outside specs, review, first data in the database)
 
 - Added outside-source specs for all 13 Hondas: NHTSA ratings, EPA fuel cost, IIHS awards, warranty (read on each model's Honda page), assembly plant, generation and a 0-60 road-test time. Top speed is still empty for 12 models.
 - Added `collection/review.py`, a checker for a brand's collected data, and wrote its findings into `collection/honda/NOTES.md`.
