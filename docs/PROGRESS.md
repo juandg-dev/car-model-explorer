@@ -7,7 +7,7 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 | Milestone | Status |
 |---|---|
 | 1. Setup (repo, README, CLAUDE.md) | 🟡 In progress |
-| 2. Database tables + sample data | ⬜ Not started |
+| 2. Database tables + sample data | 🟡 In progress (9 tables; Honda options loaded) |
 | 3. Backend (FastAPI) | ⬜ Not started |
 | 4. Frontend (browse pages) | ⬜ Not started |
 | 5. Build links + link checker | ⬜ Not started |
@@ -17,6 +17,17 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 | 9. Deploy online | ⬜ Not started |
 
 ---
+
+## November 14, 2026: Session 3 (Honda: outside specs, review, first data in the database)
+
+- Added outside-source specs for all 13 Hondas: NHTSA ratings, EPA fuel cost, IIHS awards, warranty (read on each model's Honda page), assembly plant, generation and a 0-60 road-test time. Top speed is still empty for 12 models.
+- Added `collection/review.py`, a checker for a brand's collected data, and wrote its findings into `collection/honda/NOTES.md`.
+- Fixed the Honda collector: a menu entry made of several parts (wheels with tires, a hitch with its harness) is now one item priced as the sum of its parts. HR-V, CR-V, Passport and Pilot were collected again; the other models came out identical.
+- New migration `add_paints_and_options`: tables `paints`, `trim_paints`, `options`, `trim_options`, `option_rules`, all public read-only.
+- **Loaded Honda's options data into Supabase:** 13 models, 65 trims, 89 paints, 620 options and 743 rules. Each file was checked against its fingerprint before loading.
+- Started a per-brand news log (`collection/honda/NEWS.md`) for things like model-year changes and discontinued models.
+- Decided: Civic Si and Prologue stay on the site with a "final model year" note; one brand is finished completely before the next starts.
+- Next: Juan's review of the Honda workbooks, then the spec values and model details go into the database, then Acura.
 
 ## November 13, 2026: Session 1 (setup)
 
