@@ -26,3 +26,21 @@ Source: Honda Build & Price data, automobiles.honda.com, read Nov 14, 2026.
 - News found along the way is logged in `NEWS.md`.
 - **caranddriver.com cannot be opened** from the built-in browser (blocked, Nov 14, 2026), so top speed and the Car and Driver confirmations cannot be collected by Claude. Options: Juan checks the pages himself, or top speed is shown as "Not available" except where a figure is already sourced.
 - **Decisions Nov 14, 2026:** Civic Si and Prologue stay on the site with a "final model year" note. The reviewed Civic Sedan sheet now has the 2027 NHTSA and EPA values.
+
+## Review, Nov 14, 2026 (Claude's check; Juan's review still to come)
+
+Run with `python3 review.py honda` from the `collection` folder.
+
+**Passed:** all 26 checksums; every line of every options file is well formed; every trim on Honda's spec pages matches a trim in Build & Price with the same price and model year; EPA city/highway/combined figures match Honda's spec pages for all 13 models.
+
+**For Juan to look at:**
+- **Passport, same name on the same trim:** three "Trailer Hitch with Harness" entries on the RTL ($255, $345, $135); "Protection Package" appears twice at $370 on four trims; "HPD Adventure Package" is $2,950 and $2,850 on the TrailSport Elite.
+- **CR-V:** "Trailer Hitch" is $412 on every trim and also $205 on the last trim.
+- **Prices with cents:** Odyssey Fender Emblems $124.95, Prologue Home Charging Station $622.25 (plus the three already listed above).
+- **18 rules point at an item the trim doesn't offer**, for example CR-V Crossbars require Roof Rails on trims where Roof Rails is not in the menu (probably because rails are standard there). The site must treat "standard on this trim" as satisfied.
+- **Prologue range:** Honda's spec page has two range rows, 296 / 281 / 273 miles and 308 / 294 / 283 miles. The EPA lists 308 / 294 / 283 for 2026, so the first row looks like an old one.
+- **Prologue warranty link** on Honda's 2026 page points to a 2024 address, and that page lists no powertrain warranty.
+- **Ridgeline:** NHTSA's entry is named "FWD and AWD" but the EPA and Honda list AWD only for 2026.
+- **Hybrid battery warranty** (8 years / 100,000 miles) is stated on the Accord and Prelude pages but not on the Civic or CR-V pages.
+- **Passport** spec data is the 2027 model; its 0-60 tests and IIHS award are for the 2026.
+- **Civic Sedan reviewed sheet:** gas 0-60 uses Consumer Reports (9.7 sec); Car and Driver measured 8.9 sec on a 2025 Sport sedan.

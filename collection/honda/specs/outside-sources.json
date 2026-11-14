@@ -156,7 +156,7 @@
  },
  "warranty": {
   "source": "Honda warranty page (automobiles.honda.com/pilot/warranty) and 2026 Honda Warranty Booklet (owners.honda.com)",
-  "note": "Honda states these for all new Honda vehicles; EV terms differ",
+  "note": "Honda states these for all new Honda vehicles; EV terms differ. Each model's warranty page on automobiles.honda.com was read Nov 14, 2026: 5 years / 60,000 miles powertrain is stated for every model except the Prelude and Prologue pages. The Civic and CR-V pages mention a Hybrid Powertrain Warranty but give no battery term.",
   "civic-sedan": [
    "Basic: 3 years / 36,000 miles",
    "Powertrain: 5 years / 60,000 miles",
@@ -180,11 +180,13 @@
   "accord-sedan": [
    "Basic: 3 years / 36,000 miles",
    "Powertrain: 5 years / 60,000 miles",
-   "Corrosion: 5 years / unlimited miles"
+   "Corrosion: 5 years / unlimited miles",
+   "High-voltage battery capacity (hybrid): 8 years / 100,000 miles (stated on this model's Honda warranty page)"
   ],
   "prelude": [
    "Basic: 3 years / 36,000 miles",
-   "Powertrain: 5 years / 60,000 miles",
+   "Powertrain: 5 years / 60,000 miles (Honda states this for all new Hondas; the Prelude's own warranty page lists a Hybrid Powertrain Warranty with no term)",
+   "High-voltage battery capacity (hybrid): 8 years / 100,000 miles (stated on this model's Honda warranty page)",
    "Corrosion: 5 years / unlimited miles"
   ],
   "hr-v": [
@@ -219,8 +221,9 @@
   ],
   "prologue": [
    "Basic: 3 years / 36,000 miles",
-   "High-voltage battery: 8 years / 100,000 miles (Honda Prologue page)",
-   "Powertrain term for the Prologue: not confirmed, Honda says EV terms differ"
+   "High-voltage battery: 8 years / 100,000 miles; capacity below 75% is covered (Honda Prologue warranty page)",
+   "Corrosion: 5 years / unlimited miles",
+   "Powertrain: not listed on Honda's Prologue warranty page. Listing sites (Cars.com, dealers) show 5 years / 60,000 miles; not confirmed by Honda"
   ]
  },
  "plant": {
@@ -275,7 +278,7 @@
   ],
   "civic-hatchback": [
    "Hybrid (2025 Sport Touring Hybrid hatchback): 6.1 sec, MotorTrend test as cited by the Wall Street Journal; Edmunds measured 7.4 sec on the same trim | https://www.edmunds.com/car-news/long-term/2025-honda-civic-hybrid.html",
-   "Gas 2.0 L hatchback: no test found"
+   "Gas 2.0 L hatchback: no timed test found (Edmunds only says \"almost 10 seconds\")"
   ],
   "civic-si-sedan": [
    "6.8 sec (2025 Civic Si), Car and Driver instrumented test: the 2026 10Best article puts the hybrid's 6.2 sec 0.6 sec ahead of the last Si tested. An earlier long-term Si ran 6.6 sec | https://www.aol.com/articles/honda-civic-car-driver-2026-140000342.html"
@@ -285,7 +288,7 @@
   ],
   "accord-sedan": [
    "Hybrid (2025 Accord Hybrid Touring): 6.7 sec, Car and Driver instrumented test, as reported by the Philadelphia Inquirer | https://www.inquirer.com/columnists/2025-honda-accord-hybrid-performance-comfort-efficiency-20251106.html",
-   "Gas 1.5 L turbo (LX, SE): no test of the current generation found"
+   "Gas 1.5 L turbo (Accord EX): 8.0 sec, Consumer Reports test. No Car and Driver or MotorTrend test of the current gas Accord found | https://www.consumerreports.org/cars/honda/accord/2024/road-test-report/"
   ],
   "prelude": [
    "6.5 sec (2026 Prelude); 7.3 sec with S+ Shift on. Car and Driver instrumented test | https://www.aol.com/articles/honda-prelude-really-slower-civic-145800097.html"
@@ -311,12 +314,12 @@
   ],
   "prologue": [
    "AWD dual motor (2024 Prologue Elite AWD): 5.9 sec, Car and Driver instrumented test | https://autos.yahoo.com/2024-honda-prologue-better-ev-140000998.html",
-   "2WD single motor: no test found"
+   "2WD single motor: no road test found (Car and Driver tested the AWD only)"
   ]
  },
  "top_speed": {
   "source": "Honda does not list top speed. Only values found in a road test's spec panel are used.",
-  "note": "Found for one model only. The other 12 need the full Car and Driver test pages, which were not reachable from the workspace on Nov 14, 2026.",
+  "note": "Found for one model only. Honda does not publish top speed, and caranddriver.com (the usual source) cannot be opened from Claude's browser. Searches on Nov 14, 2026 found no other trusted source for the other 12.",
   "civic-type-r": [
    "169 mph (Honda's claim, as listed in Car and Driver's 2023 Civic Type R test) | https://www.slashgear.com/2291429/hot-hatches-quicker-than-honda-civic-type-r/"
   ]
@@ -349,13 +352,13 @@
    "Sixth generation, all-new for 2023. Honda has announced the seventh generation as the 2028 CR-V | https://hondanews.com/en-US/honda-automobiles/releases/release-13f25e90cfe47cd58453f1f710057d45-honda-cr-v-timeline-and-milestones"
   ],
   "passport": [
-   "Fourth generation, all-new for 2026 (CarMax research page; not yet confirmed on Honda News) | https://www.carmax.com/research/honda/passport"
+   "Fourth generation, all-new for 2026 (Honda's wording, reported by MotorWeek) | https://motorweek.org/this-just-in/2026-honda-passport-breaks-mold-by-joining-boxy-trend"
   ],
   "pilot": [
    "Fourth generation, all-new for 2023; major refresh for 2026 | https://hondanews.com/en-US/releases/release-1503019bd8a757ea08267d79442a6dbd-honda-pilot-timeline-and-milestones"
   ],
   "odyssey": [
-   "Last redesigned for 2018 (Auto123). Generation number not confirmed on Honda News | https://www.auto123.com/en/news/Honda-2023-models-changes/69954/"
+   "Fifth generation, all-new for 2018 (Honda's 2018 Odyssey press kit) | https://hondanews.com/releases/2018-honda-odyssey-press-kit-overview"
   ],
   "ridgeline": [
    "Second generation; last full redesign for 2017 (Auto123) | https://www.auto123.com/en/news/Honda-2023-models-changes/69954/"
