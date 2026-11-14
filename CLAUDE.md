@@ -34,6 +34,10 @@ Read this at the start of every session and follow it.
 - Consistent layout on every page. Progressive disclosure: simple first, details on tap.
 - "Build this car" is a clear, prominent button on every trim page.
 - Mobile-friendly.
+- **Info icons:** every spec label and technical term gets a small, subtle info icon. Hover (desktop) or tap (phone) shows 1–3 plain-English sentences: what it means, what it's good for, the trade-off. A site-wide toggle hides or shows all icons, remembered per device. Tip text lives in the database (glossary table), not in code; drafts go to Juan for approval first.
+
+## Planning documents (Google Drive)
+- **Spec Planning sheet** ("Car Model Explorer - Spec Planning"): the master list of specs (tab "Specs"), the info-tip drafts ("Info tips") and planned features ("Features"). Juan's "Your call" column decides which specs go in the database.
 
 ## Security rules (non-negotiable)
 - Never put secrets (API keys, the database password, service-role key) in code, commits, or chat.
