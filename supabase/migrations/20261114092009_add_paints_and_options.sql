@@ -1,5 +1,4 @@
--- PLANNED, NOT APPLIED YET. Waiting for Juan's review of the Honda data (see collection/brands.md).
--- When applied it becomes a normal migration named "add_paints_and_options".
+-- Applied Nov 14, 2026 (Supabase migration version 20261114092009). The tables are empty until Honda is loaded.
 --
 -- What it adds: the tables behind the options explorer.
 --   paints         one row per paint color of a model
