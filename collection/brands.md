@@ -13,7 +13,7 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 | # | Brand | Status | Models | Date | Notes |
 |---|---|---|---|---|---|
 | 1 | Honda | Done | 13 | 2026-11-14 | All five checks passed. In Supabase: 13 models, 65 trims, 620 options, and a spec row for every trim. Open follow-ups (top speed, 0-60 confirmations, a few fields Honda doesn't list) are in `honda/NOTES.md` and the To-Do sheet. |
-| 2 | Acura | Partial | 4 | 2026-11-14 | Check 1 done: options data for Integra, ADX, RDX, MDX (24 trims; Type S versions are trims of Integra and MDX). Check 2 done: spec tables for all four. Still to do: outside sources, Juan's review, Supabase. |
+| 2 | Acura | Partial | 4 | 2026-11-14 | Check 1 done: options data for Integra, ADX, RDX, MDX (24 trims; Type S versions are trims of Integra and MDX). Checks 2 and 3 done: spec tables and outside-source specs for all four. Still to do: Juan's review, Supabase. Notes in `acura/NOTES.md`. |
 | 3 | Toyota | Queued | | | |
 | 4 | Lexus | Queued | | | |
 | 5 | Ford | Queued | | | |
@@ -58,3 +58,4 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 - 2026-11-14: Honda spec values (65 trims) and model details (13 models) loaded into Supabase after Juan's review. Honda is done; Acura is next.
 - 2026-11-14: Acura options collected (4 models, 24 trims) from Acura Build & Price. All four files match the collector by checksum.
 - 2026-11-14: Acura spec tables collected (4 models) through the Downloads file route; checksum matched (753355309).
+- 2026-11-14: Acura outside-source specs researched (NHTSA, IIHS, EPA, 0-60, warranty, plant, generation). `review.py acura`: 0 issues. NOTES.md and NEWS.md written.

@@ -71,6 +71,9 @@ for f in sorted(os.listdir(f'{B}/raw')):
         for v in filter(None,it[5].split(',')):
             if v.isdigit() and int(v)<len(I) and str(k) not in I[int(v)][5].split(','): info.append(f'{f}: one-way conflict "{it[1]}" -> "{I[int(v)][1]}"')
 # C spec vs raw price/year
+# The spec page and Build & Price can name the same trim slightly differently (Acura: "Technology Package" vs "Technology",
+# "A-Spec w/Technology Package CVT" vs "A-Spec with Technology CVT"). norm() removes only those wording differences.
+def norm(t): return re.sub(r'\s+',' ',re.sub(r'\bPackages?\b','',t.replace('w/','with '))).strip()
 slug2id={v['hd'][3]:k for k,v in raw.items()}
 spec={}
 for f in sorted(os.listdir(f'{B}/specs')):
@@ -87,11 +90,20 @@ for f in sorted(os.listdir(f'{B}/specs')):
     r=raw[rid]; y=re.search(r'20\d\d',title)
     if y and y.group()!=r['hd'][2]: issues.append(f'{slug}: spec page is {y.group()}, options file is {r["hd"][2]}')
     for t,p in zip(trims,prices):
-        cands=[(tt[1],int(tt[2])) for tt in r['T'] if tt[1]==t or tt[1].startswith(t+' ') ]
+        cands=[(tt[1],int(tt[2])) for tt in r['T'] if norm(tt[1])==norm(t) or norm(tt[1]).startswith(norm(t)+' ') ]
         if not cands: issues.append(f'{slug}: spec trim "{t}" not in options file (options trims: {[tt[1] for tt in r["T"]]})'); continue
         if p and p not in [c[1] for c in cands]: issues.append(f'{slug}: {t} price on spec page ${p:,} vs Build & Price {[f"{c[0]} ${c[1]:,}" for c in cands]}')
     for tt in r['T']:
-        if not any(tt[1]==t or tt[1].startswith(t+' ') for t in trims): issues.append(f'{slug}: options trim "{tt[1]}" not on the spec page')
+        if not any(norm(tt[1])==norm(t) or norm(tt[1]).startswith(norm(t)+' ') for t in trims): issues.append(f'{slug}: options trim "{tt[1]}" not on the spec page')
+    # Every "Starting Price" row on the spec page (Acura has one per drive) must be a Build & Price price of that trim.
+    for l in L[3:]:
+        c=l.split('|')
+        if len(c)!=len(trims)+1 or 'Starting Price' not in c[0]: continue
+        for t,cell in zip(trims,c[1:]):
+            m=re.search(r'\$[\d,]+',cell)
+            if not m: continue
+            p=int(re.sub(r'[^\d]','',m.group())); have=[int(tt[2]) for tt in r['T'] if norm(tt[1])==norm(t) or norm(tt[1]).startswith(norm(t)+' ')]
+            if p not in have: issues.append(f'{slug}: {t} "{c[0]}" ${p:,} on the spec page is not a Build & Price price {have}')
 print('ISSUES',len(issues)); [print(' -',i) for i in issues]
 print('INFO',len(info)); 
 from collections import Counter

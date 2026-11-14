@@ -1,0 +1,14 @@
+# Acura news log
+
+Things found while collecting data that change what the site should say, or that could go in a future News section.
+Each entry: what happened, the source, and the change it suggests. Juan decides; nothing here is applied automatically.
+
+| Found | What | Source | Suggested change | Status |
+|---|---|---|---|---|
+| Nov 14, 2026 | The current (3rd generation) RDX ends production in 2026. A 4th generation RDX Hybrid is announced for 2028, so there will be a gap with no new RDX. | Car and Driver, republished by AOL: https://www.aol.com/articles/next-acura-rdx-hybrid-next-140000036.html ; Acura roadmap release: https://acuranews.com/en-US/releases/acura-shares-business-roadmap-includes-three-new-models-beginning-with-adventure-ready-suv-in-2028 | Keep the 2026 RDX on the site with a "final model year of this generation" note. Confirm the wording on Acura News first. | Waiting for Juan |
+| Nov 14, 2026 | Acura announced three new SUVs starting in 2028: an adventure-ready SUV, an eight-passenger SUV and the RDX Hybrid. | https://acuranews.com/en-US/releases/acura-shares-business-roadmap-includes-three-new-models-beginning-with-adventure-ready-suv-in-2028 | News item. | Waiting for Juan |
+| Nov 14, 2026 | 2027 model year: the Integra, ADX and MDX get updates, and a limited "Urban Spec" trim is added to all three. Build & Price still shows 2026 for every model. | https://acuranews.com/en-US/releases/new-limited-edition-acura-urban-spec-trim-adds-distinctive-style-and-incredible-value-to-2027-integra-adx-and-mdx ; https://motor1.com/news/811836/acura-eight-passenger-flagship-suv-confirmed | Collect the 2027 models again when Acura puts them in Build & Price. | Waiting for Juan |
+| Nov 14, 2026 | The 2027 Integra Type S is updated and adds a Heritage Edition. | https://acuranews.com/en-US/releases/2027-acura-integra-type-s-updated-new-heritage-edition-pays-tribute-to-iconic-integra-type-r | Same as above: collect when it reaches Build & Price. | Waiting for Juan |
+| Nov 14, 2026 | The electric ZDX is no longer in Acura's Build & Price. Honda confirmed the end of ZDX production (built by GM in Spring Hill, Tennessee). The EPA still lists a 2026 ZDX. | MarkLines: https://www.marklines.com/en/news/tag/58/acura ; fueleconomy.gov | Leave the ZDX off the site. Confirm on Acura News. | Waiting for Juan |
+| Nov 14, 2026 | IIHS: no Acura is on the 2026 TOP SAFETY PICK list. The 2025 list names the 2025-26 Integra, ADX and MDX. | https://www.iihs.org/ratings/top-safety-picks ; https://www.iihs.org/ratings/top-safety-picks/2025 | Decide whether a 2025 award is shown on a 2026 car. | Waiting for Juan |
+| Nov 14, 2026 | The Integra Type S, built only in Marysville, Ohio, will be exported to Japan in the second half of 2026: the first Acura-branded car sold there. | Acura release, March 5, 2026, as published at https://pubt.io/view/B9C794E2C7960C09CB3456BF61E262FCFB9728B3 | News item. | Waiting for Juan |

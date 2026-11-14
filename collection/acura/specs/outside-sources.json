@@ -1,0 +1,117 @@
+{
+ "read": "Nov 14, 2026",
+ "nhtsa": {
+  "source": "NHTSA 5-Star Safety Ratings API, api.nhtsa.gov/SafetyRatings",
+  "note": "overall / frontal / side / rollover, by NHTSA model year entry. NHTSA lists a 2026 RDX FWD, but Acura sells the 2026 RDX with SH-AWD only.",
+  "integra": [
+   "2026 Integra 5 HB FWD: 5 overall (frontal 5, side 5, rollover 5)",
+   "2026 Integra Type-S 5 HB FWD: overall Not Rated (rollover 5; frontal and side not rated)"
+  ],
+  "adx": [
+   "2026 ADX SUV FWD: 5 overall (frontal 5, side 5, rollover 4)",
+   "2026 ADX SUV AWD: 5 overall (frontal 5, side 5, rollover 4)"
+  ],
+  "rdx": [
+   "2026 RDX SUV AWD: 5 overall (frontal 4, side 5, rollover 4)",
+   "2026 RDX SUV FWD: 5 overall (frontal 4, side 5, rollover 4)"
+  ],
+  "mdx": [
+   "2026 MDX SUV FWD: 5 overall (frontal 4, side 5, rollover 4)",
+   "2026 MDX SUV AWD: 5 overall (frontal 4, side 5, rollover 4)"
+  ]
+ },
+ "epa": {
+  "source": "EPA fueleconomy.gov web service, fueleconomy.gov/ws/rest/vehicle",
+  "note": "EPA annual fuel cost and city / highway / combined, by EPA entry. All entries are premium gasoline. The EPA also lists a 2026 ZDX, which is not in Acura's Build & Price.",
+  "integra": [
+   "2026 Integra 1.5 L Turbo (CVT): $2,350 per year (29 / 37 / 32 mpg)",
+   "2026 Integra A-Spec 1.5 L Turbo (CVT): $2,350 per year (29 / 37 / 32 mpg)",
+   "2026 Integra A-Spec 1.5 L Turbo (6-speed manual): $2,500 per year (26 / 36 / 30 mpg)",
+   "2026 Integra 2.0 L Turbo (6-speed manual, the Type S engine): $3,150 per year (21 / 28 / 24 mpg)"
+  ],
+  "adx": [
+   "2026 ADX FWD: $2,700 per year (26 / 31 / 28 mpg)",
+   "2026 ADX AWD: $2,800 per year (25 / 30 / 27 mpg)"
+  ],
+  "rdx": [
+   "2026 RDX AWD: $3,250 per year (21 / 27 / 23 mpg)",
+   "2026 RDX AWD A-Spec: $3,250 per year (21 / 26 / 23 mpg)"
+  ],
+  "mdx": [
+   "2026 MDX FWD: $3,400 per year (19 / 26 / 22 mpg)",
+   "2026 MDX AWD: $3,600 per year (19 / 25 / 21 mpg)",
+   "2026 MDX AWD Type-S: $3,950 per year (17 / 21 / 19 mpg)"
+  ]
+ },
+ "iihs": {
+  "source": "IIHS TOP SAFETY PICK lists, iihs.org/ratings/top-safety-picks (2026 list) and iihs.org/ratings/top-safety-picks/2025 (2025 list)",
+  "note": "No Acura is on the 2026 list (75 winners when read). Three Acuras are on the 2025 list, where IIHS names the 2025-26 model years. Juan decides whether a 2025 award is shown for a 2026 car.",
+  "integra": [
+   "Not on the 2026 TOP SAFETY PICK list",
+   "2025 TOP SAFETY PICK (listed for 2025-26 Integra 4-door hatchback)"
+  ],
+  "adx": [
+   "Not on the 2026 TOP SAFETY PICK list",
+   "2025 TOP SAFETY PICK (listed for 2025-26 ADX 4-door SUV)"
+  ],
+  "rdx": [
+   "Not on the 2026 TOP SAFETY PICK list",
+   "Not on the 2025 TOP SAFETY PICK list"
+  ],
+  "mdx": [
+   "Not on the 2026 TOP SAFETY PICK list",
+   "2025 TOP SAFETY PICK (listed for 2025-26 MDX 4-door SUV)"
+  ]
+ },
+ "warranty": {
+  "source": "Acura \"Specs & Pricing\" pages (Warranties section), www.acura.com/<model>/pricing-and-specs, saved in this folder's spec files",
+  "note": "The same six lines are on all four pages and apply to every trim.",
+  "integra": ["Basic: 4 years / 50,000 miles", "Powertrain: 6 years / 70,000 miles", "Corrosion (outer body rust-through): 5 years / unlimited miles", "Accessories: 4 years / 50,000 miles", "Roadside assistance (Acura Total Luxury Care): 4 years / 50,000 miles", "Seat belts: 15 years / 150,000 miles"],
+  "adx": ["Basic: 4 years / 50,000 miles", "Powertrain: 6 years / 70,000 miles", "Corrosion (outer body rust-through): 5 years / unlimited miles", "Accessories: 4 years / 50,000 miles", "Roadside assistance (Acura Total Luxury Care): 4 years / 50,000 miles", "Seat belts: 15 years / 150,000 miles"],
+  "rdx": ["Basic: 4 years / 50,000 miles", "Powertrain: 6 years / 70,000 miles", "Corrosion (outer body rust-through): 5 years / unlimited miles", "Accessories: 4 years / 50,000 miles", "Roadside assistance (Acura Total Luxury Care): 4 years / 50,000 miles", "Seat belts: 15 years / 150,000 miles"],
+  "mdx": ["Basic: 4 years / 50,000 miles", "Powertrain: 6 years / 70,000 miles", "Corrosion (outer body rust-through): 5 years / unlimited miles", "Accessories: 4 years / 50,000 miles", "Roadside assistance (Acura Total Luxury Care): 4 years / 50,000 miles", "Seat belts: 15 years / 150,000 miles"]
+ },
+ "plant": {
+  "source": "Acura News (acuranews.com) where Acura states it; other pages named per model",
+  "note": "The ADX, RDX and MDX plants were read from pages that report Acura's statements, not from Acura News itself; confirm before publishing.",
+  "integra": ["Marysville Auto Plant, Marysville, Ohio (Integra and Integra Type S) | https://acuranews.com/en-US/releases/production-start-of-acura-integra-signals-return-of-iconic-model-being-built-for-first-time-in-america"],
+  "adx": ["Honda plant in Celaya, Guanajuato, Mexico (Acura's March 2025 shipping announcement, as reported by MarkLines) | https://www.marklines.com/en/news/323602"],
+  "rdx": ["East Liberty Auto Plant, East Liberty, Ohio (as reported by the Ohio Manufacturers' Association, June 2026) | https://www.ohiomfg.com/our-communities/honda-recognition-highlights-ohio-excellence/"],
+  "mdx": ["East Liberty Auto Plant, East Liberty, Ohio (as reported by the Ohio Manufacturers' Association, June 2026) | https://www.ohiomfg.com/our-communities/honda-recognition-highlights-ohio-excellence/"]
+ },
+ "zero_to_60": {
+  "source": "Trusted road tests (Car and Driver first; Road & Track, MotorTrend or Edmunds where noted). Read Nov 14, 2026 through the pages listed per model. Show on the site with an info icon and the source.",
+  "note": "Independent test results, not Acura figures. Acura does not publish 0-60 times. caranddriver.com cannot be opened from Claude's browser, so Car and Driver numbers were read from Car and Driver articles republished on Yahoo, or from pages that report the test (named per entry; confirm those before publishing). Several tests are of earlier model years of the same generation and engine. Trims without a test are left empty.",
+  "integra": [
+   "1.5 L turbo, CVT (2023 Integra A-Spec): 7.1 sec, Car and Driver instrumented test, read in the Car and Driver article republished by Yahoo | https://autos.yahoo.com/tested-2023-acura-integra-demonstrates-130000005.html",
+   "1.5 L turbo, 6-speed manual (2023 Integra): 7.0 sec, Car and Driver instrumented test, same article | https://autos.yahoo.com/tested-2023-acura-integra-demonstrates-130000005.html",
+   "Type S (2026 Integra Type S): 5.8 sec, Edmunds test, read on edmunds.com | https://www.edmunds.com/car-news/long-term/2026-acura-integra-type-s-test.html",
+   "Type S (2025 Integra Type S): 5.1 sec, Car and Driver instrumented test, as reported by 0-60specs.com (not read at the source) | https://www.0-60specs.com/acura/integra-0-60-times"
+  ],
+  "adx": [
+   "AWD (2025 ADX A-Spec Advance AWD): 8.7 sec, Car and Driver instrumented test, as reported by the Detroit News reviewer's page and by Road & Track | https://henrypayne.com/?p=34684",
+   "FWD: no test found"
+  ],
+  "rdx": [
+   "SH-AWD (2022 RDX A-Spec Advance): 6.2 sec, Car and Driver instrumented test, as reported by 0-60specs.com (not read at the source) | https://www.0-60specs.com/acura/rdx-0-60-times",
+   "SH-AWD (2025 RDX A-Spec Advance): 6.7 sec, MotorTrend test, as reported by 0-60specs.com (not read at the source) | https://www.0-60specs.com/acura/rdx-0-60-times"
+  ],
+  "mdx": [
+   "3.5 L V6, SH-AWD (2022 MDX SH-AWD A-Spec): 6.4 sec, Car and Driver instrumented test, stated in the Car and Driver Type S article republished by Yahoo | https://autos.yahoo.com/2022-acura-mdx-type-aims-050100579.html",
+   "Type S (2022 MDX Type S): 5.5 sec, Car and Driver instrumented test, same article; Road & Track's 2025 MDX Type S test also lists 5.5 sec | https://autos.yahoo.com/2022-acura-mdx-type-aims-050100579.html",
+   "3.5 L V6, FWD: no test found"
+  ]
+ },
+ "top_speed": {
+  "source": "Acura does not list top speed. Only values found in a road test's spec panel are used.",
+  "note": "None found. One review gives an estimated 125 mph for the ADX; estimates are not used."
+ },
+ "generation": {
+  "source": "Acura News (acuranews.com) where Acura states it; other pages named per model. Read Nov 14, 2026.",
+  "note": "",
+  "integra": ["5th generation, all-new for 2023; refreshed for 2026 | https://acuranews.com/releases/new-acura-integra-prototype-makes-global-debut-previews-a-premium-sport-compact-for-a-new-generation"],
+  "adx": ["1st generation, all-new for 2025 | https://www.marklines.com/en/news/317728"],
+  "rdx": ["3rd generation, on sale since the 2019 model year (Car and Driver, republished by AOL) | https://www.aol.com/articles/next-acura-rdx-hybrid-next-140000036.html"],
+  "mdx": ["4th generation, all-new for 2022; updated for 2025 (stated by Carvana's 2026 MDX page; Car and Driver tested the redesigned 2022 model) | https://www.carvana.com/buy/2026-acura-mdx/"]
+ }
+}
