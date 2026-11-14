@@ -52,6 +52,15 @@ R;entries left out // separated by " // "
 
 If a brand's site doesn't expose structured data, or blocks automated reading, **stop, mark it "Blocked" in `brands.md` with the reason, and move to the next brand.** Do not work around a block and do not fill gaps from memory or third-party sites.
 
+## Spec tables (the second half of a brand)
+
+A brand is only **complete** when it has both options data and spec tables (CLAUDE.md: build one brand completely before starting the next).
+
+- `<brand>/specs-collector.js` reads the carmaker's own spec comparison page for every model and saves all tables as one text file in Juan's Downloads folder. Juan approved this file route on Nov 14, 2026, because spec tables are too large to copy by hand (about 140,000 characters for Honda).
+- The file is read from Downloads, its checksum is compared with the one the collector printed, and it is split into `<brand>/specs/<model>.txt`. The format is described at the top of `honda/specs-collector.js`.
+- `specs-map.js` maps those rows onto the project's spec fields for the review workbook: `node collection/specs-map.js <combined file> <output.json>`. It only copies values; it never calculates or guesses. Fields with no matching row stay empty.
+- Still outside the carmaker's page and researched separately: NHTSA and IIHS ratings, EPA annual fuel cost, 0-60 from a trusted road test, warranty, assembly plant.
+
 ## Honda
 
 Source: Honda Build & Price (automobiles.honda.com), read Nov 14, 2026. Thirteen models. The Civic Sedan file was written from Juan's reviewed sheet rather than straight from the collector, so it has no manufacturer codes.

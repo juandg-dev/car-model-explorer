@@ -1,0 +1,187 @@
+## civic-type-r | 2027 Civic Type R Features & Specs | https://automobiles.honda.com/civic-type-r/specs-features-trim-comparison
+Civic Type R
+Starting at $48,695 BUILD
+Key Features
+Engine Type|In-Line 4-Cylinder with Turbocharger
+Honda LogR® Datalogger System|Std
+Dynamic Drive Modes|4-ModeComfort / Sport / Individual / +R
+Adaptive Damper System|Std
+Brembo® 4-Piston Aluminum Front Brake Calipers|Std
+Wheels (in.)|19 x 9.5J Matte Black Wheels
+Maximum-Performance Summer Tires|Michelin Pilot Sport 4S Tires265 / 30 / ZR19 93Y
+Bose® Premium Sound System with 12 Speakers, including Subwoofer|Std
+Engineering
+Engine Type|In-Line 4-Cylinder with Turbocharger
+Boost Pressure (psi)|25.2
+Displacement (cc)|1,996
+Horsepower (SAE net @ rpm)|315 @ 6,500
+Torque (lb.-ft. @ rpm)|310 @ 2,600-4,000
+Redline (rpm)|7,000
+Bore and Stroke (mm)|86.0 x 85.9
+Compression Ratio|9.8:1
+Valve Train|16-Valve DOHC VTEC®
+Direct Fuel Injection|Std
+Direct Ignition System with Immobilizer|Std
+CARB Emissions Rating|LEV4-ULEV50
+Drive-by-Wire Throttle System|Std
+Water-Cooled Oil Cooler|Std
+Tune-up Interval|100k +/- MilesNo Scheduled Tune-Ups
+Honda Maintenance Program 1yr / 12k miles|Std
+Drivetrain
+6-Speed Manual Transmission (6MT) with Rev-Match Control|Std
+1st|3.625
+2nd|2.115
+3rd|1.529
+4th|1.125
+5th|0.911
+6th|0.734
+Reverse|3.757
+Final Drive|3.842
+Lightweight Single-Mass Flywheel|Std
+Helical Limited-Slip Differential|Std
+Integrated LED Shift Light Indicator|Std
+EPA Mileage Ratings/Fuel "> ">
+EPA MPG Ratings (City/Highway/Combined)|22 / 28 / 24
+Fuel Tank Capacity (U.S. gal.)|12.4
+Required Fuel|Regular Unleaded (Premium Recommended)
+Body/Suspension/Chassis
+Dynamic Drive Modes (Comfort/Sport/Individual/+R)|Std
+Active Sound Control (ASC)|Std
+Dual-Axis MacPherson Strut Front Suspension|Std
+Multi-Link Rear Suspension|Std
+Adaptive Damper System|Std
+Dual-Pinion, Variable-Ratio Electric Power Steering (EPS)|Std
+Stabilizer Bar (mm) (front/rear)|29.0 x 5.0 (tubular) / 20.5 (solid)
+Steering Wheel Turns, Lock-to-Lock|2.10
+Steering Ratio|11.6:1
+Turning Diameter, Curb-to-Curb (ft.)|39.9
+Power-Assisted, Ventilated, Two-Piece Front Disc/Solid Rear Disc Brakes (in.) (front/rear)|13.8 / 12.0
+Brake Disc Thickness (in.) (front/rear)|1.05 / 0.36
+Brembo® 4-Piston Aluminum Front Brake Calipers|Std
+Wheels (in.)|19 x 9.5J Matte Black Wheels
+Maximum-Performance Summer Tires|Michelin Pilot Sport 4S Tires265 / 30 / ZR19 93Y
+Tire Repair Kit (TRK) with 24-Hour Assistance|Std
+Dimensions
+Exterior|
+Wheelbase (in.)|107.7
+Length (in.)|180.9
+Height (in.)|55.4
+Width (in.)|74.4
+Ground Clearance (in.)|4.8
+Track ( in.) (front/rear)|64.0 / 63.5
+Approach Angle / Departure Angle (deg.)|10.9 / 15.1
+Interior|
+Headroom (in.) (front/rear)|39.3 / 37.1
+Legroom (in.) (front/rear)|42.3 / 37.4
+Shoulder Room (in.) (front/rear)|57 / 56
+Hiproom (in.) (front/rear)|54.3 / 48.9
+Cargo Volume (cu ft.) (rear seat up)|24.5
+Passenger Volume (cu ft.)|99.0
+Weight|
+Curb Weight (lbs.)|3,188
+Weight Distribution (%) (front/rear)|62 / 38
+Honda Sensing®
+Forward Collision Warning (FCW)|Std
+Lane Departure Warning (LDW)|Std
+Collision Mitigation Braking System™ (CMBS™)|Std
+Road Departure Mitigation System (RDM)|Std
+Lane Keeping Assist System (LKAS)|Std
+Adaptive Cruise Control (ACC)|Std
+Traffic Sign Recognition (TSR)|Std
+Blind Spot Information System (BSI)|Std
+Cross Traffic Monitor|Std
+Post-Collision Braking System|Std
+Driver Attention Monitor|Std
+Auto High-Beam Headlights|Std
+Safety & Driver Assistive Technology
+Advanced Compatibility Engineering™ (ACE™) Body Structure|Std
+Driver's and Front Passenger's Advanced Front Airbags (i-SRS)|Std
+Driver's and Front Passenger's Front Side Airbags|Std
+Driver's and Front Passenger's Knee Airbags (SRS)|Std
+Side Curtain Airbags with Rollover Sensor|Std
+Lower Anchors and Tethers for Children (LATCH)|Std
+Child-Proof Rear Door Locks|Std
+Vehicle Stability Assist™ (VSA®) with Traction Control|Std
+Anti-Lock Braking System (ABS)|Std
+Electronic Brake Distribution (EBD)|Std
+Brake Assist|Std
+Rearview Camera with Dynamic Guidelines|Std
+Tire Pressure Monitoring System (TPMS)|Std
+Driver Convenience
+Electric Parking Brake with Automatic Brake Hold|Std
+Push Button Start|Std
+Security System with Remote Entry and Hatch Release|Std
+Leather-Wrapped Steering Wheel|Std
+Automatic-Dimming Rearview Mirror|Std
+Dark Aluminum Shift Knob|Std
+Hill Start Assist|Std
+Cruise Control|Std
+One-Touch Turn Indicators|Std
+Tilt and Telescopic Steering Column|Std
+Variable Intermittent Windshield Wipers|Std
+Rear Window Wiper/Washer|Std
+Rear Seat Reminder (RSR)|Std
+Seat-Belt Reminder for all Seating Positions|Std
+Audio & Connectivity
+9-Inch Color Touchscreen|Std
+10.2-Inch Digital Instrument Cluster|Std
+Google built-in (includes 3-Months Unlimited Data Plan for In-Vehicle Apps)|Std
+Bose® Premium Sound System with 12 Speakers, including Subwoofer|Std
+HondaLink®|Std
+HondaLink® Connected Services|Std
+Wireless Apple CarPlay® Compatibility|Std
+Wireless Android Auto™ Compatibility|Std
+HD Radio™|Std
+USB-C 3.0A Smartphone/Audio Interface - Front Console (1 Port)|Std
+USB-C 3.0A Charging Port - Front Console (1 Port)|Std
+12-Volt Power Outlet (Front)|Std
+Bluetooth® HandsFreeLink®|Std
+Bluetooth® Streaming Audio|Std
+Radio Data System (RDS)|Std
+Speed-Sensitive Volume Control (SVC)|Std
+Wireless Phone Charger|Std
+Honda LogR® Datalogger System|Std
+Stopwatch|Std
+Wi-Fi® Hotspot Capability|Std
+Alexa Built-In|Std
+Comfort & Convenience
+Type R Serial Number Plate|Std
+Sport Pedals|Std
+Heated Front Seats|Std
+Dual-Zone Automatic Climate Control System|Std
+Power Windows with Auto-Up/Down Driver's and Front Passenger's Windows|Std
+Power Door Locks|Std
+LED Pocket Light|Std
+Ultrasuede-Wrapped Dashboard|Std
+Ultrasuede-Wrapped Front Door Caps|Std
+Center Console with Storage Compartment|Std
+Sliding Sunvisors|Std
+Illuminated Steering Wheel-Mounted Controls|Std
+Illuminated Driver's and Front Passenger's Vanity Mirrors|Std
+Remote Trunk Release|Std
+Map Lights|Std
+Red Ambient Light|Std
+Rear-Seat Heater Ducts|Std
+Type-R Floor Mats|Std
+Rear-Window Defroster with Timer|Std
+Cargo Area Light|Std
+Beverage Holders|Std
+Seating
+4-Person Seating Capacity|Std
+60/40 Split Fold-Down Rear Seatback|Std
+Exclusively-Designed, High-Bolstered Sport Seats with Suede-Effect Fabric and Double Red Stitching|Std
+Exterior Features
+Red Honda "H" Badges (front/rear)|Std
+Type R badges (front/rear)|Std
+LED Headlights with Auto-On/Off|Std
+LED Daytime Running Lights (DRL)|Std
+LED Brake and Taillights|Std
+Gloss Black Side Sills|Std
+Gloss Black Wing Spoiler|Std
+Aluminum Hood|Std
+Acoustic Laminate Windshield|Std
+Center-Mounted, Triple Outlet Exhaust with Active Exhaust Valve|Std
+Smart Entry with Walk Away Auto Lock®|Std
+Gloss Black Fin-Type Roof-Mounted Antenna|Std
+Push-to-Release Fuel Filler Door|Std
+Gloss Black, Heated, Power Side Mirrors with Integrated LED Turn Indicators|Std

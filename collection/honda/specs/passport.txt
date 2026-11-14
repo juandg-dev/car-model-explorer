@@ -1,0 +1,218 @@
+## passport | 2027 Honda Passport Specifications & Features | https://automobiles.honda.com/passport/specs-features-trim-comparison
+RTL|RTL Towing|TrailSport|TrailSport Blackout|TrailSport Elite|TrailSport Elite Blackout
+Starting at $45,195 BUILD|Starting at $45,895 BUILD|Starting at $49,995 BUILD|Starting at $51,495 BUILD|Starting at $53,695 BUILD|Starting at $55,195 BUILD
+Key Features
+Integrated Drive Modes|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand
+All-Terrain Tires|-|-|275 / 60R18 113T|275 / 60R18 113T|275 / 60R18 113T|275 / 60R18 113T
+Off-Road Tuned Suspension|-|-|Std|Std|Std|Std
+Towing Capacity (lbs.)|5,000|5,000|5,000|5,000|5,000|5,000
+TrailWatch™|-|-|Std|Std|Std|Std
+Heated Front Seats|Std|Std|Std|Std|Std|Std
+Google built-in (includes 3-Months Unlimited Data Plan for In-Vehicle Apps)|Std|Std|Std|Std|Std|Std
+Engineering
+Engine Type|V6|V6|V6|V6|V6|V6
+Displacement (cc)|3,471|3,471|3,471|3,471|3,471|3,471
+Horsepower (SAE net @ rpm)|280 @ 6,100|280 @ 6,100|280 @ 6,100|280 @ 6,100|280 @ 6,100|280 @ 6,100
+Torque (lb.-ft. @ rpm)|258 @ 5,000|258 @ 5,000|258 @ 5,000|258 @ 5,000|258 @ 5,000|258 @ 5,000
+Redline (rpm)|6,500|6,500|6,500|6,500|6,500|6,500
+Valve Train|24-Valve DOHC Dual VTC|24-Valve DOHC Dual VTC|24-Valve DOHC Dual VTC|24-Valve DOHC Dual VTC|24-Valve DOHC Dual VTC|24-Valve DOHC Dual VTC
+Bore and Stroke (mm)|89 x 93|89 x 93|89 x 93|89 x 93|89 x 93|89 x 93
+Compression Ratio|11.5:1|11.5:1|11.5:1|11.5:1|11.5:1|11.5:1
+Direct Fuel Injection|Std|Std|Std|Std|Std|Std
+Eco Assist™ System|Std|Std|Std|Std|Std|Std
+Variable Cylinder Management™ (VCM®)|Std|Std|Std|Std|Std|Std
+Active Control Engine Mount System (ACM)|Std|Std|Std|Std|Std|Std
+Idle-Stop|Std|Std|Std|Std|Std|Std
+CARB Emissions Rating|LEV4 ULEV70|LEV4 ULEV70|LEV4 ULEV70|LEV4 ULEV70|LEV4 ULEV70|LEV4 ULEV70
+Direct Ignition System with Immobilizer|Std|Std|Std|Std|Std|Std
+Tune-up Interval|100k +/- Miles No Scheduled Tune-Ups|100k +/- Miles No Scheduled Tune-Ups|100k +/- Miles No Scheduled Tune-Ups|100k +/- Miles No Scheduled Tune-Ups|100k +/- Miles No Scheduled Tune-Ups|100k +/- Miles No Scheduled Tune-Ups
+Honda Maintenance Program 1yr / 12k miles|Std|Std|Std|Std|Std|Std
+Drivetrain
+2nd-Gen Intelligent Variable Torque Management™ (i-VTM4™) AWD System|Std|Std|Std|Std|Std|Std
+Trail Torque Logic|Std|Std|Std|Std|Std|Std
+10-Speed Automatic Transmission (10AT) with Shift-By-Wire (SBW) and Paddle Shifters|Std|Std|Std|Std|Std|Std
+Gear Ratios:||||||
+1st|5.246|5.246|5.246|5.246|5.246|5.246
+2nd|3.271|3.271|3.271|3.271|3.271|3.271
+3rd|2.185|2.185|2.185|2.185|2.185|2.185
+4th|1.597|1.597|1.597|1.597|1.597|1.597
+5th|1.304|1.304|1.304|1.304|1.304|1.304
+6th|1.000|1.000|1.000|1.000|1.000|1.000
+7th|0.782|0.782|0.782|0.782|0.782|0.782
+8th|0.653|0.653|0.653|0.653|0.653|0.653
+9th|0.581|0.581|0.581|0.581|0.581|0.581
+10th|0.517|0.517|0.517|0.517|0.517|0.517
+Reverse|3.974|3.974|3.974|3.974|3.974|3.974
+Final Drive|4.167|4.167|4.167|4.167|4.167|4.167
+EPA Mileage Ratings/Fuel "> ">
+EPA MPG Ratings(City/ Hwy / Combined)|19 / 25 / 21|19 / 25 / 21|18 / 22 / 20|18 / 22 / 20|18 / 22 / 20|18 / 22 / 20
+Fuel Tank Capacity (U.S. gal.)|18.5|18.5|18.5|18.5|18.5|18.5
+Recommended Fuel|Regular Unleaded|Regular Unleaded|Regular Unleaded|Regular Unleaded|Regular Unleaded|Regular Unleaded
+Body/Suspension/Chassis
+Integrated Drive Modes|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand|Normal / Econ / Sport / Snow / Tow / Trail / Sand
+Unit-Body Construction|Std|Std|Std|Std|Std|Std
+Underbody Skid Plate|-|-|Std|Std|Std|Std
+MacPherson Strut Front Suspension|Std|Std|Std|Std|Std|Std
+Multi-Link Rear Suspension|Std|Std|Std|Std|Std|Std
+Off-Road Tuned Suspension|-|-|Std|Std|Std|Std
+Agile Handling Assist®|Std|Std|Std|Std|Std|Std
+Electric Power-Assisted Rack-and-Pinion Steering (EPS)|Std|Std|Std|Std|Std|Std
+Stabilizer Bar (mm) (Front / Rear)|25 x 4.5 (tubular) / 24.7 x 4.7 (tubular)|25 x 4.5 (tubular) / 24.7 x 4.7 (tubular)|24.2 x 4.5 (tubular) / 17 (solid)|24.2 x 4.5 (tubular) / 17 (solid)|24.2 x 4.5 (tubular) / 17 (solid)|24.2 x 4.5 (tubular) / 17 (solid)
+Steering Wheel Turns, Lock-to-Lock|3.13|3.13|3.13|3.13|3.13|3.13
+Steering Ratio|15.6:1|15.6:1|15.6:1|15.6:1|15.6:1|15.6:1
+Turning Diameter, Curb-to-Curb (ft.)|39|39|39|39|39|39
+Power-Assisted Ventilated Front Disc / Solid Rear Disc Brakes (inches)|13.8 / 13.0|13.8 / 13.0|13.8 / 13.0|13.8 / 13.0|13.8 / 13.0|13.8 / 13.0
+Wheels|18 in Shark Gray Alloys|18 in Shark Gray Alloys|18 in Matte Shark Gray Alloys|18 in Black Alloys|18 in Berlina Black Machine Face Alloys|18 in Black Alloys
+Black Lug Nuts|-|-|Std|Std|Std|Std
+All-Season Tires|265 / 60R18 110H|265 / 60R18 110H|-|-|-|-
+All-Terrain Tires|-|-|275 / 60R18 113T|275 / 60R18 113T|275 / 60R18 113T|275 / 60R18 113T
+Compact Spare Tire|T155 / 85D18 115M|T155 / 85D18 115M|T155 / 85D18 115M|T155 / 85D18 115M|T155 / 85D18 115M|T155 / 85D18 115M
+Dimensions
+Exterior||||||
+Length (in.)|191.5|191.5|191.5|191.5|191.5|191.5
+Width (in.)|79.4|79.4|79.4|79.4|79.4|79.4
+Height (in.)|73.1|73.1|74.5|74.5|74.5|74.5
+Wheelbase (in.)|113.6|113.6|113.8|113.8|113.8|113.8
+Track (in.) (Front / Rear)|68.0 / 68.2|68.0 / 68.2|68.2 / 68.5|68.2 / 68.5|68.2 / 68.5|68.2 / 68.5
+Ground Clearance (in.) (unladen)|8.3|8.3|9.6|9.6|9.6|9.6
+Approach/Departure Angles (deg.)|23.0 / 27.1|23.0 / 27.1|25.4 / 25.3|25.4 / 25.3|25.4 / 25.3|25.4 / 25.3
+Interior||||||
+Headroom (in.) (First row / Second row)|40.5 / 40.7|40.5 / 40.7|39.1 / 39.6|39.1 / 39.6|39.1 / 39.6|39.1 / 39.6
+Legroom (in.) (First row / Second row)|41.1 / 40.9|41.1 / 40.9|41.1 / 40.9|41.1 / 40.9|41.1 / 40.9|41.1 / 40.9
+Shoulder Room (in.) (First row / Second row)|61.9 / 61.7|61.9 / 61.7|61.9 / 61.7|61.9 / 61.7|61.9 / 61.7|61.9 / 61.7
+Hiproom (in.) (First row / Second row)|58.3 / 57.4|58.3 / 57.4|58.3 / 57.4|58.3 / 57.4|58.3 / 57.4|58.3 / 57.4
+EPA Passenger Volume (cu ft.)|119.1|119.1|115.4|115.4|115.4|115.4
+Cargo Volume (cu ft.) (Behind Second Row)|44|44|44|44|44|44
+Cargo Volume (cu ft.) (Behind First Row, Standard / Max)|83.8 / 104.6|83.8 / 104.6|83.2 / 104.4|83.2 / 104.4|83.2 / 104.4|83.2 / 104.4
+Weight||||||
+Curb Weight (lbs.)|4,478|4,478|4,676|4,676|4,705|4,705
+Weight Distribution (%) (Front / Rear)|58.6 / 41.4|58.6 / 41.4|57.9 / 42.1|57.9 / 42.1|57.8 / 42.2|57.8 / 42.2
+Towing Capacity (lbs.)|5,000|5,000|5,000|5,000|5,000|5,000
+Honda Sensing® Driver-Assistive Features
+Collision Mitigation Braking System™ (CMBS™) with Advanced Pedestrian Detection|Std|Std|Std|Std|Std|Std
+Road Departure Mitigation System (RDM)|Std|Std|Std|Std|Std|Std
+Forward Collision Warning (FCW)|Std|Std|Std|Std|Std|Std
+Lane Departure Warning (LDW)|Std|Std|Std|Std|Std|Std
+Lane Keeping Assist System (LKAS)|Std|Std|Std|Std|Std|Std
+Adaptive Cruise Control (ACC) with Low-Speed Follow|Std|Std|Std|Std|Std|Std
+Traffic Sign Recognition System (TSR)|Std|Std|Std|Std|Std|Std
+Traffic Jam Assist|Std|Std|Std|Std|Std|Std
+Blind Spot Information System (BSI) with Lane Change Assist|Std|Std|Std|Std|Std|Std
+Cross Traffic Monitor (CTM)|Std|Std|Std|Std|Std|Std
+Low Speed Braking Control|Std|Std|Std|Std|Std|Std
+Driver Attention Monitor|Std|Std|Std|Std|Std|Std
+Auto High-Beam Headlights|Std|Std|Std|Std|Std|Std
+Parking Sensors (4 Front & 4 Rear)|Std|Std|Std|Std|Std|Std
+Safety & Driver Assistive Technology
+Advanced Compatibility Engineering™ (ACE™) Body Structure|Std|Std|Std|Std|Std|Std
+Advanced Front Airbags|Std|Std|Std|Std|Std|Std
+Front Side Airbags|Std|Std|Std|Std|Std|Std
+Side Curtain Airbags with Rollover Sensor|Std|Std|Std|Std|Std|Std
+Front Knee Airbags|Std|Std|Std|Std|Std|Std
+Lower Anchors and Tethers for CHildren (LATCH): Lower Anchors (2nd-Row All), Tether Anchors (2nd-Row All)|Std|Std|Std|Std|Std|Std
+Post-Collision Braking System|Std|Std|Std|Std|Std|Std
+Seat Belt Reminder for all Seating Positions|Std|Std|Std|Std|Std|Std
+Rear Seat Reminder (RSR)|Std|Std|Std|Std|Std|Std
+Anti-Lock Braking System (ABS)|Std|Std|Std|Std|Std|Std
+Vehicle Stability Assist® (VSA®) with Traction Control|Std|Std|Std|Std|Std|Std
+Electronic Brake Distribution (EBD)|Std|Std|Std|Std|Std|Std
+Brake Assist|Std|Std|Std|Std|Std|Std
+Rearview Camera|Std|Std|Std|Std|Std|Std
+Multiview Camera System|-|-|Std|Std|Std|Std
+Front Camera Washer|-|-|Std|Std|Std|Std
+Rear Camera Washer|-|-|Std|Std|Std|Std
+TrailWatch™|-|-|Std|Std|Std|Std
+Tire Pressure Monitoring System (TPMS) with Tire Fill Assist and Location and Pressure Indicators|Std|Std|Std|Std|Std|Std
+Driver Convenience
+Push Button Start|Std|Std|Std|Std|Std|Std
+Electronic Parking Brake with Brake Hold|Std|Std|Std|Std|Std|Std
+Key Fob Activated Remote Engine Start|Std|Std|Std|Std|Std|Std
+Auto Up/Down Power Windows|Std|Std|Std|Std|Std|Std
+One-Touch Turn Indicators|Std|Std|Std|Std|Std|Std
+Tilt and Telescopic Steering Column|Std|Std|Std|Std|Std|Std
+Sliding Sunvisor (Driver & Passenger)|Std|Std|Std|Std|Std|Std
+Rear-Window Defroster with Timer|Std|Std|Std|Std|Std|Std
+Capless Fuel Filler|Std|Std|Std|Std|Std|Std
+Illuminated Steering Wheel-Mounted Controls|Std|Std|Std|Std|Std|Std
+Automatic-Dimming Rearview Mirror|Std|Std|Std|Std|Std|Std
+Hill Start Assist|Std|Std|Std|Std|Std|Std
+Hill Descent Control|Std|Std|Std|Std|Std|Std
+Trailer Stability Assist|Std|Std|Std|Std|Std|Std
+Audio & Connectivity
+10.2-Inch Digital Instrument Cluster|Std|Std|Std|Std|Std|Std
+12.3-Inch Color Touchscreen|Std|Std|Std|Std|Std|Std
+Audio System with 9 Speakers, including Subwoofer|Std|Std|Std|Std|-|-
+Bose Premium Sound System with 12 Speakers, including Subwoofer|-|-|-|-|Std|Std
+Speed-Sensitive Volume Compensation (SVC)|Std|Std|Std|Std|Std|Std
+12-Volt Power Outlets (Front & Cargo)|Std|Std|Std|Std|Std|Std
+Wireless Apple CarPlay® Compatibility|Std|Std|Std|Std|Std|Std
+Wireless Android Auto™ Compatibility|Std|Std|Std|Std|Std|Std
+Alexa Built-In|Std|Std|Std|Std|Std|Std
+Google built-in (includes 3-Months Unlimited Data Plan for In-Vehicle Apps)|Std|Std|Std|Std|Std|Std
+Wireless Phone Charger (Qi)|Std|Std|Std|Std|Std|Std
+HD Radio™|Std|Std|Std|Std|Std|Std
+USB-C 3.0A Data Port - Front Console (1 Port)|Std|Std|Std|Std|Std|Std
+USB-C 3.0A Charging Port - Front Console (1 Port)|Std|Std|Std|Std|Std|Std
+USB-C 3.0A Charging Port - Rear Console (2 Ports)|Std|Std|Std|Std|Std|Std
+Honda Trail Experience™(HTX™)|-|-|Std|Std|Std|Std
+HondaLink®|Std|Std|Std|Std|Std|Std
+HondaLink® Connected Services|Std|Std|Std|Std|Std|Std
+Wi-Fi Hotspot Capability|Std|Std|Std|Std|Std|Std
+115-Volt Power Outlets (2nd Row and Rear Cargo)|-|-|Std|Std|Std|Std
+Interior Features
+5-Person Seating Capacity|Std|Std|Std|Std|Std|Std
+Leather and Cloth Seats|Std|Std|-|-|-|-
+Durable HondaTex and Cloth Seats with TrailSport Orange Stiching and Accents|-|-|Std|Std|-|-
+Perforated Leather with Contrast Stitching and Accents and Black Piping|-|-|-|-|Std|Std
+Heated Front Seats|Std|Std|Std|Std|Std|Std
+Ventilated Front Seats|-|-|-|-|Std|Std
+Driver's Seat with 10-Way Power Adjustment, including Memory and Power Lumbar Support|Std|Std|Std|Std|Std|Std
+Front Passenger's Seat with 4-Way Power Adjustment|Std|Std|Std|Std|Std|Std
+Rear Outboard Heated Seats|-|-|-|-|Std|Std
+60 / 40 Split-Folding 2nd-Row Seats|Std|Std|Std|Std|Std|Std
+Leather-Wrapped Steering Wheel|Std|Std|Std|Std|Std|Std
+Heated Steering Wheel|-|-|Std|Std|Std|Std
+Tri-Zone Automatic Climate Control System with Humidity Control and Air Filtration|Std|Std|Std|Std|Std|Std
+Illuminated Driver's and Front Passenger's Vanity Mirrors|Std|Std|Std|Std|Std|Std
+Front & Rear LED Map Lights|Std|Std|Std|Std|Std|Std
+Ambient LED Lighting - White|Std|Std|-|-|Std|Std
+Ambient LED Lighting - Amber|-|-|Std|Std|-|-
+Active Noise Cancellation™ (ANC)|Std|Std|Std|Std|Std|Std
+Active Sound Control|Std|Std|Std|Std|Std|Std
+Floor Mats|Std|Std|-|-|-|-
+TrailSport All-Season Floor Mats|-|-|Std|Std|Std|Std
+Cargo Bins with Hidden Storage Well|Std|Std|Std|Std|Std|Std
+Sunglasses Holder|Std|Std|Std|Std|Std|Std
+Lockable Glove Compartment|Std|Std|Std|Std|Std|Std
+Integrated Rear Door Sunshades|-|-|-|-|Std|Std
+Exterior Features
+LED Headlights with Auto-On / Off|Std|Std|Std|Std|Std|Std
+LED Bright White Daytime Running Lights (DRL)|Std|Std|-|-|-|-
+LED TrailSport Amber Daytime Running Lights (DRL)|-|-|Std|Std|Std|Std
+LED Taillights|Std|Std|Std|Std|Std|Std
+LED Fog Lights|-|-|Std|Std|Std|Std
+Amber Hood Lights|-|-|Std|Std|Std|Std
+Panoramic Moonroof with Tilt and Slide Function|-|-|Std|Std|Std|Std
+Acoustic Laminate Windshield|Std|Std|Std|Std|Std|Std
+Acoustic Laminate Front Side Glass|-|-|-|-|Std|Std
+Heated Wiper Zone|-|-|Std|Std|Std|Std
+Rear Privacy Glass|Std|Std|Std|Std|Std|Std
+Smart Entry with Walk Away Auto Lock® (Front Door and Tailgate)|Std|Std|Std|Std|-|-
+Smart Entry with Walk Away Auto Lock® (All Doors and Tailgate)|-|-|-|-|Std|Std
+Side Mirror Turn Indicator|-|-|Std|Std|Std|Std
+Security System|Std|Std|Std|Std|Std|Std
+Puddle Lights|-|-|-|-|Std|Std
+Power Liftgate|Std|Std|Std|Std|-|-
+Power Lift Tailgate with Hands Free Access and Walk Away Close|-|-|-|-|Std|Std
+Trailer Hitch (Class III) with Harness and Hitch Panel|-|Std|Std|Std|Std|Std
+Heated Side Mirrors|Std|Std|Std|Std|Std|Std
+Gloss Black Power Folding Side Mirrors|-|-|Std|Std|Std|Std
+Gloss Black Door Handles|Std|Std|Std|Std|Std|Std
+Black Honda Badges|-|-|-|Std|-|Std
+Black Front and Rear Skid Garnishes|-|-|-|Std|-|Std
+High Visibility Recovery Hooks|-|-|Std|Std|Std|Std
+Auto-Dimming Side Mirrors|-|-|-|-|Std|Std
+Active Shutter Grille|Std|Std|Std|Std|Std|Std
+Rain-Sensing Windshield Wipers|-|-|-|-|Std|Std
+Push-to-Release Fuel Filler Door|Std|Std|Std|Std|Std|Std
+Black Roof Rails|Std|Std|Std|Std|Std|Std

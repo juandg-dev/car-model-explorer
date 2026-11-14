@@ -1,0 +1,169 @@
+## civic-si-sedan | 2026 Civic Si Features & Specs | https://automobiles.honda.com/civic-si-sedan/specs-features-trim-comparison
+Si
+Starting at $31,495 BUILD
+Key Features
+Horsepower (SAE net @ rpm)|200 @ 6,000
+Bose Premium Sound System with 12 Speakers with Subwoofer|Std
+Wheels|18 in Matte Black Alloy
+Honda Sensing® Driver Assistive Features|Std
+Wireless Apple CarPlay® and Android Auto™ Compatibility|Std
+One-Touch Power Moonroof|Std
+Blind Spot Information System (BSI)|Std
+EPA MPG Ratings (City/Highway/Combined)|27 / 37 / 31
+Engineering
+Engine Type|In-Line 4-Cylinder with Turbocharger
+Boost Pressure (psi)|17.8
+Displacement (cc)|1,498
+Horsepower (SAE net @ rpm)|200 @ 6,000
+Torque (lb.-ft. @ rpm)|192 @ 1,800-5,000
+Redline (rpm)|6,600
+Bore and Stroke (mm)|73.0 / 89.5
+Compression Ratio|10.3:1
+Valve Train|16-Valve DOHC VTEC®
+Direct Fuel Injection|Std
+Direct Ignition System with Immobilizer|Std
+Idle Stop|Std
+CARB Emissions Rating|LEV4 ULEV50
+Transmission
+6-Speed Manual Transmission (6MT) with Rev-Match Control|Std
+1st|3.643
+2nd|2.080
+3rd|1.361
+4th|1.024
+5th|0.830
+6th|0.686
+Reverse|3.673
+Final Drive|4.350
+Lightweight Single-Mass Flywheel|Std
+Helical Limited-Slip Differential|Std
+Integrated LED Shift Light Indicator|Std
+EPA Mileage Ratings/Fuel "> ">
+EPA MPG Ratings (City/Highway/Combined)|27 / 37 / 31
+Fuel Tank Capacity (U.S gal.)|12.4
+Required Fuel|Regular Unleaded (Premium Recommended)
+Body/Suspension/Chassis
+Dynamic Drive Modes (Normal/Sport/Individual)|Std
+Active Sound Control (ASC)|Std
+MacPherson Strut Front Suspension|Std
+Multi-Link Rear Suspension|Std
+Dual-Pinion, Variable-Ratio Electric Power Steering (EPS)|Std
+Stabilizer Bar (mm) (front/rear)|27.0 x 4.5 (tubular) / 18.0 (solid)
+Steering Wheel Turns, Lock-to-Lock|2.17
+Steering Ratio|11.46:1
+Turning Diameter, Curb-to-Curb (ft.)|38.1
+Power-Assisted Ventilated Front Disc/Solid Rear Disc Brakes (in.) (front/rear)|12.3 / 11.1
+Wheels|18 in Matte Black Alloy
+Tires|235 / 40R18 91W All-Season
+Tire Repair Kit (TRK) with 24-Hour Assistance|Std
+Exterior Measurements
+Wheelbase (in.)|107.7
+Length (in.)|184.0
+Height (in.)|55.5
+Width (in.)|70.9
+Track (in.) (front/rear)|60.5 / 61.7
+Curb Weight (lbs.)|2,952
+Weight Distribution (%) (front/rear)|60 / 40
+Interior Measurements
+Headroom (in.) (front/rear)|37.6 / 37.1
+Legroom (in.) (front/rear)|42.3 / 37.4
+Shoulder Room (in.) (front/rear)|57.0 / 56.0
+Hiproom (in.)(front/rear)|54.3 / 48.9
+Cargo Volume (cu ft.)|14.1
+Passenger Volume (cu ft.)|96.6
+Honda Sensing® Driver-Assistive Features
+Honda Sensing® Technologies|
+Forward Collision Warning (FCW)|Std
+Collision Mitigation Braking System™ (CMBS™)|Std
+Lane Departure Warning (LDW)|Std
+Road Departure Mitigation System (RDM)|Std
+Lane Keeping Assist System (LKAS)|Std
+Adaptive Cruise Control (ACC)|Std
+Traffic Sign Recognition System (TSR)|Std
+Blind Spot Information System (BSI)|Std
+Rear Cross Traffic Monitor (CTM)|Std
+Auto High-Beam Headlights|Std
+Active Safety|
+Rearview Camera with Dynamic Guidelines|Std
+Vehicle Stability Assist™ (VSA®) with Traction Control|Std
+Anti-Lock Braking System (ABS)|Std
+Electronic Brake Distribution (EBD)|Std
+Brake Assist|Std
+Tire Pressure Monitoring System (TPMS)|Std
+Passive Safety|
+Advanced Compatibility Engineering™ (ACE™) Body Structure|Std
+Driver's and Front Passenger's Advanced Front Airbags (SRS)|Std
+Driver's and Front Passenger's Knee Airbags (SRS)|Std
+Driver's and Front Passenger's Front Side Airbags|Std
+Rear Outboard Passenger's Side Airbags|Std
+Side Curtain Airbags with Rollover Sensor|Std
+Front and Outboard Rear 3-Point Seat Belts with Automatic Tensioning System|Std
+Lower Anchors and Tethers for CHildren (LATCH): Lower Anchors (2nd-Row Outboard), Tether Anchors (2nd-Row All)|Std
+Child-Proof Rear Door Locks|Std
+Rear Seat Reminder (RSR)|Std
+Seat-Belt Reminder for all Seating Positions|Std
+Audio & Connectivity
+9-Inch Color Touchscreen|Std
+10.2-Inch Digital Instrument Cluster|Std
+Google built-in (includes 3-Years Unlimited Data Plan for In-Vehicle Apps)|Std
+Alexa Built-In|Std
+Bose Premium Sound System with 12 Speakers with Subwoofer|Std
+Bluetooth® HandsFreeLink®|Std
+Bluetooth® Streaming Audio|Std
+HondaLink®|Std
+HondaLink® Subscription Services|Std
+Speed-Sensitive Volume Compensation (SVC)|Std
+Radio Data System (RDS)|Std
+Wireless Apple CarPlay® Compatibility|Std
+Wireless Android Auto™ Compatibility|Std
+Wi-Fi Hotspot Capability|Std
+USB-C 3.0A Smartphone/Audio Interface (x2) - Front Seats|Std
+12-Volt Power Outlet (front)|Std
+HD Radio™|Std
+Comfort & Convenience
+Electric Parking Brake with Automatic Brake Hold|Std
+Security System with Remote Entry and Trunk Release|Std
+Leather-Wrapped Steering Wheel|Std
+Aluminum Shift Knob with Leather|Std
+Hill Start Assist|Std
+Cruise Control|Std
+One-Touch Turn Indicators|Std
+Tilt and Telescopic Steering Column|Std
+Stopwatch|Std
+Automatic Climate Control System|Std
+Power Windows with Auto-Up/Down Driver's and Front Passenger's Windows|Std
+Power Door Locks|Std
+Center Console with Armrest and Storage Compartment|Std
+Sliding Sunvisors|Std
+Electronic Remote Trunk Release|Std
+Map Lights|Std
+Red Ambient Light|Std
+Floor Mats|Std
+Rear-Window Defroster with Timer|Std
+Cargo Area Light|Std
+Illuminated Steering Wheel-Mounted Controls|Std
+Push Button Start|Std
+Driver's and Front Passenger's Illuminated Vanity Mirrors|Std
+Sport Pedals|Std
+Front Beverage Holders|Std
+Rear Seat Center Armrest with Beverage Holders|Std
+Door-Pocket Storage Bins (front/rear)|Std
+Black Headliner|Std
+Passenger-Side Seatback Pocket|Std
+Seating
+5-Person Seating Capacity|Std
+60/40 Split Fold-Down Rear Seatback|Std
+Heated Front Seats|Std
+Exterior Features
+LED Headlights with Auto-On/Off|Std
+LED Daytime Running Lights (DRL)|Std
+LED Brake, Side Marker and Taillights|Std
+One-Touch Power Moonroof with Tilt Feature|Std
+Fin-Type Roof-Mounted Antenna|Std
+Heated, Gloss Black Power Side Mirrors|Std
+Acoustic Laminate Windshield|Std
+Dual Chrome Exhaust Finishers|Std
+Gloss Black Decklid Spoiler|Std
+Smart Entry with Walk Away Auto Lock®|Std
+Variable Intermittent Windshield Wipers|Std
+Push-to-Release Fuel Filler Door|Std
+Capless Fuel Filler|Std

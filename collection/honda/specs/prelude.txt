@@ -1,0 +1,177 @@
+## prelude | 2027 Prelude Hybrid Features & Specs | https://automobiles.honda.com/prelude/specs-features-trim-comparison
+Hybrid|Hybrid Two-Tone
+Starting at $42,400 BUILD|Starting at $42,900 BUILD
+Key Features
+Total System Horsepower|200|200
+Honda S+ Shift|Std|Std
+EPA MPG Ratings (City/Highway/Combined)|46 / 41 / 44|46 / 41 / 44
+Dynamic Drive Modes|4-Mode Comfort / GT / Sport / Individual|4-Mode Comfort / GT / Sport / Individual
+Brembo® 4-Piston Aluminum Front Brake Calipers|Std|Std
+Wheels (in.)|19 x 8.5J Berlina Black Alloys|19 x 8.5J Berlina Black Alloys
+Bose Premium Sound System with 8 Speakers with Subwoofer|Std|Std
+Google built-in (includes 3-Months Unlimited Data Plan for In-Vehicle Apps)|Std|Std
+Engineering
+Engine Type|Atkinson In-Line 4-cylinder|Atkinson In-Line 4-cylinder
+Displacement (cc)|1,993|1,993
+Horsepower (SAE net @ rpm)|141 @ 6,000|141 @ 6,000
+Torque (lb.-ft. @rpm)|134 @ 4,500|134 @ 4,500
+Redline (rpm)|6,250|6,250
+Bore and Stroke (mm)|81 × 96.7|81 × 96.7
+Compression Ratio|13.9:1|13.9:1
+Valve Train|16-Valve DOHC Dual-VTC|16-Valve DOHC Dual-VTC
+Direct Fuel Injection|Std|Std
+AC Synchronous Permanent-Magnet Electric Motor (Horsepower @ rpm)|181 @ 5,000-6,000|181 @ 5,000-6,000
+Torque (lb.-ft. @ rpm)|232 @ 0-2,000|232 @ 0-2,000
+Two-Motor Hybrid System|Std|Std
+Total System Horsepower|200|200
+Direct Ignition System with Immobilizer|Std|Std
+CARB Emissions Rating|LEV4-SULEV30|LEV4-SULEV30
+Tune-up Interval|100k +/- Miles No Scheduled Tune-Ups|100k +/- Miles No Scheduled Tune-Ups
+Honda Maintenance Program 1yr / 12k miles|Std|Std
+Drivetrain
+Front-Wheel Drive|Std|Std
+Direct Drive Unit|Std|Std
+S+ Shift Alloy Paddle Shifters|Std|Std
+Ratio Range|Electric Motor: 2.455 Lock-up: 0.806|Electric Motor: 2.455 Lock-up: 0.806
+Reverse|2.455|2.455
+Final Drive|3.421|3.421
+Epa Mileage Ratings/Fuel "> ">
+EPA MPG Ratings (City/Highway/Combined)|46 / 41 / 44|46 / 41 / 44
+Fuel Tank Capacity (U.S. gal.)|10.6|10.6
+Required Fuel|Regular Unleaded|Regular Unleaded
+Body/Suspension/Chassis
+Dynamic Drive Modes|4-Mode Comfort / GT / Sport / Individual|4-Mode Comfort / GT / Sport / Individual
+Honda S+ Shift|Std|Std
+Active Sound Control (ASC)|Std|Std
+Active Noise Cancellation™ (ANC)|Std|Std
+Dual Axis MacPherson Strut Front Suspension|Std|Std
+Multi-Link Rear Suspension|Std|Std
+Adaptive Damper System|Std|Std
+Variable Ratio Electric Power-Assisted Rack-and-Pinion Steering (EPS)|Std|Std
+Stabilizer Bar (mm) (front/rear)|26.5 x 4.5 (tubular) / 18 (solid)|26.5 x 4.5 (tubular) / 18 (solid)
+Steering Wheel Turns, Lock-to-Lock|2.1|2.1
+Steering Ratio|11.3|11.3
+Turning Diameter, Curb-to-Curb (ft.)|38.0|38.0
+Agile Handling Assist|Std|Std
+Power-Assisted Ventilated Front Disc/Solid Rear Disc Brakes (in.) (front/rear)|13.8 / 12.0|13.8 / 12.0
+Electric Servo Brake|Std|Std
+Brembo® 4-Piston Aluminum Front Brake Calipers|Std|Std
+Wheels (in.)|19 x 8.5J Berlina Black Alloys|19 x 8.5J Berlina Black Alloys
+All-Season Tires|235 / 40R19 96V|235 / 40R19 96V
+Tire Repair Kit|Std|Std
+Dimensions
+Exterior||
+Wheelbase (in.)|102.6|102.6
+Length (in.)|178.4|178.4
+Height (in.)|53.4|53.4
+Width (in.)|74.0|74.0
+Track (in.) (front/rear)|64.0 / 63.5|64.0 / 63.5
+Interior||
+Headroom (in.) (front/rear)|37.2 / 33.1|37.2 / 33.1
+Legroom (in.) (front/rear)|42.3 / 32.0|42.3 / 32.0
+Shoulder Room (in.) (front/rear)|57.1 / 53.2|57.1 / 53.2
+Hiproom (in.) (front/rear)|54.2 / 48.7|54.2 / 48.7
+Cargo Volume (cu ft.)7|15.1|15.1
+Passenger Volume (cu ft.)|84.6|84.6
+Weight||
+Curb Weight (lbs.)|3,261|3,261
+Weight Distribution (%) (front/rear)|63 / 37|63 / 37
+Honda Sensing®
+Forward Collision Warning (FCW)|Std|Std
+Lane Departure Warning (LDW)|Std|Std
+Collision Mitigation Braking System™ (CMBS™)|Std|Std
+Road Departure Mitigation System (RDM)|Std|Std
+Lane Keeping Assist System (LKAS)|Std|Std
+Adaptive Cruise Control (ACC) with Low-Speed Follow|Std|Std
+Traffic Sign Recognition System (TSR)|Std|Std
+Traffic Jam Assist|Std|Std
+Blind Spot Information System (BSI)|Std|Std
+Rear Cross Traffic Monitor (CTM)|Std|Std
+Low Speed Braking Control|Std|Std
+Auto High-Beam Headlights|Std|Std
+Parking Sensors (4 Front & 4 Rear)|Std|Std
+Safety & Driver Assistive Technology
+Advanced Compatibility Engineering™ (ACE™) Body Structure|Std|Std
+Driver's and Front Passenger's Advanced Front Airbags (SRS)|Std|Std
+Driver's and Front Passenger's Knee Airbags (SRS)|Std|Std
+Driver's and Front Passenger's Front Side Airbags|Std|Std
+Rear Outboard Passenger's Side Airbags|Std|Std
+Side Curtain Airbags with Rollover Sensor|Std|Std
+Lower Anchors and Tethers for CHildren (LATCH): Lower Anchors (2nd-Row Outboard), Tether Anchors (2nd-Row All)|Std|Std
+Rearview Camera with Dynamic Guidelines|Std|Std
+Vehicle Stability Assist™ (VSA®)|Std|Std
+Anti-Lock Braking System (ABS)|Std|Std
+Post-Collision Braking System|Std|Std
+Brake Assist|Std|Std
+Electronic Brake Distribution (EBD)|Std|Std
+Tire Pressure Monitoring System (TPMS)|Std|Std
+Driver Convenience
+Electric Parking Brake with Automatic Brake Hold|Std|Std
+Push Button Start|Std|Std
+Security System with Remote Entry and Trunk Release|Std|Std
+Leather-Wrapped Flat Bottomed Steering Wheel|Std|Std
+Hill Start Assist|Std|Std
+Remote Engine Start|Std|Std
+Cruise Control|Std|Std
+One-Touch Turn Indicators|Std|Std
+Manual Tilt and Telescopic Steering Column|Std|Std
+Automatic-Dimming Rearview Mirror|Std|Std
+Variable Intermittent Windshield Wipers|Std|Std
+Rain Sensing Windshield Wipers|Std|Std
+Rear Seat Reminder (RSR)|Std|Std
+Seat-Belt Reminder for all Seating Positions|Std|Std
+Audio & Connectivity
+10.2-Inch Digital Instrument Cluster|Std|Std
+9-inch Color Touchscreen|Std|Std
+Google built-in (includes 3-Months Unlimited Data Plan for In-Vehicle Apps)|Std|Std
+Alexa Built-In|Std|Std
+Bose Premium Sound System with 8 Speakers with Subwoofer|Std|Std
+Bluetooth® HandsFreeLink®|Std|Std
+Bluetooth® Streaming Audio|Std|Std
+HondaLink®|Std|Std
+HondaLink® Connected Services|Std|Std
+Speed-Sensitive Volume Compensation (SVC)|Std|Std
+Radio Data System (RDS)|Std|Std
+Wireless Apple CarPlay® Compatibility|Std|Std
+Wireless Android Auto™ Compatibility|Std|Std
+Wi-Fi Hotspot Capability|Std|Std
+USB-C 3.0A Smartphone/Audio Interface (x1) - Front Seats|Std|Std
+USB-C 3.0A Charging Port (x1) Front Seats|Std|Std
+12-Volt Power Outlet (Front)|Std|Std
+HD Radio™|Std|Std
+Wireless Phone Charger (Qi)|Std|Std
+Interior Features
+4-Person Seating Capacity|Std|Std
+60/40 Split Fold-Down Rear Seatback|Std|Std
+Heated Front Seats|Std|Std
+Leather-Trimmed Front Sport Seats with Blue Accent Stitching|Std|Std
+Driver's Seat with 6-Way Manual Adjustment|Std|Std
+Front Passenger's Seat with 4-Way Manual Adjustment|Std|Std
+Dual-Zone Automatic Climate Control System|Std|Std
+Power Windows with Auto-Up/Down Driver's and Front Passenger's Windows|Std|Std
+Power Door Locks|Std|Std
+Center Console Armrest and Storage Compartment|Std|Std
+Sliding Sunvisors w/ Illuminated Vanity Mirror|Std|Std
+Map Lights|Std|Std
+White Ambient Light|Std|Std
+Floor Mats|Std|Std
+LED Cargo Area Light|Std|Std
+Illuminated Steering Wheel-Mounted Controls|Std|Std
+Front Beverage Holders|Std|Std
+Sport Pedals|Std|Std
+Black Headliner|Std|Std
+Driver & Passenger Seatback Pocket|Std|Std
+Sunglasses Holder|Std|Std
+Exterior Features
+LED Headlights with Auto-On/Off|Std|Std
+LED Daytime Running Lights (DRL)|Std|Std
+LED Brake, Side Marker and Taillights|Std|Std
+Rear Glass Infused Antenna|Std|Std
+Power Side Mirrors|Std|Std
+Heated Side Mirrors|Std|Std
+Black Mirror Covers|-|Std
+Black Roof|-|Std
+Side Mirrors with Integrated LED Turn Indicators|Std|Std
+Acoustic Laminate Windshield|Std|Std
+Smart Entry with Walk Away Auto Lock®|Std|Std
+Push-to-Release Fuel Filler Door|Std|Std

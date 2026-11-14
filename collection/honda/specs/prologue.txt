@@ -1,0 +1,170 @@
+## prologue | 2026 Prologue Features & Specs | https://automobiles.honda.com/prologue/specs-features-trim-comparison
+EX|Touring|Elite
+Starting at $39,900 BUILD|Starting at $44,200 BUILD|Starting at $50,400 BUILD
+Key Features
+Single Motor Front-Wheel Drive|Std|Std|-
+Dual Motor All-Wheel Drive|AWD Trim|AWD Trim|Std
+Range Rating (2WD/AWD)|296 miles / 281 miles|296 miles / 281 miles|- / 273 miles
+Horsepower (hp) (2WD/AWD)|220 / 300|220 / 300|- / 300
+DC Fast Charger Charge Time (Miles in 10 Minutes of charging) (2WD/AWD)|65 / 63|64 / 63|- / 62
+DC Fast Charge Time (20% to 80% state of charge, mins)|35|35|35
+Honda Sensing® Driver-Assistive Features|Std|Std|Std
+Google built-in|Std|Std|Std
+Wireless Apple CarPlay® Compatibility|Std|Std|Std
+Wireless Android Auto™ Compatibility|Std|Std|Std
+HondaLink® connected by OnStar|Std|Std|Std
+Engineering/Electric Drivetrain
+Single Motor Front-Wheel Drive|Std|Std|-
+Dual Motor All-Wheel Drive|AWD Trim|AWD Trim|Std
+Horsepower (hp) (2WD/AWD)|220 / 300|220 / 300|- / 300
+Torque (lb-ft) (2WD/AWD)|243 / 355|243 / 355|- / 355
+Max Towing Capacity (lbs)|1,500|1,500|1,500
+EV Range Rating/Charging Metrics
+Range Rating (miles) (2WD/AWD)|308 / 294|308 / 294|- / 283
+MPGe (City, Hwy, Combined) (2WD)|113 / 94 / 104|113 / 94 / 104|-
+MPGe (City, Hwy, Combined) (AWD)|108 / 90 / 99|108 / 90 / 99|104 / 87 / 95
+240-Volt AC Charge Time - Level 2 (Miles Per Hour of charging)|34.1|34.1|34.1
+DC Fast Charger Charge Time (Miles in 10 Minutes of charging) (2WD/AWD)|65 / 63|64 / 63|- / 62
+DC Fast Charge Time (20% to 80% state of charge, mins)|35|35|35
+Battery Capacity (kWh)|85|85|85
+Body/Suspension/Chassis
+Dynamic Drive Modes|Normal|Normal|Normal, Sport
+Multi-Link Front Suspension|Std|Std|Std
+Multi-Link Rear Suspension|Std|Std|Std
+Stabilizer Bar (mm, Front / Rear) (FWD)|35.7 x 5.4 (tubular) / 20.5 x 3.1 (tubular)|35.7 x 5.4 (tubular) / 20.5 x 3.1 (tubular)|-
+Stabilizer Bar (mm, Front / Rear) (AWD)|35.7 x 5.4 (tubular) / 19.0 (solid)|35.7 x 5.4 (tubular) / 19.0 (solid)|35.7 x 5.4 (tubular) / 19.0 (solid)
+Belt Drive Assist Electric Power Steering (EPS)|Std|Std|Std
+Steering Wheel Turns, Lock-to-Lock|3.5|3.5|3.5
+Steering Ratio (deg)|18.6|18.6|18.6
+Turning Diameter, Curb to Curb (ft.)|39.6|39.6|39.6
+Ventilated Front Disc/Solid Rear Disc Brakes (in.)|12.6 / 13.6|12.6 / 13.6|12.6 / 13.6
+Wheels|19 x 8.5|19 x 8.5|21 x 9.5
+Tires|255 / 60R19 109H|255 / 60R19 109H|275 / 45R21 107H
+Tire Repair Kit|Std|Std|-
+Self-Sealing Tires|-|-|Std
+Dimensions
+Exterior|||
+Length (in.)|192.0|192.0|192.0
+Width (in.)|78.3|78.3|78.3
+Height (in.) (2WD/AWD)|64.7 / 65.2|64.7 / 65.2|- / 65.2
+Wheelbase (in.)|121.8|121.8|121.8
+Track (in., Front / Rear)|66.1 / 66.3|66.1 / 66.3|66.1 / 66.3
+Ground Clearance (in., unladen) (2WD/AWD)|7.9 / 8.1|7.9 / 8.1|- / 8.1
+Approach / Departure Angles (deg) (2WD)|17.0 / 18.0|17.0 / 18.0|-
+Approach / Departure Angles (deg) (AWD)|17.4 / 18.3|17.4 / 18.3|17.4 / 18.3
+Interior|||
+Headroom (in., First row / Second row)|39.6 / 38.1|38.2 / 36.7|38.2 / 36.7
+Legroom (in., First row / Second row)|41.4 / 39.4|41.4 / 39.4|41.4 / 39.4
+Shoulder Room (in., First row / Second row)|59.4 / 57.6|59.4 / 57.6|59.4 / 57.6
+Hiproom (in., First row / Second row)|57.6 / 54.4|57.6 / 54.4|57.6 / 54.4
+EPA Passenger Volume (cu ft.)|111.7|107.8|107.8
+Rear Cargo Volume (cu ft.)8 (Seat Up / Seat Down)|25.2 / 57.7|23.7 / 54.5|23.7 / 54.5
+Weight|||
+Curb Weight (lbs) (2WD)|4,932|5,053|-
+Curb Weight (lbs) (AWD)|5,086|5,207|5,273
+Weight Distribution (% front/rear) (2WD)|55.9 / 44.1|55.4 / 44.6|-
+Weight Distribution (% front/rear) (AWD)|54.5 / 45.5|54 / 46|54.1 / 45.9
+Honda Sensing® Driver-Assistive Features
+Forward Collision Alert|Std|Std|Std
+Automatic Emergency Braking|Std|Std|Std
+Front Pedestrian Braking|Std|Std|Std
+Lane Keep Assist|Std|Std|Std
+Adaptive Cruise Control|Std|Std|Std
+Side Blind Zone Alert|Std|Std|Std
+Lane Change Alert|Std|Std|Std
+Rear Cross Traffic Alert|Std|Std|Std
+Rear Cross Traffic Braking|Std|Std|Std
+Blind Zone Steering Assist|Std|Std|Std
+Traffic Sign Recognition|(OnStar data package)|(OnStar data package)|(OnStar data package)
+Reverse Automatic Braking|Std|Std|Std
+Front & Rear Park Assist (4 Front & 4 Rear)|-|Std|Std
+Rear Park Assist|Std|-|-
+Rear Pedestrian Alert|-|-|Std
+Safety & Driver Assistive Technology
+Driver & Passenger Airbag System|Std|Std|Std
+Driver & Passenger Knee Airbag System|Std|Std|Std
+Front Side Airbag System|Std|Std|Std
+Side Curtain Airbag System|Std|Std|Std
+Seat-Belt Reminder for Front Seats|Std|Std|Std
+Seat-Belt Reminder for Rear Seats|Std|Std|Std
+Anti-Lock Braking System (ABS)|Std|Std|Std
+Tire Pressure Monitoring System (TPMS)|Std|Std|Std
+Driver Convenience
+Electronic Parking Brake (EPB) with Automatic Brake Hold|Std|Std|Std
+Auto-On/Off Headlight Operation|Std|Std|Std
+Auto High Beam Headlights|Std|Std|Std
+Regen Paddle|Std|Std|Std
+Key Fob Activated Remote Start|Std|Std|Std
+Key Card|-|-|Std
+Cruise Control|Std|Std|Std
+One-Touch Turn Indicators|Std|Std|Std
+Rear Seat Reminder (RSR)|Std|Std|Std
+Lower Anchors and Tethers for Children (LATCH): Lower Anchors (2nd-Row Outboard), Tether Anchors (2nd-Row All)|Std|Std|Std
+Surround Vision System|-|-|Std
+Compass|Std|Std|Std
+Charging Status Screen|Std|Std|Std
+Charging Status Indicator|Std|Std|Std
+Universal Remote System (Garage Door)|Std|Std|Std
+Digital Owner's Manual|Std|Std|Std
+Audio & Connectivity
+11-Inch Digital Instrument Cluster|Std|Std|Std
+11.3-Inch Color Touchscreen Display|Std|Std|Std
+Head-up Display (HUD)|-|-|Std
+Google built-in|Std|Std|Std
+Audio System with 6 Speakers|Std|-|-
+Bose Premium Audio System with 12 Speakers|-|Std|Std
+Wireless Apple CarPlay® Compatibility|Std|Std|Std
+Wireless Android Auto™ Compatibility|Std|Std|Std
+Bluetooth® Streaming Audio|Std|Std|Std
+USB-C Audio Interface with Charging Port - Front Console (2 port)|Std|Std|Std
+USB-C Charging Port - Rear (2 Ports)|Std|Std|Std
+SiriusXM®|Std|Std|Std
+Wi-Fi Hotspot Capability|Std|Std|Std
+Wireless Phone Charger|Std|Std|Std
+12V Accessory Socket - Front Console|Std|Std|Std
+12V Accessory Socket - Rear Cargo Area|Std|Std|Std
+110V Power Outlet - Rear Console|-|-|Std
+HondaLink connected by OnStar|Std|Std|Std
+Interior Features
+Power Windows with Auto Up/Down Driver & Passenger Window|Std|Std|Std
+Power Windows with Auto Down Rear Window|Std|Std|Std
+Illuminated Sunvisor Vanity (Driver & Passenger)|Std|Std|Std
+Driver & Passenger Heated Seat|Std|Std|Std
+Leather Seats|-|Std|Std
+Leather Steering Wheel|-|Std|Std
+Heated Steering Wheel|-|-|Std
+Driver's Seat with 10-way Power Adjustment with Power Lumbar Support|Std|Std|Std
+Driver's Seat with Two-Position Memory|-|Std|Std
+Passenger Seat with 6-way Manual Adjustment|Std|-|-
+Passenger Seat with 6-way Power Adjustment|-|Std|Std
+Ventilated Front Seats|-|-|Std
+Air Conditioning with Air-Filtration System|Std|Std|Std
+Dual Zone Climate Control|Std|Std|Std
+Instrument Panel Illumination|-|Std|Std
+Illuminated Footwells|-|-|Std
+Illuminated Beverage Holders|-|-|Std
+Illuminated Door Panels (Front & Rear)|-|-|Std
+Pushbutton Start / Stop|Std|Std|Std
+Column Mounted Electronic Gear Selector|Std|Std|Std
+Automatic-Dimming Rearview Mirror|-|Std|Std
+Map Lights|Std|Std|Std
+60/40 Split Rear Seats|Std|Std|Std
+Exterior Features
+LED Headlights|Std|Std|Std
+LED Front Turn Indicators|Std|Std|Std
+LED Daytime Runing Light (DRL)|Std|Std|Std
+LED Side Mirror Turn Indicator|Std|Std|Std
+LED Rear Turn Indicators|Std|Std|Std
+LED Foglights|-|Std|Std
+Heated Side Mirrors|Std|Std|Std
+Gloss Black Side Mirrors|Std|Std|Std
+Power Folding Sideview Mirrors|-|-|Std
+Automatic Dimming Sideview Mirrors|-|-|Std
+Panoramic Moonroof|-|Std|Std
+Power Tailgate with Hands Free Access|-|Std|Std
+Roof Rails|-|Std|Std
+Rain-Sensing Wipers|Std|Std|Std
+Heated Wiper Zone|-|-|Std
+Welcome Light (Door Mirrors)|-|-|Std
+Welcome Light (Rear Kick Sensor)|-|Std|Std
+Rear Privacy Glass|Std|Std|Std

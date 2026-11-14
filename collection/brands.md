@@ -5,7 +5,7 @@ The nightly run takes the first two brands that are Next or Queued, top to botto
 
 | # | Brand | Status | Models | Date | Notes |
 |---|---|---|---|---|---|
-| 1 | Honda | Done | 13 | 2026-11-14 | CR-V fuel-cell model not found in Build & Price. Civic Sedan Sport-L not published yet. |
+| 1 | Honda | Partial | 13 | 2026-11-14 | Options and Honda spec tables done. Missing: outside-source specs (crash ratings, EPA fuel cost, 0-60, warranty, plant) and Juan's review. |
 | 2 | Acura | Next | | | Likely shares Honda's system. |
 | 3 | Toyota | Queued | | | |
 | 4 | Lexus | Queued | | | |
@@ -47,3 +47,4 @@ The nightly run takes the first two brands that are Next or Queued, top to botto
 ## Run log
 
 - 2026-11-14: Honda collected (13 models, 65 trims). Collector verified against the saved files by checksum.
+- 2026-11-14: Honda spec tables collected (13 models) through the Downloads file route; checksum matched.

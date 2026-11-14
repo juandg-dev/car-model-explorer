@@ -32,5 +32,6 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 - Collected options data for all 13 current Honda models from Honda Build & Price: trims, prices, paints, packages, accessories and their rules.
 - Added `collection/`: the Honda collector script, one raw data file per model, checksums, a brand queue (`brands.md`) and a README explaining the format and the process.
 - Each saved file was checked against the collector's output by checksum.
-- Set up a nightly task to collect two more brands per night, in the order listed in `collection/brands.md`.
+- Collected Honda's spec tables for all 13 models (`collection/honda/specs/`) and added `collection/specs-map.js`, which maps them onto the project's spec fields for review.
+- Set up a nightly task for further brands, then paused it: Honda has to be complete first (outside-source specs and Juan's review are still open).
 - Design work on the options explorer is in progress on a design canvas, not in this repo yet.
