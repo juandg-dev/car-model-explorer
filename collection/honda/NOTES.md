@@ -17,5 +17,8 @@ Source: Honda Build & Price data, automobiles.honda.com, read Nov 14, 2026.
 - Honda's spec pages group 2WD and AWD under one trim, so the trim columns differ from the options files. Values such as curb weight appear as separate 2WD and AWD rows.
 - The Civic Sedan mapping was compared with Juan's reviewed sheet: dimensions, weights, fuel tank and MPG match.
 - Not on Honda's page for any model: gross vehicle weight rating and payload (except Ridgeline), and for most cars ground clearance or passenger volume. They are left empty.
-- **Still to research for all 13 models:** NHTSA rating, IIHS award, EPA annual fuel cost, 0-60, top speed, warranty, assembly plant, generation.
+- **Outside sources collected Nov 14, 2026** (`specs/outside-sources.json`): NHTSA ratings (NHTSA API), EPA annual fuel cost (fueleconomy.gov web service), IIHS 2026 awards, warranty, assembly plant.
+- NHTSA and EPA now list the 2027 Civic Sedan (5 stars overall; $1,650 gas, $1,200 hybrid). The reviewed Civic sheet still says "Coming soon" for both and needs updating. The 2027 Civic Sedan Sport has no EPA entry yet.
+- Honda News says Civic Si production pauses after the 2026 model year.
+- **Still to research:** 0-60 and top speed for all 13 models, generation / redesign year, the assembly plant for the Civic Si and the Prologue, and the Prologue's powertrain warranty term.
 

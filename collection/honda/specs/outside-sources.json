@@ -1,0 +1,265 @@
+{
+ "read": "Nov 14, 2026",
+ "nhtsa": {
+  "source": "NHTSA 5-Star Safety Ratings API, api.nhtsa.gov/SafetyRatings",
+  "note": "overall / frontal / side / rollover, by NHTSA model year entry",
+  "civic-sedan": [
+   "2027 Civic Sedan (gas): 5 overall (frontal 4, side 5, rollover 5)",
+   "2027 Civic Sedan Hybrid: 5 overall (frontal 4, side 5, rollover 5)"
+  ],
+  "civic-hatchback": [
+   "2027 Civic Hatchback (gas): 5 overall (frontal 4, side 5, rollover 5)",
+   "2027 Civic Hatchback Hybrid: 5 overall (frontal 4, side 5, rollover 5)"
+  ],
+  "civic-si-sedan": [
+   "2026 Civic Sedan Si: 5 overall (frontal 4, side 5, rollover 5)"
+  ],
+  "civic-type-r": [
+   "2027 Civic Type R: overall Not Rated (rollover 5; frontal and side not rated)"
+  ],
+  "accord-sedan": [
+   "2026 Accord Sedan (gas): 5 overall (frontal 5, side 5, rollover 5)",
+   "2026 Accord Hybrid: 5 overall (frontal 5, side 5, rollover 5)"
+  ],
+  "prelude": [
+   "2027 Prelude: Not Rated"
+  ],
+  "hr-v": [
+   "2027 HR-V FWD: 5 overall (frontal 5, side 5, rollover 4)",
+   "2027 HR-V AWD: 5 overall (frontal 5, side 5, rollover 4)"
+  ],
+  "cr-v": [
+   "2027 CR-V FWD and AWD (gas): 5 overall (frontal 4, side 5, rollover 4)",
+   "2027 CR-V Hybrid FWD and AWD: 5 overall (frontal 4, side 5, rollover 4)"
+  ],
+  "passport": [
+   "2027 Passport RTL AWD: 5 overall (frontal 4, side 5, rollover 4)",
+   "2027 Passport TrailSport AWD: overall Not Rated (frontal 4, side 5, rollover not rated)"
+  ],
+  "pilot": [
+   "2026 Pilot FWD and AWD: 5 overall (frontal 4, side 5, rollover 4)"
+  ],
+  "odyssey": [
+   "2027 Odyssey: 5 overall (frontal 5, side 5, rollover 4)"
+  ],
+  "ridgeline": [
+   "2026 Ridgeline FWD and AWD: 5 overall (frontal 5, side 5, rollover 4)"
+  ],
+  "prologue": [
+   "2026 Prologue FWD: 5 overall (frontal 5, side 5, rollover 5)",
+   "2026 Prologue AWD: 5 overall (frontal 5, side 5, rollover 4)"
+  ]
+ },
+ "epa": {
+  "source": "EPA fueleconomy.gov web service, fueleconomy.gov/ws/rest/vehicle",
+  "note": "EPA annual fuel cost and city / highway / combined, by EPA entry",
+  "civic-sedan": [
+   "2027 Civic 4Dr 2.0 L (CVT): $1,650 per year (32 / 41 / 36 mpg)",
+   "2027 Civic 4Dr 2.0 L Hybrid: $1,200 per year (50 / 47 / 49 mpg)",
+   "2027 Sport gas (31 / 39 / 34 on Honda's page): no 2027 EPA entry yet; 2026 entry was $1,750"
+  ],
+  "civic-hatchback": [
+   "2027 Civic 5Dr 2.0 L (CVT): $1,750 per year (30 / 38 / 34 mpg)",
+   "2027 Civic 5Dr 2.0 L Hybrid: $1,300 per year (50 / 44 / 47 mpg)"
+  ],
+  "civic-si-sedan": [
+   "2026 Civic 4Dr 1.5 L Turbo, 6-speed manual: $2,400 per year (27 / 37 / 31 mpg), premium gasoline"
+  ],
+  "civic-type-r": [
+   "2027 Civic 5Dr 2.0 L Turbo, 6-speed manual: $3,150 per year (22 / 28 / 24 mpg), premium gasoline"
+  ],
+  "accord-sedan": [
+   "2026 Accord 1.5 L Turbo: $1,900 per year (29 / 37 / 32 mpg)",
+   "2026 Accord SE 1.5 L Turbo: $1,950 per year (28 / 36 / 31 mpg)",
+   "2026 Accord Hybrid: $1,250 per year (51 / 44 / 48 mpg)",
+   "2026 Accord Hybrid Sport/Touring: $1,350 per year (46 / 41 / 44 mpg)"
+  ],
+  "prelude": [
+   "2027 Prelude: $1,350 per year (46 / 41 / 44 mpg)"
+  ],
+  "hr-v": [
+   "2027 HR-V FWD: $2,150 per year (26 / 32 / 28 mpg)",
+   "2027 HR-V AWD: $2,200 per year (25 / 30 / 27 mpg)"
+  ],
+  "cr-v": [
+   "2027 CR-V FWD 1.5 L Turbo: $2,000 per year (28 / 33 / 30 mpg)",
+   "2027 CR-V AWD 1.5 L Turbo: $2,050 per year (27 / 31 / 29 mpg)",
+   "2027 CR-V FWD 2.0 L hybrid: $1,500 per year (43 / 36 / 40 mpg)",
+   "2027 CR-V AWD 2.0 L hybrid: $1,600 per year (40 / 34 / 37 mpg)",
+   "2027 CR-V AWD TrailSport hybrid: $1,700 per year (38 / 33 / 35 mpg)"
+  ],
+  "passport": [
+   "2027 Passport AWD: $2,850 per year (19 / 25 / 21 mpg)",
+   "2027 Passport AWD TrailSport: $3,000 per year (18 / 22 / 20 mpg)"
+  ],
+  "pilot": [
+   "2026 Pilot FWD: $2,750 per year (19 / 27 / 22 mpg)",
+   "2026 Pilot AWD: $2,850 per year (19 / 25 / 21 mpg)",
+   "2026 Pilot AWD Touring/Elite/Black: $2,850 per year (19 / 25 / 21 mpg)",
+   "2026 Pilot AWD TrailSport: $3,000 per year (18 / 23 / 20 mpg)"
+  ],
+  "odyssey": [
+   "2027 Odyssey: $2,750 per year (19 / 28 / 22 mpg)"
+  ],
+  "ridgeline": [
+   "2026 Ridgeline AWD: $2,850 per year (18 / 24 / 21 mpg)",
+   "2026 Ridgeline AWD TrailSport: $3,000 per year (18 / 23 / 20 mpg)"
+  ],
+  "prologue": [
+   "2026 Prologue FWD: $750 per year (113 / 94 / 104 MPGe, 308 mi range)",
+   "2026 Prologue AWD Touring: $750 per year (108 / 90 / 99 MPGe, 294 mi range)",
+   "2026 Prologue AWD Elite: $800 per year (104 / 87 / 95 MPGe, 283 mi range)"
+  ]
+ },
+ "iihs": {
+  "source": "IIHS 2026 TOP SAFETY PICK list, iihs.org/ratings/top-safety-picks",
+  "note": "2026 awards; 2027 awards are not announced yet",
+  "civic-hatchback": [
+   "2026 TOP SAFETY PICK (listed for 2026-27 Civic hatchback)"
+  ],
+  "accord-sedan": [
+   "2026 TOP SAFETY PICK (listed for 2026 Accord)"
+  ],
+  "hr-v": [
+   "2026 TOP SAFETY PICK+ (listed for 2026-27 HR-V)"
+  ],
+  "passport": [
+   "2026 TOP SAFETY PICK+ (listed for the 2026 Passport only; the 2027 is not on the list)"
+  ],
+  "civic-sedan": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "civic-si-sedan": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "civic-type-r": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "prelude": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "cr-v": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "pilot": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "odyssey": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "ridgeline": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ],
+  "prologue": [
+   "Not on the 2026 TOP SAFETY PICK list"
+  ]
+ },
+ "warranty": {
+  "source": "Honda warranty page (automobiles.honda.com/pilot/warranty) and 2026 Honda Warranty Booklet (owners.honda.com)",
+  "note": "Honda states these for all new Honda vehicles; EV terms differ",
+  "civic-sedan": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "civic-hatchback": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "civic-si-sedan": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "civic-type-r": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "accord-sedan": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "prelude": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "hr-v": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "cr-v": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "passport": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "pilot": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "odyssey": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "ridgeline": [
+   "Basic: 3 years / 36,000 miles",
+   "Powertrain: 5 years / 60,000 miles",
+   "Corrosion: 5 years / unlimited miles"
+  ],
+  "prologue": [
+   "Basic: 3 years / 36,000 miles",
+   "High-voltage battery: 8 years / 100,000 miles (Honda Prologue page)",
+   "Powertrain term for the Prologue: not confirmed, Honda says EV terms differ"
+  ]
+ },
+ "plant": {
+  "source": "Honda News (hondanews.com): 2026 Digital FactBook, plant releases, Prelude press kit",
+  "note": "",
+  "civic-sedan": [
+   "Alliston, Ontario, Canada (from the reviewed Civic sheet; Honda News says the Civic Sedan hybrid is built at Alliston)"
+  ],
+  "civic-hatchback": [
+   "Indiana Auto Plant, Greensburg, Indiana"
+  ],
+  "civic-si-sedan": [],
+  "civic-type-r": [
+   "Yorii Plant, Japan (Honda says the Prelude is built on the same line as the Civic Type R)"
+  ],
+  "accord-sedan": [
+   "Marysville Auto Plant, Marysville, Ohio"
+  ],
+  "prelude": [
+   "Yorii Plant, Japan"
+  ],
+  "hr-v": [
+   "Celaya, Guanajuato, Mexico"
+  ],
+  "cr-v": [
+   "East Liberty Auto Plant, Ohio; Indiana Auto Plant, Greensburg; Alliston Auto Plant, Canada (hybrid is built at all three)"
+  ],
+  "passport": [
+   "Alabama Auto Plant, Lincoln, Alabama"
+  ],
+  "pilot": [
+   "Alabama Auto Plant, Lincoln, Alabama"
+  ],
+  "odyssey": [
+   "Alabama Auto Plant, Lincoln, Alabama"
+  ],
+  "ridgeline": [
+   "Alabama Auto Plant, Lincoln, Alabama"
+  ],
+  "prologue": []
+ }
+}
