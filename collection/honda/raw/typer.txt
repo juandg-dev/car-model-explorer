@@ -1,0 +1,35 @@
+#typer|Civic Type R|2027|civic-type-r|1295|sedan
+T;Civic Type R;48695;FL5G4VGW;suede-effect-fabric
+C;Championship White;NH-0;455;Red
+C;Sonic Gray Pearl;NH-877P;455;Red
+C;Boost Blue Pearl;B-637P;455;Red
+C;Meteorite Gray Metallic;NH-904M;0;Red
+I;Door Sill Trim – Illuminated;340;1.1;1;;;;27193
+E;Wing Spoiler – Carbon Fiber;2295;0.2;1;;;;27194
+E;Roof Rack;410;0.4;1;;;;27195
+I;Cargo Net;60;0.4;1;;;;27196
+I;Contoured High-Wall Carpet Floor Mats;199;0.1;1;5;;;27197
+I;All-Season Floor Mats;205;0.1;1;4;;;27198
+E;Car Cover;383;;1;;;;27200
+E;Protection Film Package;220;1.2;1;;;;27201
+E;Door Visors;236;0.5;1;;;;27202
+I;Rear Passenger Window Shades;195;0.5;1;;;;27203
+I;Cargo Tray Dividers;70;0.1;1;;11;;27204
+I;Cargo Tray;135;0.1;1;;;;27205
+I;Shift Knob;235;0.1;1;;;;27206
+I;Steering Wheel - Alcantara;417;0.7;1;;;;27207
+W;19-Inch Forged Alloy Wheels;3628;1.6;1;;;;27208
+I;First-Aid Kit;35;;1;;;;27209
+E;Ski/Snowboard Attachment;287;0.2;1;;2;;27210
+E;Surf/Paddleboard Attachment;173;0.2;1;;2;;27211
+E;Bike Attachment – Frame Mount;216;0.6;1;;2;;27212
+E;Kayak Attachment;270;0.2;1;;2;;27213
+E;Roof Basket;402;0.4;1;;2;;27215
+I;Sunshade;100;;1;;;;27216
+L;Engine Block Heater;92;1.4;1;;;;27218
+E;Wheel Locks Black;100;0.2;1;;;;27220
+E;Valve Stem Caps - Type R;25;0.1;1;;;;27221
+P;R Performance;5923;1.8;1;;;1,14;27224
+P;R Interior Driver's;984;1.9;1;;;12,0,13;27225
+P;R Protection Essentials;717;0.2;1;;;11,4,6;27226
+R;Interior:Seat Back Protector [menu: Seatback Protectors] $115 // Bolts - Roof Basket $10 // Premium Cabin Air Filter (L) $62 // Ash Tray $23 // All Season Protection II $435

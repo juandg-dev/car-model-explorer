@@ -1,0 +1,84 @@
+#passport|Passport|2027|passport|1595|suv
+T;RTL;45195;YF9H3VGXW;leather
+T;RTL Towing;45895;YF9H3VGYW;leather
+T;TrailSport;49995;YF9H5VKW;leather
+T;TrailSport Blackout;51495;YF9H5VKYW;leather
+T;TrailSport Elite;53695;YF9H8VKNW;leather
+T;TrailSport Elite Blackout;55195;YF9H8VKYW;leather
+C;Crystal Black Pearl;NH-731P;0;Black,Black,Black,Black,Black/Brown,Black/Brown
+C;Modern Steel Metallic;NH-797M;0;Black,Black,Black,Black,Black,Black
+C;Sonic Gray Pearl;NH-877P;455;Black/Gray,Black/Gray,Black,Black,Black/Gray,Black/Gray
+C;Platinum White Pearl;NH-883P;455;Black/Gray,Black/Gray,Black,Black,Black/Gray/Brown,Black/Gray/Brown
+C;Radiant Red Metallic II;R-580M;455;Black,Black,Black,Black,Black,Black
+C;Smoke Blue Pearl;B-642P;0;Gray,Gray,Black,Black,Gray,Gray
+C;Sunset Orange;YR-585;455;0,0,Black,Black,Black/Brown,Black/Brown
+C;Ash Green Metallic;G-545M;455;0,0,Black,Black,Black/Gray/Brown,Black/Gray/Brown
+E;Door Edge Guards;130;0.4;63;48;;;27029
+E;Front Scuff Plate;350;0.6;3;;;;27030
+E;Door Handle Film;60;0.4;63;;;;27031
+E;Door Visors;310;0.6;63;;;;27032
+I;All-Season Floor Mats – Passport;205;0.1;3;;;;27033
+I;Cargo Net;75;0.1;63;55,63;;;27035
+I;Under Cargo Organizer;100;;63;59;;;27038
+I;Cargo Organizer;134;;63;;;;27039
+I;Cargo Cover;155;0.1;63;55,63;;;27041
+I;Cargo Barrier;500;0.4;63;;;;27042
+I;Cargo Tray;135;0.1;63;;;;27043
+I;Heated Steering Wheel;550;1;3;;;;27044
+I;MOLLE Panel Set;160;0.3;63;58,64,67;;;27045
+E;Tent;417;;63;;;;27046
+I;Tailgate Table Shelf;425;0.5;63;58,64,67;;;27047
+W;18-in White Alloy Wheels;2228;1.6;63;16,17;;;27048
+W;18-in Rugged Black Alloy Wheels;1840;1.6;23;17,15;;;27049
+W;18-Inch Midnight Olive Drab Metallic Alloy Wheels;1840;1.6;63;16,15;;;27050
+E;Wheel Lug Nut Set – Black;216;0.3;23;;;;27051
+E;Wheel Locks - Black;100;0.2;63;;;;27052
+E;Wheel Locks - Chrome;100;0.2;63;;;;27053
+E;Valve Stem Caps – Chrome;25;0.1;63;22;;;27054
+E;Valve Stem Caps – Black;25;0.1;63;21;;;27055
+E;Trailer Hitch with Harness;255;;1;;;;27056
+F;Engine Block Heater;92;1.2;63;;;;27057
+I;Auto-Dimming Mirror Attachment;488.28;0.2;63;;;;27058
+I;Cargo Utility Light;100;0.1;63;58,64,67;;;27059
+E;Emblem – Passport, Gloss Black;165;0.3;63;;;;27060
+E;Emblem – H-Mark, Gloss Black;80;0.6;31;;;;27061
+E;Fender Emblems - HPD;120;0.3;63;64,67;;;27062
+E;Crossbars;260;0.3;63;31;;;27063
+E;Roof Platform;900;0.6;63;30,58,64,67;;;27065
+E;Ski/Snowboard Attachment;287;0.2;63;;30;;27066
+E;Surf/Paddleboard Attachment;173;0.4;63;;30;;27068
+E;Bike Attachment – Frame Mount;216;0.4;63;;30;;27070
+E;Bike Attachment – Fork Mount;195;0.4;63;;30;;27072
+E;Kayak Attachment;270;0.4;63;;30;;27074
+E;Roof Basket;402;0.4;63;;30;;27076
+E;Tube-Step Running Boards;715;0.6;63;62;;;27078
+E;Trailer Hitch with Harness;345;1.4;1;;41,23;;27082
+E;Trailer Hitch Ball Mount;90;;63;59;;;27083
+E;Trailer Hitch with Harness;135;;1;;;;27084
+E;Trailer Hitch 1 7/8” Ball;27;;63;;;;27085
+E;Trailer Hitch 2” Ball;29;;63;59;;;27086
+E;Trailer Hitch Locking Pin;80;;63;;;;27087
+E;Splash Guard Set;135;0.5;63;;;;27088
+I;Door Sill Protection Film;110;0.4;63;55,63;;;27090
+E;Body Side Molding;150;0.4;63;;;;27091
+E;Door Edge Film;60;0.4;63;0;;;27092
+I;First-Aid Kit;35;;63;;;;27094
+I;Sunshade;120;;63;;;;27095
+P;All-Season Protection Package I;475;0.7;63;53,54,52;;10,45,4;27096
+P;Cargo Protection Package;455;0.4;63;53,54,51;;10,4;27097
+P;Protection Package;370;0.4;63;54,52,51;;20,10,45;27098
+P;All-Season Protection Package II;440;0.4;3;53,52,51;;20,10,4;27101
+F;Function Package;540;;3;5,46,8,56;;;27113
+F;Pet Protection Package;750;;63;55;;;27119
+F;Black Emblem Package;255;;23;;;;27124
+F;Adventure Package;1585;;63;26,12,14,31;;;27141
+F;Tow Package;220;;62;43,40,6;;;27109
+I;Full Size Spare Tire Kit;725;0.5;60;;;;27037
+P;Protection Package;370;0.8;60;;;19,10,45;27100
+E;Rock Sliders;865;0.6;60;38,64,67;;;27102
+F;Function Package;335;;60;5,46,8;;;27117
+F;HPD Adventure Package;2950;;20;65,26,29,12,14,62,31;;;27127
+E;Pantograph Jack Assembly;50;;60;64,67;62;;27136
+F;Black Emblem Package;180;;40;;;;27123
+F;HPD Adventure Package;2850;;56;65,26,29,12,14,62,31;;;27132
+R;Interior:Seatback Protector [menu: Seat Back Protectors] $115 // Premium Cabin Air Filter (L) $62 // Cupholder Ash Tray $29 // TPMS Sensor $108.2 // Roof Platform $800 // Cargo Light $100 // MOLLE Panels $160 // Cargo Net $70 // Door Sill Films $100 // Cargo Cover $155 // All Season Mats $180 // Seat Back Protector $110 // Cargo Barrier $480 // Cargo Tray $130 // Passport Insert $240 // H-Mark Emblems $80 // Table $300 // Roof Platform $900 // Towing Organzier $100 // Ball Mount $90 // 2" Ball Hitch $21 // Hood Decal $300 // Rock Sliders $850 // HPD Center Caps $400 // HPD Emblems $120 // Rock Sliders $850 // Cargo Shelf&Table $300 // Rock Sliders Jack $50

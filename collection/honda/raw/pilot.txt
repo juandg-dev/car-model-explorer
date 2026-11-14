@@ -1,0 +1,88 @@
+#pilot|Pilot|2026|pilot|1595|suv
+T;Sport 2WD;42395;YG2H3TEW;cloth
+T;Sport AWD;44495;YG1H3TEW;cloth
+T;EX-L 2WD;44695;YG2H4TENW;leather
+T;EX-L AWD;46795;YG1H4TENW;leather
+T;TrailSport;50595;YG1H6TJW;leather
+T;Touring;51295;YG1H7TKNW;leather
+T;Touring Blackout;52495;YG1H7TKYW;leather
+T;Elite;53695;YG1H8TKNW;leather
+T;Black Edition;55195;YG1H9TKNW;leather
+C;Crystal Black Pearl;NH-731P;0;Black,Black,Black,Black,Black,Black,Black,Black/Brown,Black
+C;Sonic Gray Pearl;NH-877P;455;Black,Black,Black,Black,Black/Brown,Black,Black,Black,Black
+C;Platinum White Pearl;NH-883P;455;Black,Black,Black/Gray,Black/Gray,Black,Black/Gray/Brown,Black/Gray/Brown,Black/Gray/Brown,Black
+C;Radiant Red Metallic II;R-580M;455;Black,Black,Black,Black,0,Black,Black,Black,Black
+C;Solar Silver Metallic;NH-932M;0;Black,Black,Gray,Gray,Black,Gray,Gray,Gray,Black
+C;Modern Steel Metallic;NH-797M;0;0,0,Black,Black,0,Black/Brown,Black/Brown,Black/Brown,0
+C;Smoke Blue Pearl;B-642P;0;0,0,Gray,Gray,Black,Gray,Gray,Brown,0
+C;Ash Green Metallic;G-545M;455;0,0,0,0,Black/Brown,0,0,0,0
+F;Function Package;750;;495;13,8,37;;;26010
+I;Cargo Barrier;490;0.4;511;48,46;;;26058
+I;Door Sill Trim – Illuminated;440;1.5;511;8;;;26059
+I;Seat Covers – 2nd Row;306;0.2;495;;;;26060
+E;Body Side Molding;265;0.4;511;;;;26061
+E;Door Visors;310;0.6;511;;;;26062
+E;Roof Basket;402;0.4;511;44;24;;26063
+F;Steering Wheel – Heated;550;0.8;111;;;;26065
+I;Door Sill Protection Film;110;0.4;511;2,0,60;;;26066
+I;Seat Covers – 1st-Row;306;0.2;127;;;;26067
+E;Bike Attachment - Fork Mount;195;0.4;511;;24;;26068
+E;Door Edge Guards;130;0.4;511;25;;;26069
+E;Lower Door Trim;410;0.5;511;;;;26070
+E;Rear Bumper Applique;100;0.2;511;0,60;;;26071
+E;Running Boards;615;0.7;511;33;;;26072
+I;Cargo Net;75;0.1;511;;;;26073
+I;Cargo Tray – Folding;135;0.1;511;46;;;26074
+E;Emblem – Rear H-Mark, Gloss Black;50;0.2;447;56,59,66;;;26076
+E;Valve Stem Caps – Black;25;0.1;511;27;;;26077
+F;Engine Block Heater;92;1.4;511;;;;26078
+I;Cargo Side Panel Protectors;115;0.7;511;;;;26079
+I;Seat Back Protectors;115;0.2;495;46;;;26081
+I;Cargo Organizer;134;0.1;511;;;;26083
+I;Seat Covers - 3rd Row;276;0.2;511;;;;26085
+E;Crossbars;261;0.2;511;44;;;26086
+E;Door Edge Film;60;0.4;511;11;;;26087
+E;Surf/Paddleboard Attachment;173;0.4;511;;24;;26088
+E;Valve Stem Caps – Chrome;25;0.1;511;18;;;26090
+W;20-Inch Machined-Finish Gloss Black Alloy Wheels;2160;1.6;495;43,55;;;26091
+E;Bike Attachment - Frame Mount;216;0.4;511;;24;;26092
+E;Door Handle Film;60;0.4;511;;;;26094
+E;Fender Flares;665;1;511;35;;;26095
+E;Kayak Attachment;270;0.4;511;;24;;26096
+E;Running Boards – Tube Step;745;0.7;511;14,45;;;26097
+E;Ski/Snowboard Attachment;287;0.2;511;;24;;26098
+E;Splash Guard Set;135;0.4;511;31;;;26099
+I;Logo Pattern Projector;205;1;511;;;;26101
+I;All-Season Floor Mats;275;0.1;495;0;;;26102
+E;Tent;417;;511;47,63,67;;;26104
+P;All-Season Protection Package I;525;0.6;495;40,54;;16,35,37;26200
+P;All-Season Protection Package II;490;0.4;387;39;;41,16,37;26201
+E;Wheel Locks – Black;100;0.2;511;;;;26203
+E;Trailer Hitch;400;1.2;495;47;;;26204
+W;20-Inch Machined-Finish Matte Black Alloy Wheels;1920;1.6;495;28,55;;;26207
+E;Roof Platform;900;0.6;511;24,6,45;;;26208
+F;Adventure Package;1645;;511;33,44;;;26214
+F;Pet Protection Package;750;;511;21,16,1,62;;;26219
+F;Towing Package;895;;15;42,38;;;26221
+I;Cargo Cover;306;0.1;511;1;;;26716
+I;First-Aid Kit;35;;511;;;;26915
+I;Sunshade;120;;511;;;;26917
+E;Wheel Locks – Chrome;100;0.2;172;;;;26064
+E;Wheel Lug Nut Set - Black;216;0.4;172;;;;26106
+F;Automatic-Dimming Rearview Mirror with HomeLink;488.28;0.2;12;;;;26113
+P;Protection Package;370;0.7;108;39;;51,16,35;26202
+W;18-Inch Black Alloy Wheels;1720;1.6;28;43,28;;;26211
+F;Black Emblem Package;175;;4;17,57;;;26215
+E;Emblem – Pilot, Gloss Black;120;0.3;172;56,59,66;;;26477
+E;Emblem – AWD, Gloss Black;36;0.2;168;59,66;;;26075
+F;Black Emblem Package;210;;8;58,17,57;;;26216
+F;Function Package;500;;16;13,8;;;26009
+I;Seat Covers - 2nd Row;306;0.2;16;;;;26084
+I;Seat Back Protectors;115;0.1;16;46;;;26107
+F;Towing Package;350;;16;38;;;26225
+E;Emblem – Touring, Gloss Black;58;0.1;32;66;;;26103
+E;Grille Trim;220;0.2;224;;;;26108
+F;Black Emblem Package;255;;160;58,17,64,57,68;;;26217
+F;Towing Package;1140;;480;38;;;26223
+E;Emblem – Elite, Gloss Black;55;0.2;128;66;;;26082
+R;ALL SEASON MAT $255 ppo // KIT, BALLMOUNT $76 ppo // KIT, CARGO COVER $306 ppo // KIT, DR SILL FILM $102 ppo // KIT, RR BPR APPLIQUE $82 ppo // KIT, TRAILER HITCH $339 ppo // All Season Mats $0 ppo // Cargo Cover $0 ppo // Premium Cabin Air Filter (L) $62 // Trailer Hitch Locking Pin $80 // Trailer Hitch $400 // Trailer Hitch Ball-2-in $29 // Trailer Hitch Ball Mount $90 // Trailer Hitch Ball-1 7/8-in $27 // Trailer Hitch Panel, Black $140 // Trailer Hitch Harness $261 // Wheels:H-Mark Center Caps, Silver [menu: 20-Inch Machined-Finish Matte Black Alloy Wheels] $80 // Cargo Tray $135 ppo // Hitch Harness $261 ppo // Hitch Panel $140 ppo // Roof Platform $900 ppo // Running Board $745 ppo // Seatback Protector $115 ppo // Separation Barrier $345 ppo // Cargo Protection Pkg $505 // Protection Pkg I - Blk Locks $370 // Ashtray-Cupholder Type $29 // Trailer Hitch Panel, Silver $140 // Black Badges $50 ppo // Black Badges $120 ppo // All Season Protection II $490 // Black Badges (AWD) $36 ppo // Seatback Protector $115 ppo // Trailer Hitch, HFA Adaptor $245 // Black Badges (PILOT) $120 ppo // Black Badges (Tourin $55 ppo // H/F Tailgate Adapter $245 ppo // Black Badges (ELITE) $45 ppo

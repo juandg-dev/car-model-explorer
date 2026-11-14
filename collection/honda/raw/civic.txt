@@ -1,0 +1,56 @@
+#civic|Civic Sedan|2027|civic-sedan|1295|sedan
+T;LX;24995;FE2F2VEW;cloth
+T;Sport;26995;FE2F8VEW;cloth
+T;Sport Hybrid;29695;FE4F8VJXW;cloth
+T;Sport Touring Hybrid;32695;FE4F9VKXW;leather
+C;Rallye Red;;0;Black,Black,Black,Black
+C;Crystal Black Pearl;;0;Black,Black,Black,Black
+C;Meteorite Gray Metallic;;0;Black,Black,Black/Gray,Black/Gray
+C;Solar Silver Metallic;;0;Black,Black,Black,Black
+C;Platinum White Pearl;;455;Black,Black,Black/Gray,Black/Gray
+C;Blue Lagoon Pearl;;455;Black,Black,Black/Gray,Black/Gray
+C;Urban Gray Pearl;;455;0,Black,Black,Black
+P;All Season Protection Package I;470;0.8;3;2,4;;28,18,40;
+P;All Season Protection Package I, Hybrid;470;0.8;12;3,4;;29,18,40;
+P;All Season Protection Package II;410;0.4;2;0,4;;28,40;
+P;All Season Protection Package II, Hybrid;410;0.4;12;1,4;;29,40;
+P;Protection Package;345;0.9;14;0,1,2,3;;18,40;
+W;18-in Black Coal Alloy Wheels;1600;1.6;14;;;;
+E;Body Side Molding;255;0.4;15;;;;
+E;Decklid Spoiler;360;0.7;7;;;;
+E;Decklid Spoiler, Touring;360;0.7;8;;;;
+E;Door Edge Film;60;0.5;15;10;;;
+E;Door Edge Guard;130;0.4;15;9;;;
+E;Door Handle Film;60;0.4;15;;;;
+E;Door Visors, Black;236;0.5;14;;;;
+E;Door Visors, Chrome;236;0.5;1;;;;
+E;Emblems, Front and Rear H-Mark and Civic, Gloss Black;135;1.2;1;15;;;
+E;Emblem, Front and Rear H-Mark, Gloss Black;80;1;15;14;;;
+E;Moonroof Visor;180;0.3;12;;;;
+E;Rear Bumper Applique;100;0.3;15;;;;
+E;Splash Guard Set;135;0.6;15;;;;
+E;Underbody Spoiler, Front;365;1;15;;;;
+E;Underbody Spoiler, Rear;330;0.8;15;;;;
+E;Underbody Spoiler, Side;420;1;15;;;;
+E;Valve Stem Caps, H-Mark, Black;25;0.1;15;23;;;
+E;Valve Stem Caps, H-Mark, Chrome;25;0.1;15;22;;;
+E;Wheel Locks (version 1);85;0.2;14;;;;
+E;Wheel Locks (version 2);85;0.2;14;;;;
+E;Wheel Locks, Black;100;0.2;14;;;;
+E;Wheel Lug Nut Set, Black;194;0.2;14;;;;
+I;All-Season Floor Mats;205;0.1;3;33;;;
+I;All-Season Floor Mats, Hybrid;205;0.1;12;;;;
+I;Ash Tray;23;;15;;;;
+I;Cargo Hook;15;0.2;15;;;;
+I;Cargo Net;60;0.4;15;;;;
+I;Contoured High Wall Carpet Floor Mat;200;0.1;3;28;;;
+I;Door Sill Protection Film;115;0.4;15;36;;;
+I;First Aid Kit;35;;15;;;;
+I;Illuminated Door Sill Trim;340;1.1;15;34;;;
+I;Premium Cabin Air Filter;62;0.2;15;;;;
+I;Rear Passenger Window Shade;195;0.5;15;;;;
+I;Sunshade;100;;15;;;;
+I;Trunk Tray;135;0.1;15;;;;
+I;Trunk Tray Dividers;70;0.1;15;;40;;
+L;Engine Block Heater;92;1.4;15;;;;
+R;

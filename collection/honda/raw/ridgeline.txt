@@ -1,0 +1,86 @@
+#ridgeline|Ridgeline|2026|ridgeline|1595|suv
+T;Sport;40795;YK3F1TEW;cloth
+T;RTL;43595;YK3F5TJNW;leather
+T;TrailSport;45995;YK3F6TKNW;leather
+T;TrailSport+HPD Wheels;47195;YK3F7TKNW;leather
+T;Black Edition;47395;YK3F8TKNW;leather
+T;Black Edition Two-Tone;47895;YK3F9TKNW;leather
+C;Crystal Black Pearl;NH-731P;0;Black,Black/Brown,Black,Black,Black,0
+C;Sonic Gray Pearl;NH-877P;455;Black,Black,Black,Black,Black,Black
+C;Platinum White Pearl;NH-883P;455;Black,Black/Gray/Brown,Black,Black,Black,Black
+C;Solar Silver Metallic;NH-932M;0;Black,Black,Black,Black,0,0
+C;Modern Steel Metallic;NH-797M;0;0,Black/Brown,Black,Black,0,0
+C;Radiant Red Metallic II;R-580M;455;0,Black/Brown,Black,Black,0,0
+C;Ash Green Metallic;G-545M;455;0,0,Black,Black,0,0
+E;HPD Lower Door Trim;470;0.5;63;;;;26002
+E;Kayak Attachment;270;0.4;63;;51,18;;26004
+E;Trailer Hitch 2" Ball;29;;63;;;;26005
+E;Bed Extender – Regular;373;0.5;63;41;;;26006
+E;Splash Guards – Front;70;0.2;63;13;;;26007
+E;Door Edge Guards;130;0.4;63;23;;;26008
+E;Truck-Bed Cargo Net;133;0.1;63;61,60,69,70;;;26009
+I;In-Bed Trunk Carpet;67;0.1;63;;;;26010
+I;Rear Underseat Storage System;156;0.1;63;;;;26011
+E;Roof Rails – Silver;572;0.4;63;18,65;;;26012
+E;Bike Attachment – Fork Mount;195;0.4;63;;51,18;;26013
+I;Door Sill Protection Film;118;0.4;63;61,60,69,70;;;26016
+E;Body Side Molding;265;0.4;63;;;;26017
+E;Fender Flares;679;1.5;63;4,30;;;26018
+W;18-Inch Machined-Finish Alloy Wheels;1836;1.6;55;47;;;26019
+E;Wheel Locks - Chrome;100;0.2;7;;;;26020
+I;Utility Hooks;46;0.1;63;61,60,69,70;;;26021
+I;First-Aid Kit;35;;63;;;;26023
+E;Roof Rails – Gloss Black;543;0.4;63;9,58,62;;;26024
+E;Bike Attachment – Frame Mount;216;0.4;63;;51,18;;26025
+E;Trailer Hitch Towing Kit;240;0.1;63;;;;26026
+E;Trailer Hitch 1 7/8" Ball;27;;63;;;;26027
+E;Mud Flap Set, HPD;153;0.6;51;;;;26028
+E;Door Edge Film;60;0.2;63;5;;;26029
+E;Door Handle Film;67;0.2;63;;;;26030
+E;Wheel Locks - Black;100;0.2;63;;;;26031
+E;Black Wheel Lug Nut Set;216;0.1;15;;;;26032
+E;Valve Stem Caps – Black;25;0.1;63;;;;26033
+I;Rear Seat Covers;306;0.2;63;;;;26034
+E;HPD Front Grille;357;1;63;;;;26035
+E;Splash Guards – Rear;70;0.2;63;13;;;26037
+I;In-Bed Trunk Cargo Tray;73;0.1;63;;;;26038
+L;Welcome Lights – Side;230;0.8;63;;;;26039
+L;Back-Up Sensors;287;0.5;3;;;;26040
+E;Roof Basket;402;0.4;63;;51,18;;26041
+I;In-Bed Trunk Cargo Net;75;0.2;63;;;;26043
+I;In-Bed Trunk Cargo Dividers;70;0.1;63;;;;26045
+I;Rear Underseat Cargo Tray;65;0.1;63;;;;26046
+E;Valve Stem Caps – Chrome;25;0.1;63;;;;26048
+I;All-Season Floor Mats;205;0.1;51;61,60;;;26049
+E;Surf/Paddle Board Attachment;173;0.4;63;;51,18;;26051
+E;Bed Extender – Motorcycle;373;0.5;63;3;;;26052
+E;Hood Protector;204;0.6;63;;;;26053
+E;Door Visors;310;0.6;63;;;;26055
+E;Emblem, Rear Ridgeline - Black;165;0.1;63;59,68;;;26056
+E;Ski/Snowboard Attachment;287;0.2;63;;51,18;;26057
+E;Oil Pan Guard;306;0.3;51;;;;26058
+W;18-Inch Black Alloy Wheels;1736;1.6;63;14;;;26059
+E;Bed Tent;383;;63;;;;26060
+E;Hard Cargo Area Cover;1199;0.4;63;60,70;;;26061
+L;Engine Block Heater;92;1;31;;;;26062
+E;Crossbars for Black Roof Rails;259;0.2;63;58,62,64,53;18;;26066
+E;Crossbars for Silver Roof Rails;259;0.2;63;64,57,53;9;;26067
+P;Adventure Package;4473.2;5.2;55;51,52,54,65,64,57;;51,29,18,13,14;26500
+P;All-Season Protection Package I;407;0.6;51;63,55,65,53;;37,4,30,39;26501
+P;All-Season Protection Package II;367;0.4;51;63,54,65,64;;37,15,39;26502
+P;Cargo Storage Package;1543;1;63;;;36,11,8,49;26503
+P;Outdoor Essentials Package II;2160;2.6;63;52,63,65,64,53;;51,18,13;26504
+F;Utility Package;800;;63;51,18,62;;;26505
+F;Tailgate Blackout Package;220;;61;44;;;26508
+F;Function+ Package;1700;;51;16,11,6,39,61,49;;;26509
+F;Function Package;500;;51;16,11,6,39,60;;;26510
+F;Utility+ Package;1480;;63;51,18,58;;;26521
+P;Protection Package;296;0.7;63;55,54,57;;4,30,36,15;26812
+P;Outdoor Essentials Package I;1685;1.7;63;51,52,55,65,57,53;;42,51,18;26888
+P;Rugged Utility Package;1028;0.8;63;55,54,9,64,57,53;;36,8,51,18;26890
+E;Emblem, Rear Honda - Gloss Black;51;0.2;2;68;;;26001
+E;Moonroof Visor;180;0.3;62;;;;26054
+F;Tailgate Blackout Package;250;;2;66,44;;;26511
+F;Function Package;300;;12;16,11,6,70;;;26506
+F;Function+ Package;1500;;12;16,11,6,69,49;;;26507
+R;Roof Crossbar $259 ppo // Exterior:Step Assist [menu: Running Boards - Black] $679 // Cupholder Ashtray $27 // Front Grille Attachment $12 // Exterior:Step Assist [menu: Running Boards with Lights] $786 // Premium Cabin Air Filter (XL) $62 // Back Up Sensors Attachment $287 // CARGO NET $133 ppo // DR SILL PROTCTN FILM $118 ppo // HIGH WALL ASM $204 ppo // ROOF RAILS, BLK $543 ppo // RR EMBLEM $164 ppo // RR EMBLEM HONDA $51 ppo // Step Assist $679 ppo // TONNEAU CVR $1199 ppo // UTILITY HOOK $46 ppo // Exterior:Mud Flaps, HPD [menu: Mud Flap Set, HPD] $153

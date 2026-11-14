@@ -1,0 +1,36 @@
+#prelude|Prelude|2027|prelude|1295|sedan
+T;Hybrid;42400;BF1D6VEW;leather
+T;Hybrid Two-Tone;42900;BF1D7VEW;leather
+C;Rallye Red;R-513;0;Black,0
+C;Crystal Black Pearl;NH-731P;0;Black,0
+C;Boost Blue Pearl;B-637P;455;Black/White,0
+C;Meteorite Gray Metallic;NH-904M;0;Black,0
+C;Winter Frost Pearl;NH-937P;655;Black/White,White
+W;19-Inch Gloss Black Machined-Finish Alloy Wheels;2156;1.6;3;;;;27001
+I;All-Season Floor Mats;205;0.1;3;;;;27002
+E;Gloss Black Emblems;175;1;3;;;;27003
+E;Car Cover;250;;3;;;;27004
+I;Cargo Tray;135;0.1;3;;;;27005
+E;Black Door Mirror Covers;80;0.6;1;;;;27006
+E;Door Visors;235;0.3;3;;;;27007
+L;Engine Block Heater;120;1.4;3;;;;27008
+I;Cargo Cover;150;0.1;3;;;;27009
+E;Underbody Spoiler – Front;350;1;3;;;;27010
+I;Illuminated Door Sill Trim;340;1;3;;;;27011
+I;Interior Illumination Kit;200;1.7;3;;;;27012
+E;Logo Pattern Projector;200;1.2;3;;;;27013
+E;Protection Film Package;220;0.7;3;;;;27015
+E;Rear Fender Protection Film;75;0.2;3;;;;27016
+I;Seat Back Protectors;150;0.2;3;;;;27017
+E;Splash Guard Set;135;0.4;3;;;;27018
+E;Tailgate Spoiler;500;1.2;3;;;;27020
+E;Valve Stem Caps – Black;25;0.1;3;;;;27021
+E;Valve Stem Caps – Chrome;25;0.1;3;;;;27022
+E;Wheel Locks – Black;100;0.2;3;;;;27023
+I;First-Aid Kit;35;;3;;;;27024
+P;Protection Package;370;0.7;3;24,23,25;;20,4,16;27025
+P;All-Season Protection Package I;470;0.6;3;22,24,25;;4,16,1;27026
+P;All-Season Protection Package II;435;0.4;3;22,23,25;;20,4,1;27027
+P;Cargo Protection Package;485;0.4;3;22,24,23;;4,15,1;27028
+I;Sunshade;100;;3;;;;27029
+R;Premium Cabin Air Filter (L) $62 // Summer Tire (Recommend) $1123.28

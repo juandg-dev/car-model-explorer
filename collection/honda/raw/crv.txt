@@ -1,0 +1,83 @@
+#crv|CR-V|2027|cr-v|1550|suv
+T;LX 2WD;31520;RS3H2VEW;cloth
+T;LX AWD;33020;RS4H2VEW;cloth
+T;EX 2WD;33550;RS3H4VJW;cloth
+T;EX AWD;35050;RS4H4VJW;cloth
+T;EX-L 2WD;35800;RS3H7VJW;leather
+T;EX-L AWD;37300;RS4H7VJW;leather
+T;Sport Hybrid 2WD;36030;RS5H5VESW;cloth
+T;Sport Hybrid AWD;37530;RS6H5VESW;cloth
+T;TrailSport Hybrid;39200;RS6H6VESW;cloth
+T;Sport-L Hybrid 2WD;39125;RS5H8VESW;leather
+T;Sport-L Hybrid AWD;40625;RS6H8VESW;leather
+T;Sport Touring Hybrid;42950;RS6H9VJSW;leather
+C;Crystal Black Pearl;NH-731P;0;Black,Black,Black/Gray,Black/Gray,Black/Gray,Black/Gray,Black,Black,Black,Black,Black,Black/Gray
+C;Platinum White Pearl;NH-883P;455;Gray,Gray,Black/Gray,Black/Gray,Black/Gray,Black/Gray,Black,Black,Black,Black,Black,Black/Gray
+C;Radiant Red Metallic;R-569M;455;Gray,Gray,Gray,Gray,Gray,Gray,Black,Black,Black,Black,Black,Black
+C;Meteorite Gray Metallic;NH-904M;0;Black,Black,Black/Gray,Black/Gray,Black/Gray,Black/Gray,Black,Black,0,Black,Black,Black/Gray
+C;Urban Gray Pearl;NH-912P;455;Black,Black,Black,Black,Black,Black,Black,Black,Black,Black,Black,Black
+C;Solar Silver Metallic;NH-932M;0;Black,Black,Black,Black,Black,Black,Black,Black,0,Black,Black,Black
+C;Canyon River Blue Metallic;B-640M;0;0,0,0,0,Black,Black,Black,Black,Black,Black,Black,Black
+C;Ash Green Metallic;G-545M;455;0,0,0,0,0,0,0,0,Black,0,0,0
+I;Interior Illumination;145;1.3;2047;;;;0027001
+I;Illuminated Door Sill Trim;340;1.5;4095;14;;;0027002
+I;Illuminated Cargo Sill Trim;255;0.6;4095;;;;0027003
+E;Tailgate Spoiler;345;0.6;4095;;;;0027005
+E;Emblems, Rear H-Mark and CR-V - Gloss Black;123;1.1;63;;;;0027006
+E;Emblem – HPD;117;0.1;4095;;;;0027007
+E;Front Lower Trim;360;1.5;63;;;;0027008
+E;Lower Door Trim;345;0.6;4095;;;;0027009
+E;Fender Emblems;120;0.2;4095;;;;0027010
+E;Roof Rails;435;0.5;63;;;;0027011
+E;Crossbars;290;0.3;4095;;9;;0027012
+E;Running Boards;600;1.5;4095;;;;0027013
+E;Trailer Hitch;412;1.2;4095;;;;0027014
+E;Splash Guard Set;135;0.4;4095;17;;;0027015
+I;Door Sill Protection Film;105;0.4;4095;1;;;0027016
+I;All-Season Floor Mats;205;0.1;3839;;;;0027024
+E;Door Edge Film;60;0.4;4095;44,17;;;0027025
+E;Fender Flares;440;1.2;4095;16,44,13;;;0027033
+I;Seat Back Protectors;115;0.2;4095;;;;0027034
+E;Hood Air Deflector;195;0.5;4095;;;;0027036
+E;Door Handle Film;60;0.4;4095;;;;0027037
+E;Door Visors;235;0.5;4095;;;;0027039
+I;Rear Passenger Window Shades;190;0.5;4095;;;;0027040
+I;Cargo Tray;135;0.1;4095;;;;0027041
+W;18-Inch HPD Bronze Alloy Wheels;1840;1.6;2047;27,25;;;0027045
+W;18-Inch Black Alloy Wheels;2232;1.6;2047;24,27;;;0027046
+I;Cargo Cover;192;0.1;4095;;;;0027047
+W;18-Inch Rugged Black Alloy Wheels;1840;1.6;2047;24,25;;;0027052
+I;Heated Steering Wheel;470;3.1;1791;;;;0027058
+E;Bike Attachment – Frame Mount;216;0.6;4095;;10,9;;0027070
+E;Kayak Attachment;270;0.2;4095;;10,9;;0027072
+E;Roof Basket;402;0.4;4095;;10,9;;0027073
+E;Ski/Snowboard Attachment;287;0.2;4095;;10,9;;0027075
+E;Surfboard Attachment;173;0.2;4095;;10,9;;0027076
+E;Tent;417;;4095;;;;0027077
+E;Valve Stem Caps – Black;25;0.1;4095;;;;0027080
+E;Valve Stem Caps – Chrome;25;0.1;4095;;;;0027081
+E;Wheel Locks – Black;100;0.2;4095;;;;0027082
+E;Wheel Locks – Chrome;85;0.2;4095;;;;0027083
+E;Wheel Lug Nuts Set – Black;194;0.4;4095;;;;0027084
+I;First Aid Kit;35;;4095;;;;0027085
+I;Cargo Net;70;0.1;4095;;;;0027086
+I;Cargo Organizer;134;0.1;4095;;;;0027087
+E;Body Side Molding;255;0.4;4095;;;;0027089
+E;Door Edge Guards;130;0.4;4095;16,17;;;0027090
+L;Parking Sensors;295;1.4;4095;;;;0027091
+L;Engine Block Heater;94;1.4;63;;;;0027092
+P;Protection Package;345;0.7;4095;49,48;;38,13,23;0027093
+P;All Season Protection Package I;474;0.6;4095;47,49;;13,23,15;0027100
+P;All Season Protection Package II;414;0.4;4095;47,48;;38,23,15;0027106
+I;Sunshade;100;;4095;;;;0027115
+P;Utility Package;1852;2.3;63;;;18,10,12,9,11;0027116
+P;HPD Package;1607;1.9;63;;;5,3,7,6,17;0027119
+E;Moonroof Visor;180;0.5;4092;;;;0027038
+I;Automatic-Dimming Mirror with HomeLink;250;0.2;3632;;;;0027044
+E;Emblem, Rear H-Mark - Gloss Black;50;0.9;4032;;;;0027053
+L;Engine Block Heater;120;1.5;4032;;;;0027062
+P;HPD Package;1247;1.9;4032;;;5,3,7,17;0027120
+P;Utility Package;1417;2;1728;;;18,10,12,11;0027123
+E;Trailer Hitch;205;0.1;2048;;;;0027043
+P;Utility Package;1622;2;2048;;;18,59,10,12,11;0027122
+R;Parking Sensor Attachment $300 // Trailer Hitch Harness $170 // Trailer Hitch Ball - 1 7/8-in $22 // Trailer Hitch Ball - 2-in $24 // Premium Cabin Air Filter (L) $62 // Engine Block Heater $120 // Parking Sensor Attachment (Hybrid) $300

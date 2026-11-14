@@ -1,0 +1,56 @@
+#prologue|Prologue|2026|prologue|1595|suv
+T;EX 2WD;39900;3B3H2TEXW;cloth
+T;EX AWD;42000;3B4H2TEW;cloth
+T;Touring 2WD;44200;3B3H6TJXW;leather
+T;Touring AWD;47000;3B4H6TJW;leather
+T;Elite;50400;3B4H8TJW;leather
+C;Mercury Silver Metallic;130H;0;Black,Black,Black/Gray,Black/Gray,Black/Gray
+C;Scarlet Red Metallic;170H;455;Black,Black,Black/Gray,Black/Gray,Black/Gray
+C;Pacific Blue Metallic;121J;455;Black,Black,Black/Gray,Black/Gray,Black/Gray
+C;Raven Black;8555;455;Black/Gray,Black/Gray,Black/Gray,Black/Gray,Black/Gray/Brown
+C;Frostline White Pearl;241L;455;Black/Gray,Black/Gray,Black/Gray,Black/Gray,Black/Gray/Brown
+C;North Shore Pearl;139P;455;0,0,Black/Gray,Black/Gray,Black/Gray
+C;Sonic Gray Pearl;138P;455;0,0,Black/Gray,Black/Gray,Black/Gray/Brown
+I;All-Season Floor Mats;205;0.1;31;;;;26001
+I;Cargo Cover;195;;31;;;;26003
+I;Cargo Tray;135;0.1;31;;;;26004
+I;Door Sill Protection Film;105;0.5;31;;;;26005
+I;First-Aid Kit;35;;31;;;;26006
+I;Rear Passenger Window Shades;180;0.5;31;;;;26007
+I;Seat Back Protectors;115;0.2;31;;;;26008
+W;19-Inch Gloss Black Alloy Wheels;1900;1.6;15;;;;26009
+E;Gloss Black Emblem – e:;37;0.1;31;;;;26011
+E;Gloss Black Emblem – Front H-Mark, Rear Honda & Prologue;135;0.7;31;;;;26012
+E;Door Edge Film;60;0.4;31;11;;;26013
+E;Door Edge Guard;130;0.4;31;10;;;26014
+E;Door Handle Film;60;0.4;31;;;;26015
+E;Door Visors;305;0.6;31;;;;26016
+E;Front Grille;300;2;31;;;;26017
+E;Mid-Door Trim;250;0.4;31;;;;26018
+E;Rear Bumper Applique;85;0.2;31;;;;26019
+E;Rear Lower Trim;250;1.5;31;;;;26021
+E;Side Lower Trim;400;1.2;31;;;;26022
+E;Splash Guard Set;135;1.5;31;;;;26023
+E;Tent;417;;31;;;;26024
+E;Trailer Hitch Ball Mount;50;;31;;;;26028
+E;Trailer Hitch with Harness;825;0.8;31;;17;;26030
+E;Valve Stem Caps – Black;25;0.1;31;;;;26031
+E;Valve Stem Caps – Chrome;25;0.1;31;;;;26032
+E;Wheel Locks - Black;175;0.2;31;;;;26033
+E;Wheel Locks - Chrome;125;0.2;31;;;;26034
+E;Wheel Lug Nut Set - Black;325;0.4;31;;;;26035
+F;Honda Home Charging Station 48;622.25;;31;;;;26036
+F;Honda NACS-CCS Adapter;225;;31;;;;26037
+P;Protection Package;395;1.8;31;;;26,2,19;26100
+F;Package 1: Home Charging Station;0;;31;;;;26401
+I;Sunshade;120;;31;;;;26902
+E;Gloss Black Emblem – AWD;37;0.1;26;;;;26010
+E;Bike Attachment – Fork Mount;195;0.4;28;;;;26039
+E;Bike Attachment – Frame Mount;216;0.4;28;;;;26040
+E;Gloss Black Emblem – Touring;58;0.1;12;;;;26041
+E;Fender Flares;650;1.2;28;;;;26043
+E;Front Lower Trim;400;1.8;28;;;;26044
+E;Roof Basket;402;0.4;28;;;;26045
+E;Ski/Snowboard Attachment;287;0.2;28;;;;26048
+E;Gloss Black Emblem – Elite;48;0.1;16;;;;26049
+R;Ashtray-cupholder Type $29 // Rear Lower Trim $250 // TPMS Sensors $63.4 // Trailer Hitch Ball 1-7/8-in $27 // Trailer Hitch Ball 2-in $29 // Trailer Hitch Locking Pin $80 // Package:All-Sea ProPkg I EX [menu: All-Season Protection Package I] $475 // Package:All-Sea ProPkg II EX [menu: All-Season Protection Package II] $465 // Factory:Charging Packages:PKG 2-Vehicle Discount [menu: Package 2: $500 Sales Credit] $0 // HHE Installation Credit $0 // Home Charging Station $0 // Vehicle Sales Credit $0 // Exterior:Roof Crossbar [menu: Crossbars] $325

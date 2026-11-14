@@ -1,0 +1,70 @@
+#odyssey|Odyssey|2027|odyssey|1595|suv
+T;EX-L;43195;RL6H6VJNW;honda-tex
+T;Sport-L;44295;RL6H7VJNW;honda-tex
+T;Touring;47895;RL6H8VKNW;leather
+T;Elite;52095;RL6H9VKNW;leather
+C;Crystal Black Pearl;NH-731P;0;Black,Black,Black,Black
+C;Modern Steel Metallic;NH-797M;0;Black/Gray,0,Black/Gray,Black/Gray
+C;Platinum White Pearl;NH-883P;455;Black/Gray,Black,Black/Brown,Black/Brown
+C;Radiant Red Metallic II;R-580M;455;Gray,Black,Gray,Gray
+C;Solar Silver Metallic;NH-932M;0;Black/Gray,0,Black/Gray,Black/Gray
+C;Smoke Blue Pearl;B-642P;0;Gray,0,Gray,Gray
+C;Sonic Gray Pearl;NH-877P;455;0,Black,Black,Black
+I;All-Season Floor Mats;270;0.1;15;52;;;27001
+I;Cargo Bins;446;0.1;15;;;;27002
+I;Cargo Net;60;0.1;15;52;;;27003
+I;Cargo Tray;135;0.1;15;;;;27004
+I;First-Aid Kit;35;;15;52;;;27005
+I;Folding Cargo Mat;115;0.1;15;;;;27006
+I;Heated Steering Wheel;446;0.8;7;;;;27007
+I;Illuminated Door Sill Trim – Front and Rear;642;2;15;;;;27009
+I;Interior Illumination;116;1.4;5;;;;27010
+I;Seat Covers – 2nd-Row;304;0.3;15;;;;27012
+I;Seat Covers – 3rd-Row;229;0.2;15;;;;27013
+I;Utility Bin;58;0.1;15;;;;27014
+E;Bike Attachment – Fork Mount;195;0.4;15;32,13,23,30,27;48,29;;27015
+E;Bike Attachment – Frame Mount;216;0.6;15;32,12,30,27;48,29;;27016
+E;Gloss Black Rear H-Mark and Odyssey Emblems;100;0.9;13;;;;27018
+E;Body Side Molding;260;0.4;15;;;;27020
+E;Door Edge Film;60;0.2;15;17;;;27022
+E;Door Edge Guards;75;0.3;15;16;;;27023
+E;Door Handle Film;60;0.4;15;;;;27024
+E;Door Trim – Chrome;380;0.4;15;;;;27025
+E;Door Visors;305;0.5;15;;;;27026
+E;Fender Emblems;124.95;0.2;15;;;;27027
+E;Hood Air Deflector;218;0.5;15;;;;27028
+E;Kayak Attachment;270;0.2;15;32,12,30,27;48,29;;27029
+E;Moonroof Visor;180;0.3;15;;;;27030
+E;Logo Pattern Projector;201;1.2;15;;;;27031
+E;Rear Bumper Protector - Chrome;229;0.8;15;;;;27032
+E;Roof Basket;402;0.4;15;32,12,13,23,30;48,29;;27033
+E;Roof Rails - Black;370;1;15;51,29,50,56;;;27034
+E;Roof Rails - Chrome;608;1;15;28,51,50,56;;;27035
+E;Ski/Snowboard Attachment;287;0.2;15;32,12,13,23,27;48,29;;27036
+E;Splash Guard Set;135;0.4;15;;;;27037
+E;Surf/Paddleboard Attachment;173;0.2;15;12,13,23,30,27;48,29;;27038
+E;Tent;417;;15;;;;27039
+E;Trailer Hitch Ball – 1 7/8”;22;;15;;;;27041
+E;Trailer Hitch Ball – 2”;24;;15;;;;27042
+E;Trailer Hitch Locking Pin;80;;15;;;;27044
+E;Valve Stem Caps – Black;25;0.1;15;;;;27045
+E;Valve Stem Caps – Chrome;25;0.1;15;;;;27046
+E;Welcome Lights;287;2.5;15;;;;27047
+E;Wheel Locks – Chrome;100;0.2;13;;;;27048
+L;Engine Block Heater;120;1;15;;;;27050
+L;Hands-Free Power Tailgate;210;0.2;7;;;;27051
+P;All-Season Protection Package I;540;0.6;15;52,44,45;;3,31,0;27054
+P;Protection Package;370;0.7;15;45,43;;40,3,31,54;27059
+P;All-Season Protection Package II;505;0.4;15;52,44,43;;40,3,0,54;27061
+E;Trailer Hitch;434;1.5;15;50,56;;;27062
+I;Sunshade;120;;15;;;;27063
+E;Crossbars for Chrome Roof Rails;224;;15;51,50,56;29;;27064
+E;Crossbars for Black Roof Rails;224;;15;51,50,56;28;;27065
+F;Utility+ Package;1030;;7;48,49,28,46,51,29;;;27067
+F;Utility Package;595;;15;48,49,28,29,50,56;;;27072
+F;Function Package;365;;15;4,2,0,45,43;;;27073
+E;Gloss Black Rear H-Mark Emblem;50;0.2;2;;;;27019
+E;Wheel Locks – Black;100;0.2;2;;;;27049
+E;Gloss Black Elite Emblem;45;0.3;8;;;;27017
+F;Utility+ Package;1145;;8;48,49,28,46,51,29;;;27070
+R;Heated Steering Wheel Switch Assembly $104 // Premium Cabin Air Filter (L) $62 // Trailer Hitch Harness $172 // Hands Free Power Tailgate Sensor Attachment $114 // Trailer Hitch - HFA Adapter $115 // Roof Rails $360 // Crossbars $215 // Trailer Hitch $425 // All Season Mat $264 // First Aid Kit $33 // Cargo Net_ $60 // H/F Tailgate Adapter $110

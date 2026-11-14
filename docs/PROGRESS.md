@@ -26,3 +26,11 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 - Decided: Claude writes the code, Juan directs and reviews; Supabase from day one instead of SQLite.
 - **Chose Honda as the first brand.**
 - Added `README.md`, `CLAUDE.md` (project rules), `.gitignore`, and this log.
+
+## November 14, 2026: Session 2 (options data, Honda)
+
+- Collected options data for all 13 current Honda models from Honda Build & Price: trims, prices, paints, packages, accessories and their rules.
+- Added `collection/`: the Honda collector script, one raw data file per model, checksums, a brand queue (`brands.md`) and a README explaining the format and the process.
+- Each saved file was checked against the collector's output by checksum.
+- Set up a nightly task to collect two more brands per night, in the order listed in `collection/brands.md`.
+- Design work on the options explorer is in progress on a design canvas, not in this repo yet.

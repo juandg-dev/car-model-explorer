@@ -1,0 +1,51 @@
+#civichb|Civic Hatchback|2027|civic-hatchback|1295|sedan
+T;Sport;28195;FL2H8VEW;cloth
+T;Sport Hybrid;30895;FL4H8VJXW;cloth
+T;Sport Touring Hybrid;33895;FL4H9VKZW;leather
+C;Rallye Red;R-513;0;Black,Black,Black
+C;Crystal Black Pearl;NH-731P;0;Black,Black,Black
+C;Platinum White Pearl;NH-883P;455;Black,Black/Gray,Black/Gray
+C;Boost Blue Pearl;B-637P;455;Black,Black/Gray,Black/Gray
+C;Meteorite Gray Metallic;NH-904M;0;Black,Black/Gray,Black/Gray
+C;Urban Gray Pearl;NH-912P;455;Black,Black,Black
+C;Solar Silver Metallic;NH-932M;0;Black,Black,Black
+C;Sand Dune Pearl;YR-662P;455;Black,Black,Black
+P;Protection Package;345;0.9;7;32,2,1;;33,9,21;27185
+P;All-Season Protection Package I;470;0.8;7;0,2;;9,21,14;27186
+P;All-Season Protection Package II;410;0.4;7;32,0,1;;33,21,14;27188
+I;Illuminated Door Sill Trim;340;1.1;7;11;;;27339
+E;Underbody Spoiler – Front;365;1;7;;;;27347
+E;Tailgate Spoiler;410;1.2;7;;;;27355
+E;Emblems, Front and Rear H-Mark – Gloss Black;80;0.7;7;;;;27356
+E;Roof Rack;410;0.4;7;37;;;27357
+I;Cargo Net;60;0.4;7;36;;;27358
+E;Splash Guard Set;135;0.6;7;;;;27359
+E;Rear Bumper Protector;100;0.1;7;;;;27360
+I;Door Sill Protection Film;115;0.4;7;3;;;27361
+E;Body Side Molding;255;0.4;7;;;;27369
+I;Contoured High-Wall Carpet Floor Mats;200;0.1;1;14;;;27370
+I;All-Season Floor Mats;205;0.1;7;13;;;27371
+E;Door Edge Film;60;0.5;7;16;;;27373
+E;Door Edge Guards;130;0.4;7;15;;;27381
+I;Seat Back Protectors;115;0.2;7;;;;27382
+E;Door Handle Film;60;0.4;7;;;;27383
+E;Door Visors;236;0.5;7;;;;27385
+I;Rear Passenger Window Shades;195;0.5;7;;;;27386
+I;Cargo Tray;135;0.1;7;36;;;27387
+W;18-Inch Black Coal Alloy Wheels;1600;1.6;7;;;;27388
+I;First-Aid Kit;35;;7;36;;;27389
+E;Ski/Snowboard Attachment;287;0.2;7;;7;;27390
+E;Surf/Paddleboard Attachment;173;0.2;7;;7;;27391
+E;Bike Attachment – Frame Mount;216;0.6;7;;7;;27392
+E;Kayak Attachment;270;0.2;7;;7;;27393
+E;Roof Basket;402;0.4;7;;7;;27395
+I;Sunshade;100;;7;;;;27396
+L;Engine Block Heater;92;1.4;7;;;;27398
+E;Wheel Lug Nut Set – Black;194;0.2;7;;;;27400
+E;Wheel Locks – Black;100;0.2;7;0,2;;;27401
+E;Wheel Locks – Chrome;85;0.2;7;;;;27402
+E;Valve Stem Caps – Chrome;25;0.1;7;35;;;27404
+E;Valve Stem Caps – Black;25;0.1;7;34;;;27405
+F;Cargo Package;230;;7;23,8,21;;;27406
+E;Moonroof Visor;180;0.3;6;7;;;27384
+R;Cargo Net $60 // First Aid Kit $33 // Bolts - Roof Basket $10 // Premium Cabin Air Filter (L) $62 // Ash Tray $23 // Wheel Lock Nut, Chrome $85 // Trunk Tray $124
