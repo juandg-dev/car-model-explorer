@@ -12,7 +12,7 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 
 | # | Brand | Status | Models | Date | Notes |
 |---|---|---|---|---|---|
-| 1 | Honda | Partial | 13 | 2026-11-14 | Options and Honda spec tables done. Missing: outside-source specs (crash ratings, EPA fuel cost, 0-60, warranty, plant) and Juan's review. |
+| 1 | Honda | Partial | 13 | 2026-11-14 | Options, spec tables and outside-source specs collected. Options data is in Supabase (13 models, 65 trims, 620 options). Missing: Juan's review, then the spec values and model details into Supabase. |
 | 2 | Acura | Next | | | Likely shares Honda's system. |
 | 3 | Toyota | Queued | | | |
 | 4 | Lexus | Queued | | | |
