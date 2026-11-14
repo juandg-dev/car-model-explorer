@@ -1,0 +1,189 @@
+## integra | 2026 Acura Integra Pricing & Specifications | https://www.acura.com/cars/integra/pricing-and-specs
+Integra|A-Spec Package|A-Spec w/Technology Package CVT|A-Spec w/Technology Package 6MT|Type S
+$33,400|$35,950|$39,200|$39,200|$53,900
+Pricing
+Starting Price|$33,400|$35,950|$39,200|$39,200|$53,900
+Powertrain
+Engine Type|In-Line 4-Cylinder with Turbocharger|In-Line 4-Cylinder with Turbocharger|In-Line 4-Cylinder with Turbocharger|In-Line 4-Cylinder with Turbocharger|In-Line 4-Cylinder with Turbocharger
+Engine Type: Displacement (liters)|1.5|1.5|1.5|1.5|2.0
+Engine Type: Boost Pressure (psi)|17.8|17.8|17.8|17.8|25.2
+Engine Type: Horsepower @ rpm (SAE net)|200 @ 6000|200 @ 6000|200 @ 6000|200 @ 6000|320 @ 6500
+Engine Type: Torque (lb-ft @ rpm)(SAE net)|192 @ 1800-5000|192 @ 1800-5000|192 @ 1800-5000|192 @ 1800-5000|310 @ 2600-4000
+Engine Type: Redline|6500 rpm|6500 rpm|6500 rpm|6500 rpm|7000 rpm
+Engine Type: Valvetrain|16-Valve, DOHC VTEC|16-Valve, DOHC VTEC|16-Valve, DOHC VTEC|16-Valve, DOHC VTEC|16-Valve, DOHC VTEC
+Engine Type: Bore and Stroke|73.0mm / 89.5mm|73.0mm / 89.5mm|73.0mm / 89.5mm|73.0mm / 89.5mm|86.0 mm / 85.9 mm
+Engine Type: Compression Ratio|10.3:1|10.3:1|10.3:1|10.3:1|9.8:1
+Fuel Injection|Direct|Direct|Direct|Direct|Direct
+Idle Stop|Std|Std|Std|Std|-
+CARB Emissions Rating|LEV3-SULEV30|LEV3-SULEV30|LEV3-SULEV30|LEV3-SULEV50|LEV3-ULEV50
+Acura Maintenance Program|1-year/12,000-mile|1-year/12,000-mile|1-year/12,000-mile|1-year/12,000-mile|1-year/12,000-mile
+Tune-Up Interval|100k +/- No Scheduled Tune-Ups|100k +/- No Scheduled Tune-Ups|100k +/- No Scheduled Tune-Ups|100k +/- No Scheduled Tune-Ups|100k +/- No Scheduled Tune-Ups
+Drivetrain: Front-Wheel Drive|Std|Std|Std|Std|Std
+Continuously Variable Transmission (CVT) with Paddle Shifters: Ratio Range|2.645 ~ 0.405|2.645 ~ 0.405|2.645 ~ 0.405|-|-
+Continuously Variable Transmission (CVT) with Paddle Shifters: Reverse|1.859 ~ 1.265|1.859 ~ 1.265|1.859 ~ 1.265|-|-
+Continuously Variable Transmission (CVT) with Paddle Shifters: Final Drive|5.048|5.048|5.048|-|-
+6-Speed Manual Transmission with Rev-Match Control: Gear Ratios (:1)|-|-|-|-|-
+6-Speed Manual Transmission with Rev-Match Control: 1st|-|-|-|3.643|3.625
+6-Speed Manual Transmission with Rev-Match Control: 2nd|-|-|-|2.080|2.115
+6-Speed Manual Transmission with Rev-Match Control: 3rd|-|-|-|1.361|1.529
+6-Speed Manual Transmission with Rev-Match Control: 4th|-|-|-|1.024|1.125
+6-Speed Manual Transmission with Rev-Match Control: 5th|-|-|-|0.830|0.911
+6-Speed Manual Transmission with Rev-Match Control: 6th|-|-|-|0.686|0.734
+6-Speed Manual Transmission with Rev-Match Control: Reverse|-|-|-|3.673|3.757
+6-Speed Manual Transmission with Rev-Match Control: Final Drive|-|-|-|4.353|3.842
+Light Weight Single-Mass Flywheel|-|-|-|Std|Std
+Helical Limited-Slip Differential|-|-|-|Std|Std
+EPA Fuel Economy Ratings(city / highway / combined)|29 / 37 / 32|29 / 37 / 32|29 / 37 / 32|26 / 36 / 30|21 / 28 / 24
+Recommended Fuel|Premium Unleaded 91 Octane|Premium Unleaded 91 Octane|Premium Unleaded 91 Octane|Premium Unleaded 91 Octane|Premium Unleaded 93 Octane
+Fuel Tank Capacity (U.S. gal)|12.4|12.4|12.4|12.4|12.4
+Chassis
+Integrated Dynamic System (IDS)|3-ModeComfort / Normal / Sport|3-ModeComfort / Normal / Sport|4-Mode Comfort / Normal / Sport / Individual|4-Mode Comfort / Normal / Sport / Individual|4-ModeComfort / Sport / Sport+ / Individual
+Adaptive Damper System (ADS)|-|-|Std|Std|Std
+Active Sound Control (ASC)|-|-|Std|Std|Std
+Active Exhaust Valve (AEV)|-|-|-|-|Std
+MacPherson Strut Front Suspension|Std|Std|Std|Std|-
+Dual AXIS Strut Front Suspension|-|-|-|-|Std
+Multi-Link Rear Suspension|Std|Std|Std|Std|Std
+Front Stabilizer Bar (mm)|27.0 x 4.5 (tubular)|27.0 x 4.5 (tubular)|27.0 x 4.5 (tubular)|27.0 x 4.5 (tubular)|29.0 x 5.0 (tubular)
+Rear Stabilizer Bar (mm)|17.5 (solid)|18.0 (solid)|18.0 (solid)|18.0 (solid)|20.5 (solid)
+Steering Variable Ratio Electric Power-Assisted Rack-and-Pinion Steering (EPS)|Std|Std|Std|Std|Std
+Steering Wheel Turns, Lock-to-Lock|2.29|2.17|2.17|2.17|2.11
+Steering Ratio|11.33:1|11.52:1|11.52:1|11.52:1|11.62:1
+Turning Diameter, Curb to Curb (ft)|38.1|38.1|38.1|38.1|39.7
+Electronic Parking Brake (EPB) with Automatic Brake Hold|Std|Std|Std|Std|Std
+Brembo 4-Piston Aluminum Front Brake Calipers|-|-|-|-|Std
+Front Disc Brakes Ventilated (inches)|12.3|12.3|12.3|12.3|13.8
+Rear Disc Brakes Solid (inches)|11.1|11.1|11.1|11.1|12.0
+Brake Disc Thickness (in.) (front/rear)|0.82 / 0.30|0.82 / 0.30|0.82 / 0.30|0.82 / 0.30|1.05 / 0.36
+Aluminum-Alloy Wheels|17-in Silver|18-in Black|18-in Black|18-in Black|19-in Shark Gray
+Tires|215/50 R17 91H All-Season|235/40 R18 91W All-Season|235/40 R18 91W All-Season|235/40 R18 91W All-Season|265/30 ZR19 93Y Summer
+Tire Repair Kit (TRK)|Std|Std|Std|Std|Std
+Curb Weight (lb)|3,084|3,109|3,150|3,073|3,219
+Weight Distribution (% front / rear)|61 / 39|61 / 39|61 / 39|60 / 40|62 / 38
+Exterior
+Access: Moonroof with Tilt and Slide Function|Std|Std|Std|Std|-
+Lighting: Jewel Eye LED Headlights|Std|Std|Std|Std|Std
+Lighting: ChicaneTM LED Daytime Running Lights (DRL)|Std|Std|Std|Std|Std
+Lighting: LED Fog Lights|-|Std|Std|Std|-
+Lighting: Auto-On/Off Headlight Operation with Wiper Compatibility|Std|Std|Std|Std|Std
+Lighting: Welcome Lights|-|-|Std|Std|Std
+Lighting: Chicane LED Taillights|Std|Std|Std|Std|Std
+Side mirrors: Heated|Std|Std|Std|Std|Std
+Side mirrors: LED Side Mirror-Integrated Directional Signals|-|-|Std|Std|Std
+Side mirrors: Reverse Gear Tilt Down|-|-|Std|Std|-
+A-Spec Aero Exterior Sport Appearance Package|-|Std|Std|Std|-
+Type S Exterior Sport Appearance Package|-|-|-|-|Std
+Gloss Black Spoiler|-|Std|Std|Std|Std
+Capless Fuel Fill|Std|Std|Std|Std|Std
+Wheelbase (in)|107.7|107.7|107.7|107.7|107.7
+Length (in)|185.8|185.8|185.8|185.8|186.0
+Width (in)|72.0|72.0|72.0|72.0|74.8
+Height (in)|55.5|55.5|55.5|55.5|55.4
+Front Track (in)|60.5|60.5|60.5|60.5|64.0
+Rear Track (in)|61.6|61.6|61.6|61.6|63.5
+Ground Clearance (unladen) (in)|5.1|5.1|5.1|5.1|4.0
+Approach Angle / Departure Angle (deg.)|13.5 / 16.6|13.5 / 16.6|13.5 / 16.6|13.5 / 16.6|10.9 / 13.5
+Interior
+Front Seats: Leatherette-Trimmed|Std|Std|-|-|-
+Front Seats: Microsuede-Trimmed with Exclusive Stitch|-|-|Std|Std|-
+Front Seats: Perforated Ultrasuede-Trimmed with Type S Embossed Head Restraints|-|-|-|-|Std
+Front Seats: Leather and Aluminum Shift Knob|-|-|-|-|Std
+Front Seats: 2-Position Driver's Seat Memory|-|-|Std|Std|-
+Front Seats: Front 8-way Power Driver's Seat|Std|Std|-|-|-
+Front Seats: Front 12-way Power Driver's Seat with Power Lumbar Support|-|-|Std|Std|Std
+Front Seats: Front 4-way Power Passenger's Seat|-|-|Std|Std|-
+Front Seats: Heated Front Seats|Std|Std|Std|Std|Std
+Rear Seats: 60/40 Split Fold-Down Rear Seatback|Std|Std|Std|Std|Std
+Dual Automatic Climate Control|-|-|Std|Std|Std
+Keys & Access: Keyless Access (System)|Std|Std|-|-|Std
+Keys & Access: Keyless Access (System) with Acura Personalized Settings|-|-|Std|Std|-
+Keys & Access: Smart Entry with Walk Away Auto Lock (Front Door and Tailgate)|Std|Std|Std|Std|Std
+Keys & Access: Pushbutton Ignition|Std|Std|Std|Std|Std
+Keys & Access: Key Fob Activated Remote Engine Start with Vehicle Feedback|-|-|Std|-|-
+Steering wheel: Leather-Wrapped|Std|Std|Std|Std|Std
+Steering wheel: Steering Wheel-Mounted Controls|Std|Std|Std|Std|Std
+Steering wheel: Tilt and Telescopic Steering Column|Std|Std|Std|Std|Std
+Sport Pedals|-|Std|Std|Std|Std
+A-Spec Interior Sport Appearance Package|-|Std|Std|Std|-
+Type S Interior Sport Appearance Package|-|-|-|-|Std
+Ambient LED Cabin Lighting|Std|Std|Std|Std|Std
+Ambient LED Door Accent|-|Std|Std|Std|Std
+Automatic-Dimming Frameless Rearview Mirror|Std|Std|Std|Std|Std
+Sunglasses Holder|Std|Std|Std|Std|Std
+Silver Painted Interior Trim|Std|-|-|-|-
+Metal Film Interior Trim|-|Std|Std|Std|-
+Dark Metal Film Interior Trim|-|-|-|-|Std
+12-Volt Power Outlet (Front Center Console)|Std|Std|Std|Std|Std
+Headroom: Front (in)|37.6|37.6|37.6|37.6|38.6
+Headroom: Rear (in)|36.4|36.4|36.4|36.4|36.4
+Legroom: Front (in)|42.3|42.3|42.3|42.3|42.3
+Legroom: Rear (in)|37.4|37.4|37.4|37.4|37.4
+Shoulder Room: Front (in)|57.0|57.0|57.0|57.0|57.0
+Shoulder Room: Rear (in)|56.0|56.0|56.0|56.0|56.0
+Hiproom: Front (in)|54.3|54.3|54.3|54.3|54.3
+Hiproom: Rear (in)|48.9|48.9|48.9|48.9|48.9
+EPA Passenger Volume (cu ft)|95.8|95.8|95.8|95.8|95.8
+EPA Cargo Area Volume (cu ft)|24.3|24.3|24.3|24.3|24.3
+Maximum Seating Capacity|5|5|5|5|4
+Audio & Connectivity
+Audio: Acura Premium Audio System|Std|Std|-|-|-
+Audio: ELS STUDIO 3D Premium Audio System|-|-|Std|Std|Std
+Audio: Speakers|8|8|16|16|16
+Audio: Bluetooth Streaming Audio|Std|Std|Std|Std|Std
+Audio: USB-A 2.5A Data Port (1) Front Seats|-|-|Std|Std|Std
+Audio: USB-C 3.0A Data Port (1) Front Seats|Std|Std|-|-|-
+Audio: USB-C 3.0A Charge only (1) Front Seats|Std|Std|Std|Std|Std
+Audio: USB-C 3.0A Charge only (2) Rear Seats|Std|Std|Std|Std|-
+Audio: Wireless Charging Pad (Qi)|Std|Std|Std|Std|Std
+Audio: SiriusXM Satellite Radio|-|-|Std|Std|Std
+Audio: HD Radio|-|-|Std|Std|Std
+9-inch Touchscreen Display|Std|Std|Std|Std|Std
+10.2-inch Digital Instrument Cluster|Std|Std|Std|Std|Std
+5.3-inch Head-Up Display (HUD)|-|-|Std|Std|Std
+Smartphone Interface: Wireless Apple CarPlay Compatibility|Std|Std|Std|Std|Std
+Smartphone Interface: Wireless Android Auto Compatibility|Std|Std|Std|Std|Std
+Smartphone Interface: Bluetooth HandsFreeLink Wireless Telephone Interface|Std|Std|Std|Std|Std
+Wi-Fi Hotspot Capability|-|-|Std|Std|-
+Alexa Built-in|-|-|Std|Std|-
+AcuraLink Connected Services|-|-|Std|Std|-
+Safety & Driver Assistive Technology
+AcuraWatch Advanced Safety & Driver Assist: Collision Mitigation Braking System (CMBS)|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Adaptive Cruise Control (ACC)|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Adaptive Cruise Control (ACC) with Low-Speed Follow|Std|Std|Std|-|-
+AcuraWatch Advanced Safety & Driver Assist: Lane Keeping Assist System (LKAS)|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Road Departure Mitigation (RDM) System|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Traffic Jam Assist|Std|Std|Std|-|-
+AcuraWatch Advanced Safety & Driver Assist: Traffic Sign Recognition (TSR)|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Forward Collision Warning (FCW) System|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Lane Departure Warning (LDW) System|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Pedestrian Detection|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Blind Spot Information (BSI) System|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Rear Cross Traffic Monitor (CTM)|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Post Collision Braking|Std|Std|Std|-|-
+AcuraWatch Advanced Safety & Driver Assist: Auto High-Beam Headlights|Std|Std|Std|Std|Std
+AcuraWatch Advanced Safety & Driver Assist: Parking Sensors (Front & Rear)|-|-|Std|Std|Std
+Additional Safety & Driver Assist: Rearview Camera with Dynamic Guidelines|Std|Std|Std|Std|Std
+Additional Safety & Driver Assist: Low-Speed Braking Control|-|-|Std|Std|Std
+Driver Convenience: Rain-Sensing Windshield Wipers|-|-|Std|Std|Std
+Driver Convenience: Auto-On/Off Headlight Operation with Wiper Compatibility|Std|Std|Std|Std|Std
+Driver Convenience: Hill Start Assist|Std|Std|Std|Std|Std
+Driver Convenience: Rear Seat Reminder (RSR)|Std|Std|Std|Std|Std
+Safety & Security: Next-Generation Advanced Compatibility Engineering(ACE) Body Structure|Std|Std|Std|Std|Std
+Safety & Security: Advanced Front Airbags (SRS)|Std|Std|Std|Std|Std
+Safety & Security: Advanced Front Side Airbags|Std|Std|Std|Std|Std
+Safety & Security: Advanced Front Knee Airbags|Std|Std|Std|Std|Std
+Safety & Security: Side Curtain Airbags|Std|Std|Std|Std|Std
+Safety & Security: Rear Outboard Passenger's Side Airbags|Std|Std|Std|Std|Std
+Safety & Security: Seat-Belt Reminder for all Seating Positions|Std|Std|Std|Std|Std
+Safety & Security: Vehicle Stability Assist (VSA) with Traction Control|Std|Std|Std|Std|Std
+Safety & Security: Anti-Lock Braking System (ABS)|Std|Std|Std|Std|Std
+Safety & Security: Electronic Brake Distribution (EBD)|Std|Std|Std|Std|Std
+Safety & Security: Brake Assist|Std|Std|Std|Std|Std
+Safety & Security: Tire Pressure Monitoring System (TMPS) with Tire Fill Assist and Location and Pressure Indicators|Std|Std|Std|Std|Std
+Warranties
+Vehicle 4-year/50,000-mile limited warranty|Std|Std|Std|Std|Std
+Powertrain 6-year/70,000-mile limited warranty|Std|Std|Std|Std|Std
+Outer Body Rust-Through 5-year/unlimited-mile limited warranty|Std|Std|Std|Std|Std
+Acura Genuine Accessories 4-year/50,000-mile limited warranty|Std|Std|Std|Std|Std
+Acura Total Luxury Care (TLC) with Roadside Assistance 4-year/50,000-mile|Std|Std|Std|Std|Std
+Seat Belts 15-year/150,000-mile limited warranty|Std|Std|Std|Std|Std
