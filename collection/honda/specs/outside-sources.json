@@ -232,7 +232,9 @@
   "civic-hatchback": [
    "Indiana Auto Plant, Greensburg, Indiana"
   ],
-  "civic-si-sedan": [],
+  "civic-si-sedan": [
+   "Alliston, Ontario, Canada (Honda of Canada Mfg.; Honda Canada's 2022 Civic Si release) | https://hondanews.ca/en-CA/releases/all-new-2022-honda-civic-si-gets-set-to-defend-affordable-performance-crown"
+  ],
   "civic-type-r": [
    "Yorii Plant, Japan (Honda says the Prelude is built on the same line as the Civic Type R)"
   ],
@@ -260,6 +262,106 @@
   "ridgeline": [
    "Alabama Auto Plant, Lincoln, Alabama"
   ],
-  "prologue": []
+  "prologue": [
+   "General Motors Ramos Arizpe Assembly, Coahuila, Mexico (built by GM for Honda; GM statement reported by Mexico Business News) | https://mexicobusiness.news/automotive/news/gm-cuts-800-jobs-coahuila-after-honda-slows-ev-production"
+  ]
+ },
+ "zero_to_60": {
+  "source": "Trusted road tests (Car and Driver first; MotorTrend or Edmunds where noted). Read Nov 14, 2026 through the pages listed per model. Show on the site with an info icon and the source.",
+  "note": "Independent test results, not Honda figures. Honda does not publish 0-60 times. Most Car and Driver numbers were read from pages that report the test, not from caranddriver.com itself; confirm before publishing. Trims without a test are left empty.",
+  "civic-sedan": [
+   "Hybrid (Sport Touring Hybrid sedan): 6.2 sec, Car and Driver instrumented test | https://www.aol.com/articles/honda-civic-car-driver-2026-140000342.html",
+   "Gas 2.0 L (2025 Sport sedan): 8.9 sec, Car and Driver instrumented test, as reported by Carscoops | https://www.carscoops.com/?p=3299704"
+  ],
+  "civic-hatchback": [
+   "Hybrid (2025 Sport Touring Hybrid hatchback): 6.1 sec, MotorTrend test as cited by the Wall Street Journal; Edmunds measured 7.4 sec on the same trim | https://www.edmunds.com/car-news/long-term/2025-honda-civic-hybrid.html",
+   "Gas 2.0 L hatchback: no test found"
+  ],
+  "civic-si-sedan": [
+   "6.8 sec (2025 Civic Si), Car and Driver instrumented test: the 2026 10Best article puts the hybrid's 6.2 sec 0.6 sec ahead of the last Si tested. An earlier long-term Si ran 6.6 sec | https://www.aol.com/articles/honda-civic-car-driver-2026-140000342.html"
+  ],
+  "civic-type-r": [
+   "4.9 sec (2023 Civic Type R), Car and Driver instrumented test, as reported by KSL Cars and SlashGear | https://cars.ksl.com/resources/car-review/2023-honda-civic-type-r-test-drive-review"
+  ],
+  "accord-sedan": [
+   "Hybrid (2025 Accord Hybrid Touring): 6.7 sec, Car and Driver instrumented test, as reported by the Philadelphia Inquirer | https://www.inquirer.com/columnists/2025-honda-accord-hybrid-performance-comfort-efficiency-20251106.html",
+   "Gas 1.5 L turbo (LX, SE): no test of the current generation found"
+  ],
+  "prelude": [
+   "6.5 sec (2026 Prelude); 7.3 sec with S+ Shift on. Car and Driver instrumented test | https://www.aol.com/articles/honda-prelude-really-slower-civic-145800097.html"
+  ],
+  "hr-v": [
+   "9.4 sec (2023 HR-V EX-L), Car and Driver instrumented test as listed by 0-60specs.com; MotorTrend measured 9.8 sec | https://www.0-60specs.com/honda/hr-v-0-60-times"
+  ],
+  "cr-v": [
+   "Hybrid (2026 Sport Touring Hybrid AWD): 7.1 sec; TrailSport Hybrid: 7.3 sec. Car and Driver instrumented test as listed by 0-60specs.com. Edmunds measured 8.0 sec on the Sport Touring Hybrid | https://www.0-60specs.com/honda-cr-v-0-60-times",
+   "Gas 1.5 L turbo (2023 test): 8.3 sec, Car and Driver instrumented test, read from a copy of the article; confirm on caranddriver.com"
+  ],
+  "passport": [
+   "TrailSport Elite: 7.3 sec; RTL: 7.1 sec (2026 Passport). Car and Driver instrumented test as listed by 0-60specs.com; MotorTrend measured 7.7 sec on the TrailSport Elite | https://www.0-60specs.com/honda/passport-0-60-times"
+  ],
+  "pilot": [
+   "7.2 sec (2023 Pilot Elite AWD, same engine and generation), Car and Driver instrumented test, as reported by Road & Track | https://www.aol.com/finance/tested-2026-honda-pilot-elite-144500497.html"
+  ],
+  "odyssey": [
+   "6.4 sec (2025 Odyssey Elite), Car and Driver instrumented test, as reported by The Autopian; MotorTrend measured 6.8 sec | https://www.theautopian.com/the-honda-odyssey-is-the-fastest-car-no-one-will-ever-guess-is-fast/"
+  ],
+  "ridgeline": [
+   "6.0 sec (2024 Ridgeline TrailSport), Car and Driver instrumented test | https://autos.yahoo.com/tested-2024-honda-ridgeline-trailsport-123100029.html"
+  ],
+  "prologue": [
+   "AWD dual motor (2024 Prologue Elite AWD): 5.9 sec, Car and Driver instrumented test | https://autos.yahoo.com/2024-honda-prologue-better-ev-140000998.html",
+   "2WD single motor: no test found"
+  ]
+ },
+ "top_speed": {
+  "source": "Honda does not list top speed. Only values found in a road test's spec panel are used.",
+  "note": "Found for one model only. The other 12 need the full Car and Driver test pages, which were not reachable from the workspace on Nov 14, 2026.",
+  "civic-type-r": [
+   "169 mph (Honda's claim, as listed in Car and Driver's 2023 Civic Type R test) | https://www.slashgear.com/2291429/hot-hatches-quicker-than-honda-civic-type-r/"
+  ]
+ },
+ "generation": {
+  "source": "Honda News (hondanews.com) where Honda states it; other pages named per model. Read Nov 14, 2026.",
+  "note": "",
+  "civic-sedan": [
+   "11th generation, all-new for 2022; refreshed for 2025 (hybrid added) | https://hondanews.com/en-US/honda-automobiles/channels/honda-civic-sedan"
+  ],
+  "civic-hatchback": [
+   "11th generation, all-new for 2022; refreshed for 2025 | https://hondanews.com/en-US/honda-automobiles/channels/honda-civic-sedan"
+  ],
+  "civic-si-sedan": [
+   "Based on the 11th-generation Civic; all-new for 2022, refreshed for 2025 | https://hondanews.ca/en-CA/releases/all-new-2022-honda-civic-si-gets-set-to-defend-affordable-performance-crown"
+  ],
+  "civic-type-r": [
+   "Based on the 11th-generation Civic; all-new for 2023 (Motor Illustrated's 2023 Honda lineup overview) | https://motorillustrated.com/honda-2023-lineup-models-and-changes-overview/108402/"
+  ],
+  "accord-sedan": [
+   "11th generation, all-new for 2023 | https://hondanews.com/en-US/honda-automobiles/releases/release-13f25e90cfe47cd58453f1f71003d7c7-honda-accord-timeline-and-milestones"
+  ],
+  "prelude": [
+   "Sixth generation, new for 2026 (Car and Driver) | https://www.aol.com/articles/honda-prelude-really-slower-civic-145800097.html"
+  ],
+  "hr-v": [
+   "All-new for 2023 (Honda News). Honda's release does not number the generation | https://hondanews.com/en-US/releases/all-new-2023-honda-hr-v-steps-out-with-youthful-athletic-styling"
+  ],
+  "cr-v": [
+   "Sixth generation, all-new for 2023. Honda has announced the seventh generation as the 2028 CR-V | https://hondanews.com/en-US/honda-automobiles/releases/release-13f25e90cfe47cd58453f1f710057d45-honda-cr-v-timeline-and-milestones"
+  ],
+  "passport": [
+   "Fourth generation, all-new for 2026 (CarMax research page; not yet confirmed on Honda News) | https://www.carmax.com/research/honda/passport"
+  ],
+  "pilot": [
+   "Fourth generation, all-new for 2023; major refresh for 2026 | https://hondanews.com/en-US/releases/release-1503019bd8a757ea08267d79442a6dbd-honda-pilot-timeline-and-milestones"
+  ],
+  "odyssey": [
+   "Last redesigned for 2018 (Auto123). Generation number not confirmed on Honda News | https://www.auto123.com/en/news/Honda-2023-models-changes/69954/"
+  ],
+  "ridgeline": [
+   "Second generation; last full redesign for 2017 (Auto123) | https://www.auto123.com/en/news/Honda-2023-models-changes/69954/"
+  ],
+  "prologue": [
+   "First generation, new for 2024; production started January 2024 (GM Authority) | https://gmauthority.com/blog/2026/07/gm-built-honda-prologue-ev-officially-dead-this-year/"
+  ]
  }
 }

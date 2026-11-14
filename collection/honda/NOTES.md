@@ -20,5 +20,7 @@ Source: Honda Build & Price data, automobiles.honda.com, read Nov 14, 2026.
 - **Outside sources collected Nov 14, 2026** (`specs/outside-sources.json`): NHTSA ratings (NHTSA API), EPA annual fuel cost (fueleconomy.gov web service), IIHS 2026 awards, warranty, assembly plant.
 - NHTSA and EPA now list the 2027 Civic Sedan (5 stars overall; $1,650 gas, $1,200 hybrid). The reviewed Civic sheet still says "Coming soon" for both and needs updating. The 2027 Civic Sedan Sport has no EPA entry yet.
 - Honda News says Civic Si production pauses after the 2026 model year.
-- **Still to research:** 0-60 and top speed for all 13 models, generation / redesign year, the assembly plant for the Civic Si and the Prologue, and the Prologue's powertrain warranty term.
-
+- **Road tests, generation, plants added Nov 14, 2026** (`zero_to_60`, `top_speed`, `generation` and two `plant` entries in `specs/outside-sources.json`): a 0-60 time for all 13 models, generation for all 13, Civic Si plant (Alliston) and Prologue plant (GM Ramos Arizpe, Mexico).
+- **How good the 0-60 sources are:** Car and Driver's own articles were read for Civic Sedan hybrid, Civic Si, Prelude, Ridgeline and Prologue. The rest are Car and Driver results as reported by another page (named per entry) and should be confirmed on caranddriver.com before publishing. No test was found for the gas Civic Hatchback, the gas Accord or the 2WD Prologue.
+- **Still empty:** top speed for 12 models (only the Civic Type R has one, 169 mph, Honda's claim); the Prologue's powertrain warranty term (other sites say 5 years / 60,000 miles; no Honda page read yet); the generation number for the HR-V and Odyssey.
+- News found along the way is logged in `NEWS.md`.
