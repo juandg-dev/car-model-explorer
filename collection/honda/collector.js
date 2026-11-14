@@ -19,11 +19,12 @@ window.collectHonda = async (id, name, year, series, body) => {
 
   // 1. Which menu section each option code belongs to, and the name Honda shows shoppers.
   const SECTION = { 'Accessory Packages': 'P', Wheels: 'W', Exterior: 'E', Interior: 'I', Electronic: 'L' };
-  const catOf = {}, menuName = {};
+  const catOf = {}, menuName = {}, groups = [];
   const walk = (n, cat) => {
     (n.NavigationItems || []).forEach((it) => {
       const put = (c, label) => { catOf[c] = cat; menuName[c] = (label || '').replace(/\s+/g, ' ').trim(); };
       (it.OpCode || []).forEach((c) => put(c, it.Name));
+      if ((it.OpCode || []).length > 1) groups.push({ name: (it.Name || '').replace(/\s+/g, ' ').trim(), codes: it.OpCode.slice() });
       (it.Duplicates || []).forEach((x) => (x.OpCode || []).forEach((c) => put(c, it.Name)));
       (it.SubItems || []).forEach((x) => (x.OpCode || []).forEach((c) => put(c, x.Name || it.Name)));
     });
@@ -42,13 +43,29 @@ window.collectHonda = async (id, name, year, series, body) => {
     (o.ExcludeList || []).forEach((c) => r.x.add(c)); (o.RequiredList || []).forEach((c) => r.req.add(c)); (o.IncludeList || []).forEach((c) => r.inc.add(c));
   }));
 
+  // 2b. A menu entry made of several parts (wheels with tires, a hitch with its harness) becomes ONE item:
+  //     part prices and install times are added up, and it is offered only on trims that have every part.
+  //     The parts are listed on the R line as "Sold together as ...".
+  const sold = [];
+  groups.forEach((g) => {
+    const parts = g.codes.filter((c) => opts[c]); if (parts.length < 2) return;
+    const all = parts.map((c) => opts[c]); const mask = all.reduce((s, o) => s & o.mask, -1); if (!mask) return;
+    const sum = (f) => Math.round(all.reduce((s, o) => s + (f(o) || 0), 0) * 100) / 100;
+    const m = { cat: catOf[parts[0]] || 'Other', raw: all[0].raw, menu: g.name, price: sum((o) => o.price), hrs: all.some((o) => o.hrs != null) ? sum((o) => o.hrs) : null, mask, x: new Set(), req: new Set(), inc: new Set(), ppo: all.every((o) => o.ppo), group: true };
+    all.forEach((o) => { o.x.forEach((c) => m.x.add(c)); o.req.forEach((c) => m.req.add(c)); o.inc.forEach((c) => m.inc.add(c)); });
+    parts.forEach((c) => { m.x.delete(c); m.req.delete(c); m.inc.delete(c); });
+    sold.push('Sold together as ' + g.name + ': ' + all.map((o) => o.raw + ' $' + o.price).join(' + '));
+    opts[parts[0]] = m; parts.slice(1).forEach((c) => { opts[c].part = true; });
+  });
+
   // 3. Keep what is in Honda's configurator menu; merge rows that differ only by code; list the rest as "left out".
   const words = (t) => t.toLowerCase().replace(/[^a-z0-9 ]/g, ' ').split(/\s+/).filter((w) => w.length > 3);
   const keep = [], left = [], map = {}, byKey = {};
   order.forEach((code, i) => {
     const o = opts[code]; const shown = o.menu || o.raw;
     const letter = o.cat.length === 1 ? o.cat : o.cat.startsWith('Factory') ? 'F' : null;
-    const mismatch = o.menu && o.menu !== o.raw && !words(o.raw).some((w) => words(o.menu).includes(w));
+    if (o.part) return; // counted inside a "sold together" item
+    const mismatch = !o.group && o.menu && o.menu !== o.raw && !words(o.raw).some((w) => words(o.menu).includes(w));
     if (!letter || (o.ppo && letter !== 'F') || mismatch) { left.push((o.cat === 'Other' ? '' : o.cat.replace(/^[PWEIL]$/, (c) => ({ P: 'Package', W: 'Wheels', E: 'Exterior', I: 'Interior', L: 'Electronic' }[c])) + ':') + o.raw + (mismatch ? ' [menu: ' + o.menu + ']' : '') + ' $' + o.price + (o.ppo ? ' ppo' : '')); return; }
     const key = [letter, shown, o.price, o.hrs].join('|');
     if (byKey[key] == null) { byKey[key] = keep.length; keep.push({ letter, name: shown, price: o.price, hrs: o.hrs, mask: 0, x: [], req: [], inc: [], code: code.replace(/^[A-Z-]+/, '') }); }
@@ -77,6 +94,6 @@ window.collectHonda = async (id, name, year, series, body) => {
   models.forEach(([g, m]) => { const full = dec(m.ModelName); let label = g; if (count[g] > 1) label += /AWD|4WD/.test(full) ? ' AWD' : /2WD|FWD/.test(full) ? ' 2WD' : ' ' + full; lines.push(['T', label, +m.MSRP, m.ModelId, /leather/.test(m.FabricType || '') ? 'leather' : m.FabricType || 'cloth'].join(';')); });
   porder.forEach((k) => lines.push(clean(['C', paints[k].name, k, paints[k].price, paints[k].per.join(',')].join(';'))));
   keep.forEach((k, i) => lines.push([k.letter, clean(k.name), k.price, k.hrs == null ? '' : k.hrs, k.mask, refs(k.x, i), refs(k.req, i), refs(k.inc, i), k.code].join(';')));
-  lines.push(clean('R;' + left.join(' // ')));
+  lines.push(clean('R;' + left.concat(sold).join(' // ')));
   return lines.join('\n');
 };
