@@ -62,3 +62,9 @@ Honda's menu lists seven entries that are really two or three parts sold togethe
 - The other nine models came out identical when collected again with the new script (same checksums).
 - **For Juan:** the summed prices are Honda's part prices added together. Please confirm one of them (for example the HR-V bronze wheels) on Honda's Build & Price page.
 - Still open from the review: Passport "Protection Package" appears twice at $370 on four trims, and "HPD Adventure Package" is $2,950 and $2,850 on the TrailSport Elite. Both are two separate entries in Honda's own menu.
+
+## Supabase load: where it stands (Nov 14, 2026)
+
+- The database has four tables, all empty: `brands`, `models`, `trims`, `trim_specs`.
+- Paints, packages, accessories and their rules need five new tables. The migration is written but **not applied**: `supabase/planned/add_paints_and_options.sql`.
+- Order once Juan's review is done: 1) apply that migration and update the Database Map doc, 2) load brand, models and trims from the options files, 3) load paints, options and rules, 4) load the spec values Juan marked "Yes" in the Spec Planning sheet into `trim_specs`, 5) run `review.py` and Supabase's security check.
