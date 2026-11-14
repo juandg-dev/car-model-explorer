@@ -18,6 +18,7 @@ Read this at the start of every session and follow it.
 ## Database rules
 - Automatic RLS is ON and auto-expose of new tables is OFF. **Every table needs explicit access policies.** Car data gets public read-only access; writes only through the service role.
 - Every schema change is a migration with a clear name.
+- **Naming rules (keep it obvious):** a table is named for what it holds, in plain plural English (`brands`, `models`, `trims`). Columns are plain words in lowercase with underscores, ending with their unit when they have one (`length_in`, `towing_lb`). Links to another table are `<thing>_id` (`brand_id`). No codes, prefixes, version numbers or abbreviations a car shopper wouldn't recognize. If someone can't guess what's inside from the name, rename it.
 - **After every schema change, update the "Car Model Explorer - Database Map" Google Doc** (tables, columns, examples, practice queries, change log) so Juan's SQL reference always matches the database.
 - Each trim stores a `build_url`, a flag for whether that link reaches the exact trim or only the model, and the link-checker's status and last-checked date.
 
