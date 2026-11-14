@@ -1,0 +1,66 @@
+#adx|ADX|2026|adx|1550|suv
+T;ADX FWD;35000;SA1H3TJNW;leatherette
+T;ADX AWD;37000;SA2H3TJNW;leatherette
+T;A-Spec FWD;38200;SA1H5TJNW;leatherette/microsuede
+T;A-Spec AWD;40200;SA2H5TJNW;leatherette/microsuede
+T;A-Spec with Advance FWD;42400;SA1H7TJNW;leather
+T;A-Spec with Advance AWD;44400;SA2H7TJNW;leather
+C;Solar Silver Metallic;NH-932M;0;Ebony,Ebony,Ebony,Ebony,Ebony,Ebony
+C;Crystal Black Pearl;NH-731P;0;Ebony,Ebony,Ebony/Red,Ebony/Red,Ebony/Red,Ebony/Red
+C;Platinum White Pearl;NH-883P;600;Ebony,Ebony,Ebony/Red/Orchid,Ebony/Red/Orchid,Ebony/Red/Orchid,Ebony/Red/Orchid
+C;Urban Gray Pearl;NH-912P;600;Ebony,Ebony,Ebony/Red,Ebony/Red,Ebony/Red,Ebony/Red
+C;Milano Red;R-81;0;0,0,Ebony,Ebony,Ebony,Ebony
+C;Double Apex Blue Pearl II;B-657P;600;0,0,Ebony/Orchid,Ebony/Orchid,Ebony/Orchid,Ebony/Orchid
+P;All-Season Protection Package I;570;0.8;63;4,1,2,3,46,44,45;;39,29,33;0026060
+P;All-Season Protection Package II;445;0.4;3;4,2,3,0;;31,39,33;0026065
+P;All-Season Protection Package III;480;0.9;3;4,1,3,0;;31,29,33;0026058
+P;Cargo Protection Package;485;0.4;63;4,1,2,0,46,44,45;;37,39,33;0026067
+P;Protection Package;440;0.9;3;1,2,3,0;;31,39,29;0026061
+P;Film Protection Package;205;1.1;63;;;27,25,28;0026063
+W;19-in Black Alloy Wheels with Tires;2697.4;1.6;3;;;;0026068
+E;Valve Stem Caps;30;0.1;63;;;;0026044
+E;Wheel Lugs - Black;194;0.4;3;;;;0026034
+E;Black Door Mirror Cover;125;0.2;15;;;;0026014
+E;Emblems – Gloss Black, ADX and Rear A-Mark;130;1;63;;;;0026004
+E;Emblems – Gloss Black Front A-Mark;85;0.7;63;12;;;0026056
+E;Emblems – Illuminated Front A-Mark;425;2;63;11;;;0026019
+E;Logo Pattern Projector;190;0.6;63;;;;0026020
+E;Mid-Tailgate Spoiler;350;2;63;;;;0026002
+E;Front Lower Trim;200;0.7;63;;;;0026005
+E;Frame Mount Bike Attachment;205;0.4;63;22,17,21,18,20,19;23;;0026026
+E;Kayak Attachment;246;0.4;63;22,16,21,18,20,19;23;;0026027
+E;Roof Basket;412;0.8;63;22,16,17,21,20,19;23;;0026043
+E;Midsize Roof Box;567;0.3;63;22,16,17,21,18,20;23;;0026029
+E;Short Roof Box;534;0.3;63;22,16,17,21,18,19;23;;0026042
+E;Ski/Snowboard Attachment;287;0.2;63;22,16,17,18,20,19;23;;0026024
+E;Surf/Paddleboard Attachment;173;0.4;63;16,17,21,18,20,19;23;;0026025
+E;Roof Rack;500;0.4;63;;;;0026006
+E;Body Side Molding;295;0.4;63;;;;0026009
+E;Door Edge Film;60;0.4;63;26;;;0026050
+E;Door Edge Guards;145;0.4;63;25;;;0026011
+E;Door Handle Film;60;0.4;63;;;;0026049
+E;Rear Bumper Appliqué;100;0.3;63;;;;0026013
+E;Splash Guard Set;200;0.6;63;50;;;0026008
+E;Wheel Locks - Black;100;;63;31;;;0026036
+E;Wheel Locks - Chrome;85;;63;30;;;0026035
+I;Heated Steering Wheel;525;1.5;3;;;;0026018
+I;All-Season Floor Mats;210;0.1;63;;;;0026051
+I;First-Aid Kit;35;;63;;;;0026023
+I;Cargo Cover;152;0.2;3;;;;0026016
+I;Pet Rear Cabin Liner;265;0.3;63;;;;0026022
+I;Seat Back Protectors;125;0.2;63;;;;0026012
+I;Sunshade;90;;63;;;;0026015
+I;Cargo Tray;180;0.1;63;;;;0026048
+I;Cargo Net;65;0.1;63;;;;0026007
+I;Cargo Organizer;134;0.1;63;;;;0026032
+I;Engine Block Heater;94;0.66;63;;;;0026031
+E;Emblems – Gloss Black AWD;75;0.3;42;;;;0026055
+P;All-Season Protection Package II;465;0.4;60;46,3,45,0;;30,39,33;0026066
+P;All-Season Protection Package III;500;0.9;60;46,44,3,0;;30,29,33;0026059
+P;Protection Package;460;0.9;60;44,3,45,0;;30,39,29;0026062
+W;19-in Black Alloy Wheels;2000;1.6;60;;;;0026021
+E;Emblems – Gloss Black A-Spec;255;0.5;60;;;;0026054
+E;Front Underbody Spoilers;400;1.2;60;;;;0026001
+E;Rear Underbody Spoilers;375;1;60;29;;;0026003
+I;Sport Steering Wheel - Heated;525;1.5;12;;;;0026046
+R;Roof Basket Bolt $10 // Premium Cabin Air Filter (L) $62 // Ashtray (Cupholder Type) $29 // Valve Stem Caps, Silver (A-Mark) $30 // Temporary Wheel Tire (T135/90D17) $173.76 // Tire (235/45R19) $697.4 // TPSM Sensor $108.2 // Temporary Wheel Kit (Base) $225.24 // Sunshade $110 // Temporary Wheel Kit (A-Spec) $225.24 // Valve Stem Caps (A-Spec) $30 // Steering Wheel, Heated, Red (D Shape) $525 // Sold together as 19-in Black Alloy Wheels with Tires: 19-in Black Alloy Wheels with Tires $2000 + Tire (235/45R19) $697.4 // Sold together as Roof Basket: Roof Basket $402 + Roof Basket Bolt $10

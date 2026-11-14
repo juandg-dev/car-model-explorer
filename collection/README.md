@@ -65,3 +65,7 @@ A brand is only **complete** when it has both options data and spec tables (CLAU
 ## Honda
 
 Source: Honda Build & Price (automobiles.honda.com), read Nov 14, 2026. Thirteen models. The Civic Sedan file was written from Juan's reviewed sheet rather than straight from the collector, so it has no manufacturer codes.
+
+## Acura
+
+Source: Acura Build & Price (www.acura.com), read Nov 14, 2026. Four models, all model year 2026: Integra, ADX, RDX, MDX. Acura runs on the same platform as Honda but its menu comes from a second data file per trim, so it has its own `acura/collector.js` (the differences are explained at the top of that file).
