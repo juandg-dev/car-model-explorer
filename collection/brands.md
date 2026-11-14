@@ -1,7 +1,14 @@
 # Brand queue
 
 Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial** (say what is missing).
-The nightly run takes the first two brands that are Next or Queued, top to bottom.
+**How we work (Juan, Nov 14, 2026):** one brand at a time. A brand is finished only when every item in the checklist below is done. Only then does Claude suggest the next brand; nothing starts on a new brand before that. The nightly task is switched off.
+
+**A brand is 100% done when:**
+1. Options data is collected and checksummed for every current model.
+2. The carmaker's spec tables are collected for every current model.
+3. Outside-source specs are researched for every model: NHTSA rating, IIHS award, EPA annual fuel cost, 0-60, warranty, assembly plant, generation.
+4. Juan has reviewed the options and specs workbooks and his flags are resolved.
+5. The data is loaded into Supabase.
 
 | # | Brand | Status | Models | Date | Notes |
 |---|---|---|---|---|---|
