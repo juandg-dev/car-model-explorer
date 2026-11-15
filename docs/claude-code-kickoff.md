@@ -24,6 +24,7 @@ How to split the work:
   4. data-reviewer: once a brand's files are saved, runs `python3 review.py <brand>`, reads every raw file for odd values (prices with cents, the same name twice on one trim, rules that point at missing items, empty seat material), and writes the findings to collection/<brand>/NOTES.md. Fixes nothing itself; reports to you.
   5. news-scout: for both brands, finds model news that changes what the site should say (new model years, redesigns, discontinued models, new trims) from the carmaker's own newsroom first, and writes collection/<brand>/NEWS.md in the format of collection/acura/NEWS.md. Can start right away.
   Start agents 1, 2 and 5 at the beginning. Start 3 and 4 for a brand as soon as its files are collected.
+  Run all five agents on Opus: put `model: opus` in each agent file's frontmatter, whatever model the main session uses. Give each agent a clear name so I can find it in /tasks.
 - Only these specs matter for now: horsepower, torque, 0-60, MPG (city / highway / combined), engine, transmission, drivetrain, seating, cargo volume, towing. Save the carmaker's full spec tables anyway, so more can be added later without collecting again.
 
 Rules that always apply:
