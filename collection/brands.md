@@ -66,3 +66,9 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 - 2026-11-14: Acura spec tables collected (4 models) through the Downloads file route; checksum matched (753355309).
 - 2026-11-14: Acura outside-source specs researched (NHTSA, IIHS, EPA, 0-60, warranty, plant, generation). `review.py acura`: 0 issues. NOTES.md and NEWS.md written.
 - 2026-11-15: Acura loaded into Supabase (options data and top specs) after a test load; seven fingerprints match the test database. Juan reviews afterwards.
+- 2026-11-15: Toyota first look (not collected yet). toyota.com and lexus.com are approved in the built-in browser and load without a block. Toyota is a different system from Honda and Acura:
+  - Build & Price lives at `www.toyota.com/configurator/`. Its menu lists about 31 series, with hybrids as their own series (`camry`, `rav4`, `rav4pluginhybrid`, `corollahybrid`, `tundrahybrid` ...), model years 2026 and 2027 mixed. Each links to `/configurator/build/step/model/year/<year>/series/<series>/`.
+  - The data comes from a GraphQL service, `orchestrator.configurator.toyota.com/graphql`, not from one file per model. The queries still have to be read from the page.
+  - Toyota prices and packages depend on the region: the page looked up a ZIP code and a region code (`dealers.prod.webservices.toyota.com/v1/region-code/?zipCode=...`). The collector must use one fixed ZIP, and the files must say which.
+  - A model-year list is at `prod2.webservices.toyota.com/v1/vehicle/model-year-list`.
+  - Lexus has not been opened yet; check whether it uses the same GraphQL service.
