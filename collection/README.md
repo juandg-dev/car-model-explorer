@@ -20,6 +20,7 @@ This folder holds the raw options data for each brand (trims, prices, paints, pa
 | `<brand>/checksums.json` | Checksum of every raw file as collected. |
 | `<brand>/NOTES.md` | Anything odd about the brand: model years, entries left out, open questions for Juan. |
 | `review-workbooks.py` | Builds the two review workbooks (options and specs) for Juan from a brand's collected files: `python3 review-workbooks.py acura <output folder>`. |
+| `load-options.py`, `load-options.template.sql` | Build the statements that load a brand's options files into Supabase: `python3 load-options.py acura` writes `<brand>/load/<model>.sql`, `check.sql` and the expected counts. Brand and model details come from `<brand>/load-details.json`. |
 | `<brand>/specs-load.py` | Builds one spec row per trim from the spec tables and outside sources, as SQL for Supabase (`specs-load.sql`, `specs-models.sql`). Run after Juan's review. |
 
 ## Raw format (one file per model)

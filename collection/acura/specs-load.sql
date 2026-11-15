@@ -1,0 +1,33 @@
+-- Acura spec values: one row per trim. Written by acura/specs-load.py. Running it again replaces the rows.
+with v(model_slug, trim_slug, horsepower, torque_lb_ft, zero_to_sixty_s, mpg_city, mpg_highway, mpg_combined, engine, engine_aspiration, transmission, drivetrain, seating, cargo_cu_ft, towing_lb, powertrain_type, nhtsa_overall_stars, epa_annual_fuel_cost_usd, source_url) as (values
+  ('integra', 'integra', 200, 192, 7.1, 29, 37, 32, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'FWD', 5, 24.3, null, 'gas', 5, 2350, 'https://www.acura.com/cars/integra/pricing-and-specs'),
+  ('integra', 'a-spec', 200, 192, 7.1, 29, 37, 32, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'FWD', 5, 24.3, null, 'gas', 5, 2350, 'https://www.acura.com/cars/integra/pricing-and-specs'),
+  ('integra', 'a-spec-with-technology-cvt', 200, 192, 7.1, 29, 37, 32, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'FWD', 5, 24.3, null, 'gas', 5, 2350, 'https://www.acura.com/cars/integra/pricing-and-specs'),
+  ('integra', 'a-spec-with-technology-6mt', 200, 192, 7.0, 26, 36, 30, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', '6-speed manual', 'FWD', 5, 24.3, null, 'gas', 5, 2500, 'https://www.acura.com/cars/integra/pricing-and-specs'),
+  ('integra', 'type-s', 320, 310, 5.1, 21, 28, 24, '2.0L In-Line 4-Cylinder with Turbocharger', 'turbocharged', '6-speed manual', 'FWD', 4, 24.3, null, 'gas', null, 3150, 'https://www.acura.com/cars/integra/pricing-and-specs'),
+  ('adx', 'adx-fwd', 190, 179, null, 26, 31, 28, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'FWD', null, 24.4, null, 'gas', 5, 2700, 'https://www.acura.com/suvs/adx/pricing-and-specs'),
+  ('adx', 'adx-awd', 190, 179, 8.7, 25, 30, 27, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'AWD', null, 24.4, null, 'gas', 5, 2800, 'https://www.acura.com/suvs/adx/pricing-and-specs'),
+  ('adx', 'a-spec-fwd', 190, 179, null, 26, 31, 28, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'FWD', null, 24.4, null, 'gas', 5, 2700, 'https://www.acura.com/suvs/adx/pricing-and-specs'),
+  ('adx', 'a-spec-awd', 190, 179, 8.7, 25, 30, 27, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'AWD', null, 24.4, null, 'gas', 5, 2800, 'https://www.acura.com/suvs/adx/pricing-and-specs'),
+  ('adx', 'a-spec-with-advance-fwd', 190, 179, null, 26, 31, 28, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'FWD', null, 23.2, null, 'gas', 5, 2700, 'https://www.acura.com/suvs/adx/pricing-and-specs'),
+  ('adx', 'a-spec-with-advance-awd', 190, 179, 8.7, 25, 30, 27, '1.5L In-Line 4-Cylinder with Turbocharger', 'turbocharged', 'CVT', 'AWD', null, 23.2, null, 'gas', 5, 2800, 'https://www.acura.com/suvs/adx/pricing-and-specs'),
+  ('rdx', 'rdx', 272, 280, 6.2, 21, 27, 23, '2.0L Turbo Aluminum-Alloy4-Cylinder', 'turbocharged', '10-speed automatic', 'AWD', 5, 29.5, 1500, 'gas', 5, 3250, 'https://www.acura.com/suvs/rdx/pricing-and-specs'),
+  ('rdx', 'technology', 272, 280, 6.2, 21, 27, 23, '2.0L Turbo Aluminum-Alloy4-Cylinder', 'turbocharged', '10-speed automatic', 'AWD', 5, 29.5, 1500, 'gas', 5, 3250, 'https://www.acura.com/suvs/rdx/pricing-and-specs'),
+  ('rdx', 'a-spec', 272, 280, 6.2, 21, 26, 23, '2.0L Turbo Aluminum-Alloy4-Cylinder', 'turbocharged', '10-speed automatic', 'AWD', 5, 29.5, 1500, 'gas', 5, 3250, 'https://www.acura.com/suvs/rdx/pricing-and-specs'),
+  ('rdx', 'advance', 272, 280, 6.2, 21, 27, 23, '2.0L Turbo Aluminum-Alloy4-Cylinder', 'turbocharged', '10-speed automatic', 'AWD', 5, 29.5, 1500, 'gas', 5, 3250, 'https://www.acura.com/suvs/rdx/pricing-and-specs'),
+  ('rdx', 'a-spec-advance', 272, 280, 6.2, 21, 26, 23, '2.0L Turbo Aluminum-Alloy4-Cylinder', 'turbocharged', '10-speed automatic', 'AWD', 5, 29.5, 1500, 'gas', 5, 3250, 'https://www.acura.com/suvs/rdx/pricing-and-specs'),
+  ('mdx', 'mdx-fwd', 290, 267, null, 19, 26, 22, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'FWD', 7, 16.3, 3500, 'gas', 5, 3400, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'mdx-sh-awd', 290, 267, 6.4, 19, 25, 21, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'AWD', 7, 16.3, 5000, 'gas', 5, 3600, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'technology-fwd', 290, 267, null, 19, 26, 22, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'FWD', 7, 16.3, 3500, 'gas', 5, 3400, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'technology-sh-awd', 290, 267, 6.4, 19, 25, 21, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'AWD', 7, 16.3, 5000, 'gas', 5, 3600, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'a-spec', 290, 267, 6.4, 19, 25, 21, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'AWD', 7, 16.3, 5000, 'gas', 5, 3600, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'advance', 290, 267, 6.4, 19, 25, 21, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'AWD', 7, 16.3, 5000, 'gas', 5, 3600, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'a-spec-advance-packages', 290, 267, 6.4, 19, 25, 21, '3.5L Aluminum Alloy V-6', 'naturally aspirated', '10-speed automatic', 'AWD', 7, 16.3, 5000, 'gas', 5, 3600, 'https://www.acura.com/suvs/mdx/pricing-and-specs'),
+  ('mdx', 'type-s-advance', 355, 354, 5.5, 17, 21, 19, '3.0L Turbo Aluminum-Alloy 6-Cylinder', 'turbocharged', '10-speed automatic', 'AWD', 7, 16.3, 5000, 'gas', 5, 3950, 'https://www.acura.com/suvs/mdx/pricing-and-specs')
+), del as (
+  delete from trim_specs where trim_id in (select t.id from trims t join models m on m.id = t.model_id join brands b on b.id = m.brand_id where b.slug = 'acura') returning 1
+)
+insert into trim_specs (trim_id, horsepower, torque_lb_ft, zero_to_sixty_s, mpg_city, mpg_highway, mpg_combined, engine, engine_aspiration, transmission, drivetrain, seating, cargo_cu_ft, towing_lb, powertrain_type, nhtsa_overall_stars, epa_annual_fuel_cost_usd, source_url)
+select t.id, v.horsepower::integer, v.torque_lb_ft::integer, v.zero_to_sixty_s::numeric, v.mpg_city::smallint, v.mpg_highway::smallint, v.mpg_combined::smallint, v.engine, v.engine_aspiration, v.transmission, v.drivetrain, v.seating::smallint, v.cargo_cu_ft::numeric, v.towing_lb::integer, v.powertrain_type, v.nhtsa_overall_stars::smallint, v.epa_annual_fuel_cost_usd::integer, v.source_url
+from v join brands b on b.slug = 'acura' join models m on m.brand_id = b.id and m.slug = v.model_slug and m.model_year = 2026 join trims t on t.model_id = m.id and t.slug = v.trim_slug
+where (select count(*) from del) >= 0;

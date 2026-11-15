@@ -59,3 +59,25 @@ Run with `python3 review.py acura` from the `collection` folder.
 - **IIHS is left empty** for all four models: only the 2026 list counts, the same rule as Honda.
 - **0-60 uses Car and Driver for both open cases:** Integra Type S 5.1 sec, RDX 6.2 sec (2022 model). Both were read secondhand; Juan confirms them on caranddriver.com.
 - **The 2026 RDX stays on the site** with a "final model year of this generation" note.
+
+## Loaded into Supabase, Nov 15, 2026 (Juan: "load it now, review later")
+
+- Loaded from the four options files: 1 brand, 4 models, 24 trims, 28 paints (136 paint-trim links), 254 options (1,137 option-trim links), 485 rules. Model details (plant, generation, warranty, roadside assistance) are on the four `models` rows.
+- **How:** `python3 load-options.py acura` writes one statement per model into `acura/load/`. Each statement carries the file's text; the database checks its fingerprint (md5) before loading and reads the lines itself.
+- **Tested first** on a throwaway local database (same tables, built from `supabase/migrations/`), including loading a model twice to see that it is replaced, not doubled.
+- **Checked after:** `acura/load/fingerprint.sql` gives seven fingerprints (models, trims, options, option-trim links, rules, paints, specs). All seven are identical in Supabase and in the test database, and `acura/load/check.sql` counts match the files. Honda's rows are untouched (17 models, 89 trims, 874 options, 1,228 rules in total). Supabase's security check reports no problems.
+- Each trim's `build_url` is the model's Acura page with `build_url_level = 'model'` and `link_status = 'unchecked'`. `body_style` is empty, as for Honda.
+- The RDX's `generation` says "3rd generation (since 2019); final model year of this generation" (Juan's decision).
+- One install time is rounded by the column's one decimal: ADX Engine Block Heater 0.66 h is stored as 0.7.
+- Juan's review of the two workbooks is still open. Loading a model again replaces it, so corrections after the review are safe.
+
+## Spec values loaded, Nov 15, 2026: only the most important ones
+
+Juan's rule from Nov 15, 2026: load only the 5 to 10 most important specs now; add more later. Run with `python3 acura/specs-load.py` (writes `acura/specs-load.sql`). 24 `trim_specs` rows.
+
+- **Loaded:** horsepower, torque, 0-60, MPG (city / highway / combined), engine (with turbo or not), transmission, drivetrain, seating, cargo volume, towing. Also NHTSA stars and EPA annual fuel cost, because they were already researched. Everything else on Acura's spec pages stays in `specs/` for later.
+- **Drive:** ADX and MDX trims sold with two drives take the value for their own drive (MPG, towing). RDX and the upper MDX trims are SH-AWD only and are stored as AWD.
+- **Engine** is Acura's engine type with the displacement in front, as written on its page (including "Turbo Aluminum-Alloy4-Cylinder" for the RDX).
+- **Cargo** is behind the last row of seats: Integra 24.3, ADX 24.4 (23.2 on A-Spec with Advance), RDX 29.5, MDX 16.3 cu ft. Acura's ADX page prints "24.4." with a stray dot.
+- **0-60:** one road test per engine and drive: Integra 7.1 (CVT) and 7.0 (manual), Type S 5.1, ADX AWD 8.7, RDX 6.2, MDX SH-AWD 6.4, MDX Type S 5.5. Several are still secondhand; see "Outside sources".
+- **Left empty because nothing is published or tested:** 0-60 for ADX FWD and MDX FWD (5 trims); seating for the ADX (its page has no seating row); towing for Integra and ADX; NHTSA stars for the Integra Type S (not rated overall). IIHS is empty for all (Juan's decision).

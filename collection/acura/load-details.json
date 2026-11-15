@@ -1,0 +1,14 @@
+{
+ "note": "Brand and model details for load-options.py. Written by hand from specs/outside-sources.json and Juan's decisions of Nov 14, 2026.",
+ "brand": {"name": "Acura", "slug": "acura", "country": "Japan", "website_url": "https://www.acura.com"},
+ "models": {
+  "integra": {"page_url": "https://www.acura.com/cars/integra", "generation": "5th generation (all-new for 2023; refreshed for 2026)", "assembly_plant": "Marysville, Ohio",
+              "basic_warranty": "4 yr / 50,000 mi", "powertrain_warranty": "6 yr / 70,000 mi", "roadside_assistance": "4 yr / 50,000 mi (Acura Total Luxury Care)"},
+  "adx":     {"page_url": "https://www.acura.com/suvs/adx", "generation": "1st generation (all-new for 2025)", "assembly_plant": "Celaya, Guanajuato, Mexico",
+              "basic_warranty": "4 yr / 50,000 mi", "powertrain_warranty": "6 yr / 70,000 mi", "roadside_assistance": "4 yr / 50,000 mi (Acura Total Luxury Care)"},
+  "rdx":     {"page_url": "https://www.acura.com/suvs/rdx", "generation": "3rd generation (since 2019); final model year of this generation", "assembly_plant": "East Liberty, Ohio",
+              "basic_warranty": "4 yr / 50,000 mi", "powertrain_warranty": "6 yr / 70,000 mi", "roadside_assistance": "4 yr / 50,000 mi (Acura Total Luxury Care)"},
+  "mdx":     {"page_url": "https://www.acura.com/suvs/mdx", "generation": "4th generation (all-new for 2022; updated for 2025)", "assembly_plant": "East Liberty, Ohio",
+              "basic_warranty": "4 yr / 50,000 mi", "powertrain_warranty": "6 yr / 70,000 mi", "roadside_assistance": "4 yr / 50,000 mi (Acura Total Luxury Care)"}
+ }
+}

@@ -1,6 +1,12 @@
 # Brand queue
 
 Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial** (say what is missing).
+**Changes from Juan, Nov 15, 2026:**
+- **No step-by-step reports.** Claude does a brand from start to finish and tells Juan when it is done.
+- **Load first, review later.** The data goes into Supabase once it passes Claude's checks; Juan reviews the workbooks afterwards. Loading a model again replaces it.
+- **Top specs only for now:** horsepower, torque, 0-60, MPG, engine, transmission, drivetrain, seating, cargo volume, towing. The carmaker's full spec tables are still saved, so more can be added later without collecting again. The other outside research (NHTSA, IIHS, EPA cost, plant, generation, warranty) is no longer required for "done"; only 0-60 is.
+- **Several brands at once** where their sites allow it. Next: Toyota and Lexus together.
+
 **How we work (Juan, Nov 14, 2026):** one brand at a time. A brand is finished only when every item in the checklist below is done. Only then does Claude suggest the next brand; nothing starts on a new brand before that. The nightly task is switched off.
 
 **A brand is 100% done when:**
@@ -13,9 +19,9 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 | # | Brand | Status | Models | Date | Notes |
 |---|---|---|---|---|---|
 | 1 | Honda | Done | 13 | 2026-11-14 | All five checks passed. In Supabase: 13 models, 65 trims, 620 options, and a spec row for every trim. Open follow-ups (top speed, 0-60 confirmations, a few fields Honda doesn't list) are in `honda/NOTES.md` and the To-Do sheet. |
-| 2 | Acura | Partial | 4 | 2026-11-14 | Check 1 done: options data for Integra, ADX, RDX, MDX (24 trims; Type S versions are trims of Integra and MDX). Checks 2 and 3 done: spec tables and outside-source specs for all four. Still to do: Juan's review, Supabase. Notes in `acura/NOTES.md`. |
-| 3 | Toyota | Queued | | | |
-| 4 | Lexus | Queued | | | |
+| 2 | Acura | Done* | 4 | 2026-11-15 | Collected, checked and in Supabase: 4 models, 24 trims, 254 options, and a spec row for every trim (top specs only). *Juan's workbook review is still open; he chose to load first and review later. Notes in `acura/NOTES.md`. |
+| 3 | Toyota | Next | | | With Lexus. |
+| 4 | Lexus | Next | | | With Toyota. |
 | 5 | Ford | Queued | | | |
 | 6 | Lincoln | Queued | | | |
 | 7 | Chevrolet | Queued | | | |
@@ -59,3 +65,4 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 - 2026-11-14: Acura options collected (4 models, 24 trims) from Acura Build & Price. All four files match the collector by checksum.
 - 2026-11-14: Acura spec tables collected (4 models) through the Downloads file route; checksum matched (753355309).
 - 2026-11-14: Acura outside-source specs researched (NHTSA, IIHS, EPA, 0-60, warranty, plant, generation). `review.py acura`: 0 issues. NOTES.md and NEWS.md written.
+- 2026-11-15: Acura loaded into Supabase (options data and top specs) after a test load; seven fingerprints match the test database. Juan reviews afterwards.
