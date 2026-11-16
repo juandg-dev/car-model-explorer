@@ -1,0 +1,118 @@
+#tz|TZ|2027|TZ|1550|suv
+T;TZ 450e Premium AWD (Available late 2026);62500;9300;
+T;TZ 450e Premium Touring AWD (Arriving early 2027);70500;9301;
+T;TZ 450e Luxury AWD (Arriving early 2027);79000;9302;
+C;Caviar;0223;0;Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Ultrasuede accents and Forged Bamboo trim/Birch NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Black-Dapple Gray NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Forged Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Blonde Bamboo trim
+C;Cloudburst Gray;01L1;650;Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Ultrasuede accents and Forged Bamboo trim/Birch NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Black-Dapple Gray NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Forged Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Blonde Bamboo trim
+C;Copper Crest;04Y5;650;Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Ultrasuede accents and Forged Bamboo trim/Birch NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Black-Dapple Gray NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Forged Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Blonde Bamboo trim
+C;Shaded Ivy;06Y0;650;Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Ultrasuede accents and Forged Bamboo trim/Birch NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Black-Dapple Gray NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Forged Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Blonde Bamboo trim
+C;Ultra White;0083;650;Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Ultrasuede accents and Forged Bamboo trim/Birch NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Black-Dapple Gray NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Forged Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Blonde Bamboo trim
+C;Wavelength;01M9;650;Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Forged Bamboo trim/Acorn NuLuxe with Forged Bamboo trim,Black-Dapple Gray NuLuxe with Ultrasuede accents and Forged Bamboo trim/Birch NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Black-Dapple Gray NuLuxe with Ultrasuede accents and Blonde Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Forged Bamboo trim/Acorn NuLuxe with Ultrasuede accents and Blonde Bamboo trim
+P;Convenience Package;895;;7;;;;CP
+F;19kW onboard charger (Arriving early 2027);1500;;7;;;;OC
+E;Kammok Roo Double - Midnight Blue;95;;7;;;;QV1082
+E;Kammok Roo Double - Ember Orange;95;;7;;;;QV1086
+I;Kurgo Heather Hammock - Heather Charcoal;80;;7;;;;QV1116
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;7;;;;QV1114
+E;Kammok Roo Single - Pine Green;70;;7;;;;QV1095
+E;Thule ProRide XT Bike Carrier;350;;7;;;;QV1064
+E;Kammok Single Panel 7';125;;7;;;;QV1097
+I;Yakima GrandTour 16;879;;7;;;;QV1074
+E;Yakima EXO OpenRange;749;;7;;;;QV1066
+E;Kammok Crosswing - 5' Charcoal;1150;;7;;;;QV1090
+I;Pelican 14QT Personal Cooler;120;;7;;;;QV1053
+E;ARB E-Z Deflator Kit PSI Gauge;75;;7;;;;QV1106
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;7;;;;QV1056
+E;Kammok Pole Pack;115;;7;;;;QV1085
+I;Kurgo Backseat Barrier - Black;58;;7;;;;QV1119
+E;Yakima RoadShower (7 Gal.);599;;7;;;;QV1070
+E;Kammok Mantis - Ember Orange;270;;7;;;;QV1087
+E;ARB TRED Pro Gray/Orange;380;;7;;;;QV1102
+E;ARB Air Compressor Pump Up Kit;120;;7;;;;QV1104
+I;Yakima MegaWarrior;649;;7;;;;QV1072
+E;Kammok Tie Down Kit;70;;7;;;;QV1094
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;7;;;;QV1057
+E;Kammok Single Panel 5';115;;7;;;;QV1096
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;7;;;;QV1068
+I;Pelican Dayventure Backpack Cooler;290;;7;;;;QV1054
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether -Black - Small;43;;7;;;;QV1115
+E;ARB Premium Recovery Kit;540;;7;;;;QV1105
+I;Dometic Recon Hardside 16L: Glow;225;;7;;;;QV1047
+I;Thule Canyon Cargo Basket;542;;7;;;;QV1063
+I;Pelican Dayventure Sling Cooler;180;;7;;;;QV1049
+E;Kammok Crosswing Basket Mount Kit;110;;7;;;;QV1077
+I;Kurgo Happy Ride Folding Pet Ramp;90;;7;;;;QV1122
+I;Kurgo Cargo Cape - Charcoal;76;;7;;;;QV1125
+E;ARB Digital Tire Inflator;91;;7;;;;QV1100
+I;Kurgo Zippy Bowl - Coastal Blue;13;;7;;;;QV1111
+E;Kammok Roo Double - Pine Green;95;;7;;;;QV1081
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;7;;;;QV1110
+E;Kammok Swiftlet;340;;7;;;;QV1092
+I;Pelican 45QT Elite Wheeled Cooler;466;;7;;;;QV1050
+I;Pelican TX50 Adventure Case;207;;7;;;;QV1076
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;7;;;;QV1065
+E;Kammok Crosswing - 7' Desert Tan;1300;;7;;;;QV1084
+I;Kurgo Swivel Tether;33;;7;;;;QV1117
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;7;;;;QV1059
+E;Kammok Mantis - Pine Green;290;;7;;;;QV1083
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;7;;;;QV1055
+E;Kammok Crosswing - 5' Desert Tan;1150;;7;;;;QV1080
+E;ARB Recovery Kit Weekender;175;;7;;;;QV1103
+I;Kurgo Pet First Aid Kit;33;;7;;;;QV1124
+E;Kammok Mantis - Midnight Blue;290;;7;;;;QV1088
+E;Kammok Outpost;530;;7;;;;QV1078
+I;Kurgo Direct to Seatbelt Tether;14;;7;;;;QV1120
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;7;;;;QV1075
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;7;;;;QV1058
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;7;;;;QV1113
+E;Thule SnowPackSki Carrier;400;;7;;;;QV1069
+I;Pelican 20QT Elite Cooler;207;;7;;;;QV1051
+E;Yakima OverNOut MD;499;;7;;;;QV1067
+E;ARB E-Z Digital Deflator;95;;7;;;;QV1108
+E;ARB TRED Pro Mounting Kit;110;;7;;;;QV1099
+I;Pelican TX80 Adventure Case;259;;7;;;;QV1071
+E;Kammok Vertical Bracket Kit;60;;7;;;;QV1093
+E;Yakima EXO OpenRange Leg Kit;229;;7;;;;QV1073
+E;ARB Twin Portable Compressor;1082;;7;;;;QV1107
+E;Kammok Crosswing - 7' Charcoal;1300;;7;;;;QV1079
+E;Kammok Roo Single - Ember Orange;70;;7;;;;QV1089
+I;Kurgo Collaps-a-Bowl - Blue;14;;7;;;;QV1123
+I;Kurgo Kibble Carrier - Chili Red;22;;7;;;;QV1118
+E;ARB Inflation Case II;98;;7;;;;QV1101
+I;Thule Force 3 L Cargo Box;1015;;7;;;;QV1062
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;7;;;;QV1112
+I;Kurgo Wander Hammock - Charcoal;76;;7;;;;QV1121
+P;All Weather Floor Liners, All Weather Trunk Tray Package;409;;7;;;;2T
+I;All Weather Cargo Mat;150;;7;;;;96
+I;All Weather Floor Mats;259;;7;;;;63
+E;Ball Mount;80;;7;;;;D8
+E;Black Emblem Overlays;125;;7;;;;3J
+E;Body Side Molding;305;;7;;;;BM
+I;Cargo Net;80;;7;;;;GN
+P;Cargo Net, All Weather Floor Liner, All Weather Cargo Mat, Carpet Cargo Mat, Key Gloves, Wheel Locks Package;768;;7;;;;P4
+I;Cargo Tote;65;;7;;;;9G
+I;Carpet Cargo Mat;150;;7;;;;C1
+P;Carpet Cargo Mat, Cargo Net, Key Gloves, Wheel Locks Package;359;;7;;;;Z1
+I;Coin Holder/Ashtray Cup;36;;7;;;;A7
+E;Cross Bars;450;;7;;;;3T
+E;Door Edge Film by 3M;107;;7;;;;DF
+E;Door Edge Guards;175;;7;;;;D5
+I;Emergency Assistance Kit;90;;7;;;;7R
+L;Illuminated Cargo Sills;425;;7;;;;K2
+L;Illuminated Door Sills;470;;7;;;;G4
+P;Illuminated Door Sills, Illuminated Cargo Sills Package;895;;7;;;;K3
+I;Key Gloves;30;;7;;;;KG
+I;Lexus Multimedia Screen Protector;109;;7;;;;87
+I;Lexus Quick Charge Cables;85;;7;;;;59
+E;Mud Guards;170;;7;;;;MF
+E;Paint Protection Film by 3M;450;;7;;;;3M
+E;Rear Bumper Appliqué;95;;7;;;;EF
+E;Rear Bumper Protector;130;;7;;;;EG
+I;Rear Hatch Cargo Lamps;399;;7;;;;43
+P;Rear Hatch Cargo Lamps, Side Puddle Lamps Package;574;;7;;;;IP
+L;Side Puddle Lamp;175;;7;;;;P9
+E;Tow Hitch Receiver;950;;7;;;;DI
+P;Tow Hitch, Tow Wire Harness and Converter, Ball Mount Package;1075;;7;;;;DH
+I;Lexus Universal Tablet Holder;110;;7;;;;U7
+E;Wheel Locks;99;;7;;;;WL
+R;

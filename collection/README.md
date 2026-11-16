@@ -19,6 +19,7 @@ This folder holds the raw options data for each brand (trims, prices, paints, pa
 | `<brand>/raw/<model>.txt` | One file per model, in the raw format below. |
 | `<brand>/checksums.json` | Checksum of every raw file as collected. |
 | `<brand>/NOTES.md` | Anything odd about the brand: model years, entries left out, open questions for Juan. |
+| `pack.js` | Shorthand for copying big brands from the browser: the browser shortens repeated names (`packForCopy`), this script expands them again, writes the raw files and prints their checksums: `node collection/pack.js <shorthand file> <brand>/raw`. The checksum is taken on the finished file. |
 | `review-workbooks.py` | Builds the two review workbooks (options and specs) for Juan from a brand's collected files: `python3 review-workbooks.py acura <output folder>`. |
 | `load-options.py`, `load-options.template.sql` | Build the statements that load a brand's options files into Supabase: `python3 load-options.py acura` writes `<brand>/load/<model>.sql`, `check.sql` and the expected counts. Brand and model details come from `<brand>/load-details.json`. |
 | `<brand>/specs-load.py` | Builds one spec row per trim from the spec tables and outside sources, as SQL for Supabase (`specs-load.sql`, `specs-models.sql`). Run after Juan's review. |
@@ -71,3 +72,11 @@ Source: Honda Build & Price (automobiles.honda.com), read Nov 14, 2026. Thirteen
 ## Acura
 
 Source: Acura Build & Price (www.acura.com), read Nov 14, 2026. Four models, all model year 2026: Integra, ADX, RDX, MDX. Acura runs on the same platform as Honda but its menu comes from a second data file per trim, so it has its own `acura/collector.js` (the differences are explained at the top of that file).
+
+## Toyota
+
+Source: Toyota Build & Price (www.toyota.com/configurator), read Nov 16, 2026. 31 models, 224 trims, options data only. Toyota has no data file per model: `toyota/collector.js` asks Toyota's data service one question per trim, always for the NATIONAL accessory list, and finds the rules by selecting items the way the page does. Details and open questions in `toyota/NOTES.md`.
+
+## Lexus
+
+Source: Lexus Build (www.lexus.com/build), read Nov 16, 2026. 19 models, 86 trims, options data only. Same method as Toyota with its own `lexus/collector.js`. Lexus's service needs a ZIP code; the collector sends Lexus's head-office ZIP (see the top of `lexus/NOTES.md`).

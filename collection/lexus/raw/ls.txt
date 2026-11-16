@@ -1,0 +1,55 @@
+#ls|LS|2026|LS|1450|sedan
+T;LS 500 AWD HERITAGE EDITION;97830;9126;
+C;Ninety Noir;0232;0;Rioja Red
+I;Dometic Recon Hardside 41L: Silt;325;;1;;;;QI1080
+I;Dometic Recon Hardside 16L: Silt;225;;1;;;;QI1084
+I;Dometic Recon Hardside 41L: Glow;325;;1;;;;QI1083
+I;Dometic Recon Hardside 16L: Glow;225;;1;;;;QI1085
+I;Dometic Recond Hardside 69L: Silt;425;;1;;;;QI1081
+I;Dometic Strap Kit;22;;1;;;;QI1086
+I;Dometic Recon Hardside 69L: Glow;425;;1;;;;QI1082
+I;All-Weather Floor Liners;200;;1;;;;63
+I;All-Weather Trunk Tray;130;;1;;;;96
+I;Carpet Trunk Mat;130;;1;;;;LM
+I;Dashcam;375;;1;;;;V1
+I;Emergency Assistance Kit;0;;1;;;;QI1004
+I;Cargo Net;59;;1;;;;GN
+L;Illuminated Door Sills;450;;1;;;;G4
+I;Key Gloves;25;;1;;;;KG
+I;Lexus Quick Charge Cables;85;;1;;;;59
+E;Door Edge Film by 3M;100;;1;;;;DF
+E;Paint Protection Film by 3M;450;;1;;;;3M
+E;Rear Bumper Appliqué;95;;1;;;;EF
+E;Wheel Locks;99;;1;;;;WL
+I;SiriusXM Trial Offering: 33 Months;350;;1;;;;1S
+I;Carmate DC4000RA Dashcam 360;570;;1;;;;QI1069
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;1;;;;QI1070
+I;Kurgo Backseat Barrier - Black;58;;1;;;;QI1018
+I;Kurgo Cargo Cape - Charcoal;76;;1;;;;QI1022
+I;Kurgo Collaps-a-Bowl - Blue;14;;1;;;;QI1034
+I;Kurgo Direct to Seatbelt Tether;14;;1;;;;QI1027
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;1;;;;QI1031
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;1;;;;QI1037
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;1;;;;QI1021
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;1;;;;QI1023
+I;Kurgo Heather Hammock - Heather Charcoal;80;;1;;;;QI1020
+I;Kurgo Kibble Carrier - Chili Red;22;;1;;;;QI1036
+I;Kurgo Pet First Aid Kit;33;;1;;;;QI1039
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;1;;;;QI1026
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;1;;;;QI1038
+I;Kurgo Swivel Tether;33;;1;;;;QI1025
+I;Kurgo Zippy Bowl - Coastal Blue;13;;1;;;;QI1035
+I;Pelican 14QT Personal Cooler;120;;1;;;;QI1078
+I;Pelican 20QT Elite Cooler;207;;1;;;;QI1077
+I;Pelican Dayventure Backpack Cooler;301;;1;;;;QI1076
+I;Pelican Dayventure Sling Cooler;187;;1;;;;QI1079
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;1;;;;QI1067
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;1;;;;QI1066
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;1;;;;QI1064
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;1;;;;QI1065
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;1;;;;QI1068
+P;Package: All Weather Floor Liners, All Weather Trunk Tray;330;;1;;;;2T
+P;Package: Carpet Trunk Mat, Cargo Net, Wheel Locks, Key Gloves;313;;1;;;;Z1
+P;Package: All Weather Trunk Tray, Cargo Net, Wheel Locks, Key Gloves;313;;1;;;;Z2
+P;Package: Paint Protect Film, Door Edge Film, Rear Bumper Applique;640;;1;;;;P3
+R;

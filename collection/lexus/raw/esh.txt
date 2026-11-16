@@ -1,0 +1,69 @@
+#esh|ES HYBRID|2026|ESh|1395|sedan
+T;ES 350h PREMIUM;49700;9020;
+T;ES 350h PREMIUM+;54500;9021;
+T;ES 350h PREMIUM AWD;51100;9025;
+T;ES 350h PREMIUM+ AWD;55900;9026;
+C;Caviar;0223;0;Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim
+C;Cloudburst Gray;01L1;500;Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim
+C;Copper Crest;04Y5;595;Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim
+C;Iridium;01L2;500;Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim
+C;Ultra White;0083;500;Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim
+C;Wavelength;01M9;500;Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim,Black NuLuxe and Checkered trim/White NuLuxe and Checkered trim/Palomino NuLuxe and Checkered trim
+P;Cold Area Package;375;;15;;1;;CK
+P;Convenience Package;1220;;5;;;;CP
+I;Dometic Strap Kit;22;;15;;;;QM1100
+I;Dometic Recon Hardside 69L: Glow;425;;15;;;;QM1095
+I;Dometic Recon Hardside 16L: Silt;225;;15;;;;QM1097
+I;Dometic Recond Hardside 69L: Silt;425;;15;;;;QM1094
+I;Dometic Recon Hardside 16L: Glow;225;;15;;;;QM1098
+I;Dometic Recon Hardside 41L: Glow;325;;15;;;;QM1096
+I;Dometic Recon Hardside 41L: Silt;325;;15;;;;QM1093
+I;All-Weather Floor Liners;200;;15;;;;63
+I;All-Weather Trunk Tray (Hybrid);130;;15;;;;96
+E;Black Emblem Overlays (350h AWD);99;;15;;;;3J
+I;Cargo Net;65;;15;;;;GN
+I;Carpet Trunk Mat (Hybrid);130;;15;;;;LM
+I;Carpet Trunk Mat with Storage (Hybrid);275;;15;;;;C2
+E;Door Edge Film by 3M;100;;15;;;;DF
+E;Door Edge Guards;160;;15;;;;D5
+I;Emergency Assistance Kit;90;;15;;;;7R
+L;Illuminated Door Sills;450;;15;;;;G4
+L;Illuminated Trunk Sill;450;;15;;;;G5
+E;Illuminated Trunk Sill, Illuminated Door Sills Package;900;;15;;;;K3
+I;Key Gloves;25;;15;;;;KG
+I;Lexus Quick Charge Cables;85;;15;;;;59
+I;Multimedia Screen Protector;109;;15;;;;87
+P;Package: All Weather Floor Liners, All Weather Trunk Tray;330;;15;;;;2T
+P;Package: Carpet Trunk Mat, Cargo Net, Wheel Locks, Key Gloves;319;;15;;;;Z1
+P;Package: Carpet Trunk Mat, Cargo Net, Wheel Locks, Rear Bumper Applique, Key Gloves;409;;15;;;;Z2
+E;Paint Protection Film by 3M;450;;15;;;;3M
+E;Rear Bumper Appliqué;90;;15;;;;EF
+E;Rear Spoiler;225;;15;;;;LR
+L;Side Puddle Lamps;175;;15;;;;UO
+I;SiriusXM Trial Offering: 33 Months;350;;15;;;;1S
+E;Wheel Locks;99;;15;;;;WL
+I;Kurgo Backseat Barrier - Black;58;;15;;;;QM1020
+I;Kurgo Cargo Cape - Charcoal;76;;15;;;;QM1025
+I;Kurgo Collaps-a-Bowl - Blue;14;;15;;;;QM1037
+I;Kurgo Direct to Seatbelt Tether;14;;15;;;;QM1030
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;15;;;;QM1034
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;15;;;;QM1040
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;15;;;;QM1024
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;15;;;;QM1026
+I;Kurgo Heather Hammock - Heather Charcoal;80;;15;;;;QM1023
+I;Kurgo Kibble Carrier - Chili Red;22;;15;;;;QM1039
+I;Kurgo Pet First Aid Kit;33;;15;;;;QM1042
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;15;;;;QM1029
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;15;;;;QM1041
+I;Kurgo Swivel Tether;33;;15;;;;QM1028
+I;Kurgo Zippy Bowl - Coastal Blue;13;;15;;;;QM1038
+I;Pelican 14QT Personal Cooler;120;;15;;;;QM1084
+I;Pelican 20QT Elite Cooler;207;;15;;;;QM1083
+I;Pelican Dayventure Backpack Cooler;301;;15;;;;QM1082
+I;Pelican Dayventure Sling Cooler;187;;15;;;;QM1085
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;15;;;;QM1070
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;15;;;;QM1071
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;15;;;;QM1069
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;15;;;;QM1072
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;15;;;;QM1068
+R;

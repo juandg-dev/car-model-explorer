@@ -1,0 +1,149 @@
+#nxh|NX HYBRID|2026|NXh|1395|suv
+T;NX 350h AWD;46725;9844;
+T;NX 350h PREMIUM AWD;48650;9845;
+T;NX 350h LUXURY AWD;52790;9846;
+T;NX 350h F SPORT HANDLING AWD;55200;9847;
+T;NX 350h FWD;45175;9848;
+T;NX 350h PREMIUM FWD;47100;9849;
+T;NX 350h LUXURY FWD;51240;9850;
+T;NX 350h F SPORT HANDLING FWD;53650;9851;
+C;Atomic Silver;01J7;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Caviar;0223;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Cloudburst Gray;01L1;500;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Copper Crest;04Y5;595;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim
+C;Grecian Water;08Y6;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim
+C;Infrared;03T5;595;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Nori Green Pearl;06X4;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,0,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,0
+C;Ultra White;0083;500;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim,Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+P;Cold Area Package;150;;119;;;;CK
+F;Power tilt-and-slide moonroof;1100;;17;;;;SR
+F;Wireless charger;75;;255;;;;WC
+F;2,000-lb towing capacity, additional equipment required;160;;255;;;;TO
+I;Dometic CFX5 45 Protective Cover;155;;255;;;;PO1226
+I;Dometic Recon Hardside 69L: Glow;425;;255;;;;PO1219
+I;Dometic CFX5 45 Electric Cooler;1050;;255;;;;PO1223
+I;Dometic Recon Hardside 41L: Glow;325;;255;;;;PO1220
+I;Dometic Recon Hardside 16L: Glow;225;;255;;;;PO1222
+I;Dometic Recon Hardside 41L: Silt;325;;255;;;;PO1217
+I;Dometic Recond Hardside 69L: Silt;425;;255;;;;PO1218
+I;Dometic Recon Hardside 16L: Silt;225;;255;;;;PO1221
+E;Activity Mount;420;;255;;;;AM
+I;All-Weather Cargo Mat;140;;255;;;;96
+I;All-Weather Floor Liners;210;;255;;;;63
+E;Black Emblem Overlays (NX350h& AWD);325;;255;;;;3J
+E;Body Kit -Front, Rear, Fender, Front Door, Rear Door-;3042;;119;;;;PO1019
+E;Body Side Moldings;295;;255;;;;BM
+I;Cargo Net;80;;255;;;;GN
+I;Carpet Cargo Mat;140;;255;;;;C1
+E;Cross Bars[CROSSBARS2, ROOFRACKCBAR];395;;255;;;;3T
+I;Dashcam;375;;255;;;;V1
+E;Door Edge Film by 3M;100;;255;;;;DF
+E;Door Edge Guards;155;;255;;;;D5
+I;Drive Connect Trial Offering;485;;3;;;;1Z
+I;Emergency Assistance Kit;0;;255;;;;PO1005
+L;Illuminated Cargo Sills;300;;119;;;;K2
+L;Illuminated Door Sills;460;;255;;;;G4
+I;Key Gloves;25;;119;;;;KG
+I;Lexus Multimedia Screen Protector;109;;255;;;;87
+I;Lexus Quick Charge Cables;85;;255;;;;59
+I;Lexus Sunshade (Windshield);110;;255;;;;8U
+E;Mud Guards;165;;255;;;;MF
+P;Package: All Weather Cargo Mat, Cargo Net, Wheel Locks, Rear Bumper Protector, Key Gloves;474;;255;;;;Z2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat;350;;255;;;;2T
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Body Side Moldings, Door Edge Film;745;;255;;;;P2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Mudguard, Cross Bars;910;;255;;;;A2
+P;Package: Carpet Cargo Mat, Cargo Net, Key Gloves;245;;255;;;;Z1
+P;Package: Illuminated Door Sills, Illuminated Cargo Sills;760;;255;;;;K3
+P;Package: Paint Protect Film, Door Edge Film;550;;255;;;;P3
+P;Package: Rear Puddle Lamp, Side Puddle Lamp;325;;255;;;;P5
+E;Paint Protection Film by 3M;450;;255;;;;3M
+I;Pet Divider;340;;255;;;;PO1020
+E;Rear Bumper Protector;130;;255;;;;EG
+L;Rear Puddle Lamp;150;;255;;;;P8
+L;Side Puddle Lamp;175;;119;;;;P9
+I;SiriusXM Trial Offering: 33 Months;350;;255;;;;1S
+E;Tow Hitch;450;;255;;;;PO1033
+E;Wheel Locks;99;;255;;;;WL
+I;Carmate DC4000RA Dashcam 360;570;;255;;;;PO1170
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;255;;;;PO1171
+I;Happy Ride Folding Pet Ramp;90;;255;;;;PO1131
+E;Kammok Crosswing - 5' Charcoal;1150;;255;;;;PO1167
+E;Kammok Crosswing - 5' Desert Tan;1150;;255;;;;PO1190
+E;Kammok Crosswing - 7' Charcoal;1300;;255;;;;PO1154
+E;Kammok Crosswing - 7' Desert Tan;1300;;255;;;;PO1191
+E;Kammok Crosswing Basket Mount Kit;110;;255;;;;PO1151
+E;Kammok Mantis - Midnight Blue;290;;255;;;;PO1165
+E;Kammok Mantis - Pine Green;290;;255;;;;PO1159
+E;Kammok Outpost;530;;255;;;;PO1152
+E;Kammok Pole Pack;115;;255;;;;PO1161
+E;Kammok Roo Double - Ember Orange;95;;255;;;;PO1162
+E;Kammok Roo Double - Midnight Blue;95;;255;;;;PO1158
+E;Kammok Roo Double - Pine Green;95;;255;;;;PO1155
+E;Kammok Roo Single - Ember Orange;70;;255;;;;PO1166
+E;Kammok Roo Single - Midnight Blue;70;;255;;;;PO1169
+E;Kammok Roo Single - Pine Green;70;;255;;;;PO1160
+E;Kammok Single Panel 5';115;;255;;;;PO1164
+E;Kammok Single Panel 7';125;;255;;;;PO1168
+E;Kammok Swiftlet;340;;255;;;;PO1153
+E;Kammok Tie Down Kit;70;;255;;;;PO1157
+E;Kammok Vertical Bracket Kit;60;;255;;;;PO1156
+I;Kurgo Backseat Barrier - Black;58;;255;;;;PO1126
+I;Kurgo Cargo Cape - Charcoal;76;;255;;;;PO1134
+I;Kurgo Collaps-a-Bowl - Blue;14;;255;;;;PO1132
+I;Kurgo Direct to Seatbelt Tether;14;;255;;;;PO1127
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;255;;;;PO1115
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;255;;;;PO1120
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;255;;;;PO1119
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;255;;;;PO1117
+I;Kurgo Heather Hammock - Heather Charcoal;80;;255;;;;PO1123
+I;Kurgo Kibble Carrier - Chili Red;22;;255;;;;PO1125
+I;Kurgo Pet First Aid Kit;33;;255;;;;PO1133
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;255;;;;PO1116
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;255;;;;PO1121
+I;Kurgo Swivel Tether;33;;255;;;;PO1124
+I;Kurgo Wander Bench Seat Cover - Charcoal;59;;255;;;;PO1114
+I;Kurgo Wander Bench Seat Cover Extended Width - Charcoal;64;;255;;;;PO1122
+I;Kurgo Wander Hammock - Charcoal;76;;255;;;;PO1130
+I;Kurgo Zippy Bowl - Coastal Blue;13;;255;;;;PO1118
+I;Pelican 14QT Personal Cooler;120;;255;;;;PO1198
+I;Pelican 20QT Elite Cooler;207;;255;;;;PO1196
+I;Pelican 45QT Elite Wheeled Cooler;466;;255;;;;PO1195
+I;Pelican Dayventure Backpack Cooler;301;;255;;;;PO1194
+I;Pelican Dayventure Sling Cooler;187;;255;;;;PO1199
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;255;;;;PO1148
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;255;;;;PO1149
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;255;;;;PO1147
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;255;;;;PO1150
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;255;;;;PO1146
+I;Thule Canyon Cargo Basket;542;;255;;;;PO1207
+I;Thule Force 3 L Cargo Box;1015;;255;;;;PO1205
+E;Thule ProRide XT Bike Carrier;350;;255;;;;PO1208
+E;Thule SnowPackSki Carrier;400;;255;;;;PO1206
+E;Yakima EXO OpenRange;749;;255;;;;PO1172
+E;Yakima EXO OpenRange Leg Kit;229;;255;;;;PO1174
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;255;;;;PO1030
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;255;;;;PO1200
+I;Yakima GrandTour 16;879;;255;;;;PO1177
+E;Yakima HighRoad;299;;255;;;;PO1094
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;255;;;;PO1029
+E;Yakima KeelOver Canoe Carrier;199;;7;;;;PO1204
+I;Yakima MegaWarrior;649;;255;;;;PO1202
+I;Yakima OffGrid Cargo Basket, Mounted;649;;255;;;;PO1203
+E;Yakima OverNOut MD;499;;255;;;;PO1201
+I;Yakima SkyBox 18 XL;799;;255;;;;PO1175
+F;Thematic Ambient Illumination, Lexus Interface with 14.0-in touchscreen display. Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. 4G network dependent;1205;;34;;;;NV
+F;Digital Key (requires Remote Connect subscription, 3-year trial included) and SmartAccess card key. 4G network dependent.;375;;238;;;;TP
+F;10-in Head-Up Display;900;;34;;;;HU
+F;Digital rearview mirror;200;;34;;;;DM
+F;Panoramic View Monitor;800;;238;;116;;PV
+F;Front Cross-Traffic Alert and Lane Change Assist;270;;238;;;;FC
+W;20-in 20-spoke alloy wheels with Gray Metallic and Silver finish;1310;;102;;;;FL
+F;60/40-split, power-folding, heated rear seats;1030;;204;;;;FS
+F;Panorama glass roof;500;;204;;;;PR
+F;Advanced Park;250;;204;;120;;AP
+F;Mark Levinson 17-speaker, 1,800-watt PurePlay Surround Sound;1020;;204;;;;NL
+F;Advanced Park with Remote Park;480;;68;;120;;RP
+L;F SPORT Illuminated Cargo Sills;300;;136;;;;K2
+I;F SPORT Key Gloves;25;;136;;;;KG
+L;F SPORT Side Puddle Lamps;175;;136;;;;P9
+R;

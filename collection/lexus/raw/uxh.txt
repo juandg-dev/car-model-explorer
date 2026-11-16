@@ -1,0 +1,137 @@
+#uxh|UX HYBRID|2026|UXh|1395|suv
+T;UX 300h;37655;9721;
+T;UX 300h PREMIUM;40925;9723;
+T;UX 300h F SPORT DESIGN;41490;9725;
+T;UX 300h F SPORT HANDLING;46075;9727;
+T;UX 300h AWD;39225;9732;
+T;UX 300h PREMIUM AWD;42495;9733;
+T;UX 300h F SPORT DESIGN AWD;43060;9735;
+T;UX 300h F SPORT HANDLING AWD;47645;9738;
+C;Caviar;0223;0;Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim,Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim
+C;Cloudburst Gray;01L1;500;Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0,Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0
+C;Copper Crest;04Y5;595;Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0,Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0
+C;Iridium;01L2;500;Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0,Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0
+C;Nori Green Pearl;06X4;0;Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,0,0,Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,0,0
+C;Ultra White;0083;500;Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0,Birch NuLuxe and Black washi dash trim/Black NuLuxe and Black washi dash trim,Black NuLuxe and Black washi dash trim/Palomino NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim/Lapis NuLuxe and Black washi dash trim,0,0
+C;Cloudburst Gray with Obsidian roof;02ZG;850;0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim,0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim
+C;Copper Crest with Obsidian roof;0M03;945;0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Black NuLuxe and Black dash trim,0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Black NuLuxe and Black dash trim
+C;Iridium with Obsidian roof;02ZH;850;0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim,0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim
+C;Ultra White with Obsidian roof;02LJ;850;0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim,0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim
+C;Ultrasonic Blue Mica 2.0 with Obsidian roof;02QF;945;0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim,0,0,Black NuLuxe and Black washi dash trim/Birch NuLuxe and Black washi dash trim,Circuit Red NuLuxe and Black dash trim/Black NuLuxe and Black dash trim
+P;Cold Area Package;100;;153;;;;CK
+F;Auto-dimming rearview mirror;175;;85;;;;EX
+F;Power tilt-and-slide moonroof;1100;;17;;;;SR
+F;Power Rear Door with Kick Sensor;550;;85;;;;PB
+F;Intuitive Parking Assist;565;;17;;;;PA
+F;Wireless charger;75;;255;;;;CG
+I;Dometic Recon Hardside 41L: Glow;325;;255;;;;QK1207
+I;Dometic Recon Hardside 41L: Silt;325;;255;;;;QK1204
+I;Dometic CFX5 45 Protective Cover;155;;255;;;;QK1213
+I;Dometic Recon Hardside 69L: Glow;425;;255;;;;QK1206
+I;Dometic Recond Hardside 69L: Silt;425;;255;;;;QK1205
+I;Dometic Recon Hardside 16L: Glow;225;;255;;;;QK1209
+I;Dometic Recon Hardside 16L: Silt;225;;255;;;;QK1208
+E;18" Gloss Black Machined Alloy Wheels;1300;;255;;;;L2
+E;18" Matte Black Alloy Wheels;1390;;255;;;;L7
+I;All-Weather Cargo Mat;140;;255;;;;96
+I;All-Weather Floor Liners;190;;255;;;;63
+E;Black Emblem Overlays (FWD);129;;15;;;;3J
+I;Cargo Net;80;;255;;;;GN
+I;Carpet Cargo Mat;140;;255;;;;C1
+E;Cross Bars [CROSSBARS2, ROOFRACKCBAR];500;;255;;;;3T
+E;Door Edge Film by 3M;100;;255;;;;DF
+E;Door Edge Guards;155;;255;;;;D5
+I;Emergency Assistance Kit;0;;255;;;;QK1005
+L;Illuminated Door Sills;460;;255;;;;G4
+I;Interior Color Panels;400;;255;;;;42
+I;Key Gloves;25;;51;;;;KG
+I;Lexus Quick Charge Cables;85;;255;;;;59
+I;Lexus Universal Tablet Holder QTY 2;200;;255;;;;U8
+I;Lexus Universal Tablet Holder;110;;255;;;;U7
+E;Mud Guards;165;;255;;;;MF
+P;Package: All Weather Floor Liners, All Weather Cargo Mat;330;;255;;;;2T
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Mudguard, Cross Bars;995;;255;;;;A2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Mudguards.;495;;255;;;;P1
+P;Package: Carpet Cargo Mat, Cargo Net, Wheel Locks, Key Gloves;264;;255;;;;Z1
+P;Package: Carpet Cargo Mat, Wheel Locks, Rear Bumper Applique, Key Gloves;354;;255;;;;Z2
+P;Package: Paint Protect Film, Door Edge Film, Rear Bumper Applique;640;;255;;;;P3
+E;Paint Protection Film by 3M;450;;255;;;;3M
+E;Rear Bumper Appliqué;90;;255;;;;EF
+E;Wheel Locks;99;;255;;;;WL
+I;Carmate DC4000RA Dashcam 360;570;;255;;;;QK1167
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;255;;;;QK1168
+I;Happy Ride Folding Pet Ramp;90;;255;;;;QK1122
+E;Kammok Crosswing - 5' Charcoal;1150;;255;;;;QK1164
+E;Kammok Crosswing - 5' Desert Tan;1150;;255;;;;QK1196
+E;Kammok Crosswing - 7' Charcoal;1300;;255;;;;QK1151
+E;Kammok Crosswing - 7' Desert Tan;1300;;255;;;;QK1185
+E;Kammok Crosswing Basket Mount Kit;110;;255;;;;QK1148
+E;Kammok Mantis - Midnight Blue;290;;255;;;;QK1162
+E;Kammok Mantis - Pine Green;290;;255;;;;QK1156
+E;Kammok Outpost;530;;255;;;;QK1149
+E;Kammok Pole Pack;115;;255;;;;QK1158
+E;Kammok Roo Double - Ember Orange;95;;255;;;;QK1159
+E;Kammok Roo Double - Midnight Blue;95;;255;;;;QK1155
+E;Kammok Roo Double - Pine Green;95;;255;;;;QK1152
+E;Kammok Roo Single - Ember Orange;70;;255;;;;QK1163
+E;Kammok Roo Single - Midnight Blue;70;;255;;;;QK1166
+E;Kammok Roo Single - Pine Green;70;;255;;;;QK1157
+E;Kammok Single Panel 5';115;;255;;;;QK1161
+E;Kammok Single Panel 7';125;;255;;;;QK1165
+E;Kammok Swiftlet;340;;255;;;;QK1150
+E;Kammok Tie Down Kit;70;;255;;;;QK1154
+E;Kammok Vertical Bracket Kit;60;;255;;;;QK1153
+I;Kurgo Backseat Barrier - Black;58;;255;;;;QK1117
+I;Kurgo Cargo Cape - Charcoal;76;;255;;;;QK1125
+I;Kurgo Collaps-a-Bowl - Blue;14;;255;;;;QK1123
+I;Kurgo Direct to Seatbelt Tether;14;;255;;;;QK1118
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;255;;;;QK1105
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;255;;;;QK1110
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;255;;;;QK1109
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;255;;;;QK1107
+I;Kurgo Heather Hammock - Heather Charcoal;80;;255;;;;QK1113
+I;Kurgo Kibble Carrier - Chili Red;22;;255;;;;QK1115
+I;Kurgo Pet First Aid Kit;33;;255;;;;QK1124
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;255;;;;QK1106
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;255;;;;QK1111
+I;Kurgo Swivel Tether;33;;255;;;;QK1114
+I;Kurgo Wander Bench Seat Cover Extended Width - Charcoal;64;;255;;;;QK1112
+I;Kurgo Wander Hammock - Charcoal;76;;255;;;;QK1121
+I;Kurgo Zippy Bowl - Coastal Blue;13;;255;;;;QK1108
+I;Pelican 14QT Personal Cooler;120;;255;;;;QK1190
+I;Pelican 20QT Elite Cooler;207;;255;;;;QK1188
+I;Pelican 45QT Elite Wheeled Cooler;466;;255;;;;QK1187
+I;Pelican Dayventure Backpack Cooler;301;;255;;;;QK1186
+I;Pelican Dayventure Sling Cooler;187;;255;;;;QK1191
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;255;;;;QK1145
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;255;;;;QK1146
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;255;;;;QK1144
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;255;;;;QK1147
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;255;;;;QK1143
+I;Thule Canyon Cargo Basket;542;;255;;;;QK1200
+E;Thule CapRock Crossbar Kit;180;;255;;;;QK1197
+E;Thule CapRock Roof Platform (Small);950;;255;;;;QK1201
+I;Thule Force 3 L Cargo Box;1015;;255;;;;QK1198
+E;Thule ProRide XT Bike Carrier;350;;255;;;;QK1202
+E;Thule SnowPackSki Carrier;400;;255;;;;QK1199
+E;Yakima EXO OpenRange;749;;255;;;;QK1169
+E;Yakima EXO OpenRange Leg Kit;229;;255;;;;QK1171
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;255;;;;QK1024
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;255;;;;QK1192
+I;Yakima GrandTour 16;879;;255;;;;QK1174
+E;Yakima HighRoad;299;;255;;;;QK1085
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;255;;;;QK1023
+E;Yakima KeelOver Canoe Carrier;199;;255;;;;QK1195
+I;Yakima OffGrid Cargo Basket, Mounted;649;;255;;;;QK1194
+E;Yakima OverNOut MD;499;;255;;;;QK1193
+I;Yakima SkyBox 18 XL;799;;255;;;;QK1172
+P;Cold Area Package;250;;102;;;;CK
+F;Lexus Interface with 12.3-in touchscreen display. Includes 3-year trial of Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. Subscription required after trial. 4G network dependent, Lexus 10-speaker Premium Sound System;1405;;34;;;;NV
+F;Digital Key and SmartAccess card key;375;;34;;;;DK
+F;Color Head-Up Display;900;;238;;;;GF
+P;Special Appearance Package;165;;12;;;;AP
+W;F SPORT 18-inch split-five-spoke alloy wheels with Black Metallic and machined finish and run-flat tires;0;;204;;111,115;;AP
+I;F SPORT Key Gloves;25;;204;;;;KG
+E;Black Emblem Overlays (AWD);199;;240;;;;3J
+P;Special Appearance Package;180;;192;;;;AP
+R;Rule not stored: Special Appearance Package needs update F SPORT 18-inch split-five-spoke alloy wheels with Black Metallic and machined finish and run-flat tires (4 trims, first: UX 300h F SPORT DESIGN)

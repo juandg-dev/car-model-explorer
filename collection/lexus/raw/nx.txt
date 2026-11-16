@@ -1,0 +1,147 @@
+#nx|NX|2026|NX|1395|suv
+T;NX 350 AWD;46025;9834;
+T;NX 350 PREMIUM AWD;47950;9835;
+T;NX 350 LUXURY AWD;52090;9836;
+T;NX 350 F SPORT HANDLING AWD;52000;9838;
+C;Atomic Silver;01J7;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Caviar;0223;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Cloudburst Gray;01L1;500;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Copper Crest;04Y5;595;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim
+C;Grecian Water;08Y6;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim
+C;Infrared;03T5;595;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+C;Nori Green Pearl;06X4;0;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim,Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,0
+C;Ultra White;0083;500;Palomino NuLuxe and Stippled Black trim/Black NuLuxe and Stippled Black trim/Rioja Red NuLuxe and Stippled Black trim,Rioja Red NuLuxe and Black Prism trim/Palomino NuLuxe and Black Prism trim/Black NuLuxe and Black Prism trim,Black leather and Black Open-Pore Wood trim/Rioja Red leather and Black Open-Pore Wood trim/Palomino leather and Black Open-Pore Wood trim/Macadamia leather and Black Open-Pore Wood trim,Black NuLuxe and Dark Graphite Aluminum trim/Circuit Red NuLuxe and Dark Graphite Aluminum trim
+P;Cold Area Package;150;;7;;;;CK
+F;Power tilt-and-slide moonroof;1100;;9;128;;;SR
+F;Wireless charger;75;;15;;;;WC
+I;Dometic CFX5 45 Protective Cover;155;;15;;;;PN1226
+I;Dometic Recon Hardside 69L: Glow;425;;15;;;;PN1219
+I;Dometic CFX5 45 Electric Cooler;1050;;15;;;;PN1223
+I;Dometic Recon Hardside 41L: Glow;325;;15;;;;PN1220
+I;Dometic Recon Hardside 16L: Glow;225;;15;;;;PN1222
+I;Dometic Recon Hardside 41L: Silt;325;;15;;;;PN1217
+I;Dometic Recond Hardside 69L: Silt;425;;15;;;;PN1218
+I;Dometic Recon Hardside 16L: Silt;225;;15;;;;PN1221
+E;Activity Mount;420;;15;;;;AM
+I;All-Weather Cargo Mat;140;;15;;;;96
+I;All-Weather Floor Liners;210;;15;;;;63
+E;Black Emblem Overlays (NX350h& AWD);325;;15;;;;3J
+E;Body Kit -Front, Rear, Fender, Front Door, Rear Door-;3042;;7;;;;PN1019
+E;Body Side Moldings;295;;15;;;;BM
+I;Cargo Net;80;;15;;;;GN
+I;Carpet Cargo Mat;140;;15;;;;C1
+E;Cross Bars[CROSSBARS2, ROOFRACKCBAR];395;;15;;;;3T
+I;Dashcam;375;;15;;;;V1
+E;Door Edge Film by 3M;100;;15;;;;DF
+E;Door Edge Guards;155;;15;;;;D5
+I;Drive Connect Trial Offering;485;;11;;;;1Z
+I;Emergency Assistance Kit;0;;15;;;;PN1005
+L;Illuminated Cargo Sills;300;;7;;;;K2
+L;Illuminated Door Sills;460;;15;;;;G4
+I;Key Gloves;25;;7;;;;KG
+I;Lexus Multimedia Screen Protector;109;;15;;;;87
+I;Lexus Quick Charge Cables;85;;15;;;;59
+I;Lexus Sunshade (Windshield);110;;15;;;;8U
+E;Mud Guards;165;;15;;;;MF
+P;Package: All Weather Cargo Mat, Cargo Net, Wheel Locks, Rear Bumper Protector, Key Gloves;474;;15;;;;Z2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat;350;;15;;;;2T
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Body Side Moldings, Door Edge Film;745;;15;;;;P2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Mudguard, Cross Bars;910;;15;;;;A2
+P;Package: Carpet Cargo Mat, Cargo Net, Key Gloves;245;;15;;;;Z1
+P;Package: Illuminated Door Sills, Illuminated Cargo Sills;760;;15;;;;K3
+P;Package: Paint Protect Film, Door Edge Film;550;;15;;;;P3
+P;Package: Rear Puddle Lamp, Side Puddle Lamp;325;;15;;;;P5
+E;Paint Protection Film by 3M;450;;15;;;;3M
+I;Pet Divider;340;;15;;;;PN1020
+E;Rear Bumper Protector;130;;15;;;;EG
+L;Rear Puddle Lamp;150;;15;;;;P8
+L;Side Puddle Lamp;175;;7;;;;P9
+I;SiriusXM Trial Offering: 33 Months;350;;15;;;;1S
+E;Tow Hitch;450;;15;;;;PN1033
+E;Wheel Locks;99;;15;;;;WL
+I;Carmate DC4000RA Dashcam 360;570;;15;;;;PN1170
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;15;;;;PN1171
+I;Happy Ride Folding Pet Ramp;90;;15;;;;PN1131
+E;Kammok Crosswing - 5' Charcoal;1150;;15;;;;PN1167
+E;Kammok Crosswing - 5' Desert Tan;1150;;15;;;;PN1190
+E;Kammok Crosswing - 7' Charcoal;1300;;15;;;;PN1154
+E;Kammok Crosswing - 7' Desert Tan;1300;;15;;;;PN1191
+E;Kammok Crosswing Basket Mount Kit;110;;15;;;;PN1151
+E;Kammok Mantis - Midnight Blue;290;;15;;;;PN1165
+E;Kammok Mantis - Pine Green;290;;15;;;;PN1159
+E;Kammok Outpost;530;;15;;;;PN1152
+E;Kammok Pole Pack;115;;15;;;;PN1161
+E;Kammok Roo Double - Ember Orange;95;;15;;;;PN1162
+E;Kammok Roo Double - Midnight Blue;95;;15;;;;PN1158
+E;Kammok Roo Double - Pine Green;95;;15;;;;PN1155
+E;Kammok Roo Single - Ember Orange;70;;15;;;;PN1166
+E;Kammok Roo Single - Midnight Blue;70;;15;;;;PN1169
+E;Kammok Roo Single - Pine Green;70;;15;;;;PN1160
+E;Kammok Single Panel 5';115;;15;;;;PN1164
+E;Kammok Single Panel 7';125;;15;;;;PN1168
+E;Kammok Swiftlet;340;;15;;;;PN1153
+E;Kammok Tie Down Kit;70;;15;;;;PN1157
+E;Kammok Vertical Bracket Kit;60;;15;;;;PN1156
+I;Kurgo Backseat Barrier - Black;58;;15;;;;PN1126
+I;Kurgo Cargo Cape - Charcoal;76;;15;;;;PN1134
+I;Kurgo Collaps-a-Bowl - Blue;14;;15;;;;PN1132
+I;Kurgo Direct to Seatbelt Tether;14;;15;;;;PN1127
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;15;;;;PN1115
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;15;;;;PN1120
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;15;;;;PN1119
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;15;;;;PN1117
+I;Kurgo Heather Hammock - Heather Charcoal;80;;15;;;;PN1123
+I;Kurgo Kibble Carrier - Chili Red;22;;15;;;;PN1125
+I;Kurgo Pet First Aid Kit;33;;15;;;;PN1133
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;15;;;;PN1116
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;15;;;;PN1121
+I;Kurgo Swivel Tether;33;;15;;;;PN1124
+I;Kurgo Wander Bench Seat Cover - Charcoal;59;;15;;;;PN1114
+I;Kurgo Wander Bench Seat Cover Extended Width - Charcoal;64;;15;;;;PN1122
+I;Kurgo Wander Hammock - Charcoal;76;;15;;;;PN1130
+I;Kurgo Zippy Bowl - Coastal Blue;13;;15;;;;PN1118
+I;Pelican 14QT Personal Cooler;120;;15;;;;PN1198
+I;Pelican 20QT Elite Cooler;207;;15;;;;PN1196
+I;Pelican 45QT Elite Wheeled Cooler;466;;15;;;;PN1195
+I;Pelican Dayventure Backpack Cooler;301;;15;;;;PN1194
+I;Pelican Dayventure Sling Cooler;187;;15;;;;PN1199
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;15;;;;PN1148
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;15;;;;PN1149
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;15;;;;PN1147
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;15;;;;PN1150
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;15;;;;PN1146
+I;Thule Canyon Cargo Basket;542;;15;;;;PN1207
+I;Thule Force 3 L Cargo Box;1015;;15;;;;PN1205
+E;Thule ProRide XT Bike Carrier;350;;15;;;;PN1208
+E;Thule SnowPackSki Carrier;400;;15;;;;PN1206
+E;Yakima EXO OpenRange;749;;15;;;;PN1172
+E;Yakima EXO OpenRange Leg Kit;229;;15;;;;PN1174
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;15;;;;PN1030
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;15;;;;PN1200
+I;Yakima GrandTour 16;879;;15;;;;PN1177
+E;Yakima HighRoad;299;;15;;;;PN1094
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;15;;;;PN1029
+E;Yakima KeelOver Canoe Carrier;199;;15;;;;PN1204
+I;Yakima MegaWarrior;649;;15;;;;PN1202
+I;Yakima OffGrid Cargo Basket, Mounted;649;;15;;;;PN1203
+E;Yakima OverNOut MD;499;;15;;;;PN1201
+I;Yakima SkyBox 18 XL;799;;15;;;;PN1175
+F;Thematic Ambient Illumination, Lexus Interface with 14.0-in touchscreen display. Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. 4G network dependent;1205;;2;;;;NV
+F;Digital Key (requires Remote Connect subscription, 3-year trial included) and SmartAccess card key. 4G network dependent.;375;;14;;;;TP
+F;10-in Head-Up Display;900;;2;;;;HU
+F;Digital rearview mirror;200;;10;;;;DM
+F;Panoramic View Monitor;800;;14;;115;;PV
+F;Front Cross-Traffic Alert and Lane Change Assist;270;;14;;;;FC
+W;20-in 20-spoke alloy wheels with Gray Metallic and Silver finish;1310;;6;;;;FL
+F;60/40-split, power-folding, heated rear seats;1030;;4;;;;FS
+F;Panorama glass roof;500;;4;;;;PR
+F;Advanced Park;250;;12;;119;;AP
+F;Mark Levinson 17-speaker, 1,800-watt PurePlay Surround Sound;1020;;4;;;;NL
+P;F SPORT Handling Luxury Package;1760;;8;;;;LT
+F;Thematic Ambient Illumination, Lexus Interface with 14.0-in touchscreen display. Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. 4G network dependent;1105;;8;;;;NV
+F;Panorama glass roof;1600;;8;1;;;PR
+F;Thematic Ambient Illumination, Lexus Interface with 14.0-in touchscreen display. Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. 4G network dependent, Mark Levinson 17-speaker, 1,800-watt PurePlay Surround Sound;2125;;8;;126;;NL
+L;F SPORT Illuminated Cargo Sills;300;;8;;;;K2
+I;F SPORT Key Gloves;25;;8;;;;KG
+L;F SPORT Side Puddle Lamps;175;;8;;;;P9
+R;Rule not stored: Advanced Park also needs one of 1 choices (NX 350 F SPORT HANDLING AWD) // Rule not stored: F SPORT Handling Luxury Package also needs one of 1 choices (NX 350 F SPORT HANDLING AWD) // Rule not stored: Panoramic View Monitor also needs one of 1 choices (NX 350 F SPORT HANDLING AWD) // Rule not stored: Thematic Ambient Illumination, Lexus Interface with 14.0-in touchscreen display. Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. 4G network dependent, Mark Levinson 17-speaker, 1,800-watt PurePlay Surround Sound also needs one of 1 choices (NX 350 F SPORT HANDLING AWD)

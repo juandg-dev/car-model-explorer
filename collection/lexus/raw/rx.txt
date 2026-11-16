@@ -1,0 +1,148 @@
+#rx|RX|2027|RX|1550|suv
+T;RX 350 PREMIUM;53900;9401;
+T;RX 350 PREMIUM+;57390;9402;
+T;RX 350 LUXURY;62445;9403;
+T;RX 350 F SPORT DESIGN;56230;9404;
+T;RX 350 PREMIUM AWD;55500;9411;
+T;RX 350 PREMIUM+ AWD;58990;9412;
+T;RX 350 LUXURY AWD;64045;9413;
+T;RX 350 F SPORT DESIGN AWD;57830;9414;
+T;RX 350 F SPORT HANDLING AWD;60500;9415;
+C;Caviar;0223;0;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Rioja Red NuLuxe and Dark Graphite Aluminum trim/Black NuLuxe and Dark Graphite Aluminum trim
+C;Cloudburst Gray;01L1;650;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Rioja Red NuLuxe and Dark Graphite Aluminum trim/Black NuLuxe and Dark Graphite Aluminum trim
+C;Iridium;01L2;650;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Rioja Red NuLuxe and Dark Graphite Aluminum trim/Black NuLuxe and Dark Graphite Aluminum trim
+C;Matador Red Mica;03R1;0;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,0,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,0,0
+C;Nightfall Mica;08X5;0;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,0,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,0,0
+C;Nori Green Pearl;06X4;0;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,0,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,0,0
+C;Ultra White;0083;650;Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Birch NuLuxe and Black Open-Pore Wood trim/Palomino NuLuxe and Ash Bamboo trim/Black NuLuxe and Black Open-Pore Wood trim,Palomino leather and Ash Bamboo trim/Birch leather and Black Open-Pore Wood trim/Macadamia leather and Ash Bamboo trim/Black leather and Black Open-Pore Wood trim,Black semi-aniline leather and Black Open-Pore Wood trim/Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Macadamia semi-aniline leather and Ash Bamboo trim,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Rioja Red NuLuxe and Dark Graphite Aluminum trim/Black NuLuxe and Dark Graphite Aluminum trim
+C;Incognito;01L8;0;0,0,0,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,0,0,0,Birch NuLuxe and Black Open-Pore Wood trim/Black NuLuxe and Black Open-Pore Wood trim,Rioja Red NuLuxe and Dark Graphite Aluminum trim/Black NuLuxe and Dark Graphite Aluminum trim
+P;Kick Sensor with Tow Package;870;;511;2;;;PD
+P;Convenience Package;1420;;153;;4;;CP
+F;Power Rear Door with Kick Sensor;150;;511;0;;;PB
+F;Digital Key (requires Remote Connect subscription, 5-year trial included) and SmartAccess card key. 4G network dependent.;375;;153;;;;DK
+F;Lexus Interface with 14.0-in touchscreen display. Includes 3-month trial of Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. 4G network dependent.;1105;;409;128;;;NW
+W;21-in 20-spoke alloy wheels with Dark Gray Metallic finish;1600;;17;;;;FZ
+I;Dometic Recon Hardside 69L: Glow;425;;511;;;;QW1195
+I;Dometic Recon Hardside 16L: Silt;225;;511;;;;QW1197
+I;Dometic CFX5 45 Electric Cooler;1050;;511;;;;QW1200
+I;Dometic CFX5 45 Protective Cover;155;;511;;;;QW1204
+I;Dometic Recon Hardside 41L: Glow;325;;511;;;;QW1196
+I;Dometic Recon Hardside 41L: Silt;325;;511;;;;QW1193
+I;Dometic Recond Hardside 69L: Silt;425;;511;;;;QW1194
+I;Dometic Recon Hardside 16L: Glow;225;;511;;;;QW1198
+E;Activity Mount;515;;511;;;;AM
+I;All-Weather Cargo Mat;150;;511;;;;96
+I;All-Weather Floor Mats;210;;511;;;;63
+E;Ball Mount;75;;511;;;;D8
+E;Black Emblem Overlays - RX350;325;;15;;;;3J
+E;Body Side Moldings;295;;511;;;;BM
+I;Cargo Net;80;;511;;;;GN
+I;Carpet Cargo Mat;150;;119;;;;C1
+I;Coin Holder/Ashtray Cup;0;;511;;;;QW1005
+E;Cross Bars[CROSSBARS2, ROOFRACKCAP];475;;511;;;;3T
+I;Dashcam;375;;511;;;;V1
+E;Door Edge Film by 3M;100;;511;;;;DF
+E;Door Edge Guards;160;;511;;;;D5
+I;Drive Connect Trial Offering;485;;511;;;;1Z
+I;Emergency Assistance Kit;0;;511;;;;QW1006
+L;Illuminated Cargo Sills;300;;119;;;;J6
+L;Illuminated Door Sills;460;;119;;;;G4
+I;Key Gloves;25;;119;;;;KG
+I;Lexus Multimedia Screen Protector (14 inch Screen);109;;511;;;;87
+I;Lexus Quick Charge Cables;85;;511;;;;59
+I;Lexus Sunshade (Windshield);110;;511;;;;8U
+E;Mud Guards;170;;511;;;;MF
+P;Package: All Weather Floor Liners, All Weather Cargo Mat;360;;511;;;;2T
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Body Side Moldings, Door Edge Film;755;;511;;;;P2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Mudguard, Cross Bars;1005;;511;;;;A2
+P;Package: All Weather Floor Liners, All Weather Cargo Mat, Mudguards, Door Edge Guard;690;;511;;;;P1
+P;Package: Ball Mount, Tow Hitch, Tow Wire harness;980;;511;;;;DH
+P;Package: Carpet Cargo Mat, Cargo Net, Wheel Locks, Key Gloves;354;;511;;;;Z1
+P;Package: Illuminated Door Sills, Illuminated Cargo Sills;760;;511;;;;K3
+P;Package: Paint Protect Film, Door Edge Film;550;;511;;;;P3
+E;Paint Protection Film by 3M;450;;511;;;;3M
+E;Rear Bumper Appliqué;90;;511;;;;EF
+E;Running Boards;725;;511;;;;R6
+L;Side Puddle Lamp;175;;119;;;;P9
+I;SiriusXM Trial Offering: 33 Months;350;;511;;;;1S
+E;Tow Hitch Receiver [TOWCAPSAE, TOWLOAD];660;;511;;;;DI
+E;Wheel Locks;99;;511;;;;WL
+I;Carmate DC4000RA Dashcam 360;570;;511;;;;QW1153
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;511;;;;QW1154
+E;Kammok Crosswing - 5' Charcoal;1150;;511;;;;QW1150
+E;Kammok Crosswing - 5' Desert Tan;1150;;511;;;;QW1170
+E;Kammok Crosswing - 7' Charcoal;1300;;511;;;;QW1137
+E;Kammok Crosswing - 7' Desert Tan;1300;;511;;;;QW1171
+E;Kammok Crosswing Basket Mount Kit;110;;511;;;;QW1134
+E;Kammok Mantis - Midnight Blue;290;;511;;;;QW1148
+E;Kammok Mantis - Pine Green;290;;511;;;;QW1142
+E;Kammok Outpost;530;;511;;;;QW1135
+E;Kammok Pole Pack;115;;511;;;;QW1144
+E;Kammok Roo Double - Ember Orange;95;;511;;;;QW1145
+E;Kammok Roo Double - Midnight Blue;95;;511;;;;QW1141
+E;Kammok Roo Double - Pine Green;95;;511;;;;QW1138
+E;Kammok Roo Single - Ember Orange;70;;511;;;;QW1149
+E;Kammok Roo Single - Midnight Blue;70;;511;;;;QW1152
+E;Kammok Roo Single - Pine Green;70;;511;;;;QW1143
+E;Kammok Single Panel 5';115;;511;;;;QW1147
+E;Kammok Single Panel 7';125;;511;;;;QW1151
+E;Kammok Swiftlet;340;;511;;;;QW1136
+E;Kammok Tie Down Kit;70;;511;;;;QW1140
+E;Kammok Vertical Bracket Kit;60;;511;;;;QW1139
+I;Kurgo Backseat Barrier - Black;58;;511;;;;QW1039
+I;Kurgo Cargo Cape - Charcoal;76;;511;;;;QW1045
+I;Kurgo Collaps-a-Bowl - Blue;14;;511;;;;QW1057
+I;Kurgo Direct to Seatbelt Tether;14;;511;;;;QW1050
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;511;;;;QW1051
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;511;;;;QW1060
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;511;;;;QW1044
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;511;;;;QW1046
+I;Kurgo Heather Hammock - Heather Charcoal;80;;511;;;;QW1043
+I;Kurgo Kibble Carrier - Chili Red;22;;511;;;;QW1059
+I;Kurgo Pet First Aid Kit;33;;511;;;;QW1062
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;511;;;;QW1049
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;511;;;;QW1061
+I;Kurgo Swivel Tether;33;;511;;;;QW1048
+I;Kurgo Wander Hammock - Charcoal;76;;511;;;;QW1041
+I;Kurgo Zippy Bowl - Coastal Blue;13;;511;;;;QW1058
+I;Pelican 14QT Personal Cooler;120;;511;;;;QW1184
+I;Pelican 20QT Elite Cooler;207;;511;;;;QW1182
+I;Pelican 45QT Elite Wheeled Cooler;466;;511;;;;QW1181
+I;Pelican Dayventure Backpack Cooler;301;;511;;;;QW1180
+I;Pelican Dayventure Sling Cooler;187;;511;;;;QW1185
+I;PetSafe Happy Ride Folding Dog Ramp;90;;511;;;;QW1063
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;511;;;;QW1131
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;511;;;;QW1132
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;511;;;;QW1130
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;511;;;;QW1133
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;511;;;;QW1129
+I;Thule Canyon Cargo Basket;542;;511;;;;QW1192
+I;Thule Force 3 L Cargo Box;1015;;511;;;;QW1189
+E;Thule ProRide XT Bike Carrier;350;;511;;;;QW1191
+E;Thule SnowPackSki Carrier;400;;511;;;;QW1190
+E;Yakima EXO OpenRange;749;;511;;;;QW1155
+E;Yakima EXO OpenRange Leg Kit;229;;511;;;;QW1157
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;511;;;;QW1036
+E;Yakima FrontLoader Rooftop Upright Bike Mount;229;;511;;;;QW1033
+I;Yakima GrandTour 16;879;;511;;;;QW1160
+E;Yakima HighRoad;299;;511;;;;QW1099
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;511;;;;QW1035
+E;Yakima KeelOver Canoe Carrier;199;;511;;;;QW1188
+I;Yakima MegaWarrior;649;;511;;;;QW1186
+I;Yakima OffGrid Cargo Basket, Mounted;649;;511;;;;QW1187
+I;Yakima SkyBox 18 XL;799;;511;;;;QW1158
+P;Technology Package;1475;;34;;;;TP
+P;Convenience Package;1670;;358;;;;CP
+F;Panorama glass roof and roof rails;500;;290;;;;MR
+F;Mark Levinson 21-speaker, 1,800-watt PurePlay Surround Sound;1160;;102;;;;NM
+P;Technology Package;575;;324;;;;TP
+I;F SPORT Carpet Cargo Mat;150;;392;;;;C1
+L;F SPORT Illuminated Cargo Sills;300;;392;;;;G5
+L;F SPORT Illuminated Door Sills;460;;392;;;;G4
+I;F SPORT Key Gloves;25;;392;;;;KG
+L;F SPORT Side Puddle Lamps;175;;392;;;;P9
+E;Black Emblem Overlays - RX350 AWD;325;;496;;;;3J
+F;Red-finished brake calipers;500;;256;;;;OW
+F;Triple-Beam LED headlamps, headlamp washers and cornering lamps;1565;;256;;;;IN
+F;Mark Levinson 21-speaker, 1,800-watt PurePlay Surround Sound and Lexus Interface with 14.0-in multimedia display. Includes 3-month trial of Drive Connect with Cloud Navigation, Intelligent Assistant and Destination Assist. Subscription required after trial. 4G network dependent.;2265;;256;4;;;NM
+R;Rule not stored: Convenience Package also needs one of 1 choices (RX 350 F SPORT HANDLING AWD)

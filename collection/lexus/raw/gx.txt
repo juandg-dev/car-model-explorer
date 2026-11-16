@@ -1,0 +1,176 @@
+#gx|GX|2027|GX|1550|suv
+T;GX 550 PREMIUM;67535;9701;
+T;GX 550 PREMIUM+;71850;9702;
+T;GX 550 LUXURY;80050;9703;
+T;GX 550 LUXURY+;84050;9704;
+T;GX 550 OVERTRAIL;75180;9705;
+T;GX 550 OVERTRAIL+;83460;9706;
+C;Atomic Silver;01J7;0;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Caviar;0223;0;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Eminent White Pearl;0085;650;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Incognito;01L8;0;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Nebula Gray Pearl;01H9;0;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,0,0
+C;Nightfall Mica;08X5;0;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,0,0
+C;Nori Green Pearl;06X4;0;Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Dapple Gray NuLuxe and Black Grained trim/Saddle Tan NuLuxe and Brown Grained trim/Black NuLuxe and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Saddle Tan semi-aniline leather and Brown Grained trim/Black semi-aniline leather and Black Grained trim/Dapple Gray semi-aniline leather and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Atomic Silver and Black Onyx;0M06;350;0,0,0,0,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Earth and Black Onyx;0M08;350;0,0,0,0,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Incognito and Black Onyx;0M07;350;0,0,0,0,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+C;Nori Green Pearl and Black Onyx;0M09;350;0,0,0,0,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim,Black NuLuxe - Olive Ultrasuede and Black Grained trim/Chateau NuLuxe - Olive Ultrasuede and Black Grained trim
+P;Cold Area Package;350;;1;;;;CK
+F;Wireless phone charger;75;;17;;;;CG
+F;Liftgate light;250;;63;;;;TL
+F;Tonneau cover;110;;63;;;;TC
+F;Traffic Jam Assist (requires Drive Connect subscription, 3-year trial included). 4G network dependent.;620;;63;;;;TQ
+F;10.7-in color Head-Up Display;900;;63;;;;GF
+I;Lexus Sunshade (Windshield);110;;63;;;;8U
+I;Dometic Recon Hardside 41L: Silt;325;;63;;;;RC1269
+I;Dometic Tie Down Kit;55;;63;;;;RC1283
+I;Dometic Recon Hardside 16L: Silt;225;;63;;;;RC1273
+I;Dometic Recon Hardside 69L: Glow;425;;63;;;;RC1271
+I;Dometic Recon Hardside 16L: Glow;225;;63;;;;RC1274
+I;Dometic Recond Hardside 69L: Silt;425;;63;;;;RC1270
+I;Dometic Recon Hardside 41L: Glow;325;;63;;;;RC1272
+I;All-Weather Cargo Mat (3-Row SUV);150;;15;;;;96
+I;All-Weather Floor Liners;259;;15;;;;63
+E;Ball Mount;85;;63;;;;D8
+E;Black Emblem Overlays;199;;63;;;;3J
+E;Body Side Moldings;295;;63;;;;BM
+I;Cargo Net;80;;63;;;;GN
+I;Carpet Cargo Mat (3-Row SUV);150;;15;;;;C1
+E;Catback Performance Exhaust;2270;;63;;;;5E
+I;Coin Holder/Ashtray Cup;36;;63;;;;A6
+E;Cross Bars[CROSSBARS2, ROOFRACKCBAR];440;;15;;;;3T
+I;Dashcam;375;;63;;;;V1
+E;Door Edge Film by 3M;100;;63;;;;DF
+E;Door Edge Guards;160;;63;;;;D5
+I;Emergency Assistance Kit;90;;63;;;;7R
+L;Illuminated Door Sills;470;;19;;;;G4
+I;Key Gloves;25;;63;;;;KG
+I;Lexus Multimedia Screen Protector;109;;63;;;;87
+I;Lexus Quick Charge Cables;85;;63;;;;59
+I;Lexus Universal Tablet Holder;110;;63;;;;U7
+P;Package: All Weather Floor Liners, All Weather Cargo Mat;409;;63;;;;2T
+P;Package: Black Emblem Overlays, Roof Rack;1649;;63;;;;31
+P;Package: Cargo Net, All Weather Cargo Mat, Wheel Locks, Key Gloves;349;;63;;;;ZB
+P;Package: Carpet Cargo Mat, Cargo Net, Wheel Locks, Key Gloves;349;;63;;;;Z1
+E;Paint Protection Film by 3M;450;;63;;;;3M
+E;Roof Rack;1450;;15;;;;DR
+I;SiriusXM Trial Offering: 33 Months;350;;63;;;;1S
+E;Skid Plate (Front);755;;63;;;;S0
+E;Skid Plate (Middle);480;;63;;;;6V
+E;Wheel Locks;99;;63;;;;WL
+I;ARB 38 Qt Zero Fridge/Freezer;1132;;63;;;;RC1214
+E;ARB Air Compressor Pump Up Kit;120;;63;;;;RC1189
+E;ARB Awning with Light;442;;63;;;;RC1196
+I;ARB Cargo Organizer;106;;63;;;;RC1212
+E;ARB Digital Tire Inflator;91;;63;;;;RC1186
+E;ARB E-Z Deflator Kit PSI Gauge;75;;63;;;;RC1194
+E;ARB E-Z Digital Deflator;95;;63;;;;RC1198
+I;ARB Fridge Tie Down Kit;72;;63;;;;RC1183
+E;ARB Inflation Case II;98;;63;;;;RC1187
+E;ARB Premium Recovery Kit;540;;63;;;;RC1193
+E;ARB Recovery Kit Weekender;175;;63;;;;RC1188
+E;ARB TRED Pro Gray/Orange;380;;63;;;;RC1215
+E;ARB TRED Pro Gun Metal Grey;380;;63;;;;RC1195
+E;ARB TRED Pro Mounting Kit;110;;63;;;;RC1182
+E;ARB TRED Pro Red;380;;63;;;;RC1181
+E;ARB Twin Portable Compressor;1082;;63;;;;RC1197
+I;Carmate DC4000RA Dashcam 360;570;;63;;;;RC1185
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;63;;;;RC1191
+E;Factor 55 D-Ring Recovery Hook;69;;63;;;;RC1248
+E;Factor 55 Epic Recovery Kit;624;;63;;;;RC1243
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;63;;;;RC1249
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;63;;;;RC1246
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;63;;;;RC1245
+E;Factor 55 Recovery Hook Kit;651;;63;;;;RC1247
+E;Factor 55 Recovery Hook Soft Shackle: 7/16"x10";69;;63;;;;RC1244
+E;Kammok Crosswing - 5' Charcoal;1150;;63;;;;RC1178
+E;Kammok Crosswing - 5' Desert Tan;1150;;63;;;;RC1235
+E;Kammok Crosswing - 7' Charcoal;1300;;63;;;;RC1165
+E;Kammok Crosswing - 7' Desert Tan;1300;;63;;;;RC1236
+E;Kammok Crosswing Basket Mount Kit;110;;63;;;;RC1162
+E;Kammok Mantis - Midnight Blue;290;;63;;;;RC1176
+E;Kammok Mantis - Pine Green;290;;63;;;;RC1170
+E;Kammok Outpost;530;;63;;;;RC1163
+E;Kammok Pole Pack;115;;63;;;;RC1172
+E;Kammok Roo Double - Ember Orange;95;;63;;;;RC1173
+E;Kammok Roo Double - Midnight Blue;95;;63;;;;RC1169
+E;Kammok Roo Double - Pine Green;95;;63;;;;RC1166
+E;Kammok Roo Single - Ember Orange;70;;63;;;;RC1177
+E;Kammok Roo Single - Midnight Blue;70;;63;;;;RC1180
+E;Kammok Roo Single - Pine Green;70;;63;;;;RC1171
+E;Kammok Single Panel 5';115;;63;;;;RC1175
+E;Kammok Single Panel 7';125;;63;;;;RC1179
+E;Kammok Swiftlet;340;;63;;;;RC1164
+E;Kammok Tie Down Kit;70;;63;;;;RC1168
+E;Kammok Vertical Bracket Kit;60;;63;;;;RC1167
+I;Kurgo Backseat Barrier - Black;58;;63;;;;RC1042
+I;Kurgo Cargo Cape - Charcoal;76;;63;;;;RC1047
+I;Kurgo Collaps-a-Bowl - Blue;14;;63;;;;RC1059
+I;Kurgo Direct to Seatbelt Tether;14;;63;;;;RC1052
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;63;;;;RC1056
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;63;;;;RC1062
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;63;;;;RC1066
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;63;;;;RC1048
+I;Kurgo Heather Hammock - Heather Charcoal;80;;63;;;;RC1046
+I;Kurgo Kibble Carrier - Chili Red;22;;63;;;;RC1061
+I;Kurgo Pet First Aid Kit;33;;63;;;;RC1064
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;63;;;;RC1051
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;63;;;;RC1063
+I;Kurgo Swivel Tether;33;;63;;;;RC1050
+I;Kurgo Wander Hammock - Charcoal;76;;63;;;;RC1044
+I;Kurgo Zippy Bowl - Coastal Blue;13;;63;;;;RC1060
+I;Pelican 14QT Personal Cooler;120;;63;;;;RC1255
+I;Pelican 20QT Elite Cooler;207;;63;;;;RC1253
+I;Pelican 45QT Elite Wheeled Cooler;466;;63;;;;RC1251
+I;Pelican Dayventure Backpack Cooler;301;;63;;;;RC1250
+I;Pelican Dayventure Sling Cooler;187;;63;;;;RC1256
+I;Pelican TX50 Adventure Case;207;;63;;;;RC1257
+I;Pelican TX80 Adventure Case;259;;63;;;;RC1252
+I;PetSafe Happy Ride Folding Dog Ramp;90;;63;;;;RC1065
+I;Prinsu Pro Rack Window Accessory Panel Driver Side;475;;63;;;;RC1223
+I;Prinsu Pro Rack Window Accessory Panel Passenger Side;475;;63;;;;RC1224
+E;Prinsu PRO Roof Rack w/Standard Wind Deflector;1335;;63;;;;RC1225
+E;Prinsu Ridgeline Handles;118;;63;;;;RC1228
+E;Prinsu Summit Handles;195;;63;;;;RC1229
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;63;;;;RC1159
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;63;;;;RC1160
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;63;;;;RC1158
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;63;;;;RC1161
+E;Package: Skid Plate Package;1260;;63;;;;ZS
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;63;;;;RC1157
+I;Thule Canyon Cargo Basket;542;;63;;;;RC1264
+I;Thule Force 3 L Cargo Box;1015;;63;;;;RC1262
+E;Thule ProRide XT Bike Carrier;350;;63;;;;RC1265
+E;Thule SnowPackSki Carrier;400;;63;;;;RC1263
+E;WeBoost Drive Reach;500;;63;;;;RC1232
+E;WeBoost Drive Reach Overland;550;;63;;;;RC1231
+E;WeBoost Overland Antenna & Mounting bracket combo;230;;63;;;;RC1233
+E;Yakima EXO OpenRange;749;;63;;;;RC1201
+E;Yakima EXO OpenRange Leg Kit;229;;63;;;;RC1203
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;63;;;;RC1040
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;63;;;;RC1241
+I;Yakima GrandTour 16;879;;63;;;;RC1207
+E;Yakima HighRoad;299;;63;;;;RC1107
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;63;;;;RC1039
+I;Yakima MegaWarrior;649;;63;;;;RC1260
+I;Yakima OffGrid Cargo Basket, Mounted;649;;63;;;;RC1261
+E;Yakima OverNOut MD;499;;63;;;;RC1258
+E;Yakima RoadShower (7 Gal.);599;;63;;;;RC1259
+I;Yakima SkyBox 18 XL;799;;63;;;;RC1204
+P;Cold Area Package;200;;14;;;;CK
+F;Heated second-row captain's chairs (seating for six);440;;14;;;;CH
+F;Digital Key (requires Remote Connect subscription, 5-year trial included) and SmartAccess card key. 4G network dependent.;375;;46;;;;DK
+F;Mark Levinson 21-speaker, 1,800-watt Premium Surround Sound;1140;;36;;;;ML
+F;Cool box;170;;48;;;;T2
+F;Without moonroof;-1100;;48;;;;MD
+I;All-Weather Cargo Mat (2- Row SUV);150;;48;;;;96
+I;Carpet Cargo Mat (2-Row SUV);150;;48;;;;C1
+I;Carpet Floor Mats;259;;48;;;;CF
+E;Cross Bars - (Overtrail)[CROSSBARS2, ROOFRACKCBAR];570;;48;;;;3S
+E;Onboard Air Compressor;1550;;48;;;;1X
+P;Package: Black Emblem Overlays, Roof Rack, Rock Rails;2769;;48;;;;32
+P;Package: Carpet Floor Mats, Carpet Cargo Mat;409;;48;;;;CT
+E;Rock Rails (Overtrail);990;;48;;;;RR
+E;Roof Rack (Overtrail);1580;;48;;;;3R
+R;

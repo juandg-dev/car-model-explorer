@@ -1,0 +1,158 @@
+#lx|LX|2027|LX|1550|suv
+T;LX 600 PREMIUM;107500;9621;
+T;LX 600 F SPORT HANDLING;115360;9622;
+T;LX 600 LUXURY;116300;9623;
+C;Atomic Silver;01J7;0;Palomino leather and Brown Open-Pore Wood trim/Black leather and Black Open-Pore Wood trim/Black semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim,Circuit Red semi-aniline leather and Hadori Aluminum trim/Palomino semi-aniline leather and Hadori Aluminum trim/Black semi-aniline leather and Hadori Aluminum trim,Black semi-aniline leather and Black Open-Pore Wood trim/White-Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim
+C;Caviar;0223;0;Palomino leather and Brown Open-Pore Wood trim/Black leather and Black Open-Pore Wood trim/Black semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim,Circuit Red semi-aniline leather and Hadori Aluminum trim/Palomino semi-aniline leather and Hadori Aluminum trim/Black semi-aniline leather and Hadori Aluminum trim,Black semi-aniline leather and Black Open-Pore Wood trim/White-Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim
+C;Manganese Luster;01K2;650;Palomino leather and Brown Open-Pore Wood trim/Black leather and Black Open-Pore Wood trim/Black semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim,Circuit Red semi-aniline leather and Hadori Aluminum trim/Palomino semi-aniline leather and Hadori Aluminum trim/Black semi-aniline leather and Hadori Aluminum trim,Black semi-aniline leather and Black Open-Pore Wood trim/White-Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim
+C;Nori Green Pearl;06X4;0;Palomino leather and Brown Open-Pore Wood trim/Black leather and Black Open-Pore Wood trim/Black semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim,Palomino semi-aniline leather and Hadori Aluminum trim/Black semi-aniline leather and Hadori Aluminum trim,Black semi-aniline leather and Black Open-Pore Wood trim/White-Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim
+C;Ultra White;0083;650;Palomino leather and Brown Open-Pore Wood trim/Black leather and Black Open-Pore Wood trim/Black semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim,Circuit Red semi-aniline leather and Hadori Aluminum trim/Palomino semi-aniline leather and Hadori Aluminum trim/Black semi-aniline leather and Hadori Aluminum trim,Black semi-aniline leather and Black Open-Pore Wood trim/White-Peppercorn semi-aniline leather and Black Open-Pore Wood trim/Palomino semi-aniline leather and Brown Open-Pore Wood trim
+C;Wind;01N0;650;0,Circuit Red semi-aniline leather and Hadori Aluminum trim/Palomino semi-aniline leather and Hadori Aluminum trim/Black semi-aniline leather and Hadori Aluminum trim,0
+P;Interior Upgrade Package;2280;;1;;;;IU
+P;Appearance Package;1295;;5;;;;AP
+F;Liftgate light;250;;7;;;;TL
+F;Rear bumper guard;290;;7;;;;BG
+F;Mark Levinson 25-speaker, 2,400-watt Reference Surround Sound;2660;;3;;;;ML
+I;Dometic Recon Hardside 16L: Silt;225;;7;;;;QP1252
+I;Dometic Strap Kit;22;;7;;;;QP1258
+I;Dometic Recon Hardside 41L: Silt;325;;7;;;;QP1248
+I;Dometic Recon Hardside 16L: Glow;225;;7;;;;QP1253
+I;Multimedia Screen Protector;150;;7;;;;87
+I;Dometic Recon Hardside 41L: Glow;325;;7;;;;QP1251
+I;Dometic Recon Hardside 69L: Glow;425;;7;;;;QP1250
+I;Dometic Recond Hardside 69L: Silt;425;;7;;;;QP1249
+I;Dometic PLB15 Portable Battery;300;;7;;;;QP1259
+I;All-Weather Cargo Mat (3-Row SUV);150;;7;;;;96
+I;All-Weather Floor Mats (3-Row SUV);259;;7;;;;63
+I;All-Weather Floor Liners - Off Road (3-Row SUV);259;;7;;;;61
+E;Black Emblem Overlays - LX600;199;;7;;;;3J
+E;Body Side Moldings;295;;7;;;;BM
+I;Cargo Net - LX600;80;;7;;;;GN
+I;Carpet Cargo Mat (3-Row SUV);150;;5;;;;C1
+E;Cross Bars;460;;7;;;;3T
+I;Dashcam;375;;7;;;;V1
+E;Door Edge Film by 3M;100;;7;;;;DF
+I;Emergency Assistance Kit;90;;7;;;;7R
+E;Front Skid Plate;755;;7;;;;S8
+L;Illuminated Cargo Sills;475;;7;;;;G5
+I;Key Gloves;25;;1;;;;KG
+I;Lexus Quick Charge Cables;85;;7;;;;59
+I;Lexus Sunshade (Windshield);110;;7;;;;8U
+P;Package: All Weather Floor Mats, All Weather Cargo Mat;409;;7;;;;2T
+P;Package: Paint Protect Film, Door Edge Film;550;;7;;;;P3
+P;Package:Carpet Cargo Mat, Cargo Net, Wheel Locks, Key Gloves;389;;7;;;;Z1
+E;Paint Protection Film by 3M;450;;7;;;;3M
+L;Side Puddle Lamp;545;;7;;;;P9
+I;SiriusXM Trial Offering: 33 Months;350;;7;;;;1S
+E;Trailer Ball;55;;7;;;;D8
+E;Wheel Locks;99;;7;;;;WL
+I;ARB 38 Qt Zero Fridge/Freezer;1132;;7;;;;QP1197
+E;ARB Air Compressor Pump Up Kit;120;;7;;;;QP1173
+E;ARB Awning with Light;442;;7;;;;QP1180
+I;ARB Cargo Organizer;106;;7;;;;QP1195
+E;ARB Digital Tire Inflator;91;;7;;;;QP1170
+E;ARB E-Z Deflator Kit PSI Gauge;75;;7;;;;QP1178
+E;ARB E-Z Digital Deflator;95;;7;;;;QP1182
+I;ARB Fridge Tie Down Kit;72;;7;;;;QP1167
+E;ARB Inflation Case II;98;;7;;;;QP1171
+E;ARB Premium Recovery Kit;540;;7;;;;QP1177
+E;ARB Recovery Kit Weekender;175;;7;;;;QP1172
+E;ARB TRED Pro Gray/Orange;380;;7;;;;QP1198
+E;ARB TRED Pro Gun Metal Grey;380;;7;;;;QP1179
+E;ARB TRED Pro Mounting Kit;110;;7;;;;QP1166
+E;ARB TRED Pro Red;380;;7;;;;QP1165
+E;ARB Twin Portable Compressor;1082;;7;;;;QP1181
+I;Carmate DC4000RA Dashcam 360;570;;7;;;;QP1169
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;7;;;;QP1185
+I;Dometic CFX3 75DZ Electric Cooler;1400;;7;;;;QP1049
+E;Dometic GO Camp Table Storage Bag;40;;7;;;;QP1133
+E;Dometic GO Compact Bench- Silt;100;;7;;;;QP1126
+E;Dometic GO Compact Camp Table: Bamboo;200;;7;;;;QP1134
+E;Dometic GO Compact Chair;150;;7;;;;QP1132
+E;Dometic GO Hydration Water Faucet;100;;7;;;;QP1129
+E;Dometic GO Hydration Water Jug 11L;70;;7;;;;QP1128
+E;Dometic HUB 2.0 Inflatable Shelter;750;;7;;;;QP1131
+E;Dometic HUB 2.0 Mesh Panel;100;;7;;;;QP1130
+E;Factor 55 D-Ring Recovery Hook;69;;7;;;;QP1223
+E;Factor 55 Epic Recovery Kit;624;;7;;;;QP1218
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;7;;;;QP1224
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;7;;;;QP1221
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;7;;;;QP1220
+E;Factor 55 Recovery Hook Kit;651;;7;;;;QP1222
+E;Factor 55 Recovery Hook Soft Shackle: 7/16"x10";69;;7;;;;QP1219
+I;Happy Ride Folding Pet Ramp;90;;7;;;;QP1046
+E;Kammok Crosswing - 5' Charcoal;1150;;7;;;;QP1162
+E;Kammok Crosswing - 5' Desert Tan;1150;;7;;;;QP1209
+E;Kammok Crosswing - 7' Charcoal;1300;;7;;;;QP1149
+E;Kammok Crosswing - 7' Desert Tan;1300;;7;;;;QP1210
+E;Kammok Crosswing Basket Mount Kit;110;;7;;;;QP1146
+E;Kammok Mantis - Midnight Blue;290;;7;;;;QP1160
+E;Kammok Mantis - Pine Green;290;;7;;;;QP1154
+E;Kammok Outpost;530;;7;;;;QP1147
+E;Kammok Pole Pack;115;;7;;;;QP1156
+E;Kammok Roo Double - Ember Orange;95;;7;;;;QP1157
+E;Kammok Roo Double - Midnight Blue;95;;7;;;;QP1153
+E;Kammok Roo Double - Pine Green;95;;7;;;;QP1150
+E;Kammok Roo Single - Ember Orange;70;;7;;;;QP1161
+E;Kammok Roo Single - Midnight Blue;70;;7;;;;QP1164
+E;Kammok Roo Single - Pine Green;70;;7;;;;QP1155
+E;Kammok Single Panel 5';115;;7;;;;QP1159
+E;Kammok Single Panel 7';125;;7;;;;QP1163
+E;Kammok Swiftlet;340;;7;;;;QP1148
+E;Kammok Tie Down Kit;70;;7;;;;QP1152
+E;Kammok Vertical Bracket Kit;60;;7;;;;QP1151
+I;Kurgo Backseat Barrier - Black;58;;7;;;;QP1042
+I;Kurgo Cargo Cape - Charcoal;76;;7;;;;QP1125
+I;Kurgo Collaps-a-Bowl - Blue;14;;7;;;;QP1124
+I;Kurgo Direct to Seatbelt Tether;14;;7;;;;QP1120
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;7;;;;QP1112
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;7;;;;QP1117
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;7;;;;QP1116
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;7;;;;QP1114
+I;Kurgo Kibble Carrier - Chili Red;22;;7;;;;QP1119
+I;Kurgo Pet First Aid Kit;33;;7;;;;QP1048
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;7;;;;QP1113
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;7;;;;QP1047
+I;Kurgo Swivel Tether;33;;7;;;;QP1118
+I;Kurgo Wander Bench Seat Cover Extended Width - Charcoal;0;;7;;;;QP1045
+I;Kurgo Wander Hammock - Charcoal;76;;7;;;;QP1044
+I;Kurgo Zippy Bowl - Coastal Blue;13;;7;;;;QP1115
+I;Pelican 14QT Personal Cooler;120;;7;;;;QP1230
+I;Pelican 20QT Elite Cooler;207;;7;;;;QP1228
+I;Pelican 45QT Elite Wheeled Cooler;466;;7;;;;QP1226
+I;Pelican Dayventure Backpack Cooler;301;;7;;;;QP1225
+I;Pelican Dayventure Sling Cooler;187;;7;;;;QP1232
+I;Pelican RFMT2 Cargo Case Roof Mount Kit;249;;7;;;;QP1110
+I;Pelican TX50 Adventure Case;207;;7;;;;QP1233
+I;Pelican TX80 Adventure Case;259;;7;;;;QP1227
+I;Prinsu Rack Window Accessory Panel Driver Side;475;;7;;;;QP1205
+I;Prinsu Rack Window Accessory Panel Passenger Side;475;;7;;;;QP1204
+E;Prinsu Ridgeline Handles;118;;7;;;;QP1206
+E;Prinsu Roof Rack w/Standard Wind Deflector;999;;7;;;;QP1203
+E;Prinsu Summit Handles;195;;7;;;;QP1207
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;7;;;;QP1141
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;7;;;;QP1142
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;7;;;;QP1140
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;7;;;;QP1143
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;7;;;;QP1139
+I;Thule Canyon Cargo Basket;542;;7;;;;QP1245
+I;Thule Force 3 L Cargo Box;1015;;7;;;;QP1243
+I;Thule Force 3 XL Cargo Box;1065;;7;;;;QP1242
+E;Thule ProRide XT Bike Carrier;350;;7;;;;QP1246
+E;Thule SnowPackSki Carrier;400;;7;;;;QP1244
+E;Yakima EXO OpenRange;749;;7;;;;QP1186
+E;Yakima EXO OpenRange Leg Kit;229;;7;;;;QP1189
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;7;;;;QP1037
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;7;;;;QP1234
+I;Yakima GrandTour 16;879;;7;;;;QP1192
+E;Yakima HighRoad;299;;7;;;;QP1084
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;7;;;;QP1239
+I;Yakima MegaWarrior;649;;7;;;;QP1236
+I;Yakima OffGrid Cargo Basket, Mounted;649;;7;;;;QP1237
+E;Yakima RoadShower (7 Gal.);599;;7;;;;QP1235
+I;Yakima SkyBox 18 XL;799;;7;;;;QP1190
+I;F SPORT Carpet Cargo Mat;150;;2;;;;C1
+I;Key Gloves - Leather;35;;2;;;;KG
+F;Rear-Seat Entertainment System with dual 11.4-in screens;2705;;4;;;;RS
+I;Key Gloves - Carbon Fiber look;35;;4;;;;KG
+R;Rule not stored: Interior Upgrade Package also needs one of 1 choices (LX 600 PREMIUM) // Rule not stored: interior Black semi-aniline leather and Black Open-Pore Wood trim needs Interior Upgrade Package (LX 600 PREMIUM) // Rule not stored: interior Palomino semi-aniline leather and Brown Open-Pore Wood trim needs Interior Upgrade Package (LX 600 PREMIUM)

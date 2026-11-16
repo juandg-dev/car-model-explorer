@@ -20,10 +20,10 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 |---|---|---|---|---|---|
 | 1 | Honda | Done | 13 | 2026-11-14 | All five checks passed. In Supabase: 13 models, 65 trims, 620 options, and a spec row for every trim. Open follow-ups (top speed, 0-60 confirmations, a few fields Honda doesn't list) are in `honda/NOTES.md` and the To-Do sheet. |
 | 2 | Acura | Done* | 4 | 2026-11-15 | Collected, checked and in Supabase: 4 models, 24 trims, 254 options, and a spec row for every trim (top specs only). *Juan's workbook review is still open; he chose to load first and review later. Notes in `acura/NOTES.md`. |
-| 3 | Toyota | Next | | | With Lexus. |
-| 4 | Lexus | Next | | | With Toyota. |
-| 5 | Ford | Queued | | | |
-| 6 | Lincoln | Queued | | | |
+| 3 | Toyota | Partial | 31 | 2026-11-16 | Options data collected and checksummed: 31 models, 224 trims. Still missing: spec tables, 0-60, workbooks, Supabase load. Before loading, Juan decides how hybrids are shown (some hybrid trims are in two files). Notes in `toyota/NOTES.md`. |
+| 4 | Lexus | Partial | 19 | 2026-11-16 | Options data collected and checksummed: 19 models, 86 trims. Still missing: spec tables, 0-60, workbooks, Supabase load. The collector sends Lexus's head-office ZIP because Lexus's service requires one; Juan to confirm that is fine. Notes in `lexus/NOTES.md`. |
+| 5 | Ford | Next | | | Next for the nightly options run, with Lincoln. |
+| 6 | Lincoln | Next | | | With Ford. |
 | 7 | Chevrolet | Queued | | | |
 | 8 | GMC | Queued | | | |
 | 9 | Buick | Queued | | | |
@@ -72,3 +72,4 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
   - Toyota prices and packages depend on the region: the page looked up a ZIP code and a region code (`dealers.prod.webservices.toyota.com/v1/region-code/?zipCode=...`). The collector must use one fixed ZIP, and the files must say which.
   - A model-year list is at `prod2.webservices.toyota.com/v1/vehicle/model-year-list`.
   - Lexus has not been opened yet; check whether it uses the same GraphQL service.
+- 2026-11-16: Nightly run. Toyota options collected (31 models, 224 trims) from Toyota Build & Price, and Lexus options collected (19 models, 86 trims) from Lexus Build. All 50 files match the collectors by checksum. Options data only: spec tables, 0-60, workbooks and the Supabase load are still open for both, so both are Partial. New `pack.js` for copying large brands. Next for the nightly run: Ford and Lincoln.

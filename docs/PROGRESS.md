@@ -56,3 +56,13 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 - Collected Honda's spec tables for all 13 models (`collection/honda/specs/`) and added `collection/specs-map.js`, which maps them onto the project's spec fields for review.
 - Set up a nightly task for further brands, then paused it: Honda has to be complete first (outside-source specs and Juan's review are still open).
 - Design work on the options explorer is in progress on a design canvas, not in this repo yet.
+
+## November 16, 2026: Nightly run (options data, Toyota and Lexus)
+
+- Collected options data for Toyota (31 models, 224 trims) and Lexus (19 models, 86 trims): trims, prices, paints with their interiors, packages, accessories and rules. All 50 files were checked against the collectors by checksum.
+- New collectors `collection/toyota/collector.js` and `collection/lexus/collector.js`. Toyota and Lexus have no data file per model, so the collectors ask the carmaker's data service one question per trim and find the rules by selecting items, the way the Build page does.
+- New `collection/pack.js`: a shorthand for copying big brands from the browser without downloads.
+- Not done yet for either brand: spec tables, 0-60, review workbooks, Supabase load. Both are "Partial" in `collection/brands.md`.
+- Open questions for Juan are at the top of `collection/toyota/NOTES.md` and `collection/lexus/NOTES.md` (how to show hybrids; the Lexus ZIP code; third-party accessories).
+- Next for the nightly run: Ford and Lincoln.
+

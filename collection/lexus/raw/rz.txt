@@ -1,0 +1,98 @@
+#rz|RZ|2026|RZ|1395|suv
+T;RZ 450e AWD;49500;9901;
+T;RZ 450e PREMIUM AWD;51700;9902;
+T;RZ 450e LUXURY AWD;57000;9904;
+T;RZ 350e;46000;9905;
+T;RZ 350e PREMIUM;48200;9906;
+T;RZ 550e F SPORT AWD;57000;9909;
+C;Copper Crest;04Y5;595;Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray Ultrasuede and Charcoal trim/Palomino and Macadamia Ultrasuede and Charcoal trim/Thunderstorm and Black Ultrasuede and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,0
+C;Cloudburst Gray;01L1;500;Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray Ultrasuede and Charcoal trim/Palomino and Macadamia Ultrasuede and Charcoal trim/Thunderstorm and Black Ultrasuede and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Black Ultrasuede and Checkered trim
+C;Ether;08Z2;500;Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray Ultrasuede and Charcoal trim/Palomino and Macadamia Ultrasuede and Charcoal trim/Thunderstorm and Black Ultrasuede and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,0
+C;Oxygen White;0090;0;Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray Ultrasuede and Charcoal trim/Palomino and Macadamia Ultrasuede and Charcoal trim/Thunderstorm and Black Ultrasuede and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Black Ultrasuede and Checkered trim
+C;Iridium;01L2;500;Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray Ultrasuede and Charcoal trim/Palomino and Macadamia Ultrasuede and Charcoal trim/Thunderstorm and Black Ultrasuede and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Black Ultrasuede and Checkered trim
+C;Caviar;0223;0;Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray Ultrasuede and Charcoal trim/Palomino and Macadamia Ultrasuede and Charcoal trim/Thunderstorm and Black Ultrasuede and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Dapple Gray NuLuxe and Charcoal trim/Palomino and Macadamia NuLuxe and Charcoal trim/Thunderstorm and Black NuLuxe and Charcoal trim,Black Ultrasuede and Checkered trim
+C;Copper Crest and Black Onyx;02YF;1295;0,0,0,0,0,Black Ultrasuede and Checkered trim
+C;Cloudburst Gray and Black Onyx;02YH;1200;0,0,0,0,0,Black Ultrasuede and Checkered trim
+C;Iridium and Black Onyx;0M53;1200;0,0,0,0,0,Black Ultrasuede and Checkered trim
+C;Wind;01N0;0;0,0,0,0,0,Black Ultrasuede and Checkered trim
+C;Wind and Black Onyx;0M48;700;0,0,0,0,0,Black Ultrasuede and Checkered trim
+P;Cold Area Package;200;;45;;;;CK
+I;Dometic Recon Hardside 16L: Glow;225;;63;;;;QB1148
+I;Dometic Recon Hardside 41L: Silt;325;;63;;;;QB1143
+I;Dometic Recond Hardside 69L: Silt;425;;63;;;;QB1144
+I;Dometic Recon Hardside 69L: Glow;425;;63;;;;QB1145
+I;Dometic CFX5 45 Protective Cover;155;;63;;;;QB1152
+I;Dometic Recon Hardside 16L: Silt;225;;63;;;;QB1147
+I;Dometic Recon Hardside 41L: Glow;325;;63;;;;QB1146
+I;All-Weather Cargo Mat;140;;63;;;;96
+I;All-Weather Floor Liners;210;;63;;;;63
+E;Black Emblem Overlays (450e);199;;7;;;;3J
+E;Body Side Moldings;275;;63;;;;BM
+I;Cargo Net;80;;63;;;;GN
+I;Carpet Cargo Mat;140;;63;;;;C1
+I;Carpet Cargo Mat With Storage;235;;63;;;;C2
+E;Door Edge Film by 3M;95;;63;;;;DF
+E;Door Edge Guards;160;;63;;;;D5
+I;Emergency Assistance Kit;0;;63;;;;QB1134
+E;Charge Port Weather Cover;145;;63;;;;2U
+L;Illuminated Cargo Sills;360;;63;;;;K2
+L;Illuminated Door Sills;460;;63;;;;G4
+I;Key Gloves;25;;63;;;;KG
+I;Lexus Quick Charge Cables;85;;63;;;;59
+E;Mud Guards;185;;63;;;;MF
+P;Package: All Weather Floor Liners, All Weather Cargo Mat;350;;63;;;;2T
+P;Package: All Weather Floor Liners, All Weather Cargo Tray, Body Side Moldings, Door Edge Film;725;;63;;;;P2
+P;Package: Carpet Cargo Mat with Storage, Cargo Net, Key Gloves Wheel Locks;434;;63;;;;Z2
+P;Package: Carpet Cargo Mat, Cargo Net, Key Gloves Wheel Locks;339;;63;;;;Z1
+P;Package: Illuminated Door Sills, Illuminated Cargo Sills;820;;63;;;;K3
+P;Package: Rear Puddle Lamp, Side Puddle Lamp;325;;63;;;;P5
+E;Paint Protection Film by 3M;450;;63;;;;3M
+E;Rear Bumper Appliqué;90;;63;;;;EF
+L;Rear Puddle Lamp;150;;63;;;;P8
+I;Roof sunshade for panoramic roof;350;;63;;;;HC
+L;Side Puddle Lamp;175;;63;;;;P9
+I;SiriusXM Trial Offering: 33 Months;350;;63;;;;1S
+E;Wheel Locks;99;;63;;;;WL
+I;Carmate DC4000RA Dashcam 360;570;;63;;;;QB1119
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;63;;;;QB1120
+I;Kurgo Backseat Barrier - Black;58;;63;;;;QB1023
+I;Kurgo Cargo Cape - Charcoal;76;;63;;;;QB1028
+I;Kurgo Collaps-a-Bowl - Blue;14;;63;;;;QB1039
+I;Kurgo Direct to Seatbelt Tether;14;;63;;;;QB1047
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;63;;;;QB1035
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;63;;;;QB1042
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;63;;;;QB1027
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;63;;;;QB1029
+I;Kurgo Heather Hammock - Heather Charcoal;80;;63;;;;QB1026
+I;Kurgo Kibble Carrier - Chili Red;22;;63;;;;QB1041
+I;Kurgo Pet First Aid Kit;33;;63;;;;QB1048
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;63;;;;QB1032
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;63;;;;QB1043
+I;Kurgo Swivel Tether;33;;63;;;;QB1031
+I;Kurgo Wander Hammock - Charcoal;76;;63;;;;QB1024
+I;Kurgo Zippy Bowl - Coastal Blue;13;;63;;;;QB1040
+I;Pelican 14QT Personal Cooler;120;;63;;;;QB1139
+I;Pelican 20QT Elite Cooler;207;;63;;;;QB1137
+I;Pelican 45QT Elite Wheeled Cooler;466;;63;;;;QB1136
+I;Pelican Dayventure Backpack Cooler;301;;63;;;;QB1135
+I;Pelican Dayventure Sling Cooler;187;;63;;;;QB1140
+I;PetSafe Happy Ride Folding Dog Ramp;90;;63;;;;QB1044
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;63;;;;QB1116
+E;RZ Performance Upgrade;1750;;7;;;;QB1155
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;63;;;;QB1117
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;63;;;;QB1115
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;63;;;;QB1118
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;63;;;;QB1114
+P;Convenience Package;1100;;18;;;;CP
+P;Cold Area Package;375;;18;;;;CK
+P;Technology Package;1375;;18;;;;TP
+W;20-in 10-spoke alloy wheels with Black and machined finish;1045;;2;;;;FN
+E;Activity Mount with short kick sensor;670;;54;;;;AK
+F;Digital rearview mirror;200;;4;;;;DM
+W;20-in 10-spoke alloy wheels with Gray Metallic finish;100;;4;;;;FL
+E;Black Emblem Overlays (350e);199;;24;;;;3J
+W;20-in 10-spoke alloy wheels with Black and machined finish;1140;;16;;;;FN
+P;Luxury Package;2600;;32;;;;LP
+F;Blue brake calipers;500;;32;;;;BC
+E;Black Emblem Overlays (550e);199;;32;;;;3J
+R;

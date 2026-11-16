@@ -1,0 +1,66 @@
+#is|IS|2027|IS|1395|sedan
+T;IS 350 F SPORT DESIGN;46150;9504;
+T;IS 350 F SPORT DESIGN AWD;48150;9508;
+T;IS 350 F SPORT;48450;9510;
+T;IS 350 F SPORT SPECIAL APPEARANCE PACKAGE;58790;9510AP;
+T;IS 350 F SPORT AWD;50450;9516;
+T;IS 350 F SPORT SPECIAL APPEARANCE PACKAGE AWD;60400;9516AP;
+C;Caviar;0223;0;Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Cloudburst Gray;01L1;650;Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Infrared;03T5;650;Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Iridium;01L2;650;Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Ultra White;0083;650;Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Ultrasonic Blue Mica 2.0;08X1;650;Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and Black Metallic trim/Palomino NuLuxe and Black Metallic trim,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Wind;01N0;650;0,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0,Black NuLuxe and satin trim/Radiant Red NuLuxe and satin trim/White and Black NuLuxe and satin trim,0
+C;Envious;06V7;0;0,0,0,Black NuLuxe-trimmed seats with Ultrasuede inserts and Green contrast stitching and satin trim,0,Black NuLuxe-trimmed seats with Ultrasuede inserts and Green contrast stitching and satin trim
+F;Power tilt-and-slide moonroof;1100;;23;;;;SR
+F;Without rear spoiler;-200;;3;;;;RF
+F;Panoramic View Monitor, Intuitive Parking Assist with Auto Braking, Rear Cross-Traffic Braking;1100;;23;;;;BR
+I;F SPORT Key Gloves;25;;23;;;;KG
+I;All-Weather Trunk Tray;130;;63;;;;96
+I;All-Weather Floor Mats;200;;63;;;;61
+I;Cargo Net;59;;63;;;;GN
+I;Carpet Trunk Mat;130;;63;;;;LM
+I;Coin Holder/Ashtray Cup;0;;63;;;;QR1005
+I;Emergency Assistance Kit;0;;63;;;;QR1006
+L;Illuminated Trunk Sill;450;;63;;;;G5
+I;Lexus Quick Charge Cables;85;;63;;;;59
+E;Black Emblem Overlays;99;;63;;;;3J
+E;Door Edge Film by 3M;100;;63;;;;DF
+E;Door Edge Guards;160;;23;;;;D5
+E;Performance Exhaust system;1875;;63;;;;5E
+E;Paint Protection Film by 3M;450;;63;;;;3M
+E;Wheel Locks;99;;63;;;;WL
+I;Carmate DC4000RA Dashcam 360;570;;63;;;;QR1075
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;63;;;;QR1076
+I;Kurgo Cargo Cape - Charcoal;76;;63;;;;QR1026
+I;Kurgo Collaps-a-Bowl - Blue;14;;63;;;;QR1044
+I;Kurgo Direct to Seatbelt Tether;14;;63;;;;QR1032
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;63;;;;QR1033
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;63;;;;QR1041
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;63;;;;QR1027
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;63;;;;QR1028
+I;Kurgo Heather Hammock - Heather Charcoal;80;;63;;;;QR1025
+I;Kurgo Kibble Carrier - Chili Red;22;;63;;;;QR1040
+I;Kurgo Pet First Aid Kit;33;;63;;;;QR1043
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;63;;;;QR1031
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;63;;;;QR1042
+I;Kurgo Swivel Tether;33;;63;;;;QR1030
+I;Kurgo Zippy Bowl - Coastal Blue;13;;63;;;;QR1039
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;63;;;;QR1073
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;63;;;;QR1072
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;63;;;;QR1070
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;63;;;;QR1071
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;63;;;;QR1074
+P;Package: All Weather Floor Mats, All Weather Trunk Tray;330;;63;;;;2Q
+P;Package: Carpet Trunk Mat, Cargo Net, Wheel Locks, Key Gloves;313;;63;;;;Z1
+P;Technology Package;620;;20;;;;TP
+P;F SPORT Handling Package;1090;;4;;;;IH
+F;Power rear sunshade;210;;20;;;;HM
+F;Triple-Beam LED headlamps;1250;;20;;;;IN
+F;Mark Levinson 17-speaker, 1,800-watt, 7.1-channel Premium Surround Sound with QuantumLogic Surround;1120;;20;;;;ML
+W;19-in BBS forged alloy wheels with Black finish and front 235/40R19 and rear 265/35R19 summer tires;2450;;4;;42;;FW
+I;Dashcam;375;;20;;;;V1
+P;F SPORT Handling Package;700;;16;;;;IH
+W;19-in BBS forged alloy wheels with Black finish and front 235/40R19 and rear 265/35R19 all-season tires;2450;;16;;48;;FW
+R;

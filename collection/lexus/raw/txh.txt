@@ -1,0 +1,137 @@
+#txh|TX HYBRID|2027|TXh|1550|suv
+T;TX 500h F SPORT PERFORMANCE PREMIUM AWD;70860;9360;
+T;TX 500h F SPORT PERFORMANCE LUXURY AWD;74010;9361;
+C;Caviar;0223;0;Black NuLuxe and Black Grained trim/Birch NuLuxe and Black Grained trim,Black leather-trimmed interior and Black Grained trim/Birch leather-trimmed interior and Black Grained trim
+C;Celestial Silver Metallic;01J9;0;Black NuLuxe and Black Grained trim/Birch NuLuxe and Black Grained trim,Black leather-trimmed interior and Black Grained trim/Birch leather-trimmed interior and Black Grained trim
+C;Nightfall Mica;08X5;0;Black NuLuxe and Black Grained trim/Birch NuLuxe and Black Grained trim,Black leather-trimmed interior and Black Grained trim/Birch leather-trimmed interior and Black Grained trim
+C;Wind Chill Pearl;0089;0;Black NuLuxe and Black Grained trim/Birch NuLuxe and Black Grained trim,Black leather-trimmed interior and Black Grained trim/Birch leather-trimmed interior and Black Grained trim
+C;Incognito;01L8;0;Black NuLuxe and Black Grained trim/Birch NuLuxe and Black Grained trim,Black leather-trimmed interior and Black Grained trim/Birch leather-trimmed interior and Black Grained trim
+P;Convenience Package;895;;3;;;;CP
+P;Technology Package;1280;;1;;0;;TP
+F;Mark Levinson 21-speaker PurePlay Surround Sound;1160;;1;;0;;ML
+F;Red brake calipers;500;;3;;;;OW
+F;120V/1,500-watt AC power outlet;560;;3;;0;;AC
+I;Lexus Sunshade (Windshield);130;;3;;;;8U
+I;Dometic Recon Hardside 41L: Glow;325;;3;;;;RA1280
+I;Dometic Recon Hardside 16L: Glow;225;;3;;;;RA1282
+I;Dometic Recon Hardside 16L: Silt;225;;3;;;;RA1281
+I;Dometic Recon Hardside 69L: Glow;425;;3;;;;RA1279
+I;Dometic Recon Hardside 41L: Silt;325;;3;;;;RA1277
+I;Dometic Recond Hardside 69L: Silt;425;;3;;;;RA1278
+I;All-Weather Cargo Mat;150;;3;;;;96
+I;All-Weather Floor Mats;259;;3;;;;63
+E;Ball Mount;75;;3;;;;D8
+E;Black Badges - TX500h;275;;3;;;;3J
+E;Body Side Moldings;325;;3;;;;BM
+I;Cargo Net;84;;3;;;;GN
+I;Cargo Tote;60;;3;;;;9G
+I;Carpet Cargo Mat;150;;3;;;;C1
+I;Coin Holder/Ashtray Cup;36;;3;;;;A7
+E;Cross Bars[CROSSBARS2, ROOFRACKCBAR];430;;3;;;;3W
+I;Dashcam;375;;3;;;;V1
+E;Door Edge Film by 3M;100;;3;;;;DF
+E;Door Edge Guards;175;;3;;;;D5
+I;Emergency Assistance Kit;90;;3;;;;7R
+L;F SPORT Illuminated Door Sills;470;;3;;;;G4
+L;F SPORT Side Puddle Lamps;175;;3;;;;P9
+L;Illuminated Cargo Sills;425;;3;;;;G5
+I;Key Gloves;30;;3;;;;KG
+I;Lexus Multimedia Screen Protector;109;;3;;;;87
+I;Lexus Quick Charge Cables;85;;3;;;;59
+I;Lexus Universal Tablet Holder;110;;3;;;;U7
+E;Mud Guards;170;;3;;;;MF
+P;Package: All Weather Floor Mats, All Weather Trunk Tray;409;;3;;;;2T
+P;Package: All Weather Floor Mats, All Weather Cargo Mat, Mudguard, Cross Bars;839;;3;;;;A2
+P;Package: Carpet Cargo Mat, Cargo Net, Wheel Locks, Key Gloves;363;;3;;;;Z1
+P;Package: Illuminated Door Sills, Illuminated Cargo Sills;895;;3;;;;K3
+P;Package: Side Puddle Lamps, Rear Hatch Cargo Lamps;574;;3;;;;IP
+E;Paint Protection Film by 3M;450;;3;;;;3M
+L;Rear Hatch Cargo Lamps;399;;3;;;;43
+E;Running Boards;800;;3;;;;R6
+I;SiriusXM Trial Offering: 33 Months;350;;3;;;;1S
+E;Tow Hitch Receiver;1390;;3;;;;DH
+E;Wheel Locks;85;;3;;;;WL
+E;ARB Air Compressor Pump Up Kit;120;;3;;;;RA1135
+E;ARB Awning with Light;442;;3;;;;RA1141
+E;ARB Digital Tire Inflator;91;;3;;;;RA1132
+E;ARB E-Z Deflator Kit PSI Gauge;75;;3;;;;RA1139
+E;ARB E-Z Digital Deflator;95;;3;;;;RA1143
+I;ARB Fridge Tie Down Kit;72;;3;;;;RA1130
+E;ARB Inflation Case II;98;;3;;;;RA1133
+E;ARB Premium Recovery Kit;540;;3;;;;RA1138
+E;ARB Recovery Kit Weekender;175;;3;;;;RA1134
+E;ARB TRED Pro Gray/Orange;380;;3;;;;RA1234
+E;ARB TRED Pro Gun Metal Grey;380;;3;;;;RA1140
+E;ARB TRED Pro Mounting Kit;110;;3;;;;RA1129
+E;ARB TRED Pro Red;380;;3;;;;RA1128
+E;ARB Twin Portable Compressor;1082;;3;;;;RA1142
+I;Carmate DC4000RA Dashcam 360;570;;3;;;;RA1103
+I;Carmate DC4000RA Dashcam 360 Parking Assist;85;;3;;;;RA1104
+I;Happy Ride Folding Pet Ramp;90;;3;;;;RA1124
+E;Kammok Crosswing - 5' Charcoal;1150;;3;;;;RA1219
+E;Kammok Crosswing - 5' Desert Tan;1150;;3;;;;RA1267
+E;Kammok Crosswing - 7' Charcoal;1300;;3;;;;RA1206
+E;Kammok Crosswing - 7' Desert Tan;1300;;3;;;;RA1268
+E;Kammok Crosswing Basket Mount Kit;110;;3;;;;RA1203
+E;Kammok Mantis - Midnight Blue;290;;3;;;;RA1217
+E;Kammok Mantis - Pine Green;290;;3;;;;RA1211
+E;Kammok Outpost;530;;3;;;;RA1204
+E;Kammok Pole Pack;115;;3;;;;RA1213
+E;Kammok Roo Double - Ember Orange;95;;3;;;;RA1214
+E;Kammok Roo Double - Midnight Blue;95;;3;;;;RA1210
+E;Kammok Roo Double - Pine Green;95;;3;;;;RA1207
+E;Kammok Roo Single - Ember Orange;70;;3;;;;RA1218
+E;Kammok Roo Single - Midnight Blue;70;;3;;;;RA1221
+E;Kammok Roo Single - Pine Green;70;;3;;;;RA1212
+E;Kammok Single Panel 5';115;;3;;;;RA1216
+E;Kammok Single Panel 7';125;;3;;;;RA1220
+E;Kammok Swiftlet;340;;3;;;;RA1205
+E;Kammok Tie Down Kit;70;;3;;;;RA1209
+E;Kammok Vertical Bracket Kit;60;;3;;;;RA1208
+I;Kurgo Backseat Barrier - Black;58;;3;;;;RA1119
+I;Kurgo Cargo Cape - Charcoal;76;;3;;;;RA1127
+I;Kurgo Collaps-a-Bowl - Blue;14;;3;;;;RA1125
+I;Kurgo Direct to Seatbelt Tether;14;;3;;;;RA1120
+I;Kurgo Enhanced Strength Tru-Fit Smart Harness w/seatbelt tether;43;;3;;;;RA1115
+I;Kurgo Gourd Water Bottle & Bowl - Coastal Blue;19;;3;;;;RA1112
+I;Kurgo Heather Bench Seat Cover - Heather Charcoal;65;;3;;;;RA1111
+I;Kurgo Heather Booster Seat - Heather Charcoal;70;;3;;;;RA1108
+I;Kurgo Heather Hammock - Heather Charcoal;80;;3;;;;RA1116
+I;Kurgo Kibble Carrier - Chili Red;22;;3;;;;RA1118
+I;Kurgo Pet First Aid Kit;33;;3;;;;RA1126
+I;Kurgo Seatbelt Loop with Carabineer, Black;14;;3;;;;RA1107
+I;Kurgo Shed Sweeper Dog Hair Remover;19;;3;;;;RA1113
+I;Kurgo Swivel Tether;33;;3;;;;RA1117
+I;Kurgo Wander Bench Seat Cover Extended Width - Charcoal;64;;3;;;;RA1114
+I;Kurgo Wander Hammock - Charcoal;76;;3;;;;RA1123
+I;Kurgo Zippy Bowl - Coastal Blue;13;;3;;;;RA1109
+I;Pelican 14QT Personal Cooler;120;;3;;;;RA1261
+I;Pelican 20QT Elite Cooler;207;;3;;;;RA1259
+I;Pelican 45QT Elite Wheeled Cooler;466;;3;;;;RA1257
+I;Pelican Dayventure Backpack Cooler;301;;3;;;;RA1256
+I;Pelican Dayventure Sling Cooler;187;;3;;;;RA1262
+I;Pelican TX50 Adventure Case;207;;3;;;;RA1263
+I;Pelican TX80 Adventure Case;259;;3;;;;RA1258
+I;RAM X-Grip Cup Holder Mount for Large Phones;79;;3;;;;RA1200
+I;RAM X-Grip Cup Holder Mount for Standard Phones;75;;3;;;;RA1201
+I;RAM X-Grip Seat Wedge Mount for Large Phones;112;;3;;;;RA1199
+I;RAM X-Grip Seat Wedge Mount for Radio Phones;125;;3;;;;RA1202
+I;RAM X-Grip Seat Wedge Mount for Standard Phones;108;;3;;;;RA1198
+I;Thule Canyon Cargo Basket;542;;3;;;;RA1273
+I;Thule Force 3 L Cargo Box;1015;;3;;;;RA1271
+I;Thule Force 3 XL Cargo Box;1065;;3;;;;RA1270
+E;Thule ProRide XT Bike Carrier;350;;3;;;;RA1274
+E;Thule SnowPackSki Carrier;400;;3;;;;RA1272
+E;Yakima EXO OpenRange;749;;3;;;;RA1222
+E;Yakima EXO OpenRange Leg Kit;229;;3;;;;RA1224
+E;Yakima FatCat EVO 6 Black Premium Ski & Snowboard Mount;399;;3;;;;RA1149
+E;Yakima FrontLoader Rooftop Upright Bike Mount;259;;3;;;;RA1146
+I;Yakima GrandTour 16;879;;3;;;;RA1227
+E;Yakima HighRoad;299;;3;;;;RA1148
+E;Yakima JayLow J-Cradle Rooftop Kayak Mount;239;;3;;;;RA1156
+I;Yakima MegaWarrior;649;;3;;;;RA1152
+I;Yakima OffGrid Cargo Basket, Mounted;649;;3;;;;RA1153
+E;Yakima RoadShower (7 Gal.);599;;3;;;;RA1151
+I;Yakima SkyBox 18 XL;799;;3;;;;RA1225
+P;Technology Package;2380;;2;;0;;TP
+R;
