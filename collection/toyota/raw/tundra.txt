@@ -1,0 +1,199 @@
+#tundra|Tundra|2027|tundra|2195|suv
+T;SR RWD Double Cab with 6.5-Ft.;42890;8242;Fabric
+T;SR RWD Double Cab with 8.1-Ft.;43555;8245;Fabric
+T;SR RWD CrewMax with 5.5-Ft.;44890;8248;Fabric
+T;SR 4WD Double Cab with 6.5-Ft.;45890;8342;Fabric
+T;SR 4WD CrewMax with 5.5-Ft.;47890;8348;Fabric
+T;SR5 RWD Double Cab with 6.5-Ft.;47150;8241;Leather/Fabric
+T;SR5 RWD CrewMax with 5.5-Ft.;49150;8261;Leather/Fabric
+T;SR5 RWD CrewMax with 6.5-Ft.;49815;8281;Leather/Fabric
+T;SR5 4WD Double Cab with 6.5-Ft.;50150;8341;Leather/Fabric
+T;SR5 4WD Double Cab with 8.1-Ft.;50815;8346;Leather/Fabric
+T;SR5 4WD CrewMax with 5.5-Ft.;52150;8361;Leather/Fabric
+T;SR5 4WD CrewMax with 6.5-Ft.;52815;8381;Leather/Fabric
+T;Limited RWD CrewMax with 5.5-Ft.;55790;8272;Leather
+T;Limited RWD CrewMax with 6.5-Ft.;56455;8282;Leather
+T;Limited 4WD CrewMax with 5.5-Ft.;58790;8372;Leather
+T;Limited 4WD CrewMax with 6.5-Ft.;59455;8382;Leather
+T;Limited i-FORCE MAX CrewMax with 5.5-Ft.;63090;8421;Leather
+T;Limited i-FORCE MAX CrewMax with 6.5-Ft.;63755;8431;Leather
+T;Platinum RWD CrewMax with 5.5-Ft.;65350;8275;Leather
+T;Platinum 4WD CrewMax with 5.5-Ft.;68350;8375;Leather
+T;Platinum 4WD CrewMax with 6.5-Ft.;69015;8385;Leather
+T;1794 Edition RWD CrewMax with 5.5-Ft.;66005;8276;Leather
+T;1794 Edition 4WD CrewMax with 5.5-Ft.;69005;8376;Leather
+T;1794 Edition 4WD CrewMax with 6.5-Ft.;69670;8386;Leather
+T;Platinum i-FORCE MAX CrewMax with 5.5-Ft.;72650;8422;Leather
+T;Platinum i-FORCE MAX CrewMax with 6.5-Ft.;73315;8432;Leather
+T;1794 Edition i-FORCE MAX CrewMax with 5.5-Ft.;73320;8423;Leather
+T;1794 Edition i-FORCE MAX CrewMax with 6.5-Ft.;73985;8433;Leather
+T;TRD Pro;75400;8424;SofTex
+T;Capstone;82925;8425;Leather
+C;Magnetic Gray Metallic;01G3;0;Black Fabric,Black Fabric,Black Fabric,Black Fabric,Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black SofTex trim/Cockpit Red SofTex trim,Shale Premium Textured Leather-trimmed
+C;Ice Cap;0040;0;Black Fabric,Black Fabric,Black Fabric,Black Fabric,Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Yes,Yes,Yes,Yes,Yes,Yes,0,0,0,0,0,0,0,0,0,0,Black SofTex trim/Cockpit Red SofTex trim,0
+C;Celestial Silver Metallic;01J9;0;Black Fabric,Black Fabric,Black Fabric,Black Fabric,Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Midnight Black Metallic;0218;0;Black Fabric,Black Fabric,Black Fabric,Black Fabric,Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black SofTex trim/Cockpit Red SofTex trim,Shale Premium Textured Leather-trimmed
+C;Supersonic Red;03U5;475;Black Fabric,Black Fabric,Black Fabric,Black Fabric,Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric/SX Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Lunar Rock;06X3;0;0,0,0,0,0,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Yes,Yes,Yes,Yes,Yes,Yes,Black leather trim,Black leather trim,Black leather trim,0,Yes,Yes,Black leather trim,Black leather trim,Yes,Yes,0,0
+C;Blueprint;08X8;0;0,0,0,0,0,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Boulder leather trim/Black Leather-trimmed/Black Fabric,Yes,Yes,Yes,Yes,Yes,Yes,Black leather trim,Black leather trim,Black leather trim,0,Yes,Yes,Black leather trim,Black leather trim,Yes,Yes,0,0
+C;Wave Maker;0796;0;0,0,0,0,0,0,0,0,Yes,0,Yes,Yes,0,0,Yes,Yes,Yes,Yes,0,Yes,Yes,0,0,0,Yes,Yes,0,0,0,0
+C;Wind Chill Pearl;0089;475;0,0,0,0,0,0,0,0,0,0,0,0,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Boulder Leather-trimmed/Black leather trim,Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Honeycomb;05C9;695;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black SofTex trim/Cockpit Red SofTex trim,0
+E;All-Weather Floor Liners;199;;52428799;;;;2T
+W;Alloy Wheel Locks;105;;805306367;;;;WL
+E;Ball Mount;89;;1073741823;;;;D8
+E;Bed Extender;400;;1073741823;;;;7T
+E;Bed Mat;229;;1073741823;;;;CJ
+E;Bed Storage Boxes: Swing Out;595;;1073741823;;;;T1
+E;Bed Utility Package with Cargo Storage;1026;;536870911;;;;B1
+E;Bed Utility Package with Extender;831;;536870911;;;;B2
+E;BedStep;431;;536870911;;;;8Q
+I;Cargo Net: Exterior;70;;1073741823;;;;GN
+I;Cargo Tote;65;;1073741823;;;;9G
+E;Carpet Floor Mats;199;;589299711;;;;CF
+I;Coin Holder/Ashtray Cup;28;;872415231;;;;A7
+I;Console Safe;395;;1073741823;;;;VA
+E;Deck Rail Camera Mount;59;;1073741823;;;;M1
+E;Door Edge Film;100;;1073741823;;;;DF
+E;Door Edge Guards: Stainless Steel;165;;1073741823;;;;D5
+E;Dual Step Running Boards: Black;655;;536870911;;;;R8
+E;Dual Step Running Boards: Silver;655;;536870911;;;;R7
+E;Emergency Assistance Kit;78;;1073741823;;;;7R
+E;Exhaust Tip: Black Chrome;132;;262143;;;;E6
+E;Exhaust Tip: Chrome;122;;262143;;;;E5
+P;Hall of Famer Tailgate Package;3632;;1073741823;;;;BA1418
+E;Hard Tri-Fold Tonneau Cover;1295;;1073741309;;;;5A
+L;LED Tailgate Light Bar;750;;543;;;;BA1422
+E;Mini Tie-Downs with Hooks;45;;1073741823;;;;RT
+E;Multimedia Screen Protector;105;;16580607;;;;87
+E;Paint Protection Film: Front Bumper;525;;1073741823;;;;BA1079
+E;Paint Protection Film: Hood, Fenders, Door Cups & Mirror Backs;439;;1073741823;;;;3P
+E;Predator Steps;757;;536870911;;;;R6
+L;Quick Charging Cable Package;75;;1073741823;;;;59
+L;SiriusXM Trial Offering: 33 Months;350;;1073741823;;;;1S
+W;Spare Tire Lock;75;;1073741823;;;;WI
+E;Spray-On Bedliner;599;;1073741823;;;;LB
+E;Tailgate Insert Badge: Black;89;;52396031;;;;T7
+E;Tailgate Insert Badge: Chrome;89;;52396031;;;;T6
+E;Toyota TRD Sunshade;130;;1073741823;;;;8U
+E;TRD Air Filter;135;;1073741823;;;;3F
+E;TRD Cast Aluminum Running Boards: Double Cab;1205;;811;;;;R9
+E;TRD Control Arm Kit;2500;;1073741823;;;;BA1485
+E;TRD Front Skid Plate;550;;805306367;;;;S0
+E;TRD Shift Knob;155;;805306367;;;;6B
+L;Universal Tablet Holder;99;;1073741823;;;;U7
+I;ARB 47 Qt Zero Fridge/Freezer;1181;;1073741823;;;;BA1510
+I;ARB Fridge Tie Down Kit;72;;1073741823;;;;BA1296
+E;ARB Premium Recovery Kit;540;;1073741823;;;;BA1301
+E;ARB Pump Up Kit;120;;1073741823;;;;BA1300
+E;ARB Single Motor Portable 12v Compressor;520;;1073741823;;;;BA1327
+E;ARB TRED Pro Grey;370;;1073741823;;;;BA1302
+E;ARB TRED Pro Mounting Kit;110;;1073741823;;;;BA1298
+E;ARB TRED Pro Red;380;;1073741823;;;;BA1306
+E;ARB Weekender Recovery Kit;175;;1073741823;;;;BA1294
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Rugged Black;2957;;1073741823;;;;BA1496
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Smooth Black;2957;;1073741823;;;;BA1498
+E;DiamondBack HD Tonneau Cover: Rugged Black;2499;;1073741823;;;;BA1483
+E;DiamondBack HD Tonneau Cover: Smooth Black;2499;;1073741823;;;;BA1484
+I;Dometic CFX5 45 Electric Cooler;1050;;1073741823;;;;BA1473
+I;Dometic CFX5 45 Protective Cover;155;;1073741823;;;;BA1476
+I;Dometic CFX5 55IM Electric Cooler;1200;;1073741823;;;;BA1475
+I;Dometic CFX5 55IM Protective Cover;170;;1073741823;;;;BA1477
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;1073741823;;;;BA1479
+I;Dometic CFX5 95DZ Protective Cover;200;;1073741823;;;;BA1478
+I;Dometic Recon Hardside 16L: Glow;225;;1073741823;;;;BA1480
+I;Dometic Recon Hardside 16L: Silt;225;;1073741823;;;;BA1514
+I;Dometic Recon Hardside 41L: Glow;325;;1073741823;;;;BA1513
+I;Dometic Recon Hardside 41L: Silt;325;;1073741823;;;;BA1482
+I;Dometic Recon Hardside 69L: Glow;425;;1073741823;;;;BA1509
+I;Dometic Recon Hardside 69L: Silt;425;;1073741823;;;;BA1481
+E;Factor 55 Baja Vehicle Recovery Kit;650;;1073741823;;;;BA1439
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;1073741823;;;;BA1442
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;1073741823;;;;BA1441
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;1073741823;;;;BA1438
+E;Factor 55 Recovery Soft Shackle;69;;1073741823;;;;BA1440
+I;Kurgo Quantum Dog Leash: Blue;33;;1073741823;;;;BA1487
+I;Pelican 20QT Elite Cooler;207;;1073741823;;;;BA1219
+L;Pelican 3410M Right Angle Light;64;;1073741823;;;;BA1425
+I;Pelican 45QT Elite Wheeled Cooler;466;;1073741823;;;;BA1208
+I;Pelican Dayventure Backpack Cooler;301;;1073741823;;;;BA1216
+I;Pelican Dayventure Sling Cooler;187;;1073741823;;;;BA1218
+E;Prinsu Pro Cab Rack w/ Standard Wind Deflector;1045;;1073741823;;;;BA1511
+E;Prinsu Pro Rack Window Accessory Panel Driver Side;475;;1073741823;;;;BA1516
+E;Prinsu Pro Rack Window Accessory Panel Passenger Side;350;;1073741823;;;;BA1515
+E;Thule Canyon XT Roof Basket;542;;1073741823;;;;BA1508
+E;Thule Force 3 L Cargo Box;1015;;1073741823;;;;BA1512
+E;Thule ProRide XT Bike Carrier;350;;1073741823;;;;BA1452
+E;Thule SnowPack L Ski Rack;400;;1073741823;;;;BA1453
+E;WARN Epic D-Ring Shackle;68;;1073741823;;;;BA1443
+E;WARN Epic Recovery Kit;624;;1073741823;;;;BA1437
+L;WeBoost Drive Reach Overland;550;;1073741823;;;;BA1501
+L;WeBoost Overland Antenna & Mounting bracket combo;230;;1073741823;;;;BA1500
+I;Yakima CBX LG;999;;1073741823;;;;BA1467
+I;Yakima CBX XXL;1149;;1073741823;;;;BA1468
+E;Yakima OverHaul HD Adjustable-Height Heavy-Duty Truck Bed Rack: Large;1659;;1073741823;;;;BA1290
+I;Yakima SkinnyWarrior;529;;1073741823;;;;BA1469
+E;Yakima SkyRise HD;2899;;1073741823;;;;BA1458
+I;Yakima Stretch Net Large;75;;1073741823;;;;BA1470
+I;Yakima Stretch Net Medium;65;;1073741823;;;;BA1466
+I;Yakima Stretch Net SkinnyWarrior;65;;1073741823;;;;BA1471
+I;30qt Cooler: Gray;385;;1073741012;;;;6D
+I;30qt Cooler: Tan;385;;1073741012;;;;8C
+I;30qt Cooler: White;385;;1073741012;;;;2C
+E;TRD Cast Aluminum Running Boards;1299;;536870100;;;;R4
+P;Advanced Technology Package;320;;800;103,105,123;108,124,125,132;;AT
+F;SR5 Painted BSM Mirror;10;;3424;102,105,120,123,133;109,125;;ME
+F;SR5 BSM Outer Mirrors;50;;32;;;;ML
+F;SR5 Tow Mirrors (Black);900;;4064;102,103,120,123,124,125,127,128,133;;;MM
+P;Limited PVM + BSM Outer Mirrors;670;;4064;;102,108,120,124,126,132;;MO
+F;Load-Leveling Rear Height Control Air Suspension;1350;;200672;124,127,128,136,140;102,108,120,132;;NF
+P;SR5 Premium Package;3505;;3552;;102,120;;SV
+P;SX Package;920;;1376;;;;SX
+P;SR5 Convenience Package;1065;;1376;;;;SZ
+F;SR5 Tow Mirrors;960;;4064;;102,108,120,124,126,132;;TD
+F;Leather-Wrapped Steering Wheel;170;;4064;;;;WN
+F;20-in. TRD Off-Road matte-black alloy wheels with TRD center caps;1445;;3552;;102,108,120,126;;WW
+W;Adventure Tire/Wheel Combo;1930;;4064;;;;W0
+E;Blackout Emblem Overlays;160;;262112;;;;3J
+L;Rigid Fog Lights: White;680;;805306336;;;;Q4
+P;TRD 20" Wheel Package;2035;;4064;;;;88
+E;TRD Performance Package;2999;;1073741280;;;;PH
+P;TRD Wheel, Predator Step, Exhaust Tip Package;2819;;4064;;;;WY
+P;Advanced Technology Package;1670;;3264;103,105,123;108,124,125;;AT
+L;Wifi Trailer Camera;800;;1073740992;;;;W1
+P;SR5 Convenience Package;530;;2688;;;;SZ
+P;Advanced Off-Road Technology Package;1450;;3328;102,103,105,120,124,125,127,128,133;;;AO
+F;TRD 3-In. Suspension Lift Kit (Removes Fog Lights);3995;;266063104;105,107,123,127,128,133,135,136,137,140;125,140,143,145;;LK
+P;TRD Off-Road Package;2010;;3328;105,123,133;;;OF
+P;TRD Off-Road Premium Package;5455;;3328;;102,120;;OQ
+F;Off-Road Front Skid Plate;0;;266063104;105,107,123,124,133,135,137;125,140,143,145;;SO
+F;TRD Front Skid Plate;385;;266063104;105,107,123,124,133,135,137;125,140,143,145;;ST
+F;18-in. TRD Off-Road black-painted and machined-finish alloy wheels;300;;3328;;102,120,126;;WV
+E;Front Recovery Hooks;535;;266063104;;;;8F
+E;TRD 3" Suspension Lift Kit;3995;;266063104;;;;3L
+P;SR5 Premium Package;3105;;512;;102;;SV
+P;Trailhunter Package;5880;;1024;103,105,123,124,125,127,128;;;TH
+E;Rock Rails;635;;357123072;;;;99
+P;Nightshade Package;415;;258048;124,127,128,140;;;BK
+P;Limited Premium Package;745;;258048;107,124;139;;LX
+F;PVM + BSM Tow Mirrors;290;;805302272;124,127,128,144,145;;;MQ
+P;Load-Leveling Rear Height Control Air Suspension;1670;;61440;;139;;NF
+F;Panoramic Roof;1350;;258048;;;;SR
+P;TRD Off-Road Package;2680;;245760;107,124,135;;;OF
+P;Load-Leveling Rear Height Control Air Suspension;1235;;268173312;;142;;NF
+F;Power Running Boards;1350;;268173312;;;;RB
+P;TRD Off-Road Package;2165;;51904512;;;;OF
+F;PVM + BSM Outer Mirrors;0;;216006656;137;;;MJ
+P;TRD Off-Road Package;2125;;213909504;137;;;OF
+F;IsoDynamic Seat;980;;268435456;;;;ID
+P;TRD Pro With Tow Mirrors Grade Package;290;;268435456;;;;TV
+E;Bronze Heritage Grille Letter Overlay;285;;268435456;;;;F8
+E;Honeycomb Heritage Grille Letter Overlay;285;;268435456;;;;F7
+E;Matte Black Heritage Grille Letter Overlay;285;;268435456;;;;M5
+E;Red Heritage Grille Letter Overlay;285;;268435456;;;;F6
+E;Reflect Black Heritage Grille Letter Overlay;285;;268435456;;;;T5
+E;TRD Pro Bed Lettering: Reflective Silver & Red;160;;268435456;;;;4L
+E;TRD Pro Bed Lettering: Matte Black;160;;268435456;;;;4B
+E;White Heritage Grille Letter Overlay;285;;268435456;;;;J5
+P;Load-Leveling Rear Height Control Air Suspension;535;;536870912;;;;NF
+R;Clashes not checked (needs a color change first): 18-in. TRD Off-Road black-painted and machined-finish alloy wheels (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): 20-in. TRD Off-Road matte-black alloy wheels with TRD center caps (6 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): Advanced Technology Package (4 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): Limited PVM + BSM Outer Mirrors (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): Load-Leveling Rear Height Control Air Suspension (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): SR5 Painted BSM Mirror (SR5 RWD Double Cab with 6.5-Ft., SR5 RWD CrewMax with 5.5-Ft.) // Clashes not checked (needs a color change first): SR5 Premium Package (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): SR5 Tow Mirrors (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): SX Package (4 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Clashes not checked (needs a color change first): TRD Off-Road Premium Package (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Paint with no interior found: Blueprint (10 trims, first: Limited RWD CrewMax with 5.5-Ft.) // Paint with no interior found: Ice Cap (6 trims, first: Limited RWD CrewMax with 5.5-Ft.) // Paint with no interior found: Lunar Rock (10 trims, first: Limited RWD CrewMax with 5.5-Ft.) // Paint with no interior found: Wave Maker (11 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Rule not stored: 18-in. TRD Off-Road black-painted and machined-finish alloy wheels also needs one of 10 choices, for example: update interior Boulder leather trim + add Limited PVM + BSM Outer Mirrors + add Off-Road Front Skid Plate (SR5 4WD Double Cab with 6.5-Ft., SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: 18-in. TRD Off-Road black-painted and machined-finish alloy wheels also needs one of 12 choices, for example: update interior Boulder leather trim + add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) + add Limited PVM + BSM Outer Mirrors (SR5 4WD CrewMax with 6.5-Ft.) // Rule not stored: 20-in. TRD Off-Road matte-black alloy wheels with TRD center caps also needs one of 14 choices, for example: update interior Boulder leather trim + add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) + add Limited PVM + BSM Outer Mirrors + add Off-Road Front Skid Plate (SR5 4WD Double Cab with 6.5-Ft., SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: 20-in. TRD Off-Road matte-black alloy wheels with TRD center caps also needs one of 16 choices, for example: update interior Boulder leather trim + add SR5 Premium Package + add Limited PVM + BSM Outer Mirrors (SR5 4WD CrewMax with 6.5-Ft.) // Rule not stored: 20-in. TRD Off-Road matte-black alloy wheels with TRD center caps also needs one of 4 choices, for example: update interior Boulder leather trim + add Limited PVM + BSM Outer Mirrors (3 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: Advanced Technology Package also needs one of 2 choices, for example: add Limited PVM + BSM Outer Mirrors (SR5 4WD Double Cab with 6.5-Ft., SR5 4WD CrewMax with 6.5-Ft.) // Rule not stored: Advanced Technology Package also needs one of 3 choices, for example: add Trailhunter Package (SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: Advanced Technology Package also needs one of 4 choices, for example: update interior Boulder leather trim + add Limited PVM + BSM Outer Mirrors (4 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: Advanced Technology Package not with paint Blueprint (SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: Advanced Technology Package not with paint Supersonic Red (SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: Limited PVM + BSM Outer Mirrors also needs one of 2 choices, for example: update interior Boulder leather trim (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: Load-Leveling Rear Height Control Air Suspension also needs one of 4 choices, for example: update interior Boulder leather trim + add Limited PVM + BSM Outer Mirrors (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: Load-Leveling Rear Height Control Air Suspension not with interior Black leather trim (4 trims, first: Limited 4WD CrewMax with 5.5-Ft.) // Rule not stored: Nightshade Package not with interior Black leather trim (6 trims, first: Limited RWD CrewMax with 5.5-Ft.) // Rule not stored: Off-Road Front Skid Plate also needs one of 2 choices, for example: add PVM + BSM Outer Mirrors (4 trims, first: 1794 Edition 4WD CrewMax with 5.5-Ft.) // Rule not stored: Off-Road Front Skid Plate also needs one of 2 choices, for example: add SR5 Painted BSM Mirror (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Rule not stored: Off-Road Front Skid Plate not with interior Black leather trim (4 trims, first: Limited 4WD CrewMax with 5.5-Ft.) // Rule not stored: SR5 Painted BSM Mirror also needs one of 3 choices, for example: add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) (SR5 4WD CrewMax with 6.5-Ft.) // Rule not stored: SR5 Painted BSM Mirror needs update interior SX Black Fabric (SR5 RWD Double Cab with 6.5-Ft., SR5 RWD CrewMax with 5.5-Ft.) // Rule not stored: SR5 Premium Package also needs one of 4 choices, for example: update interior Boulder leather trim + add Limited PVM + BSM Outer Mirrors (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: SR5 Tow Mirrors also needs one of 2 choices, for example: update interior Boulder leather trim (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: SX Package also needs one of 2 choices, for example: update interior SX Black Fabric + add SR5 Painted BSM Mirror (4 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: TRD 3-In. Suspension Lift Kit (Removes Fog Lights) also needs one of 2 choices, for example: add PVM + BSM Outer Mirrors (1794 Edition 4WD CrewMax with 5.5-Ft., 1794 Edition 4WD CrewMax with 6.5-Ft.) // Rule not stored: TRD 3-In. Suspension Lift Kit (Removes Fog Lights) also needs one of 2 choices, for example: add SR5 Painted BSM Mirror (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Rule not stored: TRD 3-In. Suspension Lift Kit (Removes Fog Lights) not with interior Black leather trim (4 trims, first: Limited 4WD CrewMax with 5.5-Ft.) // Rule not stored: TRD Front Skid Plate also needs one of 2 choices, for example: add PVM + BSM Outer Mirrors (4 trims, first: 1794 Edition 4WD CrewMax with 5.5-Ft.) // Rule not stored: TRD Front Skid Plate also needs one of 2 choices, for example: add SR5 Painted BSM Mirror (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Rule not stored: TRD Front Skid Plate not with interior Black leather trim (4 trims, first: Limited 4WD CrewMax with 5.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 2 choices, for example: add Off-Road Front Skid Plate (Limited i-FORCE MAX CrewMax with 5.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 3 choices, for example: add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) (7 trims, first: Limited 4WD CrewMax with 5.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 4 choices, for example: add PVM + BSM Outer Mirrors + add Off-Road Front Skid Plate (1794 Edition i-FORCE MAX CrewMax with 5.5-Ft., 1794 Edition i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 6 choices, for example: add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) + add PVM + BSM Outer Mirrors (1794 Edition 4WD CrewMax with 5.5-Ft., 1794 Edition 4WD CrewMax with 6.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 6 choices, for example: add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) + add SR5 Painted BSM Mirror (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Rule not stored: TRD Off-Road Package not with interior Black leather trim (4 trims, first: Limited 4WD CrewMax with 5.5-Ft.) // Rule not stored: TRD Off-Road Premium Package also needs one of 24 choices, for example: update interior Boulder leather trim + add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) + add Limited PVM + BSM Outer Mirrors + add 18-in. TRD Off-Road black-painted and machined-finish alloy wheels (3 trims, first: SR5 4WD Double Cab with 6.5-Ft.) // Rule not stored: Trailhunter Package not with paint Blueprint (SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: Trailhunter Package not with paint Supersonic Red (SR5 4WD CrewMax with 5.5-Ft.) // Rule not stored: interior Black Leather-trimmed needs Limited PVM + BSM Outer Mirrors (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: interior Black Leather-trimmed needs SR5 Premium Package (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: interior Boulder leather trim needs Limited PVM + BSM Outer Mirrors (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: interior Boulder leather trim needs SR5 Premium Package (7 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: interior SX Black Fabric needs SR5 Painted BSM Mirror (4 trims, first: SR5 RWD Double Cab with 6.5-Ft.) // Rule not stored: interior SX Black Fabric needs SX Package (4 trims, first: SR5 RWD Double Cab with 6.5-Ft.)

@@ -1,0 +1,269 @@
+#tacoma|Tacoma|2026|tacoma|1745|suv
+T;SR RWD XtraCab with 6-ft bed 8-Speed Automatic Transmission 2-seat;32545;7162;Fabric
+T;SR RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission 5-seat;34205;7186;Fabric
+T;SR 4WD XtraCab with 6-ft bed 8-Speed Automatic Transmission 2-seat;35745;7514;Fabric
+T;SR 4WD Double Cab with 5-ft bed 6-Speed Manual Transmission 5-seat;37405;7547;Fabric
+T;SR 4WD Double Cab with 5-ft bed 8-Speed Automatic Transmission 5-seat;37405;7594;Fabric
+T;SR5 RWD XtraCab with 6-ft bed 2-seat;36635;7126;Fabric
+T;SR5 RWD Double Cab with 5-ft bed 5-seat;37705;7146;Fabric
+T;SR5 RWD Double Cab with 6-ft bed 5-seat;38205;7170;Fabric
+T;SR5 4WD Double Cab with 5-ft bed 5-seat;40905;7540;Fabric
+T;SR5 4WD XtraCab with 6-ft bed 2-seat;39835;7558;Fabric
+T;SR5 4WD Double Cab with 6-ft bed 5-seat;41405;7570;Fabric
+T;TRD PreRunner;39135;7166;Fabric
+T;TRD Sport RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission;40415;7148;Fabric/SofTex
+T;TRD Sport RWD Double Cab with 6-ft bed 8-Speed Automatic Transmission;40915;7172;Fabric/SofTex
+T;TRD Sport 4WD Double Cab with 5-ft bed 8-Speed Automatic Transmission;43615;7542;Fabric/SofTex
+T;TRD Sport 4WD Double Cab with 5-ft bed 6-Speed Manual Transmission;42815;7543;Fabric/SofTex
+T;TRD Sport 4WD Double Cab with 6-ft bed 8-Speed Automatic Transmission;44115;7566;Fabric/SofTex
+T;TRD Off-Road Double Cab with 5-ft bed 8-Speed Automatic Transmission;43915;7544;SofTex/Fabric
+T;TRD Off-Road Double Cab with 5-ft bed 6-Speed Manual Transmission;42815;7545;SofTex/Fabric
+T;TRD Off-Road Double Cab with 6-ft bed 8-Speed Automatic Transmission;44415;7568;SofTex/Fabric
+T;TRD Sport i-FORCE MAX;47335;7530;Fabric/SofTex
+T;TRD Off-Road i-FORCE MAX;47635;7532;SofTex/Fabric
+T;Limited;53570;7582;SofTex
+T;Limited i-FORCE MAX;56895;7534;SofTex
+T;Trailhunter Double Cab with 5-ft bed;63750;7536;SofTex
+T;Trailhunter Double Cab with 6-ft bed;64250;7538;SofTex
+T;TRD Pro;64750;7598;SofTex
+C;Ice Cap;0040;0;Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,0,0,Mineral SofTex,Mineral SofTex,0
+C;Celestial Silver Metallic;01J9;0;Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,0
+C;Underground;01L7;0;Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,0
+C;Black;0202;0;Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,Black SofTex/Cockpit Red SofTex
+C;Supersonic Red;03U5;475;Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Black fabric,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,0,0,0
+C;Heritage Blue;08X0;0;0,0,0,0,0,0,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,0,Boulder fabric with Smoke Silver/Black fabric with Smoke Silver,0,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,0,0,0
+C;Mudbath;04Z2;0;0,0,0,0,0,0,0,0,0,0,0,Boulder-Black Fabric w-Anodized Blue/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,0,0,0,0,0
+C;Bronze Oxide;06X1;0;0,0,0,0,0,0,0,0,0,0,0,0,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,0
+C;Wind Chill Pearl;0089;475;0,0,0,0,0,0,0,0,0,0,0,0,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,0,0,0,Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,0,Black SofTex trim/Boulder SofTex trim,Black SofTex trim/Boulder SofTex trim,0,0,0
+C;Wave Maker with Black roof;0M73;695;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black SofTex
+C;Ice Cap with Black roof;02MQ;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black SofTex/Cockpit Red SofTex
+C;Underground with Black roof;02ZW;0;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black SofTex/Cockpit Red SofTex
+P;SR Upgrade Package;1410;;5;;;;LL
+E;3 Molle Panel Set (2 Bed Side Panels w/ Front Panel);650;;134217727;;;;1B
+I;30qt Cooler: Gray;385;;134217727;;;;6D
+I;30qt Cooler: Tan;385;;134217727;;;;8C
+I;30qt Cooler: White;385;;134217727;;;;2C
+P;All-Pro Tailgate Package:;5342;;134217727;;;;DE1652
+E;All-Weather Floor Liners;199;;16777215;;;;2T
+E;ARB Rear Steel Bumper;1650;;134217727;;;;5P
+E;Ball Mount;70;;134217727;;;;D8
+E;Bed Cargo Divider: Molle Style;420;;134217727;;;;D2
+E;Bed Extender;485;;134217727;;;;7T
+E;Bed Mat;220;;34156197;;;;CJ
+E;Bed Mount Tire Carrier;499;;134217727;;;;DE1635
+L;Bed Scene Lighting;599;;83886079;;;;9K
+E;Bed Sport Bar By ARB;1715;;83886079;;;;B7
+E;Bed Storage Box: Swing Out;1420;;7340031;;;;T1
+E;BedStep;455;;16777215;;;;8Q
+E;Black Badge Overlay;160;;54525951;;;;T4
+I;Cargo Tote;60;;134217727;;;;9G
+E;Carpet Floor Mats;199;;2047;;;;CF
+I;Coin Holder/Ashtray Cup;29;;134217727;;;;A7
+L;Connected Services Trial Offering: 3 addt'l of Drive Connect & 2 addt'l yrs of Remote Connect;485;;4194303;;;;1X
+I;Console Safe;395;;134217727;;;;VA
+E;Deck Rail Camera Mount;59;;134217727;;;;M1
+E;Door Edge Film;100;;134217727;;;;DF
+E;Door Edge Guards;165;;134217727;;;;D5
+E;Door Panel Scuff Protectors;135;;134217727;;;;2B
+E;Emergency Assistance Kit;75;;134217727;;;;7R
+E;Exhaust Tip: Black Chrome;130;;8388607;;;;E6
+E;Exhaust Tip: Chrome;120;;4194303;;;;E5
+E;First Aid Kit;30;;15;;;;3Z
+E;Front Tow Hooks;180;;16777215;;;;8F
+E;Gunmetal Gray Badge Overlay;160;;12582911;;;;T5
+L;Illuminated Front Emblem: Chrome;285;;16777215;;;;6L
+L;Illuminated Front Emblem: Dark Chrome;285;;134217727;;;;2L
+L;Integrated Dashcam;375;;134217727;;;;V1
+I;Interior Back Molle Panel;170;;2597;;;;G7
+E;Mini Tie-Downs with Hooks (Set of 2);45;;134217727;;;;RT
+E;Off-Road Trail Pipe;75;;16764735;;;;5I
+P;Outpost Package;12114;;134217727;;;;DE1708
+E;Paint Protection Film: Front Bumper and Grille;525;;134217727;;;;DE1028
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;134217727;;;;3P
+L;Quick Charging Cable Package;70;;134217727;;;;59
+E;Side Storage Boot Brush + Ice Scraper;20;;134217727;;;;9Z
+I;Side Storage Case;55;;134217727;;;;9T
+L;Side Storage LED Lantern;160;;134217727;;;;9V
+E;Side Storage Multi Tool;50;;134217727;;;;9S
+L;SiriusXM Trial Offering: 33 Months;350;;134217727;;;;1S
+E;Spare Tire Lock;75;;132120575;;;;WI
+E;Spray-On Bedliner;575;;134217727;;;;L5
+E;Tailgate Insert: Black;89;;121634815;;;;T6
+E;Tailgate Insert: Bronze;89;;54525951;;;;5D
+E;Tailgate Insert: Chrome;89;;4194303;;;;T8
+E;Tailgate Insert: Gunmetal;89;;54525951;;;;T9
+E;Tonneau Cover: Hard Tri-Fold;1350;;134217727;;;;5A
+E;Tonneau Cover: Soft;799;;134217727;;;;3S
+E;Topo-Graphics: Black on Clear;430;;13631487;;;;G3
+E;Toyota Multimedia Screen Protector;105;;134217727;;;;87
+E;Toyota Wireless Trailer Camera System;1550;;134217727;;;;W1
+E;TRD Air Filter;90;;5242879;;;;3F
+E;TRD Oil Cap;85;;134217727;;;;DE1669
+E;TRD Upper Control Arm Kit: Bronze;1100;;134217727;;;;DE1741
+E;TRD Upper Control Arm Kit: Red;1100;;134217727;;;;DE1742
+E;TRD Upper Control Arm Kit: Silver;1100;;134217727;;;;DE1740
+E;Tube Steps: Black;600;;4194303;;;;R2
+L;Universal Tablet Holder;99;;134217727;;;;U7
+E;ARB 47 QT Zero Fridge Slider;568;;134217727;;;;DE1613
+I;ARB 47 Qt Zero Fridge/Freezer;1181;;134217727;;;;DE1607
+E;ARB E-Z Deflator Kit PSI Gauge;75;;134217727;;;;DE1388
+E;ARB E-Z Digital Deflator;94;;134217727;;;;DE1353
+E;ARB Hydraulic Recovery Jack;1001;;134217727;;;;DE1608
+E;ARB Pinnacle Camp Chair;143;;134217727;;;;DE1606
+E;ARB Pinncacle Table;181;;134217727;;;;DE1614
+E;ARB Premium Recovery Kit;540;;134217727;;;;DE1381
+E;ARB Pump Up Kit;120;;134217727;;;;DE1379
+E;ARB Single Motor Portable 12v Compressor;520;;134217727;;;;DE1560
+E;ARB TRED Pro Grey;370;;134217727;;;;DE1383
+E;ARB TRED Pro Mounting Kit;110;;134217727;;;;DE1374
+E;ARB TRED Pro Red;380;;134217727;;;;DE1390
+E;ARB Twin Portable Compressor;1082;;134217727;;;;DE1363
+E;ARB Weekender Recovery Kit;175;;134217727;;;;DE1361
+I;ARB Zero Fridge/Freezer Tie-Down System;49;;134217727;;;;DE1604
+L;Car Mate DC4000RA Dash Cam 360;570;;134217727;;;;DE1323
+L;Car Mate DC4000RA Dash Cam 360 Parking Assist;85;;134217727;;;;DE1324
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Rugged Black;2957;;134217727;;;;DE1758
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Smooth Black;2957;;134217727;;;;DE1760
+E;DiamondBack HD Tonneau Cover: Rugged Black;2499;;134217727;;;;DE1721
+E;DiamondBack HD Tonneau Cover: Smooth;2499;;134217727;;;;DE1629
+I;Dometic CFX5 55IM Protective Cover;170;;134217727;;;;DE1726
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;134217727;;;;DE1728
+E;Dometic GO Camp Table Storage Bag;40;;134217727;;;;DE1538
+E;Dometic GO Compact Bench: Silt;100;;134217727;;;;DE1540
+E;Dometic GO Compact Camp Table: Bamboo;200;;134217727;;;;DE1533
+E;Dometic GO Compact Chair;150;;134217727;;;;DE1539
+E;Dometic GO Hydration Water Faucet;100;;134217727;;;;DE1536
+E;Dometic GO Hydration Water Jug 11L;70;;134217727;;;;DE1534
+E;Dometic HUB 2.0 Inflatable Shelter;750;;134217727;;;;DE1542
+E;Dometic HUB 2.0 Mesh Panel;100;;134217727;;;;DE1535
+L;Dometic OBSIDIAN Series 45W Portable Solar Kit;350;;134217727;;;;DE1294
+I;Dometic Recon Hardside 16L: Glow;225;;134217727;;;;DE1729
+I;Dometic Recon Hardside 41L: Silt;325;;134217727;;;;DE1731
+I;Dometic Recon Hardside 69L: Silt;425;;134217727;;;;DE1730
+I;Dometic Strap Kit;20;;134217727;;;;DE1302
+I;Dometic Tie Down Kit;50;;134217727;;;;DE1285
+E;Factor 55 Baja Vehicle Recovery Kit;650;;134217727;;;;DE1681
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;134217727;;;;DE1684
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;134217727;;;;DE1683
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;134217727;;;;DE1680
+E;Factor 55 Recovery Soft Shackle;69;;134217727;;;;DE1682
+E;Kammok Crosswing Basket Mount Kit;110;;134217727;;;;DE1578
+E;Kammok Crosswing Pole Pack;115;;134217727;;;;DE1573
+E;Kammok Crosswing Shade Single Panel 7';125;;134217727;;;;DE1576
+E;Kammok Crosswing Single Panel 5';115;;134217727;;;;DE1579
+E;Kammok Crosswing Tie Down Kit;70;;134217727;;;;DE1584
+E;Kammok Crosswing Vertical Bracket Kit;60;;134217727;;;;DE1577
+E;Kammok Crosswing: 5';1150;;134217727;;;;DE1580
+E;Kammok Crosswing: 7';1300;;134217727;;;;DE1575
+E;Kammok Mantis;290;;134217727;;;;DE1574
+E;Kammok Outpost Hammock Stand;530;;134217727;;;;DE1572
+E;Kammok Roo Double;95;;134217727;;;;DE1583
+E;Kammok Roo Single;70;;134217727;;;;DE1581
+E;Kammok Swiftlet;340;;134217727;;;;DE1582
+I;Kurgo Quantum Dog Leash: Blue;33;;134217727;;;;DE1744
+E;Napier Sportz Air Mattress: Compact Size;106;;134217727;;;;DE1644
+E;Napier Sportz Link: Ground Tent Attachment;230;;134217727;;;;DE1643
+E;Napier Sportz Truck Tent for Compact Size Bed;310;;134217727;;;;DE1642
+E;Napier Strap Protectors;25;;134217727;;;;DE1645
+I;Pelican 20QT Elite Cooler;207;;134217727;;;;DE1339
+L;Pelican 3410M Right Angle Light;64;;134217727;;;;DE1663
+I;Pelican 45QT Elite Wheeled Cooler;466;;134217727;;;;DE1326
+I;Pelican Dayventure Backpack Cooler;301;;134217727;;;;DE1335
+I;Pelican Dayventure Sling Cooler;187;;134217727;;;;DE1337
+I;Pelican SDDLMT2B Saddle Case Bed Mount Kit;311;;134217727;;;;DE1328
+E;Prinsu Pro Cab Rack w/ Standard Wind Deflector;1045;;134217727;;;;DE1633
+E;Prinsu Universal Truck Bed Bars;600;;134217727;;;;DE1634
+L;RAM X-Grip Cup Holder Mount;79;;134217727;;;;DE1329
+L;RAM X-Grip Seat Wedge Mount;112;;134217727;;;;DE1338
+E;Thule ProRide XT Bike Carrier;350;;134217727;;;;DE1689
+E;Thule SnowPack L Ski Rack;400;;134217727;;;;DE1690
+E;WARN Epic D-Ring Shackle;68;;134217727;;;;DE1685
+E;WARN Epic Recovery Kit;624;;134217727;;;;DE1679
+L;WeBoost Drive Reach;500;;134217727;;;;DE1630
+L;WeBoost Drive Reach Overland;550;;134217727;;;;DE1632
+L;WeBoost Overland Antenna & Mounting bracket combo;230;;134217727;;;;DE1631
+E;Yakima OverHaul 60" HD Bar Medium Tonneau Kit 1;1659;;134217727;;;;DE1589
+E;Yakima OverHaul HD Adjustable-Height Heavy-Duty Truck Bed Rack: Medium;1659;;134217727;;;;DE1350
+E;Yakima OverNOut 270 LG (LH);649;;134217727;;;;DE1588
+E;Yakima OverNOut 270 LG (RH);649;;134217727;;;;DE1590
+E;Yakima RoadShower Portable Pressurized Water Storage;599;;134217727;;;;DE1348
+E;Yakima SkyRise HD;2899;;134217727;;;;DE1695
+I;Yakima Stretch Net SkinnyWarrior;65;;134217727;;;;DE1720
+P;SR Upgrade Package;1495;;18;;;;LL
+W;Alloy Wheel Locks;105;;16777210;;;;WL
+E;Bed Mat;200;;100061530;;;;CJ
+E;Body Side Molding;260;;134215130;;;;BM
+E;Cast Aluminum Running Boards (D-Cab Only);1199;;4191706;;;;RB
+P;Exhaust Tip, Predator Drop Step Package;850;;4191706;;;;J6
+E;Predator Drop Step;720;;4191698;;;;R6
+E;Rocker Protector;540;;4191706;;;;5G
+E;Topo-Graphics: Black on Black;320;;33551834;;;;G2
+E;Fab Fours Step Sliders: Matte Black;1480;;134215130;;;;DE1696
+P;Black Overlay and Dark Illumination Logo Package;445;;2044;;;;4T
+P;SR Upgrade Package;1680;;8;;;;LL
+I;Cargo Net: Exterior;65;;134217704;;;;GN
+E;TRD Shift Knob;130;;294920;;;;91
+F;Heated Front Seats;585;;4192224;167,176,189,190,192,196,199,200,202,207,209,214;;;CY
+P;SR5 Upgrade Package;1825;;544;167;;;SM
+P;SR5 Upgrade + Cold Weather Package;2560;;544;165,166;;;SP
+F;Full-Size Spare Tire;85;;2016;;;;ST
+E;Bed Rack Heavy Duty Kit with Molle Panels (Long Bed) By ARB;2999;;601760;;;;2R
+E;Bed Rack with Molle Panels (Long Bed) By ARB;2845;;601760;;;;1R
+P;Black Appearance Package;1704;;2016;;;;B0
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;134215648;;;;1Y
+L;Rigid Fog Lights: White;680;;16775136;;;;Q4
+W;TRD 18-in Wheel: Black;1325;;13727712;;;;W0
+P;SR5 Upgrade Package;2900;;1472;176;;;SM
+P;SR5 Upgrade + Cold Weather Package;3635;;1472;165,175;;;SP
+E;Bed Rack Heavy Duty Kit with Molle Panels (Short Bed) By ARB;2865;;83284288;;;;2R
+E;Bed Rack with Molle Panels (Short Bed) By ARB;2710;;83284288;;;;1R
+E;Rear Differential Skid Plate;355;;83883456;;;;5Q
+E;Roof Rack;1724;;133920192;;;;DR
+E;TRD Front Skid Plate;560;;7337408;;;;S0
+E;TRD Performance Exhaust: Black;1095;;16175424;;;;45
+E;TRD Performance Exhaust: Silver;995;;16175424;;;;46
+E;ARB Rear Tow Hooks;425;;12526720;;;;8I
+P;Front and Rear Recovery Tow Package;605;;12526720;;;;8G
+E;TRD Suspension Lift Kit;2950;;4179200;;;;6K
+P;TRD PreRunner Upgrade Package;1310;;2048;;;;SM
+F;14-In. Toyota Audio Multimedia Display;845;;4190208;189,200;;;EE
+F;14-In. Toyota Audio Multimedia Display (With TRD Sport Upgrade Package);720;;1175552;165,188;192,196,199,209;;EF
+F;Moonroof;850;;4190208;165;192,196,199,202,207,209,214;;MR
+P;TRD Sport Premium Package;8465;;12288;;;;PQ
+P;TRD Sport Upgrade Package;4555;;12288;165;;;PU
+F;Towing Technology Package;850;;133918720;;191,195,201,208,213;;TD
+E;Transmission Skid Plate;365;;16740352;;;;8Z
+P;TRD Sport Premium Package;8750;;81920;;;;PQ
+P;TRD Sport Upgrade Package;4840;;81920;165;;;PU
+E;Rock Rails;950;;4177920;;;;98
+P;TRD Sport Premium Package;8690;;32768;;;;PQ
+P;TRD Sport Upgrade Package;4825;;32768;165;;;PU
+F;14-In. Toyota Audio Multimedia Display (With TRD Off-Road Upgrade Package);720;;3014656;165,188;202,207,214;;EF
+P;TRD Off-Road Premium Package;9220;;655360;;;;OF
+P;TRD Off-Road Upgrade Package;4840;;655360;165;;;OU
+F;Stabilizer Disconnect Mechanism (SDM);1230;;3014656;;;;SF
+E;Body Side Molding: Black;250;;53346304;;;;B2
+P;Steel Skid Plates Package;780;;917504;;;;J9
+P;TRD Off-Road Premium Package;8940;;262144;;;;OF
+P;TRD Off-Road Upgrade Package;4825;;262144;165;;;OU
+P;TRD Sport Premium Package;8290;;1048576;;;;PQ
+P;TRD Sport Upgrade Package;4330;;1048576;165;;;PU
+E;Bed Storage Box: Swing Out;905;;126877696;;;;T1
+E;Topo-Graphics: Black on Clear;420;;120586240;;;;G3
+E;TRD Air Intake;750;;11534336;;;;9E
+P;TRD Off-Road Premium Package;8540;;2097152;;;;OF
+P;TRD Off-Road Upgrade Package;4330;;2097152;165;;;OU
+P;Steel Skid Plates Package;415;;2097152;;;;J9
+E;Black Badge Overlay;89;;12582912;;;;T4
+E;Gunmetal Gray Badge Overlay;89;;4194304;;;;TT
+E;Bed Rack Heavy Duty Kit with Molle Panels (Short Bed) By ARB;1965;;16777216;;;;2R
+E;Bed Rack with Molle Panels (Short Bed) By ARB;1811;;16777216;;;;1R
+E;Bronze Heritage Grill Letter Overlay;285;;50331648;;;;F8
+E;Matte Black Heritage Grill Letter Overlay;285;;117440512;;;;M5
+E;White Heritage Grill Letter Overlay;285;;117440512;;;;J5
+E;Bed Rack Heavy Duty Kit with Molle Panels (Long Bed) By ARB;2099;;33554432;;;;2R
+E;Bed Rack with Molle Panels (Long Bed) By ARB;1945;;33554432;;;;1R
+E;Red Heritage Grill Letter Overlay;285;;67108864;;;;F6
+L;Rigid Fog Lights: Yellow;200;;67108864;;;;Q8
+E;Wave Maker Heritage Grill Letter Overlay;285;;67108864;;;;F7
+R;Clashes not checked (needs a color change first): TRD Off-Road Premium Package (4 trims, first: TRD Off-Road Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Clashes not checked (needs a color change first): TRD Sport Premium Package (6 trims, first: TRD Sport RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Clashes not checked (needs a color change first): Towing Technology Package (8 trims, first: TRD Sport RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Not selectable, no reason given: Full-Size Spare Tire (SR5 RWD Double Cab with 5-ft bed 5-seat, SR5 RWD Double Cab with 6-ft bed 5-seat) // Rule not stored: TRD Off-Road Premium Package needs update interior Black SofTex trim (4 trims, first: TRD Off-Road Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Rule not stored: TRD PreRunner Upgrade Package not with interior Boulder/Black Fabric w/Smoke Silver (TRD PreRunner) // Rule not stored: TRD Sport Premium Package needs update interior Black SofTex trim (6 trims, first: TRD Sport RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Rule not stored: Towing Technology Package needs update interior Black SofTex trim (8 trims, first: TRD Sport RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Rule not stored: interior Black SofTex trim needs TRD Off-Road Premium Package (4 trims, first: TRD Off-Road Double Cab with 5-ft bed 8-Speed Automatic Transmission) // Rule not stored: interior Black SofTex trim needs TRD Sport Premium Package (6 trims, first: TRD Sport RWD Double Cab with 5-ft bed 8-Speed Automatic Transmission)

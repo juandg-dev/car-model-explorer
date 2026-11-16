@@ -1,0 +1,58 @@
+#chr|C-HR|2027|chr|1595|suv
+T;SE;37080;2416;SofTex
+T;XSE;39080;2419;SofTex
+C;Overcast;06Y1;0;Black SofTex-fabric mixed media trim,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Tandoori;04Z3;0;Black SofTex-fabric mixed media trim,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Cement;01H5;0;Black SofTex-fabric mixed media trim,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Wind Chill Pearl;0089;475;Black SofTex-fabric mixed media trim,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Midnight Black Metallic;0218;0;Black SofTex-fabric mixed media trim,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Tandoori with Midnight Black Metallic roof;0M67;500;0,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Cement with Midnight Black Metallic roof;02YY;500;0,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+C;Wind Chill Pearl with Midnight Black Metallic roof;02PS;975;0,Boulder synthetic suede-SofTex trim/Black synthetic suede-SofTex trim
+P;Headlight cleaner;100;;1;;;;CY
+E;Activity Mount;600;;3;;;;AM
+E;All-Weather Cargo Mat;140;;3;;;;PS1069
+P;All-Weather Floor Liner Package;464;;3;;;;2T
+E;All-Weather Floor Liners;199;;3;;;;PS1070
+E;All-Weather Seatback Protector;125;;3;;;;2N
+W;Alloy Wheel Locks;90;;3;;;;WL
+E;Body Side Moldings;267;;3;;;;BM
+I;Cargo Net: Envelope;70;;3;;;;GN
+I;Cargo Tote;65;;3;;;;9G
+E;Carpet Cargo Mat;140;;3;;;;PS1072
+E;Carpet Floor Mats;199;;3;;;;PS1071
+P;Carpet Mat Package;339;;3;;;;CF
+I;Coin Holder/Ashtray Cup;36;;3;;;;A7
+E;Cross Bars;375;;3;;;;3T
+E;Door Edge Film;100;;3;;;;DF
+E;Door Sill Applique;50;;3;;;;D1
+E;Door Sill Protector;199;;3;;;;D9
+E;Emergency Assistance Kit;78;;3;;;;7R
+E;First Aid Kit;35;;3;;;;3Z
+L;Illuminated Cargo Sills;450;;3;;;;K2
+E;Key Glove;25;;3;;;;KG
+E;Mudguards;210;;3;;;;MF
+E;Multimedia Screen Protector;105;;3;;;;87
+E;Paint Protection Film: Front Bumper;525;;3;;;;PS1073
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;3;;;;3P
+P;Preferred Accessory Package;449;;3;;;;Q3
+P;Preferred Accessory Package w/ All-Weather Mats;569;;3;;;;Z2
+P;Preferred Accessory Package w/ Carpet Mats;444;;3;;;;Z1
+L;Quick Charging Cable Package;75;;3;;;;59
+E;Rear Bumper Applique;80;;3;;;;EF
+E;Rear Bumper Protector;89;;3;;;;3Y
+L;Universal Tablet Holder;109;;3;;;;U7
+E;Kammok Roo Single;70;;3;;;;PS1110
+I;Kurgo Dog First Aid Kit;33;;3;;;;PS1088
+I;Kurgo Heather Dog Booster Seat;70;;3;;;;PS1113
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;3;;;;PS1105
+I;Pelican Dayventure Sling Cooler;187;;3;;;;PS1102
+I;PetSafe Happy Ride Folding Dog Ramp;90;;3;;;;PS1086
+L;RAM X-Grip Cup Holder Mount;79;;3;;;;PS1108
+L;RAM X-Grip Seat Wedge Mount;112;;3;;;;PS1109
+P;Cold Weather Package;450;;2;;;;CY
+P;9-Speaker JBL Premium Audio;600;;2;;;;EN
+P;Panoramic Roof;1000;;2;;;;SR
+W;20 in. Champagne Metallic Alloy Wheels;2285;;2;;;;2J
+W;20 in. Dark Grey Metallic Alloy Wheels;2285;;2;;;;1L
+R;

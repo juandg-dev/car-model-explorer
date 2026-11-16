@@ -1,0 +1,74 @@
+#corolla|Corolla|2027|corolla|1295|sedan
+T;LE;23325;1852;Fabric
+T;Hybrid LE FWD;25175;1882;Fabric
+T;Hybrid LE AWD;26575;1883;Fabric
+T;SE;25765;1864;Fabric
+T;Hybrid SE FWD;27615;1886;Fabric
+T;Hybrid SE AWD;29015;1887;Fabric
+T;XSE;29040;1866;SofTex
+T;Hybrid XLE;29540;1892;SofTex
+C;Celestite;01K3;0;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Blueprint;08X8;0;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Wind Chill Pearl;0089;475;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Ice Cap;0040;0;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Ruby Flare Pearl;03T3;475;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Classic Silver Metallic;01F7;0;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Inked;0229;0;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Underground;01L7;0;Light Gray fabric/Black fabric/Macadamia-Mocha fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Blueprint with Inked roof;0M93;500;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+C;Wind Chill Pearl with Inked roof;0M87;975;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+C;Ice Cap with Inked roof;0MA3;500;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+C;Ruby Flare Pearl with Inked roof;0MA7;975;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+C;Classic Silver Metallic with Inked roof;0MA4;500;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+C;Celestite with Inked roof;0MA5;500;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+C;Underground with Inked roof;0MA6;500;0,0,0,Black-Red Premium Fabric/Moonstone Premium fabric,0,0,Black-Red SofTex-Fabric Mixed Media/Black SofTex-fabric mixed media trim,0
+P;LE Premium Package;1135;;7;;;;LQ
+P;All-Weather Floor Liner Package;309;;255;;;;2T
+E;All-Weather Floor Liners;189;;255;;;;AH1157
+W;Alloy Wheel Locks: Chrome;90;;255;;;;WL
+E;Blackout Emblem Overlays;145;;73;;;;3J
+P;Body Protection Package;535;;255;;;;Q2
+E;Body Side Moldings;267;;255;;;;BM
+I;Cargo Net: Envelope;70;;255;;;;GN
+I;Cargo Tote;65;;255;;;;9G
+E;Cargo Tray;120;;255;;;;AH1025
+E;Carpet Floor Mats;189;;255;;;;AH1009
+P;Carpet Mat Package;309;;255;;;;CF
+E;Carpet Trunk Mat;120;;255;;;;AH1012
+I;Coin Holder/Ashtray Cup;36;;255;;;;A6
+E;Door Edge Guards;168;;255;;;;D5
+E;Door Sill Protectors;179;;255;;;;G0
+E;Emergency Assistance Kit;78;;255;;;;7R
+E;First Aid Kit;35;;255;;;;3Z
+L;Frameless Homelink Mirror;175;;255;;;;GD
+E;Mudguards;160;;255;;;;MF
+E;Multimedia Screen Protector;105;;255;;;;87
+E;Paint Protection Film: Front Bumper;525;;255;;;;AH1024
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;255;;;;3P
+P;Preferred Accessory Package w/ All-Weather Liners;682;;255;;;;Z6
+P;Preferred Accessory Package w/ Carpet Mats;682;;255;;;;Z5
+L;Quick Charging Cable Package;75;;255;;;;59
+E;Rear Bumper Protector;89;;255;;;;EF
+L;SiriusXM Trial Offering: 33 Months;350;;255;;;;1S
+E;Toyota Sunshade;110;;255;;;;8U
+E;TRD Air Filter;69;;255;;;;AH1168
+E;Trunk LED Bulb;25;;255;;;;1T
+L;Car Mate DC4000RA Dash Cam 360;570;;255;;;;AH1127
+I;Dometic Recon Hardside 16L: Glow;225;;255;;;;AH1165
+I;Kurgo Collapse-A-Bowl;14;;255;;;;AH1176
+I;Kurgo Dog First Aid Kit;33;;255;;;;AH1117
+I;Kurgo Gourd Water Bottle & Bowl;19;;255;;;;AH1119
+I;Kurgo Heather Dog Booster Seat;70;;255;;;;AH1120
+I;Kurgo Quantum Dog Leash: Blue;33;;255;;;;AH1169
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;255;;;;AH1110
+I;Pelican 20QT Elite Cooler;207;;255;;;;AH1079
+I;Pelican Dayventure Backpack Cooler;301;;255;;;;AH1180
+I;Pelican Dayventure Sling Cooler;187;;255;;;;AH1078
+L;RAM X-Grip Cup Holder Mount;79;;255;;;;AH1125
+L;RAM X-Grip Seat Wedge Mount;112;;255;;;;AH1126
+E;Thule Canyon XT Roof Basket;542;;255;;;;AH1170
+I;Yakima SkyBox NX XL;799;;255;;;;AH1185
+P;SE Premium Package;965;;56;;;;SO
+E;Rear Spoiler;382;;72;;;;RF
+P;JBL Premium Audio;600;;192;;;;EN
+R;Rule not stored: SE Premium Package not with interior Moonstone Premium fabric (Hybrid SE FWD) // Rule not stored: SE Premium Package not with paint Ice Cap (Hybrid SE FWD)

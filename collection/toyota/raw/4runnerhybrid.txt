@@ -1,0 +1,122 @@
+#4runnerhybrid|4Runner i-FORCE MAX|2027|4runnerhybrid|1595|suv
+T;TRD Off-Road i-FORCE MAX;54360;8628;Fabric
+T;TRD Off-Road Premium i-FORCE MAX;59460;8630;SofTex
+T;Limited i-FORCE MAX;61890;8632;Leather
+T;Platinum;64850;8638;Leather
+T;Trailhunter;68590;8636;SofTex
+T;TRD Pro;68870;8634;SofTex
+C;Inked;0229;0;Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,Mineral SofTex,Black SofTex trim/Cockpit Red SofTex trim
+C;Everest;06X7;0;Black-Boulder Fabric with Smoke Silver,Black SofTex trim,0,0,Mineral SofTex,0
+C;Underground;01L7;0;Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,Mineral SofTex,Black SofTex trim/Cockpit Red SofTex trim
+C;Heritage Blue;08X0;0;Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,0,0
+C;Cutting Edge;01L0;0;Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,0,Dark Navy Premium Leather,0,0
+C;Ice Cap;0040;0;Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,0,0,Mineral SofTex,Black SofTex trim/Cockpit Red SofTex trim
+C;Supersonic Red;03U5;475;Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,0,0
+C;Wind Chill Pearl;0089;475;0,0,Portobello Leather/Black leather trim,Dark Navy Premium Leather,0,0
+C;Hot Honey;05D1;695;0,0,0,0,0,Black SofTex trim/Cockpit Red SofTex trim
+F;Prewired Auxiliary Switches;400;;3;;;;DC
+F;Stabilizer Disconnect Mechanism;1230;;3;;;;SF
+F;LED Liftgate Light;200;;15;;;;TL
+E;All-Weather Cargo Mat;140;;63;;;;R5
+E;All-Weather Floor Liners;248;;11;;;;63
+W;Alloy Wheel Locks: Black Chrome;90;;3;;;;WK
+E;Ball Mount;65;;63;;;;D8
+E;Black TOYOTA Badge Tailgate Insert;75;;59;;;;T9
+E;Body Side Molding;260;;63;;;;BM
+E;Bronze TOYOTA Badge Tailgate Insert;65;;55;;;;5D
+E;Cargo Cover;135;;63;;;;5A
+I;Cargo Tote;65;;63;;;;9G
+E;Carpet Cargo Mat;140;;63;;;;C1
+E;Chrome TOYOTA Badge Tailgate Insert;65;;7;;;;T6
+I;Coin Holder/Ashtray Cup;36;;63;;;;A7
+I;Console Safe;400;;63;;;;VA
+E;Cross Bars;420;;47;;;;3T
+E;Door Edge Film;100;;63;;;;DF
+E;Door Edge Guards;150;;63;;;;D5
+E;Door Panel Scuff Protectors (Protective Cover for Door Interior);135;;63;;;;2B
+E;Emergency Assistance Kit;78;;63;;;;7R
+E;Front Recovery Hooks;180;;63;;;;8F
+E;Front Skid Plate: Trailhunter Steel;415;;47;;;;9A
+L;Illuminated Front Emblem: Chrome;315;;15;;;;6L
+L;Illuminated Front Emblem: Dark Chrome;315;;15;;;;2L
+L;Integrated Dashcam;499;;63;;;;V1
+E;Key Glove;25;;63;;;;K9
+E;Matte Black TOYOTA Badge Tailgate Insert;75;;59;;;;T7
+E;Mudguards;175;;63;;;;MF
+P;Overlook Package;15451;;63;;;;AA1575
+E;Paint Protection Film: Front Bumper;525;;63;;;;AA1573
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;63;;;;3P
+L;Quick Charging Cable Package;75;;63;;;;59
+P;Rear Cargo Lamp Package;403;;63;;;;4J
+E;Rear Differential Skid Plate;425;;47;;;;5Q
+E;Rear Recovery Hooks;135;;63;;;;4F
+E;Rock Rails;990;;35;;;;99
+E;Side Storage Boot Brush + Ice Scraper;20;;63;;;;9W
+I;Side Storage Case;55;;63;;;;9T
+I;Side Storage LED Lantern;160;;63;;;;9V
+I;Side Storage Multi Tool;50;;63;;;;9S
+L;SiriusXM Trial Offering: 33 Months;350;;63;;;;1S
+E;Topo-Graphics: Black;385;;63;;;;G2
+E;Topo-Graphics: Clear;385;;63;;;;G3
+E;Toyota Logo Black Badge Overlay;65;;7;;;;T4
+E;Toyota Logo Bronze Badge Overlay;139;;55;;;;4D
+E;Toyota Multimedia Screen Protector;105;;63;;;;87
+E;Toyota Roof Rack by ARB;2025;;47;;;;3R
+E;Trailer Ball;24;;63;;;;8T
+E;Transmission Skid Plate;355;;47;;;;8Z
+W;TRD 18-In. Wheel: Black (Includes 4 Wheels);1325;;3;;;;W0
+E;TRD 2.5" Suspension Lift Kit;2999;;3;;;;AA1608
+E;TRD Air Filter;90;;15;;;;3F
+E;TRD Control Arm Kit;1110;;63;;;;AA1604
+E;TRD Front Skid Plate: Aluminum;560;;15;;;;S0
+E;TRD Performance Cat-Back Exhaust;1430;;47;;;;46
+E;Factor 55 Baja Vehicle Recovery Kit;650;;63;;;;AA1549
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;63;;;;AA1552
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;63;;;;AA1551
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;63;;;;AA1548
+E;Factor 55 Recovery Soft Shackle;69;;63;;;;AA1550
+E;Kammok Roo Double;95;;63;;;;AA1486
+E;Kammok Roo Single;70;;63;;;;AA1484
+E;Kammok Swiftlet;340;;63;;;;AA1485
+I;Kurgo Dog First Aid Kit;33;;63;;;;AA1497
+I;Kurgo Gourd Water Bottle & Bowl;19;;63;;;;AA1500
+I;Pelican 20QT Elite Cooler;207;;63;;;;AA1517
+L;Pelican 3410M Right Angle Light;64;;63;;;;AA1528
+I;Pelican 45QT Elite Wheeled Cooler;466;;63;;;;AA1507
+I;Pelican Dayventure Backpack Cooler;301;;63;;;;AA1513
+I;Pelican Dayventure Sling Cooler;187;;63;;;;AA1514
+I;PetSafe Happy Ride Folding Dog Ramp;90;;63;;;;AA1490
+E;Prinsu Pro Rack Window Accessory Panel Driver Side;475;;63;;;;AA1591
+E;Prinsu Pro Rack Window Accessory Panel Passenger Side;475;;63;;;;AA1590
+E;Prinsu Pro Roof Rack w/ Standard Wind Deflector;1255;;63;;;;AA1589
+L;RAM X-Grip Cup Holder Mount;79;;63;;;;AA1509
+L;RAM X-Grip Seat Wedge Mount;112;;63;;;;AA1515
+E;Thule Canyon XT Roof Basket;542;;63;;;;AA1555
+E;Thule Force 3 L Cargo Box;1015;;63;;;;AA1559
+E;Thule Force 3 XL Cargo Box;1065;;63;;;;AA1558
+E;Thule ProRide XT Bike Carrier;350;;63;;;;AA1556
+E;Thule SnowPack L Ski Rack;400;;63;;;;AA1557
+E;WARN Epic D-Ring Shackle;68;;63;;;;AA1553
+E;WARN Epic Recovery Kit;624;;63;;;;AA1547
+I;Yakima SkinnyWarrior;529;;63;;;;AA1580
+I;Yakima Stretch Net Large;75;;63;;;;AA1581
+I;Yakima Stretch Net Medium;65;;63;;;;AA1577
+I;Yakima Stretch Net SkinnyWarrior;65;;63;;;;AA1582
+F;Moonroof;850;;2;;;;MR
+F;Tow Tech Package;400;;6;;;;TD
+F;Digital Key Capability;275;;52;;;;DG
+F;Power Running Boards;1005;;12;;;;KG
+E;All-Weather Floor Liners;199;;4;;;;63
+W;Alloy Wheel Locks: Chrome;90;;4;;;;WL
+E;Bronze Heritage Grill Letter Overlay;189;;48;;;;F8
+E;Carpet Floor Mats;199;;48;;;;C4
+E;Hot Honey Heritage Grill Letter Overlay;189;;48;;;;F7
+E;Matte Black Heritage Grill Letter Overlay;189;;48;;;;M5
+E;Red Heritage Grill Letter Overlay;189;;48;;;;F6
+E;Reflect Black Heritage Grill Letter Overlay;189;;48;;;;T5
+E;White Heritage Grill Letter Overlay;189;;48;;;;J5
+E;Cast Aluminum Running Boards: Black;1300;;32;;;;R4
+E;Oval Tube Steps: Black;675;;32;;;;R2
+E;Oval Tube Steps: Silver;675;;32;;;;R3
+E;Predator Drop Step;755;;32;;;;R6
+R;

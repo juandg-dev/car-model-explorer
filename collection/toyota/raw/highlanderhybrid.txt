@@ -1,0 +1,86 @@
+#highlanderhybrid|Highlander Hybrid|2026|highlanderhybrid|1595|suv
+T;Hybrid XLE;48020;6965;SofTex
+T;Hybrid Limited;52475;6966;Leather
+T;Hybrid Platinum;55675;6967;Leather
+C;Ruby Flare Pearl;03T3;475;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Blueprint;08X8;0;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Heavy Metal;01L5;475;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Wind Chill Pearl;0089;475;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Midnight Black Metallic;0218;0;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+F;Bench Seat;0;;1;;;;BS
+F;12.3-in. Toyota Audio Multimedia;735;;1;;;;EE
+P;All-Weather Floor Liner Package;388;;7;;;;2T
+E;All-Weather Floor Liners;248;;7;;;;AO1014
+W;Alloy Wheel Locks;90;;7;;;;WK
+E;Body Side Moldings;260;;7;;;;BM
+I;Cargo Cover;185;;1;;;;5A
+E;Cargo Cross Bars;350;;7;;;;3T
+E;Cargo Liner;140;;7;;;;R5
+I;Cargo Tote;60;;7;;;;9G
+E;Carpet Cargo Mat;140;;7;;;;C1
+E;Carpet Floor Mats;248;;7;;;;AO1029
+P;Carpet Floor Mats & Cargo Liner Package;388;;7;;;;CT
+P;Carpet Mat Package;388;;7;;;;CF
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;7;;;;1Y
+L;Connected Services Trial Offering: 3 addt'l of Drive Connect & 2 addt'l yrs of Remote Connect;485;;1;;;;1X
+E;Door Edge Guards;165;;7;;;;D5
+E;Emergency Assistance Kit;75;;7;;;;7R
+E;First Aid Kit;30;;7;;;;3Z
+L;Illuminated Door Sills;395;;3;;;;G4
+L;Integrated Dashcam;375;;7;;;;V1
+E;Paint Protection Film: Front Bumper;525;;7;;;;AO1017
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door cups;439;;7;;;;3P
+P;Protection Package #3;650;;3;;;;Q3
+L;Quick Charging Cable Package;70;;7;;;;59
+E;Rear Bumper Applique: Clear;80;;3;;;;EF
+E;Rear Bumper Protector: Chrome;135;;3;;;;3Y
+E;Running Boards;599;;7;;;;RB
+L;SiriusXM Trial Offering: 33 Months;350;;7;;;;1S
+P;Tow Hitch Receiver package;759;;7;;;;DH
+E;Toyota Multimedia Screen Protector;105;;7;;;;87
+E;Toyota Sunshade;110;;7;;;;8U
+L;Universal Tablet Holder;99;;7;;;;U7
+I;ARB 38 Qt Zero Fridge/Freezer;1131;;7;;;;AO1253
+E;ARB Camp Chair;101;;7;;;;AO1227
+I;ARB Cargo Organizers;105;;7;;;;AO1249
+I;ARB Elements Fridge/Freezer;1709;;7;;;;AO1196
+E;ARB Premium Recovery Kit;540;;7;;;;AO1204
+E;ARB TRED Pro Red;380;;7;;;;AO1209
+E;ARB Weekender Recovery Kit;175;;7;;;;AO1197
+L;Car Mate DC4000RA Dash Cam 360;570;;7;;;;AO1127
+L;Car Mate DC4000RA Dash Cam 360 Parking Assist;85;;7;;;;AO1128
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;7;;;;AO1295
+E;Dometic GO Compact Bench: Silt;100;;7;;;;AO1221
+E;Dometic GO Compact Camp Table: Bamboo;200;;7;;;;AO1214
+E;Dometic HUB 2.0 Inflatable Shelter;750;;7;;;;AO1223
+L;Dometic OBSIDIAN Series 100W Portable Solar Kit;450;;7;;;;AO1172
+E;Kammok Crosswing: 5';1150;;7;;;;AO1237
+E;Kammok Crosswing: 7';1300;;7;;;;AO1232
+E;Kammok Mantis;290;;7;;;;AO1231
+E;Kammok Outpost Hammock Stand;530;;7;;;;AO1229
+E;Kammok Roo Single;70;;7;;;;AO1238
+I;Kurgo Dog First Aid Kit;33;;7;;;;AO1137
+I;Kurgo Gourd Water Bottle & Bowl;19;;7;;;;AO1139
+I;Kurgo Heather Dog Booster Seat;70;;7;;;;AO1140
+I;Kurgo Shed Sweeper: Dog Hair Remover;19;;7;;;;AO1134
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;7;;;;AO1130
+I;Pelican 20QT Elite Cooler;207;;7;;;;AO1126
+I;Pelican 45QT Elite Wheeled Cooler;466;;7;;;;AO1122
+I;Pelican Dayventure Backpack Cooler;301;;7;;;;AO1124
+I;Pelican Dayventure Sling Cooler;187;;7;;;;AO1125
+I;PetSafe Happy Ride Folding Dog Ramp;90;;7;;;;AO1211
+L;RAM X-Grip Cup Holder Mount;79;;7;;;;AO1177
+L;RAM X-Grip Seat Wedge Mount;112;;7;;;;AO1178
+E;Thule Canyon XT Roof Basket;542;;7;;;;AO1270
+E;Thule CapRock Crossbar Kit;180;;7;;;;AO1276
+E;Thule CapRock Platform Medium;1000;;7;;;;AO1274
+E;Thule Force 3 L Cargo Box;1015;;7;;;;AO1275
+E;Thule Force 3 XL Cargo Box;1065;;7;;;;AO1273
+E;Yakima EXO OpenRange Kitchen Cabinet;749;;7;;;;AO1246
+E;Yakima EXO OpenRange Leg Kit;229;;7;;;;AO1243
+I;Yakima MegaWarrior;649;;7;;;;AO1187
+I;Yakima OffGrid Cargo Basket, Mounted;649;;7;;;;AO1189
+E;Yakima SkyRise HD;2899;;7;;;;AO1185
+I;Yakima Stretch Net SkinnyWarrior;65;;7;;;;AO1288
+F;Panoramic View Monitor (PVM);850;;2;;;;SB
+R;

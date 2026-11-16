@@ -1,0 +1,64 @@
+#prius|Prius|2027|prius|1295|sedan
+T;LE;28755;1223;Fabric
+T;LE AWD;30155;1263;Fabric
+T;XLE;32200;1225;SofTex
+T;Nightshade;33005;1216;SofTex
+T;XLE AWD;33600;1265;SofTex
+T;Nightshade AWD;34405;1266;SofTex
+T;Limited;35770;1227;SofTex
+T;Limited AWD;37170;1268;SofTex
+C;Inked;0229;0;Light Gray fabric/Gradient Black fabric,Light Gray fabric/Gradient Black fabric,Light Gray SofTex trim/Black SofTex trim,Black SofTex,Light Gray SofTex trim/Black SofTex trim,Black SofTex,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Supersonic Red;03U5;475;Light Gray fabric/Gradient Black fabric,Light Gray fabric/Gradient Black fabric,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Cutting Edge;01L0;0;Light Gray fabric/Gradient Black fabric,Light Gray fabric/Gradient Black fabric,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Guardian Gray;01M2;0;Light Gray fabric/Gradient Black fabric,Light Gray fabric/Gradient Black fabric,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Reservoir Blue;08Q4;0;Light Gray fabric/Gradient Black fabric,Light Gray fabric/Gradient Black fabric,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Wind Chill Pearl;0089;475;Light Gray fabric/Gradient Black fabric,Light Gray fabric/Gradient Black fabric,Light Gray SofTex trim/Black SofTex trim,Black SofTex,Light Gray SofTex trim/Black SofTex trim,Black SofTex,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Karashi;05C5;0;0,0,0,Black SofTex,0,Black SofTex,0,0
+F;Front and Rear Parking Assist with Automatic Braking;35;;3;;;;RC
+E;All-Weather Cargo Mat;130;;255;;;;62
+P;All-Weather Floor Liner Package;319;;255;;;;2T
+E;All-Weather Floor Liners;189;;255;;;;63
+W;Alloy Wheel Locks;90;;255;;;;WL
+E;Body Side Molding;277;;215;;;;BM
+I;Cargo Net: Spider;70;;255;;;;GN
+I;Cargo Tote;65;;255;;;;9G
+E;Carpet Cargo Mat;130;;255;;;;C1
+E;Carpet Floor Mats;189;;255;;;;C4
+P;Carpet Mat Package;319;;255;;;;CF
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;255;;;;1Y
+L;Connected Services Trial Offering: 3 addt'l of Drive Connect & 2 addt'l yrs of Remote Connect;485;;255;;;;1X
+E;Door Edge Guards;168;;215;;;;D5
+E;Door Sill Protectors;250;;215;;;;D9
+E;Emergency Assitance Kit;78;;255;;;;7R
+E;First Aid Kit;35;;255;;;;3Z
+E;Key Gloves;23;;255;;;;KG
+E;Mudguards;165;;255;;;;MF
+E;Multimedia Screen Protector;105;;63;;;;87
+E;Paint Protection Film: Front Bumper;525;;255;;;;AS1022
+E;Paint Protection Film: Hood, Fenders, Mirror Backs & Door Cups;439;;255;;;;3P
+P;Preferred Accessory Package w/ All-Weather Floor Liners;493;;255;;;;Z6
+P;Preferred Accessory Package w/ Carpet Mats;493;;255;;;;Z5
+P;Protection Package #3;514;;255;;;;Q3
+L;Quick Charging Cable Package;75;;255;;;;59
+E;Rear Bumper Applique;69;;255;;;;EF
+L;SiriusXM Trial Offering: 33 Months;350;;255;;;;1S
+E;Toyota Sunshade;110;;255;;;;8U
+L;Universal Tablet Holder;109;;255;;;;U7
+I;Dometic Recon Hardside 16L: Glow;225;;255;;;;AS1153
+I;Kurgo Dog First Aid Kit;33;;255;;;;AS1091
+I;Kurgo Gourd Water Bottle & Bowl;19;;255;;;;AS1093
+I;Kurgo Heather Dog Booster Seat;70;;255;;;;AS1094
+I;Kurgo Quantum Dog Leash: Blue;33;;255;;;;AS1165
+I;Kurgo Shed Sweeper: Dog Hair Remover;19;;255;;;;AS1089
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;255;;;;AS1085
+I;Pelican 20QT Elite Cooler;207;;255;;;;AS1083
+L;RAM X-Grip Cup Holder Mount for Large Phones;79;;255;;;;AS1100
+L;RAM X-Grip Seat Wedge Mount for Large Phones;112;;255;;;;AS1101
+F;Digital Key;275;;60;;;;DG
+F;12.3-in. Toyota Audio Multimedia;735;;60;;;;EE
+F;Fixed glass roof;1000;;60;;;;SR
+L;Integrated Dashcam;375;;252;;;;V1
+F;Digital rearview mirror;200;;192;;;;DV
+P;Limited Premium Package;1085;;192;;44,46;;LX
+F;Heated rear seats;350;;192;;;;SD
+R;

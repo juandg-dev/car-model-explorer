@@ -1,0 +1,138 @@
+#4runner|4Runner|2027|4runner|1595|suv
+T;SR5 RWD;43490;8642;Fabric
+T;SR5 Part-time 4-Wheel Drive;45490;8664;Fabric
+T;TRD Sport RWD;49620;8643;Fabric
+T;TRD Sport Part-time 4-Wheel Drive;51620;8671;Fabric
+T;TRD Off-Road;51560;8670;Fabric
+T;TRD Sport Premium RWD;54300;8644;SofTex
+T;TRD Sport Premium Part-time 4-Wheel Drive;56300;8673;SofTex
+T;TRD Off-Road i-FORCE MAX;54360;8628;Fabric
+T;TRD Off-Road Premium;56660;8672;SofTex
+T;Limited RWD;57090;8648;Leather
+T;Limited Full-time 4-Wheel Drive;59090;8668;Leather
+T;TRD Off-Road Premium i-FORCE MAX;59460;8630;SofTex
+T;Limited i-FORCE MAX;61890;8632;Leather
+T;Platinum;64850;8638;Leather
+T;Trailhunter;68590;8636;SofTex
+T;TRD Pro;68870;8634;SofTex
+C;Inked;0229;0;Black fabric,Black fabric,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Black SofTex trim,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Portobello Leather/Black leather trim,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,Mineral SofTex,Black SofTex trim/Cockpit Red SofTex trim
+C;Underground;01L7;0;Black fabric,Black fabric,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Black SofTex trim,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Portobello Leather/Black leather trim,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,Mineral SofTex,Black SofTex trim/Cockpit Red SofTex trim
+C;Heritage Blue;08X0;0;Black fabric,Black fabric,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Black SofTex trim,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Portobello Leather/Black leather trim,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,0,0
+C;Cutting Edge;01L0;0;Black fabric,Black fabric,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Black SofTex trim,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,0,0,Black SofTex trim,0,Dark Navy Premium Leather,0,0
+C;Ice Cap;0040;0;Black fabric,Black fabric,0,0,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,0,0,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black SofTex trim,0,0,Black SofTex trim,0,0,Mineral SofTex,Black SofTex trim/Cockpit Red SofTex trim
+C;Supersonic Red;03U5;475;Black fabric,Black fabric,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Black SofTex trim,Black-Boulder Fabric with Smoke Silver,Black SofTex trim,Portobello Leather/Black leather trim,Portobello Leather/Black leather trim,Black SofTex trim,Portobello Leather/Black leather trim,Dark Navy Premium Leather,0,0
+C;Wind Chill Pearl;0089;475;0,0,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,Black-Boulder fabric with Anodized Blue/Black-Boulder Fabric with Smoke Silver,0,Black SofTex trim,Black SofTex trim,0,0,Portobello Leather/Black leather trim,Portobello Leather/Black leather trim,0,Portobello Leather/Black leather trim,Dark Navy Premium Leather,0,0
+C;Everest;06X7;0;0,0,0,0,Black-Boulder Fabric with Smoke Silver,0,0,Black-Boulder Fabric with Smoke Silver,Black SofTex trim,0,0,Black SofTex trim,0,0,Mineral SofTex,0
+C;Hot Honey;05D1;695;0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Black SofTex trim/Cockpit Red SofTex trim
+F;Fixed Running Boards;345;;3;;;;KH
+F;Third Row Seating - SR5;770;;3;;;;TH
+E;All-Weather Cargo Mat;140;;65535;;;;R5
+E;All-Weather Floor Liners;248;;12287;;;;63
+W;Alloy Wheel Locks: Chrome;90;;5635;;;;WL
+E;Ball Mount;65;;65535;;;;D8
+E;Black TOYOTA Badge Tailgate Insert;75;;59903;;;;T9
+E;Body Side Molding;260;;65535;;;;BM
+E;Bronze TOYOTA Badge Tailgate Insert;65;;57343;;;;5D
+E;Cargo Cover;135;;65535;;;;5A
+I;Cargo Net;65;;3;;;;GN
+I;Cargo Tote;65;;65535;;;;9G
+E;Carpet Cargo Mat;140;;65535;;;;C1
+E;Carpet Floor Mats;248;;3;;;;C4
+E;Cast Aluminum Running Boards: Black;1300;;32879;;;;R4
+I;Coin Holder/Ashtray Cup;36;;65535;;;;A7
+I;Console Safe;400;;65535;;;;VA
+E;Cross Bars;420;;49151;;;;3T
+E;Door Edge Film;100;;65535;;;;DF
+E;Door Edge Guards;150;;65535;;;;D5
+E;Door Panel Scuff Protectors (Protective Cover for Door Interior);135;;65535;;;;2B
+E;Emergency Assistance Kit;78;;65535;;;;7R
+E;Front Recovery Hooks;180;;65535;;;;8F
+E;Front Skid Plate: Trailhunter Steel;415;;49151;;;;9A
+L;Illuminated Front Emblem: Chrome;315;;16383;;;;6L
+L;Illuminated Front Emblem: Dark Chrome;315;;16383;;;;2L
+L;Integrated Dashcam;499;;65535;;;;V1
+E;Key Glove;25;;65535;;;;K9
+E;Matte Black TOYOTA Badge Tailgate Insert;75;;59903;;;;T7
+E;Mudguards;175;;65535;;;;MF
+E;Oval Tube Steps: Black;675;;32879;;;;R2
+E;Oval Tube Steps: Silver;675;;32879;;;;R3
+P;Overlook Package;15451;;65535;;;;AA1575
+E;Paint Protection Film: Front Bumper;525;;65535;;;;AA1573
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;65535;;;;3P
+E;Predator Drop Step;755;;32879;;;;R6
+L;Quick Charging Cable Package;75;;65535;;;;59
+P;Rear Cargo Lamp Package;403;;65535;;;;4J
+E;Rear Differential Skid Plate;425;;49151;;;;5Q
+E;Rear Recovery Hooks;135;;65535;;;;4F
+E;Side Storage Boot Brush + Ice Scraper;20;;65535;;;;9W
+I;Side Storage Case;55;;65535;;;;9T
+I;Side Storage LED Lantern;160;;65535;;;;9V
+I;Side Storage Multi Tool;50;;65535;;;;9S
+L;SiriusXM Trial Offering: 33 Months;350;;65535;;;;1S
+E;Topo-Graphics: Black;385;;65535;;;;G2
+E;Topo-Graphics: Clear;385;;65535;;;;G3
+E;Toyota Logo Black Badge Overlay;65;;6655;;;;T4
+E;Toyota Logo Bronze Badge Overlay;89;;111;;;;4D
+E;Toyota Multimedia Screen Protector;105;;65535;;;;87
+E;Toyota Roof Rack by ARB;2025;;49151;;;;3R
+E;Trailer Ball;24;;65535;;;;8T
+E;Transmission Skid Plate;355;;49151;;;;8Z
+E;TRD Air Filter;90;;16383;;;;3F
+E;TRD Control Arm Kit;1110;;65535;;;;AA1604
+E;TRD Front Skid Plate: Aluminum;560;;16383;;;;S0
+E;TRD Performance Cat-Back Exhaust;1430;;49151;;;;46
+E;Factor 55 Baja Vehicle Recovery Kit;650;;65535;;;;AA1549
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;65535;;;;AA1552
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;65535;;;;AA1551
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;65535;;;;AA1548
+E;Factor 55 Recovery Soft Shackle;69;;65535;;;;AA1550
+E;Kammok Roo Double;95;;65535;;;;AA1486
+E;Kammok Roo Single;70;;65535;;;;AA1484
+E;Kammok Swiftlet;340;;65535;;;;AA1485
+I;Kurgo Dog First Aid Kit;33;;65535;;;;AA1497
+I;Kurgo Gourd Water Bottle & Bowl;19;;65535;;;;AA1500
+I;Pelican 20QT Elite Cooler;207;;65535;;;;AA1517
+L;Pelican 3410M Right Angle Light;64;;65535;;;;AA1528
+I;Pelican 45QT Elite Wheeled Cooler;466;;65535;;;;AA1507
+I;Pelican Dayventure Backpack Cooler;301;;65535;;;;AA1513
+I;Pelican Dayventure Sling Cooler;187;;65535;;;;AA1514
+I;PetSafe Happy Ride Folding Dog Ramp;90;;65535;;;;AA1490
+E;Prinsu Pro Rack Window Accessory Panel Driver Side;475;;65535;;;;AA1591
+E;Prinsu Pro Rack Window Accessory Panel Passenger Side;475;;65535;;;;AA1590
+E;Prinsu Pro Roof Rack w/ Standard Wind Deflector;1255;;65535;;;;AA1589
+L;RAM X-Grip Cup Holder Mount;79;;65535;;;;AA1509
+L;RAM X-Grip Seat Wedge Mount;112;;65535;;;;AA1515
+E;Thule Canyon XT Roof Basket;542;;65535;;;;AA1555
+E;Thule Force 3 L Cargo Box;1015;;65535;;;;AA1559
+E;Thule Force 3 XL Cargo Box;1065;;65535;;;;AA1558
+E;Thule ProRide XT Bike Carrier;350;;65535;;;;AA1556
+E;Thule SnowPack L Ski Rack;400;;65535;;;;AA1557
+E;WARN Epic D-Ring Shackle;68;;65535;;;;AA1553
+E;WARN Epic Recovery Kit;624;;65535;;;;AA1547
+I;Yakima SkinnyWarrior;529;;65535;;;;AA1580
+I;Yakima Stretch Net Large;75;;65535;;;;AA1581
+I;Yakima Stretch Net Medium;65;;65535;;;;AA1577
+I;Yakima Stretch Net SkinnyWarrior;65;;65535;;;;AA1582
+E;Chrome TOYOTA Badge Tailgate Insert;65;;8130;;;;T6
+E;Rock Rails;990;;34946;;;;99
+E;TRD 2.5" Suspension Lift Kit;2999;;2522;;;;AA1608
+W;Alloy Wheel Locks: Black Chrome;90;;2556;;;;WK
+F;Stabilizer Disconnect Mechanism;1230;;2448;;;;SF
+E;Toyota Logo Bronze Badge Overlay;139;;57232;;;;4D
+W;TRD 18-In. Wheel: Black (Includes 4 Wheels);1325;;2448;;;;W0
+F;Moonroof;850;;2400;;;;MR
+F;Tow Tech Package;400;;8032;;;;TD
+F;Prewired Auxiliary Switches;400;;2176;;;;DC
+F;LED Liftgate Light;200;;16000;;;;TL
+F;Digital Key Capability;275;;54784;;;;DG
+F;Power Running Boards;1005;;13824;;;;KG
+F;Third Row Seating - Limited;1330;;1536;;;;TS
+E;All-Weather Floor Liners;199;;4096;;;;63
+E;Bronze Heritage Grill Letter Overlay;189;;49152;;;;F8
+E;Carpet Floor Mats;199;;49152;;;;C4
+E;Hot Honey Heritage Grill Letter Overlay;189;;49152;;;;F7
+E;Matte Black Heritage Grill Letter Overlay;189;;49152;;;;M5
+E;Red Heritage Grill Letter Overlay;189;;49152;;;;F6
+E;Reflect Black Heritage Grill Letter Overlay;189;;49152;;;;T5
+E;White Heritage Grill Letter Overlay;189;;49152;;;;J5
+R;

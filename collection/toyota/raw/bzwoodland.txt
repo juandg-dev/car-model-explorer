@@ -1,0 +1,46 @@
+#bzwoodland|bZ Woodland|2027|bzwoodland|1595|suv
+T;bZ Woodland;45380;2860;SofTex
+T;bZ Woodland Premium;47480;2861;SofTex
+C;Stepping Stone;0D35;0;Stone Brown SofTex trim/Black SofTex trim,Stone Brown SofTex trim/Black SofTex trim
+C;Raven;0D32;0;Stone Brown SofTex trim/Black SofTex trim,Stone Brown SofTex trim/Black SofTex trim
+C;Halo;0D29;475;Stone Brown SofTex trim/Black SofTex trim,Stone Brown SofTex trim/Black SofTex trim
+C;Pavement;0D31;0;Stone Brown SofTex trim/Black SofTex trim,Stone Brown SofTex trim/Black SofTex trim
+C;Steel;0D30;0;Stone Brown SofTex trim/Black SofTex trim,Stone Brown SofTex trim/Black SofTex trim
+C;Trueno Blue;0D33;0;Stone Brown SofTex trim/Black SofTex trim,Stone Brown SofTex trim/Black SofTex trim
+F;235/65R18 All-Terrain Tires;0;;3;;;;TA
+P;Adventure Tow Package;1268;;3;;;;8P
+W;Alloy Wheel Locks: Black;105;;3;;;;WL
+E;Body Side Moldings: Black;267;;3;;;;BM
+I;Cargo Net: Spider;70;;3;;;;GN
+I;Cargo Tote;65;;3;;;;9G
+E;Carpet Floor Mats;199;;3;;;;PU1005
+I;Coin Holder/Ashtray Cup;36;;3;;;;A7
+E;Cross Bars;360;;3;;;;3T
+E;Door Edge Film;100;;3;;;;DF
+E;Door Edge Guards;168;;3;;;;D5
+E;Emergency Assistance Kit;78;;3;;;;7R
+E;EV Charge Port Cover;120;;3;;;;2U
+E;First Aid Kit;35;;3;;;;3Z
+L;Illuminated Cargo Sills;450;;3;;;;K2
+L;Illuminated Door Sills;415;;3;;;;G4
+E;Key Glove;25;;3;;;;KG
+E;Mudguards;165;;3;;;;MF
+E;Multimedia Screen Protector;105;;3;;;;87
+E;Paint Protection Film: Front Bumper;525;;3;;;;PU1014
+E;Paint Protection Film: Hood, Fenders, Door Cups, and Mirror Backs;439;;3;;;;3P
+L;Quick Charging Cable Package;75;;3;;;;59
+E;Rear Bumper Applique;80;;3;;;;EF
+E;Rear Bumper Protector;89;;3;;;;3Y
+L;Rear Hatch Cargo Lights;275;;3;;;;43
+P;Tow Hitch Package;1174;;3;;;;DH
+L;Universal Tablet Holder;109;;3;;;;U7
+L;ChargePoint Home Flex EV Charger;599;;3;;;;PU1032
+I;Dometic Recon Hardside 41L: Silt;325;;3;;;;PU1055
+E;Kammok Roo Single;70;;3;;;;PU1037
+E;Kammok Swiftlet;340;;3;;;;PU1038
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;3;;;;PU1039
+I;Pelican 20QT Elite Cooler;207;;3;;;;PU1054
+I;Pelican Dayventure Backpack Cooler;301;;3;;;;PU1044
+I;Pelican Dayventure Sling Cooler;187;;3;;;;PU1053
+I;PetSafe Happy Ride Folding Dog Ramp;90;;3;;;;PU1041
+R;

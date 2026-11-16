@@ -1,0 +1,151 @@
+#tundrahybrid|Tundra i-FORCE MAX|2027|tundrahybrid|2195|suv
+T;Limited i-FORCE MAX CrewMax with 5.5-Ft.;63090;8421;Leather
+T;Limited i-FORCE MAX CrewMax with 6.5-Ft.;63755;8431;Leather
+T;Platinum i-FORCE MAX CrewMax with 5.5-Ft.;72650;8422;Leather
+T;Platinum i-FORCE MAX CrewMax with 6.5-Ft.;73315;8432;Leather
+T;1794 Edition i-FORCE MAX CrewMax with 5.5-Ft.;73320;8423;Leather
+T;1794 Edition i-FORCE MAX CrewMax with 6.5-Ft.;73985;8433;Leather
+T;TRD Pro;75400;8424;SofTex
+T;Capstone;82925;8425;Leather
+C;Magnetic Gray Metallic;01G3;0;Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black SofTex trim/Cockpit Red SofTex trim,Shale Premium Textured Leather-trimmed
+C;Ice Cap;0040;0;Yes,Yes,0,0,0,0,Black SofTex trim/Cockpit Red SofTex trim,0
+C;Celestial Silver Metallic;01J9;0;Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Midnight Black Metallic;0218;0;Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,Black SofTex trim/Cockpit Red SofTex trim,Shale Premium Textured Leather-trimmed
+C;Lunar Rock;06X3;0;Yes,Yes,Black leather trim,Black leather trim,Yes,Yes,0,0
+C;Blueprint;08X8;0;Yes,Yes,Black leather trim,Black leather trim,Yes,Yes,0,0
+C;Supersonic Red;03U5;475;Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Wind Chill Pearl;0089;475;Black leather trim/Boulder Leather-trimmed,Black leather trim/Boulder Leather-trimmed,Black leather trim,Black leather trim,Saddle Tan leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Wave Maker;0796;0;Yes,Yes,Yes,Yes,0,0,0,0
+C;Honeycomb;05C9;695;0,0,0,0,0,0,Black SofTex trim/Cockpit Red SofTex trim,0
+P;Nightshade Package;415;;3;1,5,6,8;;;BK
+F;TRD 3-In. Suspension Lift Kit (Removes Fog Lights);3995;;63;0,2,4,5,6,8;5,116;;LK
+P;Limited Premium Package;745;;3;1,4;7;;LX
+F;PVM + BSM Tow Mirrors;290;;191;6,8,118,119;;;MQ
+F;Load-Leveling Rear Height Control Air Suspension;1350;;3;1,2,5,6,8;;;NF
+P;TRD Off-Road Package;2680;;3;0,1,4;;;OF
+F;Off-Road Front Skid Plate;0;;63;0,1,3,4;5,116,119;;SO
+F;Panoramic Roof;1350;;3;;;;SR
+F;TRD Front Skid Plate;385;;63;0,1,3,4;5,116,119;;ST
+I;30qt Cooler: Gray;385;;255;;;;6D
+I;30qt Cooler: Tan;385;;255;;;;8C
+I;30qt Cooler: White;385;;255;;;;2C
+E;All-Weather Floor Liners;199;;15;;;;2T
+W;Alloy Wheel Locks;105;;191;;;;WL
+E;Ball Mount;89;;255;;;;D8
+E;Bed Extender;400;;255;;;;7T
+E;Bed Mat;229;;255;;;;CJ
+E;Bed Storage Boxes: Swing Out;595;;255;;;;T1
+E;Bed Utility Package with Cargo Storage;1026;;127;;;;B1
+E;Bed Utility Package with Extender;831;;127;;;;B2
+E;BedStep;431;;127;;;;8Q
+E;Blackout Emblem Overlays;160;;3;;;;3J
+I;Cargo Net: Exterior;70;;255;;;;GN
+I;Cargo Tote;65;;255;;;;9G
+E;Carpet Floor Mats;199;;143;;;;CF
+I;Coin Holder/Ashtray Cup;28;;207;;;;A7
+I;Console Safe;395;;255;;;;VA
+E;Deck Rail Camera Mount;59;;255;;;;M1
+E;Door Edge Film;100;;255;;;;DF
+E;Door Edge Guards: Stainless Steel;165;;255;;;;D5
+E;Dual Step Running Boards: Black;655;;127;;;;R8
+E;Dual Step Running Boards: Silver;655;;127;;;;R7
+E;Emergency Assistance Kit;78;;255;;;;7R
+E;Exhaust Tip: Black Chrome;132;;3;;;;E6
+E;Exhaust Tip: Chrome;122;;3;;;;E5
+E;Front Recovery Hooks;535;;63;;;;8F
+P;Hall of Famer Tailgate Package;3632;;255;;;;BA1418
+E;Hard Tri-Fold Tonneau Cover;1295;;255;;;;5A
+E;Mini Tie-Downs with Hooks;45;;255;;;;RT
+E;Paint Protection Film: Front Bumper;525;;255;;;;BA1079
+E;Paint Protection Film: Hood, Fenders, Door Cups & Mirror Backs;439;;255;;;;3P
+E;Predator Steps;757;;127;;;;R6
+L;Quick Charging Cable Package;75;;255;;;;59
+L;Rigid Fog Lights: White;680;;191;;;;Q4
+E;Rock Rails;635;;85;;;;99
+L;SiriusXM Trial Offering: 33 Months;350;;255;;;;1S
+W;Spare Tire Lock;75;;255;;;;WI
+E;Spray-On Bedliner;599;;255;;;;LB
+E;Tailgate Insert Badge: Black;89;;15;;;;T7
+E;Tailgate Insert Badge: Chrome;89;;15;;;;T6
+E;Toyota TRD Sunshade;130;;255;;;;8U
+E;TRD 3" Suspension Lift Kit;3995;;63;;;;3L
+E;TRD Air Filter;135;;255;;;;3F
+E;TRD Cast Aluminum Running Boards;1299;;127;;;;R4
+E;TRD Control Arm Kit;2500;;255;;;;BA1485
+E;TRD Front Skid Plate;550;;191;;;;S0
+E;TRD Performance Package;2999;;255;;;;PH
+E;TRD Shift Knob;155;;191;;;;6B
+L;Universal Tablet Holder;99;;255;;;;U7
+L;Wifi Trailer Camera;800;;255;;;;W1
+I;ARB 47 Qt Zero Fridge/Freezer;1181;;255;;;;BA1510
+I;ARB Fridge Tie Down Kit;72;;255;;;;BA1296
+E;ARB Premium Recovery Kit;540;;255;;;;BA1301
+E;ARB Pump Up Kit;120;;255;;;;BA1300
+E;ARB Single Motor Portable 12v Compressor;520;;255;;;;BA1327
+E;ARB TRED Pro Grey;370;;255;;;;BA1302
+E;ARB TRED Pro Mounting Kit;110;;255;;;;BA1298
+E;ARB TRED Pro Red;380;;255;;;;BA1306
+E;ARB Weekender Recovery Kit;175;;255;;;;BA1294
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Rugged Black;2957;;255;;;;BA1496
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Smooth Black;2957;;255;;;;BA1498
+E;DiamondBack HD Tonneau Cover: Rugged Black;2499;;255;;;;BA1483
+E;DiamondBack HD Tonneau Cover: Smooth Black;2499;;255;;;;BA1484
+I;Dometic CFX5 45 Electric Cooler;1050;;255;;;;BA1473
+I;Dometic CFX5 45 Protective Cover;155;;255;;;;BA1476
+I;Dometic CFX5 55IM Electric Cooler;1200;;255;;;;BA1475
+I;Dometic CFX5 55IM Protective Cover;170;;255;;;;BA1477
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;255;;;;BA1479
+I;Dometic CFX5 95DZ Protective Cover;200;;255;;;;BA1478
+I;Dometic Recon Hardside 16L: Glow;225;;255;;;;BA1480
+I;Dometic Recon Hardside 16L: Silt;225;;255;;;;BA1514
+I;Dometic Recon Hardside 41L: Glow;325;;255;;;;BA1513
+I;Dometic Recon Hardside 41L: Silt;325;;255;;;;BA1482
+I;Dometic Recon Hardside 69L: Glow;425;;255;;;;BA1509
+I;Dometic Recon Hardside 69L: Silt;425;;255;;;;BA1481
+E;Factor 55 Baja Vehicle Recovery Kit;650;;255;;;;BA1439
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;255;;;;BA1442
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;255;;;;BA1441
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;255;;;;BA1438
+E;Factor 55 Recovery Soft Shackle;69;;255;;;;BA1440
+I;Kurgo Quantum Dog Leash: Blue;33;;255;;;;BA1487
+I;Pelican 20QT Elite Cooler;207;;255;;;;BA1219
+L;Pelican 3410M Right Angle Light;64;;255;;;;BA1425
+I;Pelican 45QT Elite Wheeled Cooler;466;;255;;;;BA1208
+I;Pelican Dayventure Backpack Cooler;301;;255;;;;BA1216
+I;Pelican Dayventure Sling Cooler;187;;255;;;;BA1218
+E;Prinsu Pro Cab Rack w/ Standard Wind Deflector;1045;;255;;;;BA1511
+E;Prinsu Pro Rack Window Accessory Panel Driver Side;475;;255;;;;BA1516
+E;Prinsu Pro Rack Window Accessory Panel Passenger Side;350;;255;;;;BA1515
+E;Thule Canyon XT Roof Basket;542;;255;;;;BA1508
+E;Thule Force 3 L Cargo Box;1015;;255;;;;BA1512
+E;Thule ProRide XT Bike Carrier;350;;255;;;;BA1452
+E;Thule SnowPack L Ski Rack;400;;255;;;;BA1453
+E;WARN Epic D-Ring Shackle;68;;255;;;;BA1443
+E;WARN Epic Recovery Kit;624;;255;;;;BA1437
+L;WeBoost Drive Reach Overland;550;;255;;;;BA1501
+L;WeBoost Overland Antenna & Mounting bracket combo;230;;255;;;;BA1500
+I;Yakima CBX LG;999;;255;;;;BA1467
+I;Yakima CBX XXL;1149;;255;;;;BA1468
+E;Yakima OverHaul HD Adjustable-Height Heavy-Duty Truck Bed Rack: Large;1659;;255;;;;BA1290
+I;Yakima SkinnyWarrior;529;;255;;;;BA1469
+E;Yakima SkyRise HD;2899;;255;;;;BA1458
+I;Yakima Stretch Net Large;75;;255;;;;BA1470
+I;Yakima Stretch Net Medium;65;;255;;;;BA1466
+I;Yakima Stretch Net SkinnyWarrior;65;;255;;;;BA1471
+P;Load-Leveling Rear Height Control Air Suspension;1235;;60;;117;;NF
+P;TRD Off-Road Package;2165;;12;;;;OF
+F;Power Running Boards;1350;;60;;;;RB
+F;PVM + BSM Outer Mirrors;0;;48;3;;;MJ
+P;TRD Off-Road Package;2125;;48;3;;;OF
+F;IsoDynamic Seat;980;;64;;;;ID
+P;TRD Pro With Tow Mirrors Grade Package;290;;64;;;;TV
+E;Bronze Heritage Grille Letter Overlay;285;;64;;;;F8
+E;Honeycomb Heritage Grille Letter Overlay;285;;64;;;;F7
+E;Matte Black Heritage Grille Letter Overlay;285;;64;;;;M5
+E;Red Heritage Grille Letter Overlay;285;;64;;;;F6
+E;Reflect Black Heritage Grille Letter Overlay;285;;64;;;;T5
+E;TRD Pro Bed Lettering: Reflective Silver & Red;160;;64;;;;4L
+E;TRD Pro Bed Lettering: Matte Black;160;;64;;;;4B
+E;White Heritage Grille Letter Overlay;285;;64;;;;J5
+P;Load-Leveling Rear Height Control Air Suspension;535;;128;;;;NF
+R;Paint with no interior found: Blueprint (4 trims, first: Limited i-FORCE MAX CrewMax with 5.5-Ft.) // Paint with no interior found: Ice Cap (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Paint with no interior found: Lunar Rock (4 trims, first: Limited i-FORCE MAX CrewMax with 5.5-Ft.) // Paint with no interior found: Wave Maker (4 trims, first: Limited i-FORCE MAX CrewMax with 5.5-Ft.) // Rule not stored: Load-Leveling Rear Height Control Air Suspension not with interior Boulder Leather-trimmed (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: Nightshade Package not with interior Boulder Leather-trimmed (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: Off-Road Front Skid Plate also needs one of 2 choices, for example: add PVM + BSM Outer Mirrors (1794 Edition i-FORCE MAX CrewMax with 5.5-Ft., 1794 Edition i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: Off-Road Front Skid Plate not with interior Boulder Leather-trimmed (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD 3-In. Suspension Lift Kit (Removes Fog Lights) not with interior Boulder Leather-trimmed (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD Front Skid Plate also needs one of 2 choices, for example: add PVM + BSM Outer Mirrors (1794 Edition i-FORCE MAX CrewMax with 5.5-Ft., 1794 Edition i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD Front Skid Plate not with interior Boulder Leather-trimmed (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 2 choices, for example: add Off-Road Front Skid Plate (Limited i-FORCE MAX CrewMax with 5.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 3 choices, for example: add TRD 3-In. Suspension Lift Kit (Removes Fog Lights) (3 trims, first: Limited i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD Off-Road Package also needs one of 4 choices, for example: add PVM + BSM Outer Mirrors + add Off-Road Front Skid Plate (1794 Edition i-FORCE MAX CrewMax with 5.5-Ft., 1794 Edition i-FORCE MAX CrewMax with 6.5-Ft.) // Rule not stored: TRD Off-Road Package not with interior Boulder Leather-trimmed (Limited i-FORCE MAX CrewMax with 5.5-Ft., Limited i-FORCE MAX CrewMax with 6.5-Ft.)

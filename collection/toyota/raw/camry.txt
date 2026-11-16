@@ -1,0 +1,86 @@
+#camry|Camry|2027|camry|1295|sedan
+T;LE AWD;31225;2552;Fabric
+T;LE FWD;29700;2559;Fabric
+T;SE AWD;33725;2553;SofTex
+T;SE FWD;32200;2561;SofTex
+T;Nightshade AWD;34725;2551;SofTex
+T;Nightshade FWD;33200;2558;SofTex
+T;XLE AWD;36425;2555;Leather
+T;XLE FWD;34900;2560;Leather
+T;XSE AWD;37625;2556;Leather
+T;XSE FWD;36100;2557;Leather
+C;Supersonic Red;03U5;475;Black fabric/Boulder fabric,Black fabric/Boulder fabric,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Ocean Gem;0795;0;Black fabric/Boulder fabric,Black fabric/Boulder fabric,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,0,0,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Black leather trim
+C;Reservoir Blue;08Q4;0;Black fabric/Boulder fabric,Black fabric/Boulder fabric,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,0,0,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Black leather trim,Black leather trim
+C;Midnight Black Metallic;0218;0;Black fabric/Boulder fabric,Black fabric/Boulder fabric,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Underground;01L7;0;Black fabric/Boulder fabric,Black fabric/Boulder fabric,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,0,0,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Celestial Silver Metallic;01J9;0;Black fabric/Boulder fabric,Black fabric/Boulder fabric,0,0,0,0,0,0,0,0
+C;Ice Cap;0040;0;Black fabric/Boulder fabric,Black fabric/Boulder fabric,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,0,0,0,0
+C;Dark Cosmos;08Z3;475;0,0,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,0,0,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Heavy Metal;01L5;475;0,0,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim/Boulder SofTex-fabric mixed media trim,0,0,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Wind Chill Pearl;0089;475;0,0,0,0,0,0,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Light Gray leather & Dinamica trim/Black leather & Dinamica trim,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Heavy Metal with Midnight Black Metallic roof;02YJ;975;0,0,0,0,0,0,0,0,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Wind Chill Pearl with Midnight Black Metallic roof;02PS;975;0,0,0,0,0,0,0,0,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+C;Ocean Gem with Midnight Black Metallic roof;0M04;500;0,0,0,0,0,0,0,0,Black leather trim,Black leather trim
+C;Supersonic Red with Midnight Black Metallic roof;02SC;975;0,0,0,0,0,0,0,0,Cockpit Red leather trim/Black leather trim,Cockpit Red leather trim/Black leather trim
+P;Convenience Package;1050;;3;;;;CP
+P;Cold Weather Package;610;;3;;0;;CY
+F;Power tilt/slide moonroof;870;;63;;;;SR
+P;All-Weather Floor Liner Package;319;;1023;;;;2T
+E;All-Weather Floor Liners;189;;1023;;;;EI1005
+E;All-Weather Trunk Mat;130;;1023;;;;EI1187
+E;Blackout Emblem Overlays LE/XLE;145;;195;;;;3J
+I;Cargo Net: Envelope;70;;1023;;;;GN
+E;Carpet Floor Mats;189;;1023;;;;C4
+P;Carpet Mat Package;319;;1023;;;;CF
+E;Carpet Trunk Mat;130;;1023;;;;EI1029
+W;Chrome Alloy Wheel Locks;90;;1023;;;;WL
+I;Coin Holder/Ashtray Cup;36;;1023;;;;A6
+E;Door Edge Film;103;;1023;;;;DF
+E;Door Edge Guards;168;;1023;;;;D5
+E;Door Sill Protectors;199;;1023;;;;G0
+E;Emergency Assistance Kit;78;;1023;;;;7R
+E;First Aid Kit;35;;1023;;;;3Z
+L;Frameless HomeLink Mirror;175;;63;;;;GD
+L;Illuminated Cargo Sills;450;;1023;;;;G5
+L;Integrated Dashcam;375;;1021;;;;V1
+E;Key Gloves;23;;1023;;;;KG
+E;Mudguards;173;;1023;;;;MF
+E;Multimedia Screen Protector;105;;1023;;;;87
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;1023;;;;3P
+P;Preferred Package #1: Carpet Mats;524;;1023;;;;Z1
+P;Preferred Package #2: All-Weather liners;524;;1023;;;;Z2
+L;Quick Charging Cable Package;70;;1023;;;;59
+E;Rear Bumper Applique: Black;72;;1023;;;;3Y
+E;Rear Bumper Applique: Clear;72;;1023;;;;3B
+E;Rear Spoiler;145;;195;;;;RF
+L;SiriusXM Trial Offering: 33 Months;350;;1023;;;;1S
+E;Toyota Sunshade;110;;1023;;;;8U
+I;Trunk Cargo Organizer;93;;1023;;;;5C
+L;Trunk LED Light;100;;1023;;;;1T
+L;Car Mate DC4000RA Dash Cam 360;570;;1023;;;;EI1152
+I;Dometic Recon Hardside 16L: Glow;225;;1023;;;;EI1197
+I;Kurgo Dog First Aid Kit;33;;1023;;;;EI1169
+I;Kurgo Gourd Water Bottle & Bowl;19;;1023;;;;EI1179
+I;Kurgo Heather Dog Booster Seat;70;;1023;;;;EI1182
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;1023;;;;EI1149
+E;MillerCAT Stainless Steel Cat Shield;220;;1023;;;;EI1190
+I;Pelican 20QT Elite Cooler;207;;1023;;;;EI1177
+I;Pelican Dayventure Backpack Cooler;301;;1023;;;;EI1166
+I;Pelican Dayventure Sling Cooler;187;;1023;;;;EI1171
+L;RAM X-Grip Cup Holder Mount;79;;1023;;;;EI1160
+L;RAM X-Grip Seat Wedge Mount;112;;1023;;;;EI1172
+P;Convenience Package;600;;60;;;;CP
+P;Cold Weather Package;500;;60;;47;;CY
+F;Multimedia Upgrade Package;735;;60;;47;;UP
+W;19" Dark Grey Metallic Wheels (4 wheels);1500;;972;;;;93
+W;19'' Gloss Black Wheels (4 Wheels);1500;;972;;;;9L
+E;Black Lower Rocker Applique;80;;780;;;;74
+E;Blackout Emblem Overlays SE/XSE;95;;780;;;;3J
+L;Front Accent Lights;399;;828;;;;UN
+P;Premium Package;3810;;960;56,57;;;PM
+F;Panoramic glass roof with front power tilt/slide moonroof;1330;;960;55,57;;;PR
+P;Premium Plus Package;4760;;960;55,56;;;QP
+W;Black Alloy Wheel Locks;90;;192;;;;LK
+L;Illuminated Door Sills;415;;960;;;;G4
+R;

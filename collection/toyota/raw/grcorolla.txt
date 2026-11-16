@@ -1,0 +1,68 @@
+#grcorolla|GR Corolla|2026|grcorolla|1295|sedan
+T;GR Corolla 8-Speed GAZOO Racing Direct Automatic Transmission (DAT) with Paddle Shifters;42520;6280;SofTex
+T;GR Corolla 6-Speed intelligent Manual Transmission (iMT) with rev-matching;40520;6281;SofTex
+T;GR Corolla Premium Plus 8-Speed GAZOO Racing Direct Automatic Transmission (DAT) with Paddle Shifters;48565;6286;Brin Naub
+T;GR Corolla Premium Plus 6-Speed intelligent Manual Transmission (iMT) with rev-matching;46565;6287;Brin Naub
+T;GRMN Corolla;64360;6285;SofTex
+C;Supersonic Red;03U5;475;Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,0
+C;Heavy Metal;01L5;475;Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,0
+C;Ice Cap;0040;0;Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,0
+C;Black;0202;0;Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with Gray stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,Black BRIN•NAUB and synthetic leather trim with red stitching,0
+C;Zero Gravity;0228;1645;0,0,0,0,Black BRIN•NAUB and synthetic leather trim with red stitching
+C;Gravel;06X9;0;0,0,0,0,Black BRIN•NAUB and synthetic leather trim with red stitching
+E;All-Weather Cargo Mat;110;;15;;;;CJ1014
+P;All-Weather Floor Liner Package;299;;15;;;;2T
+E;All-Weather Floor Liners;189;;15;;;;CJ1013
+I;Cargo Net: Envelope;65;;15;;;;GN
+I;Cargo Tote;60;;15;;;;9G
+E;Carpet Cargo Mat;110;;15;;;;CJ1016
+P;Carpet Floor Mat Package;299;;15;;;;CF
+I;Carpet Floor Mats;189;;15;;;;CJ1015
+I;Coin Holder/Ashtray Cup;26;;15;;;;A6
+L;Connected Services Trial Offering: 3 addt'l of Drive Connect & 2 addt'l yrs of Remote Connect;485;;3;;;;1X
+E;Cross Bars;299;;15;;;;3T
+E;Door Sill Protectors;179;;15;;;;G0
+E;Emergency Assistance Kit;75;;15;;;;7R
+E;First Aid Kit;30;;15;;;;3Z
+L;Frameless Homelink Mirror;175;;15;;;;GD
+E;GR Chassis Brace;720;;15;;;;VB
+E;GR Lowering Springs;660;;15;;;;S2
+E;GR Performance Exhaust;2580;;15;;;;41
+P;Preferred Accessory Package w/ All-Weather Floor Liners;329;;15;;;;Z2
+P;Preferred Accessory Package w/ Carpet Mats;329;;11;;;;Z1
+L;Quick Charging Cable Package;70;;15;;;;59
+E;Rear Lip Spoiler;855;;15;;;;RF
+L;SiriusXM Trial Offering: 33 Months;350;;31;;;;1S
+E;Toyota GR Sunshade;110;;31;;;;8U
+E;ARB Single Motor Portable 12v Compressor;520;;31;;;;CJ1094
+L;Car Mate DC4000RA Dash Cam 360;570;;31;;;;CJ1072
+L;Car Mate DC4000RA Dash Cam 360 Parking Assist;85;;31;;;;CJ1073
+I;Dometic Recon Hardside 16L: Glow;225;;31;;;;CJ1122
+I;Dometic Recon Hardside 41L: Silt;325;;31;;;;CJ1124
+I;Dometic Recon Hardside 69L: Silt;425;;31;;;;CJ1123
+I;Kurgo Direct to Seatbelt Tether;14;;31;;;;CJ1061
+I;Kurgo Dog First Aid Kit;33;;31;;;;CJ1065
+I;Kurgo Gourd Water Bottle & Bowl;19;;31;;;;CJ1067
+I;Kurgo Heather Dog Booster Seat;70;;31;;;;CJ1068
+I;Kurgo Quantum Dog Leash: Blue;33;;31;;;;CJ1126
+I;Kurgo Seatbelt Loop with Carabiner: Black;14;;31;;;;CJ1058
+I;Kurgo Shed Sweeper: Dog Hair Remover;19;;31;;;;CJ1063
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;31;;;;CJ1059
+I;Pelican 20QT Elite Cooler;207;;31;;;;CJ1057
+L;Pelican 3410M Right Angle Light;64;;31;;;;CJ1107
+I;Pelican Dayventure Backpack Cooler;301;;31;;;;CJ1055
+I;Pelican Dayventure Sling Cooler;187;;31;;;;CJ1056
+E;Rally Armor Polyurethane Mud Flaps;269;;31;;;;CJ1132
+L;RAM X-Grip Cup Holder Mount;79;;31;;;;CJ1074
+L;RAM X-Grip Seat Wedge Mount;112;;31;;;;CJ1075
+I;Yakima CBX LG;999;;31;;;;CJ1117
+I;Yakima CBX XXL;1149;;31;;;;CJ1118
+I;Yakima SkinnyWarrior;529;;31;;;;CJ1119
+I;Yakima Stretch Net Large;75;;31;;;;CJ1120
+I;Yakima Stretch Net Medium;65;;31;;;;CJ1116
+I;Yakima Stretch Net SkinnyWarrior;65;;31;;;;CJ1121
+E;GR Corolla Shift Knob;135;;10;;;;91
+P;GR Shift Knob & Door Sill Protector Styling Package;314;;10;;;;SA
+E;Toyota Multimedia Screen Protector;105;;6;;;;87
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;28;;;;1Y
+R;

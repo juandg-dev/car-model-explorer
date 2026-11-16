@@ -1,0 +1,27 @@
+#mirai|Mirai|2026|mirai|1295|sedan
+T;Mirai;51795;3002;SofTex
+C;Hydro Blue;08Y7;475;Black SofTex trim with silver accents
+C;Black;0202;0;Black SofTex trim with silver accents
+C;Heavy Metal;01L5;475;Black SofTex trim with silver accents
+C;Oxygen White;0090;475;Black SofTex trim with silver accents
+W;Alloy Wheel Locks: Chrome;105;;1;;;;WL
+E;Carpet Trunk Mat;120;;1;;;;2M
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;1;;;;1Y
+E;Emergency Assistance Kit;75;;1;;;;AR1104
+E;First Aid Kit;30;;1;;;;3Z
+L;Quick Charging Cable Package;70;;1;;;;59
+E;Rear Bumper Applique;69;;1;;;;EF
+L;SiriusXM Trial Offering: 33 Months;350;;1;;;;1S
+L;Carmate DC4000RA Dashcam 360;570;;1;;;;AR1077
+L;Carmate DC4000RA Dashcam 360 Parking Assist;85;;1;;;;AR1078
+I;Kurgo Dog First Aid Kit;33;;1;;;;AR1073
+I;Kurgo Gourd Water Bottle & Bowl;19;;1;;;;AR1075
+I;Kurgo Heather Dog Booster Seat;70;;1;;;;AR1076
+I;Kurgo Shed Sweeper: Dog Hair Remover;19;;1;;;;AR1071
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;1;;;;AR1067
+I;Pelican 14QT Personal Cooler;120;;1;;;;AR1079
+I;Pelican Dayventure Backpack Cooler;301;;1;;;;AR1038
+I;Pelican Dayventure Sling Cooler;187;;1;;;;AR1039
+L;RAM X-Grip Cup Holder Mount;79;;1;;;;AR1064
+L;RAM X-Grip Seat Wedge Mount;112;;1;;;;AR1065
+R;

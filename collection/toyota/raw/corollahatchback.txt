@@ -1,0 +1,62 @@
+#corollahatchback|Corolla Hatchback|2027|corollahatchback|1295|sedan
+T;SE;24780;6272;Fabric
+T;XSE;27875;6274;Leather
+C;Inferno;04Y8;0;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Inked;0229;0;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Ice Cap;0040;0;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Wind Chill Pearl;0089;475;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Classic Silver Metallic;01F7;0;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Magnetic Gray Metallic;01G3;0;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Finish Line Red;03U9;475;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Blueprint;08X8;0;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Wind Chill Pearl with Black roof;0M71;975;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Classic Silver Metallic with Black roof;0MA0;500;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Magnetic Gray Metallic with Black roof;0MA1;500;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Finish Line Red with Black roof;02ZR;975;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+C;Blueprint with Black roof;0MA2;500;Moonstone fabric/Black fabric,Black SofTex trim/Moonstone SofTex trim
+P;SE Premium Package;800;;1;;;;SE
+E;All-Weather Cargo Tray;120;;3;;;;AJ1004
+P;All-Weather Floor Liner Package;309;;3;;;;2T
+E;All-Weather Floor Liners;189;;3;;;;63
+W;Alloy Wheel Locks: Black Chrome;90;;3;;;;WK
+W;Alloy Wheel Locks: Chrome;90;;3;;;;WL
+W;Black Lug Nuts;110;;3;;;;W3
+E;Blackout Emblem Overlays;135;;3;;;;3J
+P;Blackout Package;224;;3;;;;B0
+P;Body Protection Package;533;;3;;;;Q2
+E;Body Side Moldings;267;;3;;;;BM
+I;Cargo Net: Spider;70;;3;;;;GN
+I;Cargo Tote;65;;3;;;;9G
+E;Carpet Cargo Mat;120;;3;;;;C1
+E;Carpet Floor Mats;189;;3;;;;C4
+P;Carpet Mat Package;309;;3;;;;CF
+I;Coin Holder/Ashtray Cup;36;;3;;;;A6
+E;Cross Bars;490;;3;;;;3T
+E;Door Edge Film;100;;3;;;;DF
+E;Door Sill Protectors;179;;3;;;;G0
+E;Emergency Assistance Kit;78;;3;;;;7R
+E;First Aid Kit;35;;3;;;;3Z
+L;Frameless HomeLink Mirror;175;;3;;;;GD
+E;Mudguards;160;;3;;;;MF
+E;Multimedia Screen Protector;105;;3;;;;87
+E;Paint Protection Film: Front Bumper;525;;3;;;;AJ1014
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;3;;;;3P
+P;Preferred Accessory Package w/ Carpet Mats;682;;3;;;;Z5
+L;Quick Charging Cable Package;75;;3;;;;59
+E;Rear Bumper Protector;89;;3;;;;EF
+E;Rear Lip Spoiler;795;;3;;;;J7
+E;Rear Vented Spoiler;382;;3;;;;RF
+L;SiriusXM Trial Offering: 33 Months;350;;3;;;;1S
+E;Soft Badge for Body Side Molding;75;;3;;;;B6
+E;Toyota Sunshade;110;;3;;;;8U
+L;Trunk LED Light;25;;3;;;;1T
+L;Universal Tablet Holder;109;;3;;;;U7
+I;Dometic Recon Hardside 16L: Glow;225;;3;;;;AJ1244
+I;Dometic Recon Hardside 41L: Glow;325;;3;;;;AJ1249
+I;Kurgo Dog First Aid Kit;33;;3;;;;AJ1169
+I;Kurgo Heather Dog Booster Seat;70;;3;;;;AJ1187
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;3;;;;AJ1151
+I;Pelican Dayventure Backpack Cooler;301;;3;;;;AJ1166
+I;Pelican Dayventure Sling Cooler;187;;3;;;;AJ1171
+W;18" Alloy Wheel: Gloss White;1495;;2;;;;8W
+R;

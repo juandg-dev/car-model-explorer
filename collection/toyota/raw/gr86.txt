@@ -1,0 +1,66 @@
+#gr86|GR86|2027|gr86|1295|sedan
+T;GR86 6-Speed Electronically Controlled automatic Transmission (ECT) with paddle shifters;32500;6252;Ultrasuede
+T;GR86 6-Speed Manual Transmission;31500;6253;Ultrasuede
+T;GR86 Premium 6-Speed Electronically Controlled automatic Transmission (ECT) with paddle shifters;35200;6254;Ultrasuede
+T;GR86 Premium 6-Speed Manual Transmission;34400;6255;Ultrasuede
+C;Raven;0D4S;0;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+C;Pavement;0P8Y;0;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+C;Thunder;0PBA;0;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+C;Steel;0G1U;0;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+C;Halo;0K1X;475;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+C;Trueno Blue;0WCH;0;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+C;Track bRED;0DCK;475;Black fabric,Black fabric,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim,Black Ultrasuede with Red leather trim and Red stitching/Black Ultrasuede with leather trim
+P;Performance Package;2020;;3;;;;PP
+L;10" Powered Subwoofer;889;;15;;;;7S
+P;17" Bronze Wheel Package;1995;;3;;;;11
+E;All-Weather Cargo Tray;120;;15;;;;AM1006
+E;All-Weather Floor Liners;189;;15;;;;AM1012
+P;All-Weather Mat Package;309;;15;;;;2T
+W;Alloy Wheel Locks: Black;90;;15;;;;WK
+W;Alloy Wheel Locks: Chrome;90;;3;;;;WL
+P;Black Lug Nuts and Wheel Locks Package;345;;15;;;;WP
+W;Black Lug Nuts: 16 Piece Set;345;;15;;;;W3
+I;Cargo Net: Envelope;70;;15;;;;GN
+I;Cargo Tote;65;;15;;;;9G
+E;Carpet Floor Mats;189;;15;;;;AM1013
+P;Carpet Mat Package;309;;15;;;;CF
+E;Carpet Trunk Mat;120;;15;;;;AM1032
+E;Door Edge Guards;120;;15;;;;D5
+E;Emergency Assistance Kit;78;;15;;;;7R
+E;First Aid Kit;35;;15;;;;3Z
+L;Frameless Homelink Mirror;250;;15;;;;MN
+W;GR 17" Forged Alloy Wheels: Bronze;1950;;3;;;;2P
+E;GR Air Filter;75;;15;;;;3F
+P;GR Appearance Package #1;693;;15;;;;AP
+E;GR Body Kit;3759;;15;;;;8M
+E;GR Fender Vent Inserts;159;;15;;;;1F
+E;GR Key Gloves;23;;15;;;;KG
+E;GR Performance Dual Exhaust: Black;1730;;15;;;;37
+E;GR Performance Stabilizer Bars;1320;;15;;;;6Q
+E;GR Performance Strut Tie Brace;640;;15;;;;6R
+E;GR Shift Knob;165;;15;;;;91
+E;Mudguards;120;;15;;;;AM1034
+E;Paint Protection Film: Front Bumper;525;;15;;;;AM1017
+E;Paint Protection Film: Hood, Fenders, Door Cups and Mirror Backs;439;;15;;;;3P
+P;Preferred Accessory Package #1;473;;15;;;;Z1
+P;Preferred Accessory Package #2;473;;15;;;;Z2
+L;Quick Charging Cable Package;75;;15;;;;59
+E;Rear Bumper Applique: Black;69;;15;;;;EI
+E;Rear Bumper Applique: Clear;80;;15;;;;EF
+L;Car Mate DC4000RA Dash Cam 360;570;;15;;;;AM1057
+L;Carmate DC4000RA Dashcam 360 Parking Assist;85;;15;;;;AM1058
+I;Dometic Recon Hardside 16L: Glow;225;;15;;;;AM1089
+I;Dometic Recon Hardside 41L: Silt;325;;15;;;;AM1091
+I;Dometic Recon Hardside 69L: Silt;425;;15;;;;AM1090
+I;Kurgo Collapse-A-Bowl;14;;15;;;;AM1095
+I;Kurgo Dog First Aid Kit;33;;15;;;;AM1097
+I;Kurgo Gourd Water Bottle & Bowl;19;;15;;;;AM1100
+I;Kurgo Heather Dog Booster Seat;70;;15;;;;AM1102
+I;Kurgo Rover Bench Seat Cover: Charcoal (55 in. wide);59;;15;;;;AM1101
+I;Kurgo Rover Extended Bench Seat Cover: Charcoal (63 in. wide);65;;15;;;;AM1099
+I;Kurgo Rover Hammock: Charcoal (55 in. wide);64;;15;;;;AM1098
+P;GR Aero Kit;2700;;12;;;;AK
+P;Performance Package;1500;;12;;;;PP
+P;GR Wheel Package;2330;;12;;;;12
+E;Quad Tip Exhaust;2420;;12;;;;41
+R;

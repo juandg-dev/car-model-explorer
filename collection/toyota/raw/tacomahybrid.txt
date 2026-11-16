@@ -1,0 +1,218 @@
+#tacomahybrid|Tacoma i-FORCE MAX|2026|tacomahybrid|1745|suv
+T;TRD Sport i-FORCE MAX;47335;7530;Fabric/SofTex
+T;TRD Off-Road i-FORCE MAX;47635;7532;SofTex/Fabric
+T;Limited i-FORCE MAX;56895;7534;SofTex
+T;Trailhunter 7536;63750;7536;SofTex
+T;Trailhunter;64250;7538;SofTex
+T;TRD Pro;64750;7598;SofTex
+C;Bronze Oxide;06X1;0;Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,0
+C;Ice Cap;0040;0;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,0,Mineral SofTex,Mineral SofTex,0
+C;Celestial Silver Metallic;01J9;0;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,0
+C;Underground;01L7;0;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,0
+C;Black;0202;0;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,Mineral SofTex,Mineral SofTex,Black SofTex/Cockpit Red SofTex
+C;Mudbath;04Z2;0;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,0,0,0,0
+C;Supersonic Red;03U5;475;Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder SofTex trim,0,0,0
+C;Heritage Blue;08X0;0;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,Black SofTex trim/Boulder-Black Fabric w-Smoke Silver/Boulder-Black Fabric w-Anodized Blue,Black SofTex trim/Boulder SofTex trim,0,0,0
+C;Wind Chill Pearl;0089;475;Boulder-Black Fabric w-Anodized Blue/Black SofTex trim/Boulder-Black Fabric w-Smoke Silver,0,Black SofTex trim/Boulder SofTex trim,0,0,0
+C;Wave Maker with Black roof;0M73;695;0,0,0,0,0,Black SofTex
+C;Ice Cap with Black roof;02MQ;0;0,0,0,0,0,Black SofTex/Cockpit Red SofTex
+C;Underground with Black roof;02ZW;0;0,0,0,0,0,Black SofTex/Cockpit Red SofTex
+F;Heated Front Seats;585;;3;2,3,5,177,179;;;CY
+F;14-In. Toyota Audio Multimedia Display;845;;3;2,177;;;EE
+F;14-In. Toyota Audio Multimedia Display (With TRD Sport Upgrade Package);720;;1;0,1;5;;EF
+F;Moonroof;850;;3;0;5,179;;MR
+P;TRD Sport Premium Package;8290;;1;;;;PQ
+P;TRD Sport Upgrade Package;4330;;1;0;;;PU
+F;Towing Technology Package;850;;63;;4,178;;TD
+E;3 Molle Panel Set (2 Bed Side Panels w/ Front Panel);650;;63;;;;1B
+I;30qt Cooler: Gray;385;;63;;;;6D
+I;30qt Cooler: Tan;385;;63;;;;8C
+I;30qt Cooler: White;385;;63;;;;2C
+P;All-Pro Tailgate Package:;5342;;63;;;;DE1652
+E;All-Weather Floor Liners;199;;7;;;;2T
+W;Alloy Wheel Locks;105;;7;;;;WL
+E;ARB Rear Steel Bumper;1650;;63;;;;5P
+E;ARB Rear Tow Hooks;425;;7;;;;8I
+E;Ball Mount;70;;63;;;;D8
+E;Bed Cargo Divider: Molle Style;420;;63;;;;D2
+E;Bed Extender;485;;63;;;;7T
+E;Bed Mat;200;;47;;;;CJ
+E;Bed Mount Tire Carrier;499;;63;;;;DE1635
+E;Bed Rack Heavy Duty Kit with Molle Panels (Short Bed) By ARB;2865;;39;;;;2R
+E;Bed Rack with Molle Panels (Short Bed) By ARB;2710;;39;;;;1R
+L;Bed Scene Lighting;599;;39;;;;9K
+E;Bed Sport Bar By ARB;1715;;39;;;;B7
+E;Bed Storage Box: Swing Out;905;;61;;;;T1
+E;BedStep;455;;7;;;;8Q
+E;Black Badge Overlay;160;;27;;;;T4
+E;Body Side Molding;260;;63;;;;BM
+I;Cargo Net: Exterior;65;;63;;;;GN
+I;Cargo Tote;60;;63;;;;9G
+E;Cast Aluminum Running Boards (D-Cab Only);1199;;3;;;;RB
+I;Coin Holder/Ashtray Cup;29;;63;;;;A7
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;63;;;;1Y
+L;Connected Services Trial Offering: 3 addt'l of Drive Connect & 2 addt'l yrs of Remote Connect;485;;3;;;;1X
+I;Console Safe;395;;63;;;;VA
+E;Deck Rail Camera Mount;59;;63;;;;M1
+E;Door Edge Film;100;;63;;;;DF
+E;Door Edge Guards;165;;63;;;;D5
+E;Door Panel Scuff Protectors;135;;63;;;;2B
+E;Emergency Assistance Kit;75;;63;;;;7R
+P;Exhaust Tip, Predator Drop Step Package;850;;3;;;;J6
+E;Exhaust Tip: Black Chrome;130;;3;;;;E6
+E;Exhaust Tip: Chrome;120;;3;;;;E5
+P;Front and Rear Recovery Tow Package;605;;7;;;;8G
+E;Front Tow Hooks;180;;7;;;;8F
+E;Gunmetal Gray Badge Overlay;160;;7;;;;T5
+L;Illuminated Front Emblem: Chrome;285;;7;;;;6L
+L;Illuminated Front Emblem: Dark Chrome;285;;63;;;;2L
+L;Integrated Dashcam;375;;63;;;;V1
+E;Mini Tie-Downs with Hooks (Set of 2);45;;63;;;;RT
+E;Off-Road Trail Pipe;75;;7;;;;5I
+P;Outpost Package;12114;;63;;;;DE1708
+E;Paint Protection Film: Front Bumper and Grille;525;;63;;;;DE1028
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;63;;;;3P
+E;Predator Drop Step;720;;3;;;;R6
+L;Quick Charging Cable Package;70;;63;;;;59
+E;Rear Differential Skid Plate;355;;39;;;;5Q
+L;Rigid Fog Lights: White;680;;7;;;;Q4
+E;Rock Rails;950;;3;;;;98
+E;Rocker Protector;540;;3;;;;5G
+E;Roof Rack;1724;;63;;;;DR
+E;Side Storage Boot Brush + Ice Scraper;20;;63;;;;9Z
+I;Side Storage Case;55;;63;;;;9T
+L;Side Storage LED Lantern;160;;63;;;;9V
+E;Side Storage Multi Tool;50;;63;;;;9S
+L;SiriusXM Trial Offering: 33 Months;350;;63;;;;1S
+E;Spare Tire Lock;75;;61;;;;WI
+E;Spray-On Bedliner;575;;63;;;;L5
+E;Tailgate Insert: Black;89;;59;;;;T6
+E;Tailgate Insert: Bronze;89;;27;;;;5D
+E;Tailgate Insert: Chrome;89;;3;;;;T8
+E;Tailgate Insert: Gunmetal;89;;27;;;;T9
+E;Tonneau Cover: Hard Tri-Fold;1350;;63;;;;5A
+E;Tonneau Cover: Soft;799;;63;;;;3S
+E;Topo-Graphics: Black on Black;320;;15;;;;G2
+E;Topo-Graphics: Black on Clear;420;;59;;;;G3
+E;Toyota Multimedia Screen Protector;105;;63;;;;87
+E;Toyota Wireless Trailer Camera System;1550;;63;;;;W1
+E;Transmission Skid Plate;365;;7;;;;8Z
+W;TRD 18-in Wheel: Black;1325;;5;;;;W0
+E;TRD Air Intake;750;;7;;;;9E
+E;TRD Oil Cap;85;;63;;;;DE1669
+E;TRD Performance Exhaust: Black;1095;;7;;;;45
+E;TRD Performance Exhaust: Silver;995;;7;;;;46
+E;TRD Suspension Lift Kit;2950;;3;;;;6K
+E;TRD Upper Control Arm Kit: Bronze;1100;;63;;;;DE1741
+E;TRD Upper Control Arm Kit: Red;1100;;63;;;;DE1742
+E;TRD Upper Control Arm Kit: Silver;1100;;63;;;;DE1740
+E;Tube Steps: Black;600;;3;;;;R2
+L;Universal Tablet Holder;99;;63;;;;U7
+E;ARB 47 QT Zero Fridge Slider;568;;63;;;;DE1613
+I;ARB 47 Qt Zero Fridge/Freezer;1181;;63;;;;DE1607
+E;ARB E-Z Deflator Kit PSI Gauge;75;;63;;;;DE1388
+E;ARB E-Z Digital Deflator;94;;63;;;;DE1353
+E;ARB Hydraulic Recovery Jack;1001;;63;;;;DE1608
+E;ARB Pinnacle Camp Chair;143;;63;;;;DE1606
+E;ARB Pinncacle Table;181;;63;;;;DE1614
+E;ARB Premium Recovery Kit;540;;63;;;;DE1381
+E;ARB Pump Up Kit;120;;63;;;;DE1379
+E;ARB Single Motor Portable 12v Compressor;520;;63;;;;DE1560
+E;ARB TRED Pro Grey;370;;63;;;;DE1383
+E;ARB TRED Pro Mounting Kit;110;;63;;;;DE1374
+E;ARB TRED Pro Red;380;;63;;;;DE1390
+E;ARB Twin Portable Compressor;1082;;63;;;;DE1363
+E;ARB Weekender Recovery Kit;175;;63;;;;DE1361
+I;ARB Zero Fridge/Freezer Tie-Down System;49;;63;;;;DE1604
+L;Car Mate DC4000RA Dash Cam 360;570;;63;;;;DE1323
+L;Car Mate DC4000RA Dash Cam 360 Parking Assist;85;;63;;;;DE1324
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Rugged Black;2957;;63;;;;DE1758
+E;DiamondBack HD Tonneau Cover with Yakima Base Track Kit: Smooth Black;2957;;63;;;;DE1760
+E;DiamondBack HD Tonneau Cover: Rugged Black;2499;;63;;;;DE1721
+E;DiamondBack HD Tonneau Cover: Smooth;2499;;63;;;;DE1629
+I;Dometic CFX5 55IM Protective Cover;170;;63;;;;DE1726
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;63;;;;DE1728
+E;Dometic GO Camp Table Storage Bag;40;;63;;;;DE1538
+E;Dometic GO Compact Bench: Silt;100;;63;;;;DE1540
+E;Dometic GO Compact Camp Table: Bamboo;200;;63;;;;DE1533
+E;Dometic GO Compact Chair;150;;63;;;;DE1539
+E;Dometic GO Hydration Water Faucet;100;;63;;;;DE1536
+E;Dometic GO Hydration Water Jug 11L;70;;63;;;;DE1534
+E;Dometic HUB 2.0 Inflatable Shelter;750;;63;;;;DE1542
+E;Dometic HUB 2.0 Mesh Panel;100;;63;;;;DE1535
+L;Dometic OBSIDIAN Series 45W Portable Solar Kit;350;;63;;;;DE1294
+I;Dometic Recon Hardside 16L: Glow;225;;63;;;;DE1729
+I;Dometic Recon Hardside 41L: Silt;325;;63;;;;DE1731
+I;Dometic Recon Hardside 69L: Silt;425;;63;;;;DE1730
+I;Dometic Strap Kit;20;;63;;;;DE1302
+I;Dometic Tie Down Kit;50;;63;;;;DE1285
+E;Fab Fours Step Sliders: Matte Black;1480;;63;;;;DE1696
+E;Factor 55 Baja Vehicle Recovery Kit;650;;63;;;;DE1681
+E;Factor 55 Off Road Hitchlink 2.0: Black;104;;63;;;;DE1684
+E;Factor 55 Off Road Hitchlink 2.0: Gray;104;;63;;;;DE1683
+E;Factor 55 Off Road Hitchlink 2.0: Red;104;;63;;;;DE1680
+E;Factor 55 Recovery Soft Shackle;69;;63;;;;DE1682
+E;Kammok Crosswing Basket Mount Kit;110;;63;;;;DE1578
+E;Kammok Crosswing Pole Pack;115;;63;;;;DE1573
+E;Kammok Crosswing Shade Single Panel 7';125;;63;;;;DE1576
+E;Kammok Crosswing Single Panel 5';115;;63;;;;DE1579
+E;Kammok Crosswing Tie Down Kit;70;;63;;;;DE1584
+E;Kammok Crosswing Vertical Bracket Kit;60;;63;;;;DE1577
+E;Kammok Crosswing: 5';1150;;63;;;;DE1580
+E;Kammok Crosswing: 7';1300;;63;;;;DE1575
+E;Kammok Mantis;290;;63;;;;DE1574
+E;Kammok Outpost Hammock Stand;530;;63;;;;DE1572
+E;Kammok Roo Double;95;;63;;;;DE1583
+E;Kammok Roo Single;70;;63;;;;DE1581
+E;Kammok Swiftlet;340;;63;;;;DE1582
+I;Kurgo Quantum Dog Leash: Blue;33;;63;;;;DE1744
+E;Napier Sportz Air Mattress: Compact Size;106;;63;;;;DE1644
+E;Napier Sportz Link: Ground Tent Attachment;230;;63;;;;DE1643
+E;Napier Sportz Truck Tent for Compact Size Bed;310;;63;;;;DE1642
+E;Napier Strap Protectors;25;;63;;;;DE1645
+I;Pelican 20QT Elite Cooler;207;;63;;;;DE1339
+L;Pelican 3410M Right Angle Light;64;;63;;;;DE1663
+I;Pelican 45QT Elite Wheeled Cooler;466;;63;;;;DE1326
+I;Pelican Dayventure Backpack Cooler;301;;63;;;;DE1335
+I;Pelican Dayventure Sling Cooler;187;;63;;;;DE1337
+I;Pelican SDDLMT2B Saddle Case Bed Mount Kit;311;;63;;;;DE1328
+E;Prinsu Pro Cab Rack w/ Standard Wind Deflector;1045;;63;;;;DE1633
+E;Prinsu Universal Truck Bed Bars;600;;63;;;;DE1634
+L;RAM X-Grip Cup Holder Mount;79;;63;;;;DE1329
+L;RAM X-Grip Seat Wedge Mount;112;;63;;;;DE1338
+E;Thule ProRide XT Bike Carrier;350;;63;;;;DE1689
+E;Thule SnowPack L Ski Rack;400;;63;;;;DE1690
+E;WARN Epic D-Ring Shackle;68;;63;;;;DE1685
+E;WARN Epic Recovery Kit;624;;63;;;;DE1679
+L;WeBoost Drive Reach;500;;63;;;;DE1630
+L;WeBoost Drive Reach Overland;550;;63;;;;DE1632
+L;WeBoost Overland Antenna & Mounting bracket combo;230;;63;;;;DE1631
+E;Yakima OverHaul 60" HD Bar Medium Tonneau Kit 1;1659;;63;;;;DE1589
+E;Yakima OverHaul HD Adjustable-Height Heavy-Duty Truck Bed Rack: Medium;1659;;63;;;;DE1350
+E;Yakima OverNOut 270 LG (LH);649;;63;;;;DE1588
+E;Yakima OverNOut 270 LG (RH);649;;63;;;;DE1590
+E;Yakima RoadShower Portable Pressurized Water Storage;599;;63;;;;DE1348
+E;Yakima SkyRise HD;2899;;63;;;;DE1695
+I;Yakima Stretch Net SkinnyWarrior;65;;63;;;;DE1720
+F;14-In. Toyota Audio Multimedia Display (With TRD Off-Road Upgrade Package);720;;2;0,1;179;;EF
+P;TRD Off-Road Premium Package;8540;;2;;;;OF
+P;TRD Off-Road Upgrade Package;4330;;2;0;;;OU
+F;Stabilizer Disconnect Mechanism (SDM);1230;;2;;;;SF
+E;Bed Storage Box: Swing Out;1420;;2;;;;T1
+E;Body Side Molding: Black;250;;26;;;;B2
+P;Steel Skid Plates Package;415;;2;;;;J9
+E;TRD Front Skid Plate;560;;2;;;;S0
+E;Black Badge Overlay;89;;4;;;;T4
+E;Topo-Graphics: Black on Clear;430;;4;;;;G3
+E;Bed Rack Heavy Duty Kit with Molle Panels (Short Bed) By ARB;1965;;8;;;;2R
+E;Bed Rack with Molle Panels (Short Bed) By ARB;1811;;8;;;;1R
+E;Bronze Heritage Grill Letter Overlay;285;;24;;;;F8
+E;Matte Black Heritage Grill Letter Overlay;285;;56;;;;M5
+E;White Heritage Grill Letter Overlay;285;;56;;;;J5
+E;Bed Mat;220;;16;;;;CJ
+E;Bed Rack Heavy Duty Kit with Molle Panels (Long Bed) By ARB;2099;;16;;;;2R
+E;Bed Rack with Molle Panels (Long Bed) By ARB;1945;;16;;;;1R
+E;Red Heritage Grill Letter Overlay;285;;32;;;;F6
+L;Rigid Fog Lights: Yellow;200;;32;;;;Q8
+E;Wave Maker Heritage Grill Letter Overlay;285;;32;;;;F7
+R;Clashes not checked (needs a color change first): TRD Off-Road Premium Package (TRD Off-Road i-FORCE MAX) // Clashes not checked (needs a color change first): TRD Sport Premium Package (TRD Sport i-FORCE MAX) // Clashes not checked (needs a color change first): Towing Technology Package (TRD Sport i-FORCE MAX, TRD Off-Road i-FORCE MAX) // Rule not stored: TRD Off-Road Premium Package needs update interior Black SofTex trim (TRD Off-Road i-FORCE MAX) // Rule not stored: TRD Sport Premium Package needs update interior Black SofTex trim (TRD Sport i-FORCE MAX) // Rule not stored: Towing Technology Package needs update interior Black SofTex trim (TRD Sport i-FORCE MAX, TRD Off-Road i-FORCE MAX) // Rule not stored: interior Black SofTex trim needs TRD Off-Road Premium Package (TRD Off-Road i-FORCE MAX) // Rule not stored: interior Black SofTex trim needs TRD Sport Premium Package (TRD Sport i-FORCE MAX)

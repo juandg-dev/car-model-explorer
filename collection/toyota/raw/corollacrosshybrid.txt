@@ -1,0 +1,65 @@
+#corollacrosshybrid|Corolla Cross Hybrid|2027|corollacrosshybrid|1595|suv
+T;Hybrid SE;31415;6314;Fabric
+T;Hybrid XSE;34130;6316;SofTex
+C;Soul Red Crystal;0D25;475;Gray-Black fabric,Black SofTex-fabric mixed media trim
+C;Wind Chill Pearl;0089;475;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Sonic Silver;0D10;0;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Celestite;01K3;0;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Cavalry Blue;08W2;0;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Jet Black;0D11;0;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Wind Chill Pearl with Jet Black roof;0D23;975;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Sonic Silver with Jet Black roof;0D17;500;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Cavalry Blue with Jet Black roof;0D22;500;Black fabric with Smoke Silver/Gray-Black fabric,Black-Blue SofTex-fabric mixed media trim/Black SofTex-fabric mixed media trim
+C;Soul Red Crystal with Jet Black roof;0D28;975;Gray-Black fabric,Black SofTex-fabric mixed media trim
+P;Cold Weather Package;500;;1;;;;CY
+P;Moonroof Package;940;;1;;;;MR
+P;Multimedia Upgrade;615;;1;;;;UP
+E;Activity Mount;399;;3;;;;AM
+P;Activity Package;739;;3;;;;Q7
+P;All-Weather Floor Liner Package;309;;3;;;;2T
+E;All-Weather Floor Liners;189;;3;;;;63
+W;Alloy Wheel Locks;90;;3;;;;WL
+E;Body Side Moldings;267;;3;;;;BM
+E;Cargo Cover;130;;1;;;;5A
+I;Cargo Net: Spider;70;;1;;;;GN
+I;Cargo Organizer;93;;3;;;;5C
+E;Cargo Tray;130;;3;;;;R5
+E;Carpet Cargo Mat;120;;3;;;;C1
+E;Carpet Floor Mats;189;;3;;;;C4
+P;Carpet Mat Package;309;;3;;;;CF
+E;Cross Bars;340;;3;;;;3T
+E;Door Edge Guards;168;;3;;;;D5
+E;Door Sill Protectors;179;;3;;;;G0
+E;Emergency Assistance Kit;78;;3;;;;7R
+E;First Aid Kit;35;;3;;;;3Z
+L;Frameless HomeLink Mirror;175;;1;;;;GD
+E;Key Gloves;23;;3;;;;KG
+E;Mudguards;175;;3;;;;MF
+E;Multimedia Screen Protector;105;;3;;;;87
+E;Paint Protection Film: Front Bumper;525;;3;;;;AI1016
+E;Paint Protection Film: Hood, Fenders, Mirror Backs & Door Cups;439;;3;;;;3P
+L;Quick Charging Cable Package;75;;3;;;;59
+E;Rear Bumper Protector;89;;3;;;;3Y
+L;SiriusXM Trial Offering: 33 Months;350;;3;;;;1S
+E;Toyota Sunshade;130;;3;;;;8U
+L;Universal Tablet Holder;109;;3;;;;U7
+I;Dometic Recon Hardside 16L: Glow;225;;3;;;;AI1175
+I;Dometic Recon Hardside 41L: Glow;325;;3;;;;AI1185
+E;Kammok Crosswing: 5';1150;;3;;;;AI1138
+E;Kammok Crosswing: 7';1300;;3;;;;AI1133
+E;Kammok Roo Single;70;;3;;;;AI1139
+E;Kammok Swiftlet;340;;3;;;;AI1140
+I;Kurgo Dog First Aid Kit;33;;3;;;;AI1088
+I;Kurgo Gourd Water Bottle & Bowl;19;;3;;;;AI1090
+I;Kurgo Heather Dog Booster Seat;70;;3;;;;AI1091
+I;Kurgo Rover Bench Seat Cover: Charcoal (55 in. wide);59;;3;;;;AI1189
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;3;;;;AI1081
+I;Pelican Dayventure Backpack Cooler;301;;3;;;;AI1077
+I;Pelican Dayventure Sling Cooler;187;;3;;;;AI1078
+I;PetSafe Happy Ride Folding Dog Ramp;90;;3;;;;AI1115
+L;RAM X-Grip Cup Holder Mount;79;;3;;;;AI1102
+L;RAM X-Grip Seat Wedge Mount;112;;3;;;;AI1103
+E;Yakima HighRoad Premium Rooftop Upright Bike Mount;299;;3;;;;AI1190
+P;Convenience Package;1250;;2;;;;CP
+F;JBL Premium Audio;800;;2;;49;;EJ
+R;

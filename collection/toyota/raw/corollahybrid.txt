@@ -1,0 +1,62 @@
+#corollahybrid|Corolla Hybrid|2027|corollahybrid|1295|sedan
+T;Hybrid LE FWD;25175;1882;Fabric
+T;Hybrid LE AWD;26575;1883;Fabric
+T;Hybrid SE FWD;27615;1886;Fabric
+T;Hybrid SE AWD;29015;1887;Fabric
+T;Hybrid XLE;29540;1892;SofTex
+C;Celestite;01K3;0;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Blueprint;08X8;0;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Wind Chill Pearl;0089;475;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Ice Cap;0040;0;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Ruby Flare Pearl;03T3;475;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Classic Silver Metallic;01F7;0;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Inked;0229;0;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+C;Underground;01L7;0;Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Macadamia-Mocha fabric/Light Gray fabric/Black fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black-Red Premium Fabric/Moonstone Premium fabric,Black SofTex trim/Macadamia-Mocha SofTex trim
+P;LE Premium Package;1135;;3;;;;LQ
+P;All-Weather Floor Liner Package;309;;31;;;;2T
+E;All-Weather Floor Liners;189;;31;;;;AH1157
+W;Alloy Wheel Locks: Chrome;90;;31;;;;WL
+P;Body Protection Package;535;;31;;;;Q2
+E;Body Side Moldings;267;;31;;;;BM
+I;Cargo Net: Envelope;70;;31;;;;GN
+I;Cargo Tote;65;;31;;;;9G
+E;Cargo Tray;120;;31;;;;AH1025
+E;Carpet Floor Mats;189;;31;;;;AH1009
+P;Carpet Mat Package;309;;31;;;;CF
+E;Carpet Trunk Mat;120;;31;;;;AH1012
+I;Coin Holder/Ashtray Cup;36;;31;;;;A6
+E;Door Edge Guards;168;;31;;;;D5
+E;Door Sill Protectors;179;;31;;;;G0
+E;Emergency Assistance Kit;78;;31;;;;7R
+E;First Aid Kit;35;;31;;;;3Z
+L;Frameless Homelink Mirror;175;;31;;;;GD
+E;Mudguards;160;;31;;;;MF
+E;Multimedia Screen Protector;105;;31;;;;87
+E;Paint Protection Film: Front Bumper;525;;31;;;;AH1024
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;31;;;;3P
+P;Preferred Accessory Package w/ All-Weather Liners;682;;31;;;;Z6
+P;Preferred Accessory Package w/ Carpet Mats;682;;31;;;;Z5
+L;Quick Charging Cable Package;75;;31;;;;59
+E;Rear Bumper Protector;89;;31;;;;EF
+L;SiriusXM Trial Offering: 33 Months;350;;31;;;;1S
+E;Toyota Sunshade;110;;31;;;;8U
+E;TRD Air Filter;69;;31;;;;AH1168
+E;Trunk LED Bulb;25;;31;;;;1T
+L;Car Mate DC4000RA Dash Cam 360;570;;31;;;;AH1127
+I;Dometic Recon Hardside 16L: Glow;225;;31;;;;AH1165
+I;Kurgo Collapse-A-Bowl;14;;31;;;;AH1176
+I;Kurgo Dog First Aid Kit;33;;31;;;;AH1117
+I;Kurgo Gourd Water Bottle & Bowl;19;;31;;;;AH1119
+I;Kurgo Heather Dog Booster Seat;70;;31;;;;AH1120
+I;Kurgo Quantum Dog Leash: Blue;33;;31;;;;AH1169
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;31;;;;AH1110
+I;Pelican 20QT Elite Cooler;207;;31;;;;AH1079
+I;Pelican Dayventure Backpack Cooler;301;;31;;;;AH1180
+I;Pelican Dayventure Sling Cooler;187;;31;;;;AH1078
+L;RAM X-Grip Cup Holder Mount;79;;31;;;;AH1125
+L;RAM X-Grip Seat Wedge Mount;112;;31;;;;AH1126
+E;Thule Canyon XT Roof Basket;542;;31;;;;AH1170
+I;Yakima SkyBox NX XL;799;;31;;;;AH1185
+P;SE Premium Package;965;;12;;;;SO
+P;JBL Premium Audio;600;;16;;;;EN
+R;Rule not stored: SE Premium Package not with interior Moonstone Premium fabric (Hybrid SE FWD) // Rule not stored: SE Premium Package not with paint Ice Cap (Hybrid SE FWD)

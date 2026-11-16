@@ -1,0 +1,111 @@
+#sequoia|Sequoia|2027|sequoia|2195|suv
+T;SR5;69900;7947;Leather/Fabric
+T;Limited;75500;7949;Leather
+T;Platinum;83400;7951;Leather
+T;1794 Edition;84400;7957;Leather
+T;TRD Pro;85925;7953;SofTex
+T;Capstone;87900;7955;Leather
+C;Lunar Rock;06X3;0;Boulder leather trim/Black Leather/Black Fabric,0,Black leather trim,0,0,0
+C;Wave Maker;0796;0;Yes,Yes,Yes,0,0,0
+C;Blueprint;08X8;0;Boulder leather trim/Black Leather/Black Fabric,0,Black leather trim,0,0,0
+C;Celestial Silver Metallic;01J9;0;Boulder leather trim/Black Leather/Black Fabric,Boulder Leather-trimmed/Black leather trim,Black leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Magnetic Gray Metallic;01G3;0;Boulder leather trim/Black Leather/Black Fabric,Boulder Leather-trimmed/Black leather trim,Black leather trim,Saddle Tan leather trim,Cockpit Red SofTex trim/Black SofTex trim,Shale Premium Textured Leather-trimmed
+C;Midnight Black Metallic;0218;0;Boulder leather trim/Black Leather/Black Fabric,Boulder Leather-trimmed/Black leather trim,Black leather trim,Saddle Tan leather trim,Cockpit Red SofTex trim/Black SofTex trim,Shale Premium Textured Leather-trimmed
+C;Supersonic Red;03U5;475;Boulder leather trim/Black Leather/Black Fabric,Boulder Leather-trimmed/Black leather trim,Black leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Ice Cap;0040;0;Boulder leather trim/Black Leather/Black Fabric,0,0,0,Cockpit Red SofTex trim/Black SofTex trim,0
+C;Wind Chill Pearl;0089;475;0,Boulder Leather-trimmed/Black leather trim,Black leather trim,Saddle Tan leather trim,0,Shale Premium Textured Leather-trimmed
+C;Honeycomb;05C9;695;0,0,0,0,Cockpit Red SofTex trim/Black SofTex trim,0
+F;Power Tow Mirrors;290;;23;;;;MQ
+P;TRD Off-Road Package (4x4 only);2320;;1;2,3;;;OF
+F;Off-Road Front Skid Plate;0;;15;1,3,78,80,81,84,85;;;SO
+F;TRD Front Skid Plate;385;;15;1,2,78,80,81,84,85;;;ST
+P;SR5 Premium Package;1050;;1;;;;SV
+P;Tow Tech Pkg w/Wireless Trailer Camera System;820;;3;79;;;TD
+P;Trailhunter Package;3500;;1;;;;TH
+E;All-Weather Cargo Mat;140;;63;;;;65
+P;All-Weather Floor Liner Package;388;;39;;;;2T
+E;All-Weather Floor Liners;248;;63;;;;BC1044
+E;Alloy Wheel Locks;105;;63;;;;WL
+P;Basecamp Package;5463;;63;;;;BC1298
+I;Cargo Net;70;;1;;;;GN
+E;Carpet Cargo Mat;140;;63;;;;BC1020
+E;Carpet Floor Mats;248;;63;;;;BC1014
+P;Carpet Mat Package;388;;7;;;;CF
+I;Coin Holder/Ashtray Cup;36;;63;;;;A7
+E;Console Safe;405;;63;;;;VA
+E;Cross Bars;375;;47;;;;3T
+E;Door Edge Film;100;;63;;;;DF
+E;Door Edge Guards;155;;63;;;;D5
+E;Emergency Assistance Kit;78;;63;;;;7R
+L;Integrated Dashcam;375;;63;;;;V1
+E;Multimedia Screen Protector;105;;63;;;;87
+E;Paint Protection Film: Front Bumper;525;;63;;;;BC1018
+E;Paint Protection Film: Hood, Fenders, Door Cups & Mirror Backs;439;;63;;;;3P
+L;Quick Charging Cable Package;75;;63;;;;59
+L;SiriusXM Trial Offering: 33 Months;350;;63;;;;1S
+E;Toyota Sunshade;130;;63;;;;8U
+L;Toyota Wireless Trailer Camera System;920;;63;;;;W1
+E;Trailer Ball;43;;63;;;;BC1047
+E;Trailer Ball Mount;87;;63;;;;D8
+E;TRD Air Filter;135;;63;;;;3F
+E;TRD Cast Aluminum Running Boards;1215;;15;;;;R4
+E;TRD Front Skid Plate;570;;47;;;;S0
+E;TRD Performance Package;2299;;63;;;;PH
+E;TRD Roof Rack;1395;;47;;;;3R
+L;Universal Tablet Holder;109;;63;;;;U7
+I;Dometic CFX5 45 Electric Cooler;1050;;63;;;;BC1311
+I;Dometic CFX5 45 Protective Cover;155;;63;;;;BC1314
+I;Dometic CFX5 55IM Electric Cooler;1200;;63;;;;BC1313
+I;Dometic CFX5 55IM Protective Cover;170;;63;;;;BC1315
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;63;;;;BC1317
+I;Dometic CFX5 95DZ Protective Cover;200;;63;;;;BC1316
+I;Dometic Recon Hardside 16L: Glow;225;;63;;;;BC1318
+I;Dometic Recon Hardside 16L: Silt;225;;63;;;;BC1325
+I;Dometic Recon Hardside 41L: Glow;325;;63;;;;BC1324
+I;Dometic Recon Hardside 41L: Silt;325;;63;;;;BC1320
+I;Dometic Recon Hardside 69L: Glow;425;;63;;;;BC1323
+I;Dometic Recon Hardside 69L: Silt;425;;63;;;;BC1319
+E;Kammok Crosswing Shade Single Panel 7';125;;63;;;;BC1229
+E;Kammok Crosswing Single Panel 5';115;;63;;;;BC1232
+E;Kammok Crosswing Tie Down Kit;70;;63;;;;BC1237
+E;Kammok Crosswing Vertical Bracket Kit;60;;63;;;;BC1230
+E;Kammok Crosswing: 5';1150;;63;;;;BC1233
+E;Kammok Crosswing: 7';1300;;63;;;;BC1228
+E;Kammok Outpost Hammock Stand;530;;63;;;;BC1225
+E;Kammok Roo Double;95;;63;;;;BC1236
+E;Kammok Roo Single;70;;63;;;;BC1234
+E;Kammok Swiftlet;340;;63;;;;BC1235
+I;Kurgo Quantum Dog Leash: Blue;33;;63;;;;BC1321
+I;Pelican 20QT Elite Cooler;207;;63;;;;BC1121
+L;Pelican 3410M Right Angle Light;64;;63;;;;BC1276
+I;Pelican 45QT Elite Wheeled Cooler;466;;63;;;;BC1115
+E;Thule Canyon XT Roof Basket;542;;63;;;;BC1290
+E;Thule Force 3 L Cargo Box;1015;;63;;;;BC1293
+E;Thule ProRide XT Bike Carrier;350;;63;;;;BC1291
+E;Thule SnowPack L Ski Rack;400;;63;;;;BC1292
+I;Yakima CBX LG;999;;63;;;;BC1306
+I;Yakima CBX XXL;1149;;63;;;;BC1307
+I;Yakima SkinnyWarrior;529;;63;;;;BC1308
+E;Yakima SkyRise HD;2899;;63;;;;BC1326
+I;Yakima Stretch Net Large;75;;63;;;;BC1309
+I;Yakima Stretch Net Medium;65;;63;;;;BC1305
+I;Yakima Stretch Net SkinnyWarrior;65;;63;;;;BC1310
+F;Auto-Leveling Headlamps;425;;2;;;;AH
+P;Nightshade Package;365;;2;78;;;BK
+F;Captain's Chairs;1080;;2;;;;BU
+P;TRD Off-Road Package (4x4 only);2690;;2;2,3,76;;;OF
+F;Panoramic Roof;500;;2;5;;;SR
+P;TRD Off-Road Package (4x4 only);2225;;4;2,3,81,82;;;OF
+P;TRD Off-Road Package w/ Power Running Boards (4x4 only);2590;;4;2,3,80,82;;;OR
+F;Power Running Boards;1005;;12;80,81,84,85;;;RB
+F;1794 Grade Package with Power Tow Mirrors;290;;8;84,85;;;LM
+P;TRD Off-Road Package;2185;;8;2,3,82,83,85;;;OF
+P;TRD Off-Road Package w/ Power Running Boards (4x4 only);2550;;8;2,3,82,83,84;;;OR
+E;Bronze Heritage Grill Letter Overlay;285;;16;;;;F8
+E;Honeycomb Heritage Grill Letter Overlay;285;;16;;;;F7
+E;Matte Black Heritage Grill Letter Overlay;285;;16;;;;M5
+E;Red Heritage Grill Letter Overlay;285;;16;;;;F6
+E;Reflect Black Heritage Grill Letter Overlay;285;;16;;;;T5
+E;White Heritage Grill Letter Overlay;285;;16;;;;J5
+P;Capstone Grade Package With Power Tow Mirrors;290;;32;;;;CT
+R;Clashes not checked (needs a color change first): Trailhunter Package (SR5) // Paint with no interior found: Wave Maker (3 trims, first: SR5) // Rule not stored: Nightshade Package not with interior Black leather trim (Limited) // Rule not stored: Off-Road Front Skid Plate not with interior Black leather trim (Limited) // Rule not stored: TRD Front Skid Plate not with interior Black leather trim (Limited) // Rule not stored: TRD Off-Road Package (4x4 only) not with interior Black leather trim (Limited) // Rule not stored: Tow Tech Pkg w/Wireless Trailer Camera System also needs one of 2 choices, for example: add SR5 Premium Package (SR5) // Rule not stored: Trailhunter Package also needs one of 5 choices, for example: update paint Ice Cap (SR5) // Rule not stored: interior Black Leather needs SR5 Premium Package (SR5) // Rule not stored: interior Boulder leather trim needs SR5 Premium Package (SR5)

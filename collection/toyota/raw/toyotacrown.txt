@@ -1,0 +1,51 @@
+#toyotacrown|Toyota Crown|2027|toyotacrown|1295|sedan
+T;XLE;41640;4015;Leather
+T;Nightshade;48965;4025;Leather
+T;Limited;49720;4020;Leather
+T;Platinum;55190;4030;Leather
+C;Finish Line Red;03U9;475;Black leather trim,0,Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Bronze Age;04Y6;475;Black leather trim,0,Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Heavy Metal;01L5;475;Black leather trim,0,Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Oxygen White;0090;475;Black leather trim,0,Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Inked;0229;0;Black leather trim,Black leather trim,Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Storm Cloud;01L6;0;Black leather trim,Black leather trim,Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Heavy Metal with Black bi-tone;02ZA;1025;0,0,0,Black leather trim/Saddle Tan leather trim
+C;Finish Line Red with Black bi-tone;02ZR;1025;0,0,0,Black leather trim/Saddle Tan leather trim
+C;Oxygen White with Black bi-tone;02XW;1025;0,0,0,Black leather trim/Saddle Tan leather trim
+C;Bronze Age with Black bi-tone;02XZ;1025;0,0,0,Black leather trim/Saddle Tan leather trim
+L;Side Puddle Lamp;165;;15;;;;UO
+E;All-Weather Cargo Tray;130;;15;;;;DC1014
+P;All-Weather Floor Liner Package;319;;15;;;;2T
+E;All-Weather Floor Liners;189;;15;;;;DC1011
+W;Alloy Wheel Locks;105;;15;;;;WL
+I;Cargo Net;80;;15;;;;GN
+I;Cargo Tote;65;;15;;;;9G
+E;Carpet Cargo Mat;130;;15;;;;DC1013
+E;Carpet Floor Mats;189;;15;;;;DC1012
+P;Carpet Mat Package;319;;15;;;;CF
+E;Door Edge Film;100;;15;;;;DF
+E;Emergency Assistance Kit;78;;15;;;;DC1123
+E;First Aid Kit;35;;15;;;;3Z
+L;Integrated Dashcam;375;;15;;;;V1
+E;Key Gloves;23;;15;;;;KG
+E;Mudguards;165;;15;;;;MF
+E;Multimedia Screen Protector;105;;15;;;;87
+E;Paint Protection Film: Front Bumper;525;;15;;;;DC1016
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door Cups;439;;15;;;;3P
+P;Preferred Accessory Package w/ All-Weather Floor Liners;497;;15;;;;Z2
+P;Preferred Accessory Package w/ Carpet Mats;497;;15;;;;Z1
+L;Quick Charging Cable Package;75;;15;;;;59
+E;Rear Bumper Applique;78;;15;;;;EF
+E;Toyota Sunshade;110;;15;;;;8U
+L;Universal Tablet Holder;109;;15;;;;U7
+I;Dometic Recon Hardside 16L: Glow;225;;15;;;;DC1167
+I;Kurgo Dog First Aid Kit;33;;15;;;;DC1152
+I;Kurgo Heather Dog Booster Seat;70;;15;;;;DC1155
+I;Kurgo Quantum Dog Leash: Blue;33;;15;;;;DC1170
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;15;;;;DC1148
+I;Pelican 14QT Personal Cooler;120;;15;;;;DC1140
+I;Pelican Dayventure Sling Cooler;187;;15;;;;DC1160
+L;Illuminated Door Sills;415;;8;;;;G4
+P;Illumination Package;580;;8;;;;K3
+L;SiriusXM Trial Offering: 33 Months;350;;8;;;;1S
+R;

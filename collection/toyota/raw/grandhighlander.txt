@@ -1,0 +1,25 @@
+#grandhighlander|Grand Highlander|2027|grandhighlander|1595|suv
+T;LE FWD;42560;6700;Fabric
+T;LE AWD;44160;6706;Fabric
+T;XLE FWD;45430;6702;SofTex
+T;XLE AWD;47030;6708;SofTex
+T;Hybrid LE;45910;6720;Fabric
+T;Hybrid XLE FWD;47180;6716;SofTex
+T;Hybrid XLE AWD;48780;6722;SofTex
+T;Limited FWD;50060;6704;Leather
+T;Limited AWD;51660;6710;Leather
+T;Hybrid Limited;53410;6724;Leather
+T;Platinum;55745;6712;Leather
+T;Hybrid MAX Platinum;60475;6732;Leather
+C;Storm Cloud;01L6;0;Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Portobello Leather/Light Gray leather trim/Black leather trim,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+C;Wind Chill Pearl;0089;475;Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Portobello Leather/Light Gray leather trim/Black leather trim,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+C;Ruby Flare Pearl;03T3;475;Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Portobello Leather/Light Gray leather trim/Black leather trim,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+C;Midnight Black Metallic;0218;0;Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Portobello Leather/Light Gray leather trim/Black leather trim,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+C;Blueprint;08X8;0;Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Portobello Leather/Light Gray leather trim/Black leather trim,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+C;Celestial Silver Metallic;01J9;0;Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,Light Gray-Moonstone fabric/Black fabric with Smoke Silver,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim,0,0,0,0,0
+C;Heavy Metal;01L5;475;0,0,0,0,0,0,0,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Black leather trim/Light Gray Leather,Portobello Leather/Light Gray leather trim/Black leather trim,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+C;Cement;01H5;0;0,0,0,0,0,0,0,0,0,0,0,Portobello leather and Ultrasuede trim/Black leather and Ultrasuede trim/Light Gray leather and Ultrasuede trim
+F;Bench Seat;0;;1004;;;;BS
+F;Panoramic Moonroof;1350;;1004;;;;SR
+F;Panoramic View Monitor;600;;896;;;;SB
+R;

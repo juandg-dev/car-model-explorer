@@ -1,0 +1,48 @@
+#toyotacrownsignia|Toyota Crown Signia|2027|toyotacrownsignia|1595|suv
+T;XLE;44890;4040;Leather
+T;Limited;51155;4041;Leather
+C;Inked;0229;0;Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Storm Cloud;01L6;0;Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Bronze Age;04Y6;475;Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Oxygen White;0090;475;Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Finish Line Red;03U9;475;Black leather trim/Saddle Tan leather trim,Black leather trim/Saddle Tan leather trim
+C;Storm Cloud with Black roof;02XY;500;0,Black leather trim/Saddle Tan leather trim
+C;Oxygen White with Black roof;02XW;975;0,Black leather trim/Saddle Tan leather trim
+C;Finish Line Red with Black roof;02ZR;975;0,Black leather trim/Saddle Tan leather trim
+C;Bronze Age with Black roof;02XZ;975;0,Black leather trim/Saddle Tan leather trim
+E;Activity Mount;490;;3;;;;AM
+E;All-Weather Cargo Tray;130;;3;;;;DV1026
+P;All-Weather Floor Liner Package;319;;3;;;;2T
+E;All-Weather Floor Liners;189;;3;;;;DV1027
+W;Alloy Wheel Locks: Chrome;105;;3;;;;WL
+E;Body Side Moldings: Black;267;;3;;;;BM
+I;Cargo Tote;65;;3;;;;9G
+E;Carpet Cargo Mats;130;;3;;;;DV1029
+E;Carpet Floor Mats;189;;3;;;;DV1028
+P;Carpet Mat Package;319;;3;;;;CF
+I;Coin Holder/Ashtray Cup;36;;3;;;;A7
+E;Cross Bars;570;;3;;;;3T
+E;Door Edge Film;100;;3;;;;DF
+E;Emergency Assistance Kit;78;;3;;;;7R
+E;First Aid Kit;35;;3;;;;3Z
+L;Illuminated Door Sills;415;;3;;;;G4
+L;Integrated Dashcam;375;;3;;;;V1
+E;Key Gloves;23;;3;;;;KG
+E;Mudguards;180;;3;;;;MF
+E;Multimedia Screen Protector;105;;3;;;;87
+E;Paint Protection Film: Front Bumper;525;;3;;;;DV1025
+E;Paint Protection Film: Hood, Door Cups, Mirrors;439;;3;;;;3P
+P;Preferred Accessory Package w/ All-Weather Floor Liners;419;;3;;;;Z2
+P;Preferred Accessory Package w/ Carpet Mats;419;;3;;;;Z1
+L;Quick Charging Cable Package;75;;3;;;;59
+E;Tow Hitch Receiver with Towing Wire Harness;880;;3;;;;DH
+E;Towing Ball Mount;130;;3;;;;D8
+E;Toyota Sunshade;110;;3;;;;8U
+E;Trailer Ball;24;;3;;;;9A
+I;Dometic Recon Hardside 16L: Glow;225;;3;;;;DV1079
+I;Kurgo Dog First Aid Kit;33;;3;;;;DV1044
+I;Kurgo Heather Dog Booster Seat;70;;3;;;;DV1049
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;3;;;;DV1036
+I;Pelican Dayventure Backpack Cooler;301;;3;;;;DV1083
+I;Pelican Dayventure Sling Cooler;187;;3;;;;DV1084
+R;

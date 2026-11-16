@@ -1,0 +1,94 @@
+#highlander|Highlander|2026|highlander|1595|suv
+T;XLE;46270;6953;SofTex
+T;Hybrid XLE;48020;6965;SofTex
+T;XSE;48340;6959;SofTex
+T;Limited;50725;6956;Leather
+T;Hybrid Limited;52475;6966;Leather
+T;Platinum;53925;6957;Leather
+T;Hybrid Platinum;55675;6967;Leather
+C;Ruby Flare Pearl;03T3;475;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim,Black leather trim/Graphite leather trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Blueprint;08X8;0;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim,Black leather trim/Graphite leather trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Heavy Metal;01L5;475;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim,Black leather trim/Graphite leather trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Wind Chill Pearl;0089;475;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim,Black leather trim/Graphite leather trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+C;Midnight Black Metallic;0218;0;Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim/Graphite SofTex trim,Black SofTex-fabric mixed media trim,Black leather trim/Graphite leather trim,Black leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim,Black leather & Dinamica trim/Glazed Caramel leather trim/Graphite leather trim
+F;Bench Seat;0;;11;;;;BS
+F;12.3-in. Toyota Audio Multimedia;735;;3;;;;EE
+P;All-Weather Floor Liner Package;388;;127;;;;2T
+E;All-Weather Floor Liners;248;;127;;;;AO1014
+W;Alloy Wheel Locks;90;;123;;;;WK
+E;Blackout Emblem Overlays;175;;45;;;;3L
+E;Body Side Moldings;260;;127;;;;BM
+I;Cargo Cover;185;;7;;;;5A
+E;Cargo Cross Bars;350;;127;;;;3T
+E;Cargo Liner;140;;127;;;;R5
+I;Cargo Net-Envelope;65;;45;;;;GN
+I;Cargo Tote;60;;127;;;;9G
+E;Carpet Cargo Mat;140;;127;;;;C1
+E;Carpet Floor Mats;248;;127;;;;AO1029
+P;Carpet Floor Mats & Cargo Liner Package;388;;127;;;;CT
+P;Carpet Mat Package;388;;127;;;;CF
+L;Connected Services Trial Offering: 2 addt'l yrs of Drive Connect & Remote Connect;325;;127;;;;1Y
+L;Connected Services Trial Offering: 3 addt'l of Drive Connect & 2 addt'l yrs of Remote Connect;485;;7;;;;1X
+E;Door Edge Guards;165;;127;;;;D5
+E;Emergency Assistance Kit;75;;127;;;;7R
+E;First Aid Kit;30;;127;;;;3Z
+L;Illuminated Door Sills;395;;63;;;;G4
+L;Integrated Dashcam;375;;127;;;;V1
+E;Paint Protection Film: Front Bumper;525;;127;;;;AO1017
+E;Paint Protection Film: Hood, Fenders, Mirror Backs and Door cups;439;;127;;;;3P
+P;Protection Package #3;650;;31;;;;Q3
+L;Quick Charging Cable Package;70;;127;;;;59
+E;Rear Bumper Applique: Clear;80;;31;;;;EF
+E;Rear Bumper Protector: Chrome;135;;31;;;;3Y
+E;Running Boards;599;;123;;;;RB
+L;SiriusXM Trial Offering: 33 Months;350;;127;;;;1S
+P;Tow Hitch Receiver package;759;;123;;;;DH
+E;Toyota Multimedia Screen Protector;105;;127;;;;87
+L;Universal Tablet Holder;99;;127;;;;U7
+I;ARB 38 Qt Zero Fridge/Freezer;1131;;127;;;;AO1253
+E;ARB Camp Chair;101;;127;;;;AO1227
+I;ARB Cargo Organizers;105;;127;;;;AO1249
+I;ARB Elements Fridge/Freezer;1709;;127;;;;AO1196
+E;ARB Premium Recovery Kit;540;;127;;;;AO1204
+E;ARB TRED Pro Red;380;;127;;;;AO1209
+E;ARB Weekender Recovery Kit;175;;127;;;;AO1197
+L;Car Mate DC4000RA Dash Cam 360;570;;127;;;;AO1127
+L;Car Mate DC4000RA Dash Cam 360 Parking Assist;85;;127;;;;AO1128
+I;Dometic CFX5 95DZ Electric Cooler: Dual Zone;1500;;127;;;;AO1295
+E;Dometic GO Compact Bench: Silt;100;;127;;;;AO1221
+E;Dometic GO Compact Camp Table: Bamboo;200;;127;;;;AO1214
+E;Dometic HUB 2.0 Inflatable Shelter;750;;127;;;;AO1223
+L;Dometic OBSIDIAN Series 100W Portable Solar Kit;450;;127;;;;AO1172
+E;Kammok Crosswing: 5';1150;;127;;;;AO1237
+E;Kammok Crosswing: 7';1300;;127;;;;AO1232
+E;Kammok Mantis;290;;127;;;;AO1231
+E;Kammok Outpost Hammock Stand;530;;127;;;;AO1229
+E;Kammok Roo Single;70;;127;;;;AO1238
+I;Kurgo Dog First Aid Kit;33;;127;;;;AO1137
+I;Kurgo Gourd Water Bottle & Bowl;19;;127;;;;AO1139
+I;Kurgo Heather Dog Booster Seat;70;;127;;;;AO1140
+I;Kurgo Shed Sweeper: Dog Hair Remover;19;;127;;;;AO1134
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;127;;;;AO1130
+I;Pelican 20QT Elite Cooler;207;;127;;;;AO1126
+I;Pelican 45QT Elite Wheeled Cooler;466;;127;;;;AO1122
+I;Pelican Dayventure Backpack Cooler;301;;127;;;;AO1124
+I;Pelican Dayventure Sling Cooler;187;;127;;;;AO1125
+I;PetSafe Happy Ride Folding Dog Ramp;90;;127;;;;AO1211
+L;RAM X-Grip Cup Holder Mount;79;;127;;;;AO1177
+L;RAM X-Grip Seat Wedge Mount;112;;127;;;;AO1178
+E;Thule Canyon XT Roof Basket;542;;127;;;;AO1270
+E;Thule CapRock Crossbar Kit;180;;127;;;;AO1276
+E;Thule CapRock Platform Medium;1000;;127;;;;AO1274
+E;Thule Force 3 L Cargo Box;1015;;127;;;;AO1275
+E;Thule Force 3 XL Cargo Box;1065;;127;;;;AO1273
+E;Yakima EXO OpenRange Kitchen Cabinet;749;;127;;;;AO1246
+E;Yakima EXO OpenRange Leg Kit;229;;127;;;;AO1243
+I;Yakima MegaWarrior;649;;127;;;;AO1187
+I;Yakima OffGrid Cargo Basket, Mounted;649;;127;;;;AO1189
+E;Yakima SkyRise HD;2899;;127;;;;AO1185
+I;Yakima Stretch Net SkinnyWarrior;65;;127;;;;AO1288
+E;Toyota Sunshade;110;;82;;;;8U
+F;12.3-in. Toyota Audio Multimedia with JBL;1375;;4;;;;EN
+E;Mudguards;160;;4;;;;MF
+F;Panoramic View Monitor (PVM);850;;24;;;;SB
+R;

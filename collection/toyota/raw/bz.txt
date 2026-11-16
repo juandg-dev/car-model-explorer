@@ -1,0 +1,69 @@
+#bz|bZ|2027|bz|1595|suv
+T;XLE Front-Wheel Drive Plus Single Electric Motor;37980;2870;SofTex
+T;XLE AWD Dual Electric Motors;39980;2872;SofTex
+T;XLE FWD Single Electric Motor;34980;2873;SofTex
+T;Limited FWD Single Electric Motor;43380;2880;SofTex
+T;Limited AWD Dual Electric Motors;45380;2882;SofTex
+C;Wind Chill Pearl;0089;475;Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Supersonic Red;03U5;475;Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Blueprint;08X8;0;Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Midnight Black Metallic;0218;0;Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Heavy Metal;01L5;475;Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Black SofTex-fabric mixed media trim,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Wind Chill Pearl with Midnight Black Metallic roof;02PS;975;0,0,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Heavy Metal with Midnight Black Metallic roof;02YJ;975;0,0,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+C;Supersonic Red with Midnight Black Metallic roof;02SC;975;0,0,0,Light Gray SofTex trim/Black SofTex trim,Light Gray SofTex trim/Black SofTex trim
+P;Panoramic Roof;1000;;7;;;;PR
+E;All-Weather Cargo Mat;140;;27;;;;PT1022
+P;All-Weather Floor Liner Package;339;;31;;;;2T
+E;All-Weather Floor Liners;199;;27;;;;PT1023
+W;Alloy Wheel Locks: Black;105;;31;;;;WL
+E;Blackout Emblem Overlays;95;;31;;;;3J
+E;Body Side Moldings;267;;31;;;;BM
+I;Cargo Net: Envelope;70;;31;;;;GN
+I;Cargo Tote;65;;31;;;;9G
+E;Carpet Cargo Mat;140;;31;;;;PT1021
+E;Carpet Floor Mats;199;;31;;;;PT1020
+P;Carpet Mat Package;339;;31;;;;CF
+E;EV Charge Port Cover;120;;31;;;;2U
+I;Coin Holder/Ashtray Cup;36;;31;;;;A7
+E;Cross Bars;395;;31;;;;3T
+E;Door Edge Film;100;;31;;;;DF
+E;Door Edge Guards;168;;31;;;;D5
+E;Door Sill Applique;45;;31;;;;D1
+E;Door Sill Protectors;199;;31;;;;D9
+E;Emergency Assistance Kit;78;;31;;;;7R
+E;First Aid Kit;35;;31;;;;3Z
+L;Illuminated Door Sills;415;;31;;;;G4
+L;Integrated Dashcam;499;;31;;;;V1
+E;Key Glove;25;;31;;;;K8
+E;Mudguards;165;;31;;;;MF
+E;Multimedia Screen Protector;105;;31;;;;87
+E;Paint Protection Film: Front Bumper;525;;31;;;;PT1026
+E;Paint Protection Film: Hood, Fenders, Mirror Backs & Door Cups;439;;31;;;;3P
+P;Preferred Accessory Pkge w All-Weather Floor Liners;444;;31;;;;Z2
+P;Preferred Accessory Pkge w Carpet Floor Mats;444;;31;;;;Z1
+L;Quick Charging Cable Package;75;;31;;;;59
+E;Rear Bumper Applique;69;;31;;;;EF
+E;Rear Bumper Protector;89;;31;;;;3Y
+L;SiriusXM Trial Offering: 33 Months;360;;31;;;;1S
+E;Toyota Sunshade;110;;31;;;;8U
+L;Universal Tablet Holder;109;;31;;;;U7
+L;Car Mate DC4000RA Dash Cam 360;570;;31;;;;PT1120
+L;ChargePoint Home Flex EV Charger;599;;31;;;;PT1019
+E;Kammok Roo Single;70;;31;;;;PT1175
+E;Kammok Swiftlet;340;;31;;;;PT1176
+I;Kurgo Collapse-A-Bowl;14;;31;;;;PT1178
+I;Kurgo Dog First Aid Kit;33;;31;;;;PT1099
+I;Kurgo Gourd Water Bottle & Bowl;19;;31;;;;PT1101
+I;Kurgo Heather Dog Booster Seat;70;;31;;;;PT1102
+I;Kurgo Quantum Dog Leash: Blue;33;;31;;;;PT1171
+I;Kurgo Tru-Fit Dog Car Harness: Multiple Sizes Available;43;;31;;;;PT1092
+I;Pelican 20QT Elite Cooler;207;;31;;;;PT1067
+I;Pelican BX135 Cargo Case;383;;31;;;;PT1179
+I;Pelican Dayventure Backpack Cooler;301;;31;;;;PT1065
+I;Pelican Dayventure Sling Cooler;187;;31;;;;PT1066
+I;PetSafe Happy Ride Folding Dog Ramp;90;;31;;;;PT1123
+P;9-Speaker JBL Premium Audio;580;;24;;;;EN
+W;20 in. Champagne Metallic Alloy Wheels;2285;;24;;;;2J
+W;20 in. Dark Grey Metallic Alloy Wheels;2285;;24;;;;1L
+R;
