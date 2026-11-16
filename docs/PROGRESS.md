@@ -18,6 +18,16 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 
 ---
 
+## November 15, 2026 (auto-logged)
+
+- Loaded Acura into Supabase: options data and top specs.
+- Brand queue: first look at Toyota's Build & Price (not collected yet).
+- Added the kickoff prompt for Claude Code (Toyota + Lexus with background agents), then updated it: five named background agents, running on Opus.
+- Collected options data for Toyota (31 models) and Lexus (19 models). This evening run is written up below under "November 16, 2026: Nightly run".
+- Planning documents were updated (To-Do sheet, a new "Data We Can't Collect" sheet, a direction note in the progress log).
+- No database schema changes.
+- Auto-logged from GitHub, Supabase and Drive activity. Decisions made in chat may be missing.
+
 ## November 14, 2026 (afternoon): Session 4 (Honda finished: specs in the database)
 
 - Juan finished his review of the Honda options and specs. No changes were needed, so the data went in as collected.
