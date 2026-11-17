@@ -18,6 +18,14 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 
 ---
 
+## November 16, 2026 (auto-logged)
+
+- Nightly options run: no data collected. Ford, Lincoln, Chevrolet and GMC are now "Blocked" in `collection/brands.md`.
+- Ford and Lincoln stop at a ZIP code form; Chevrolet and GMC need Juan's go-ahead for scripted requests to GM's data service.
+- Findings are in each brand's `NOTES.md`. The full write-up is below under "November 17, 2026: Nightly run" (the run finished on the evening of November 16, Central time).
+- No database schema changes.
+- Auto-logged from GitHub, Supabase and Drive activity. Decisions made in chat may be missing.
+
 ## November 15, 2026 (auto-logged)
 
 - Loaded Acura into Supabase: options data and top specs.
