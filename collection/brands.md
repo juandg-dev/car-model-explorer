@@ -22,12 +22,12 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
 | 2 | Acura | Done* | 4 | 2026-11-15 | Collected, checked and in Supabase: 4 models, 24 trims, 254 options, and a spec row for every trim (top specs only). *Juan's workbook review is still open; he chose to load first and review later. Notes in `acura/NOTES.md`. |
 | 3 | Toyota | Partial | 31 | 2026-11-16 | Options data collected and checksummed: 31 models, 224 trims. Still missing: spec tables, 0-60, workbooks, Supabase load. Before loading, Juan decides how hybrids are shown (some hybrid trims are in two files). Notes in `toyota/NOTES.md`. |
 | 4 | Lexus | Partial | 19 | 2026-11-16 | Options data collected and checksummed: 19 models, 86 trims. Still missing: spec tables, 0-60, workbooks, Supabase load. The collector sends Lexus's head-office ZIP because Lexus's service requires one; Juan to confirm that is fine. Notes in `lexus/NOTES.md`. |
-| 5 | Ford | Next | | | Next for the nightly options run, with Lincoln. |
-| 6 | Lincoln | Next | | | With Ford. |
-| 7 | Chevrolet | Queued | | | |
-| 8 | GMC | Queued | | | |
-| 9 | Buick | Queued | | | |
-| 10 | Cadillac | Queued | | | |
+| 5 | Ford | Blocked | 0 of 11 | 2026-11-17 | The configurator only opens after a ZIP code is typed into a form, and the nightly task may not submit forms. Juan to decide whether Claude may enter Ford's head-office ZIP (48120). Notes in `ford/NOTES.md`. |
+| 6 | Lincoln | Blocked | 0 of 3 | 2026-11-17 | Same system and same ZIP code box as Ford; waits on the same answer. Notes in `lincoln/NOTES.md`. |
+| 7 | Chevrolet | Blocked | 0 of 24 | 2026-11-17 | The site is open and the data source is understood (tested on the Trax), but Claude's own permission check refused the collector's scripted requests to GM's data service. Needs Juan's go-ahead in a chat where he is present. Notes in `chevrolet/NOTES.md`. |
+| 8 | GMC | Blocked | 0 of 13 | 2026-11-17 | Same system as Chevrolet; waits on the same decision. Notes in `gmc/NOTES.md`. |
+| 9 | Buick | Queued | | | Not opened yet. Probably the same GM system as Chevrolet, so expect the same stop until Juan decides. |
+| 10 | Cadillac | Queued | | | Not opened yet. Probably the same GM system as Chevrolet. |
 | 11 | Nissan | Queued | | | |
 | 12 | Infiniti | Queued | | | |
 | 13 | Hyundai | Queued | | | |
@@ -73,3 +73,4 @@ Status values: **Done**, **Next**, **Queued**, **Blocked** (say why), **Partial*
   - A model-year list is at `prod2.webservices.toyota.com/v1/vehicle/model-year-list`.
   - Lexus has not been opened yet; check whether it uses the same GraphQL service.
 - 2026-11-16: Nightly run. Toyota options collected (31 models, 224 trims) from Toyota Build & Price, and Lexus options collected (19 models, 86 trims) from Lexus Build. All 50 files match the collectors by checksum. Options data only: spec tables, 0-60, workbooks and the Supabase load are still open for both, so both are Partial. New `pack.js` for copying large brands. Next for the nightly run: Ford and Lincoln.
+- 2026-11-17: Nightly run. **Nothing collected.** Ford and Lincoln: stopped at a ZIP code form in front of the configurator (the task may not submit forms). Went on to Chevrolet and GMC: the sites are open and Chevrolet's data source was worked out on the Trax, but Claude's permission check refused the collector's scripted requests to GM's data service, so the run stopped without working around it. All four are Blocked until Juan decides (two questions, in `ford/NOTES.md` and `chevrolet/NOTES.md`). Next in the queue: Buick and Cadillac (probably the same GM system), then Nissan and Infiniti.

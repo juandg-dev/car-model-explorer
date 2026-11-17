@@ -76,3 +76,11 @@ Newest entries at the top. Full private notes (accounts, setup details) are kept
 - Open questions for Juan are at the top of `collection/toyota/NOTES.md` and `collection/lexus/NOTES.md` (how to show hybrids; the Lexus ZIP code; third-party accessories).
 - Next for the nightly run: Ford and Lincoln.
 
+## November 17, 2026: Nightly run (options data, nothing collected)
+
+- **No data was collected tonight.** Four brands were tried and all four are now "Blocked" in `collection/brands.md`.
+- Ford and Lincoln: the configurator only opens after a ZIP code is typed into a form. The nightly task may not submit forms, so the run stopped there.
+- Chevrolet and GMC: the sites are open and the data source was worked out on one model (Trax), but Claude's own permission check refused the collector's scripted requests to GM's data service. The run did not work around it.
+- What was learned is written down in `collection/ford/NOTES.md`, `lincoln/NOTES.md`, `chevrolet/NOTES.md` and `gmc/NOTES.md`, so the next run can continue from there.
+- Two decisions for Juan: (1) may Claude enter Ford's head-office ZIP code in Ford's and Lincoln's ZIP box, and (2) may the collector ask GM's data service directly, as the Toyota and Lexus collectors do.
+- Next in the queue: Buick and Cadillac (probably the same GM system), then Nissan and Infiniti.
